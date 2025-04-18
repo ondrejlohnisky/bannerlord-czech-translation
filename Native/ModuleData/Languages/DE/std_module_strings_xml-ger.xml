@@ -1,0 +1,1757 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="02E0oSJm" text="FAUL! Tvůj soupeř bojoval mimo klání. {?OPPONENT_GENDER}Je{?}Je{\?} diskvalifikován!" />
+    <string id="03mPaWum" text="Království" />
+    <string id="04GuLxE1" text="Nemůžeš změnit vůdce své vlastní družiny ani ji rozpustit." />
+    <string id="07b4Wy0h" text="Zvolte jezdectvo" />
+    <string id="082FNWAD" text="Vlastnosti" />
+    <string id="08aYzc2F" text="Vůdce" />
+    <string id="09ooh9I3" text="Pěšáci cestují směrem k soupeřově domovskému políčku. Po dosažení posledního dílku se přesunou zpět k vlastnímu domovskému dílku. Nepřátelské pěšáky lze po cestě zajmout." />
+    <string id="0amC7X1h" text="Vyhlášení války" />
+    <string id="0DiBS84d" text="Milosrdný" />
+    <string id="0GZ19XHb" text="Harness" />
+    <string id="0hCHIcVk" text="Dějství na hoře" />
+    <string id="0IjUokET" text="Kolik? Kolik peněz? Buď rychlý.[ib:hip][rf:convo_angry]" />
+    <string id="0j9JnMNB" text="{ITEM_NAME} přijato." />
+    <string id="0JyRvjSF" text="Naším plánem je vytvořit obrannou linii." />
+    <string id="0LgxcCbL" text="Objednávka {NUMBER}" />
+    <string id="0mDkVTWn" text="Hrdinové" />
+    <string id="0qCbsOif" text="Pistole" />
+    <string id="0RkO7oHP" text="Kapitán" />
+    <string id="0rsySqR6" text="Dne {DAY_OF_YEAR}, {YEAR} jste se doslechli o spiknutí, které pracuje ve stínech a jehož cílem je spojit nepřátele Impéria." />
+    <string id="0T3bP5r6" text="{DAY} {?PLURAL_DAYS}dny{?}den{\?}" />
+    <string id="0V4jIIju" text="Cestuješ do {SETTLEMENT_NAME} k obléhání." />
+    <string id="0zNzaDGq" text="Čepel" />
+    <string id="0zz1iDMY" text="náčelník" />
+    <string id="11aiaODt" text="Zbroj pěšáka" />
+    <string id="13q8IRfZ" text="má sestra {REFERING_HERO.LINK}" />
+    <string id="1AcoIQVl" text="Přijel jsi do {SETTLEMENT}, abys jej přepadl. Někteří obyvatelé se shromáždili, aby vám kladli odpor. Přepadení této osady způsobí válku s {KINGDOM}." />
+    <string id="1asbVsat" text="Zajetí se provádí tak, že obklíčíte soupeřova pěšce z obou stran svými pěšci. {newline}Pěšce lze také zajmout tak, že je zablokujete proti středovému kameni. To funguje pro oba hráče." />
+    <string id="1BSSOa8a" text="Ultra brnění" />
+    <string id="1cd6u0qn" text="Otevřete brány a vyrazte ven!" />
+    <string id="1dLZLQsY" text="Darovat vojákům{newline}Tuto akci již nebude možné vzít zpět." />
+    <string id="1E6hFc0r" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} jsou clonou proti nepříteli pohybujícímu se za našimi zády." />
+    <string id="1HPITLca" text="Limit velikosti zajatců překročen" />
+    <string id="1ICTi9xQ" text="Obránci vyrazí do útoku na obléhací tábor {BESIEGER_LEADER.NAME}." />
+    <string id="1KcIeYe2" text="Abyste mohli s postavou mluvit, musíte se nacházet na stejném místě jako ona." />
+    <string id="1klXxZFS" text="Jsem paní {TOWNS}." />
+    <string id="1Llb4gGw" text="Dokončení" />
+    <string id="1m8zRjs8" text="{DAY_OF_YEAR}, {YEAR}, {CLAN_NAME} se připojil k {KINGDOM_FORMALNAME}." />
+    <string id="1MStGeRa" text="Poraz protivníka: {BEATEN_OPPONENT_COUNT}" />
+    <string id="1o1TyPib" text="Další limit společníků" />
+    <string id="1PwQxaOu" text="Zdá se, že probíhají přípravy na turnaj." />
+    <string id="1pxLpZ4r" text="Výpočet:" />
+    <string id="1sJcKkVP" text="Strážce" />
+    <string id="1wkANMRC" text="Naším plánem je pokusit se udržet tento úzký průsmyk." />
+    <string id="1XE7yeaP" text="Poté, co tento vězeň získá {CONFORMITY_AMOUNT}shodu, bude k dispozici jeden další vězeň pro nábor." />
+    <string id="1XVvU23F" text="Nelze použít text schránky jako klíč vlastností těla!" />
+    <string id="1z0rLrhs" text="otec" />
+    <string id="1Zq8mzzJ" text="No tak teď. Podívejme se, jaká moucha se nám připletla do sítě. [rf:convo_mocking_revenge]" />
+    <string id="21t7Ev03" text="Tuto akci nelze provést, dokud jste uvězněni." />
+    <string id="22FUKSQb" text="Získejte {REQUIRED_XP_FOR_NEXT_LEVEL} xp za tuto dovednost tím, že ji použijete na zvýšení úrovně." />
+    <string id="22tbyEYI" text="Získal jsi {COUNT} {ITEM} z {PARTY_NAME}." />
+    <string id="24L5DoQt" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} brání klíčové pozice." />
+    <string id="25MeMNbP" text="Pravá strana" />
+    <string id="29bsCzkn" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} ustupují do bezpečí." />
+    <string id="2a33tk2f" text="Denní projekt" />
+    <string id="2Af5HRJU" text="Významní obyvatelé vesnice" />
+    <string id="2AhTA1ba" text="Naše vojska se stahují k hradu." />
+    <string id="2aXJEgag" text="Síla: {ARMY_STRENGTH}" />
+    <string id="2CfPklXG" text="Název armády" />
+    <string id="2CgZVkDj" text="archon" />
+    <string id="2EzfAklA" text="Dal jsi {COUNT} {ITEM} hrdinovi {HERO.NAME}." />
+    <string id="2gpFPuZZ" text="Krutý" />
+    <string id="2Ja8KYVg" text="Ofenzivní" />
+    <string id="2JnLh6F0" text="Zákeřný" />
+    <string id="2Jr3zWQz" text="Koně a koňské postroje" />
+    <string id="2Mic7nhz" text="Nikdo ve vaší družině nemá dostatečnou dovednost {SKILL} na splnění rozkazu." />
+    <string id="2noOKM5N" text="Obchodně vázaná osada" />
+    <string id="2RFda5ph" text="{GOLD_AMOUNT}{GOLD_ICON} obdržel jako odměnu." />
+    <string id="2RIyK1bp" text="Zbraně" />
+    <string id="2Sal30D2" text="+{BONUS_AMOUNT} bonus k vlivu majitele." />
+    <string id="2u3dRUlE" text="{SETTLEMENT_NAME} (daň)" />
+    <string id="2UCptBFi" text="Sturgiáni" />
+    <string id="2W2l9Kym" text="Bonus k perku Ultimate Leader" />
+    <string id="2wclahIJ" text="Vrhací zbraně" />
+    <string id="2WpbTaVJ" text="+{BONUS_AMOUNT}% bonus k daním" />
+    <string id="2X1rBrdC" text="{?IS_UNDER_A_DAY}{?}{DAY_VALUE} {?IS_MORE_THAN_ONE_DAY}dny {?}den {\?}{\?}{?IS_UNDER_ONE_HOUR}{?}{HOUR_VALUE} {?IS_MORE_THAN_AN_HOUR}hodin{?}hodina{\?}{\?}" />
+    <string id="300TAI7u" text="Prodat vše" />
+    <string id="33ghdWWi" text="Ostatní zákony" />
+    <string id="33hHRM8r" text="Tah soupeře" />
+    <string id="36hbMBhb" text="V {DAY_OF_YEAR}, {YEAR} byl zničen {FORMAL_NAME}. Nenaplní svůj osud {?PLAYER_WANTS_RESTORE}obnovit{?}zničit{\?} říši, jak jsi doufal." />
+    <string id="3CpNUnVl" text="Zrušit" />
+    <string id="3CsACce8" text="Odejít" />
+    <string id="3cTKRX1M" text="Nikdy předtím neviděno" />
+    <string id="3Ds5ARHL" text="Kupec" />
+    <string id="3E0ZXV7j" text="Výsledek rozhodnutí" />
+    <string id="3EGllWkd" text="Severní císařství" />
+    <string id="3fAm8FaM" text="Ať se tak stane... Jak říká můj otec, cesta není hodna toho jména, pokud se ti nepodaří někoho zabít." />
+    <string id="3FUaZk5A" text="Má paní" />
+    <string id="3Gb7tKgJ" text="{LEFT} a {RIGHT}" />
+    <string id="3gkb0YCn" text="Okamžitě se stáhněte, nebo převezměte velení nad svými silami!" />
+    <string id="3IGjY8RG" text="Volně se utkejte" />
+    <string id="3IpiWM7H" text="Bandita" />
+    <string id="3KD1KqHp" text="Obléhací věž (úroveň 2)" />
+    <string id="3l8HsbHK" text="Eh. Rozhodl ses moudře. Vrať se tudy a můžeme si to zopakovat.[ib:closed][rf:convo_bemused]" />
+    <string id="3lZchBXQ" text="{ISSUE_NAME}: Vašim vojákům se nepodařilo záležitost vyřešit." />
+    <string id="3qFPyJtB" text="Čeká v {SETTLEMENT_NAME}." />
+    <string id="3sRdGQou" text="Odejít" />
+    <string id="3sWa2Hmt" text="mého syna {REFERING_HERO.LINK}." />
+    <string id="3syV6ymi" text="Tupý" />
+    <string id="3tJq5QyQ" text="{HEALTHY_NUM}+{WOUNDED_NUM}w" />
+    <string id="3TXGG01D" text="{?PLAYER.GENDER}Vybrala jste si dobře{?}Vybral jste si dobře{\?}. Moji chlapci umí držet slovo a zasloužit si svůj plat.[ib:convo_approving]" />
+    <string id="3uR8wLko" text="Náš pane {REFERING_HERO.LINK}" />
+    <string id="3vT6TQmF" text="{PLAYER.LINK}, jsi v {SIDE_STRING} {CLASS_NAME}." />
+    <string id="3wS4uOvU" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} bojují ze zálohy." />
+    <string id="3xeuA9VP" text="+{TROOP_AMOUNT} Oddíl {?ISPLURAL}{?} {\?} do osady" />
+    <string id="3xIv2cP9" text="Držte se na vyvýšeném místě." />
+    <string id="3XsOeE2v" text="{?PAY_OR_GET}Získáš{?}Zaplatíš{\?} {TRADE_AMOUNT}{GOLD_ICON} dinárů" />
+    <string id="3ZRTekjS" text="Rukavice" />
+    <string id="4AQmS4iA" text="+{BONUS_AMOUNT} bonus ke kapacitě posádky" />
+    <string id="4bq2mUf1" text="Způsobilý k vytvoření království" />
+    <string id="4BQaqqzg" text="Bezpečnost:" />
+    <string id="4H1nDlBO" text="Týdenní mzda" />
+    <string id="4Hdcxk0a" text="Agresivní" />
+    <string id="4jLW7hag" text="Propuštění z armády" />
+    <string id="4kKxsVzZ" text="Váš cech {.%}{ALLEY_NAME}{.%} v {TOWN} je obsazen." />
+    <string id="4KXvyxrK" text="Vázaná osada" />
+    <string id="4l3BLxBC" text="Střílejte z obléhací věže" />
+    <string id="4M8h8ufy" text="Nelze použít oběma rukama" />
+    <string id="4ml9Bx6i" text="Výhoda pro více hráčů" />
+    <string id="4mMXsVGb" text="Hostitel hostinské hry" />
+    <string id="4nv6LzDp" text="Mušketa" />
+    <string id="4okzoXIw" text="Společník" />
+    <string id="4ol7MhA5" text="Jste uvězněni nepřáteli. Vaši muži však nejsou ve stavu, aby mohli bojovat." />
+    <string id="4QAwbFcQ" text="Blízký úkryt" />
+    <string id="4rRsmX8i" text="Dobrý. Někdy je lepší ovce stříhat, než je jíst." />
+    <string id="4Skg9QhO" text="Trebuchet" />
+    <string id="4tdVrFtU" text="Třicátý první" />
+    <string id="4U6x48yQ" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} vedou bitvu." />
+    <string id="4WD0kJSR" text="Arrr... Radši si s námi nehrajte." />
+    <string id="4wYguFLZ" text="Řeší problém" />
+    <string id="4Y5T7wp1" text="Nelze vyhodit členy rodiny z klanu." />
+    <string id="4ytmLxOy" text="Těhotná" />
+    <string id="59hbrhfY" text="Aktuální XP oddílu" />
+    <string id="59PSpyu8" text="Vázaná osada: {SETTLEMENT_LINK}" />
+    <string id="5a4cY5az" text="Tuto akci nemůžeš provést, když jsi v obležení." />
+    <string id="5bqmaciE" text="{ARMY_MEMBER} být u armády" />
+    <string id="5cGXHF1a" text="Dnes" />
+    <string id="5CYdyMzj" text="Zbývajících" />
+    <string id="5DBDy2si" text="Uvěznili jste nepřátele." />
+    <string id="5eH0lCEO" text="Zakázat aktuální výukový krok" />
+    <string id="5H0cDmm1" text="Získejte celkem {SKILL_LEVEL_FOR_LEVEL_UP} dovednostních bodů pro zvýšení úrovně této postavy." />
+    <string id="5IOct2ob" text="Požadavek na řád" />
+    <string id="5jVYwNCQ" text="Nevyplacená mzda" />
+    <string id="5k4dxUEJ" text="Vojáci" />
+    <string id="5kS1qjZL" text="O tomto vypořádání již existuje nevyřešené rozhodnutí." />
+    <string id="5lDYh7wJ" text="Postavili jste překážku proti soupeři, ale zbývá vám méně pěšců. Prohráli jste hru!" />
+    <string id="5lT70YJY" text="Dne {DAY_OF_YEAR}, {YEAR} jsi zaslechl zvěsti o uzavření tajného paktu mezi soupeřícími císařskými frakcemi, aby mohly spojit své síly proti nepřátelům říše." />
+    <string id="5pGjYBFn" text="Přijatá úlitba" />
+    <string id="5QN7SFNW" text="III" />
+    <string id="5rj7xQE4" text="Luk" />
+    <string id="5S1zPgTm" text="Císařský" />
+    <string id="5SQaiYXi" text="FAUL! Žádný zásah soupeřova koně. Byl jsi diskvalifikován!" />
+    <string id="5T7nyzda" text="To rád slyším. Zabíjení je žíznivá práce i pro nás." />
+    <string id="5U70lB7k" text="Stisknutím {KEY} se schováte" />
+    <string id="5UpDD9eS" text="desátý" />
+    <string id="5WJbtDqp" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} bojují za spojence." />
+    <string id="5WWbQRQ5" text="Hráč vyhrává, pokud jeho soupeř nemůže provést žádný další skok (zajetí)." />
+    <string id="5X9Sq4T4" text="{NUM} Pánů" />
+    <string id="5XFDdsHf" text="Vzdejte se vedení" />
+    <string id="5ZPp8btH" text="Nabídka výměny je přijata!" />
+    <string id="640qFpJ8" text="{DAY} {?PLURAL_DAYS}dny{?}dny{\?} a {HOUR}. {?PLURAL_HOURS}hodin{?}hodin{\?}." />
+    <string id="65QqsaKe" text="Jste na špatné straně!" />
+    <string id="6b1RXicd" text="Vylepšený beranidlo" />
+    <string id="6bex2HUl" text="Ačkoli se zdá, že většina lidí zvládá situaci, mnozí se zdají být naštvaní a zaslechneš několik kolemjdoucích, jak si mumlají, že jim dochází trpělivost. Cítíš, že se možná něco děje." />
+    <string id="6Bk1YjS4" text="Když se snažíš vesničany přinutit, aby ti dali zboží, někteří obyvatelé se shromáždí, aby ti kladli odpor." />
+    <string id="6dNTZdPf" text="Zastavte se, ve jménu svobodných lidí z hor! Co pro nás máš?" />
+    <string id="6DZx6jTA" text="Rekrutovatelní zajatci" />
+    <string id="6e82kCVB" text="Nízká rukojeť tyče" />
+    <string id="6GmsZ7AG" text="Dal jsi {COUNT} {ITEM} na {PARTY_NAME}." />
+    <string id="6GSXsdeX" text="Rychlost" />
+    <string id="6jp724SU" text="Nepřátelé" />
+    <string id="6Jx6qbZn" text="Obrana {?IS_GENERAL_SIDE}{?} {SIDE_STRING}{\?} hradeb" />
+    <string id="6kqK0kUn" text="Není třeba zůstávat v obraně. Hlídejte oblast." />
+    <string id="6nQR7yYF" text="Začněte" />
+    <string id="6OZycZbc" text="Klan nemá k dispozici žádné hrdiny, kteří by vedli novou družinu." />
+    <string id="6PLqUB34" text="Vznešený" />
+    <string id="6RDRxvaC" text="Bodné útoky mohou jezdce shodit z koně" />
+    <string id="6S5JjlP2" text="Krytí" />
+    <string id="6SFktFH3" text="Střední zbroj" />
+    <string id="6UUymZhL" text="Říše" />
+    <string id="6Xl9F8Oa" text="Obchody ve městě" />
+    <string id="6XYG7bux" text="Utratíš {AMOUNT}{INFLUENCE_ICON}." />
+    <string id="72Rasm5f" text="Nemáme nic - žádné stříbro, žádné zboží." />
+    <string id="7663BDwd" text="Posádka ({CURRENT})" />
+    <string id="77aNVVE0" text="Bonus k pověsti" />
+    <string id="77SdNt8C" text="Soupeř proti vám postavil překážku a vám zbývá méně pěšců. Prohrál jsi hru!" />
+    <string id="79cOhac4" text="Tak to by stačilo. Alespoň prozatím. Cestujte bezpečně - a doufám, že se ještě uvidíme.[ib:closed][rf:convo_bemused]" />
+    <string id="7a3aryUB" text="Zvíře" />
+    <string id="7acrOvmJ" text="Střelné zbraně I" />
+    <string id="7AOOQ5iB" text="Navzdory těžkostem slyšíš jen málo stížností a zdá se, že lidé důvěřují svým vládcům, že je provedou nepřízní osudu." />
+    <string id="7aYV4L9z" text="+{NUMBER}" />
+    <string id="7b60SOvI" text="Dne {DAY_OF_YEAR}, {YEAR}, {KING_NAME} byl korunován jako {TITLE_NAME}." />
+    <string id="7chepLLh" text="Znič obléhací zbraně {?IS_GENERAL_SIDE}{?} na {SIDE_STRING} straně {\?}." />
+    <string id="7cMUohRm" text="Velte simulovaným bitvám. Vítězit v bitvách při obtížné přesile. V případě potřeby unikněte ze střetnutí obětováním vojáků." />
+    <string id="7cnb2iEb" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} jsou v boji." />
+    <string id="7EnFh9e5" text="Umístění: Na mapě se objevují dvě místa, kde je možné se pohybovat: {LOCATION}" />
+    <string id="7EVjgrFW" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} bojují rozptýleně." />
+    <string id="7fjOwwVH" text="Jistě, dám vám tip. Mluvil jsem s několika obchodníky, kteří říkají, že právě koupili nějaké {.%}{ITEM_NAME}{.%} z {SETTLEMENT} za cenu {BUY_COST}{GOLD_ICON} a prodali na {DESTINATION} za {SELL_COST}{GOLD_ICON}." />
+    <string id="7hj7Kaoz" text="Celkový příjem" />
+    <string id="7IqpjCDY" text="Poprava vězně negativně ovlivní tvou pověst a zhorší tvůj vztah s frakcí/klanem vězně.{newline}Tuto akci nebudeš moci vzít zpět.{newline}Jsi si jistý, že chceš tuto postavu popravit?" />
+    <string id="7j4fQHg7" text="Lesní bitva{newline}{newline}• Pěchota získá menší bonus.{newline}• Lučištníci utrpí střední postih.{newline}• Jízda utrpí velký postih.{newline}• Koňští lučištníci utrpí velký postih." />
+    <string id="7JpAR59k" text="Používá se k přepravě zboží" />
+    <string id="7llkDelg" text="Rozhodnutí království" />
+    <string id="7mRN2br0" text="Vedení formace bylo svěřeno {HERO_NAME}." />
+    <string id="7MSuWxaY" text="{CHILD.NAME} {CHILD.AGE}dosáhla{?CHILD.GENDER}dosáhl{?} věku {\?} a potřebuje vaše vedení." />
+    <string id="7MWaMaez" text="Tady je vše, co máme: {ITEM_LIST}. Vezměte si to, ale nás nechte žít." />
+    <string id="7oJ9gIeT" text="Obchodník nemá dost peněz." />
+    <string id="7pAZatbz" text="{?RULER.GENDER}Empress{?}Emperor{\?} {RULER.NAME}" />
+    <string id="7sUhWG0E" text="Bodné poškození:" />
+    <string id="7sZMMYbe" text="Menší frakce" />
+    <string id="7t1daAel" text="Špatné rozhodnutí, příteli.[ib:aggressive][if:convo_very_stern]" />
+    <string id="7UNcl2xi" text="Nelze naverbovat vězně." />
+    <string id="7vdgxtwo" text="IV" />
+    <string id="7vrdpDFK" text="&lt;b&gt;Mangonel&lt;/b&gt;{NEWLINE}Vrhá kameny na dálku pomocí torzních strun.{NEWLINE}Stejně účinný proti zdem, nepřátelským obléhacím strojům a jejich obsluze." />
+    <string id="7W79uw0y" text="Zpět na výchozí nastavení" />
+    <string id="7Wcnipag" text="Čtrnáctý" />
+    <string id="7WFFCVMa" text="Speciální" />
+    <string id="7xFRFV0P" text="Vytvoří obranný kruh." />
+    <string id="7Ywub9bC" text="Obránci stále drží pevnost." />
+    <string id="7zaMwF08" text="Zatímco jsi podnikal nájezd na {SETTLEMENT}, {PARTY} přišel na pomoc osadě. Rozhodl jsi se..." />
+    <string id="7zUWqY3O" text="Vlevo" />
+    <string id="80hwCw7B" text="-{BONUS_AMOUNT}% snížení počtu bojovníků během vzpoury" />
+    <string id="83Yt9rbK" text="Prolomeno" />
+    <string id="87qtKk4K" text="Sledovat kolo" />
+    <string id="87vr9BHq" text="Vede cech v {SETTLEMENT_NAME}" />
+    <string id="893hzVCQ" text="&lt;b&gt;Ohnivý mangonel&lt;/b&gt;{NEWLINE}Vrhá nádoby naplněné řeckým ohněm, kombinuje již tak smrtící sílu mangonelů s ohněm." />
+    <string id="8apwrVjc" text="Další klanová družina " />
+    <string id="8B7V0qdT" text="Prohrál jsi bitvu!" />
+    <string id="8bSHlWBL" text="V tomto městě se momentálně nekoná žádný turnaj." />
+    <string id="8c8NDpAd" text="{HERO.NAME} získal vlastnost {TRAIT_NAME}." />
+    <string id="8cY08v3s" text="Vesnice je průměrně bohatá. Lidé i zvířata vypadají dobře živení. Vesničané se pilně věnují úkolům daným ročním obdobím." />
+    <string id="8fLMcFFG" text="Dne {DAY_OF_YEAR}, {YEAR} jsi rozvinul Dračí prapor a vyhlásil své poslání {?PLAYER_WANTS_RESTORE}obnovit {?}porazit {\?} Říši." />
+    <string id="8geYNpC9" text="Střela {THRUST_DAMAGE_TYPE} Poškození:" />
+    <string id="8Gh3Waa3" text="manželka" />
+    <string id="8iONwXCz" text="dvacátý druhý" />
+    <string id="8J7ABQhb" text="Osedlaný" />
+    <string id="8Jb61k7G" text="(+{GAIN_AMOUNT} soudržnost)" />
+    <string id="8kVhiTmu" text="Další úroveň:" />
+    <string id="8l8xEu64" text="Koupit a vybavit" />
+    <string id="8LhfzIQE" text="w" />
+    <string id="8mBT44QK" text="Šlechtic {FACTION_INFORMAL_NAME}" />
+    <string id="8oaVYIlk" text="Jsi u {SETTLEMENT_NAME}. Nemůžeš vstoupit, protože hrad patří nepříteli." />
+    <string id="8OkPHu4f" text="Ne" />
+    <string id="8Rkxc5jE" text="Žádné jídlo" />
+    <string id="8rzcgCO5" text="Třídit podle" />
+    <string id="8ucLajpU" text="Jednoruční sekera" />
+    <string id="8UFjXbbW" text="Flankovat{?IS_GENERAL_SIDE}{?} ze {SIDE_STRING} strany{\?}" />
+    <string id="8ZZgNNaY" text="{USE_KEY}" />
+    <string id="923438xA" text="Pěkné, {PLAYER.LINK}, pěkné. Podařilo se ti sundat nejméně {OPPONENT_COUNT} protivníků. Pro svou odvahu jsi byl oblíbencem publika. A samozřejmě jsi získal {PRIZE}{GOLD_ICON} peněžní odměnu." />
+    <string id="929Lxhde" text="Pokud armádu opustíš, ztratíš {INFLUENCE_COST} vliv." />
+    <string id="984Ink0j" text="Šíp" />
+    <string id="9B5kxWb8" text="Jiná družina překročila svůj limit vojáků. {newline}Dočasně si své vojáky ponechá, ale po nějaké době svou družinu rychle opustí. {newline}Jsi si jistý?" />
+    <string id="9Bm06EEJ" text="Slyšíte mnoho chvály na moudrost vládců, kteří dosáhli tohoto blahobytu." />
+    <string id="9C0J0ZkT" text="Palte z pěchotního krytu." />
+    <string id="9dcQ2VZv" text="Naším plánem je vytvořit obranný kruh kolem našich oddílů na dálku." />
+    <string id="9ECleB7I" text="Utkejte se se svým pěším protivníkem o vítězství!" />
+    <string id="9EgIraI1" text="Aktivní zákony" />
+    <string id="9esIWdDC" text="Obávám se, že z vás budeme muset udělat exemplární případ. Neobtěžuj se s prosbami o milost. [ib:aggressive][if:convo_bared_teeth]" />
+    <string id="9FhdRKWu" text="Vrhací nůž" />
+    <string id="9gNjg4P0" text="Tím se hra neuloží a vrátí se do hlavní nabídky. Jsi si jistý, že chceš ukončit hru?" />
+    <string id="9iycVtyV" text="Rychlost učení: x {COUNT}" />
+    <string id="9Lhd2zVW" text="Na {DAY_OF_YEAR}, {YEAR} jsi našel třetí kus Dračího praporu. Jsi připraven jej znovu rozvinout." />
+    <string id="9NjDfz5Z" text="({LEFT} / {RIGHT})" />
+    <string id="9PLNQrWw" text="Slyšíš jen málo stížností a zdá se, že lidé mají k úřadům důvěru." />
+    <string id="9pwIt4aa" text="Vosk{@Plural}spousta vosku{\@}" />
+    <string id="9raxrECY" text="Pokud budete pokračovat, {LEADER.NAME} stane se novým vůdcem této družiny. Jste si tím jistý?" />
+    <string id="9yffPYUl" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} útočí." />
+    <string id="9zpZRkYz" text="Posílení projektu přidává +{BOOST} stavbu a stojí {COST} dinárů / den." />
+    <string id="a0mJ0cVV" text="Spotřeba" />
+    <string id="A0sT86A3" text="Není vybrána žádná válka" />
+    <string id="a0TiMLJ4" text="Hlavní nabídka" />
+    <string id="a0YMy8E5" text="Na vylepšení je potřeba {REQUIRED_ITEM}." />
+    <string id="a10WGnBr" text="FOUL! Žádný boj mimo klání. Byl jsi diskvalifikován!" />
+    <string id="a15eUf3B" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} bojují s nepřítelem uvnitř hradeb." />
+    <string id="A38xbjqm" text="Aktivně bojovat" />
+    <string id="a3hmB91k" text="Postavte a obsluhujte obléhací stroje. Úspěšně používej obléhací stroje při útočném nebo obranném obléhání." />
+    <string id="A3T5z4Mv" text="Obranné" />
+    <string id="a3uKkLez" text="{LORD.LINK} Je na poli poblíž {SETTLEMENT_NAME}." />
+    <string id="a47CpGXN" text="Úrovně výkonu" />
+    <string id="a5j1v7tM" text="Slyšeli jsme, co se stalo ostatním, kteří se odmítli přidat k vaší věci. Netoužíme skončit jako oni a nemáme prostředky, jak s vámi bojovat. Od této chvíle budeme nosit vaše barvy, dokud vás to nepřestane těšit." />
+    <string id="a6D6Ga2F" text="Dosah zbraně:" />
+    <string id="a6FfHHVg" text="Účinky budovy" />
+    <string id="a6zaA9Um" text="+{BONUS_AMOUNT} zvýšení počtu členů domobrany osady." />
+    <string id="A7dcz7Yr" text="Zbraně pro boj zblízka II" />
+    <string id="a8zwLVKj" text="Síla" />
+    <string id="aa5tNRb9" text="Šance na kritický úspěch" />
+    <string id="AagJ9cSL" text="Nevím, kde je {?ASKED_LORD.GENDER}she{?}he{\?}." />
+    <string id="aaQtzfjL" text="Dobrá práce, {?PLAYER.GENDER}madam{?}sire{\?}. Ať nám peníze a víno chodí dál a v Kalrádii se nemusíš bát žádného nepřítele.[ib:convo_approving]" />
+    <string id="aayrvLOX" text="Buď na cestě. Šťastnou cestu." />
+    <string id="abbALYlp" text="Balista" />
+    <string id="aBgnQ1MO" text="Přiřaď guvernéra" />
+    <string id="aBssWwIu" text="Pokud budeš pokračovat, {GOVERNOR.NAME} se stane novým guvernérem {SETTLEMENT_NAME}. Jste si jisti?" />
+    <string id="abV5bff6" text="Získáváte pěšce." />
+    <string id="acbkKbT0" text="Měli bychom udělat něco jiného." />
+    <string id="aCkzVUCR" text="Body zásahu:" />
+    <string id="aCP5ZBbp" text="Vztah:" />
+    <string id="ADJQa8am" text="Žoldnéři nemohou podporovat jiné klany." />
+    <string id="adtqbbGU" text="Vzdálenost k vůdci armády" />
+    <string id="aebVkHyA" text="Vzdát se boje?" />
+    <string id="aECQrlkM" text="Zničte nepřátelské obléhací stroje!" />
+    <string id="aeouhelq" text="Ano" />
+    <string id="aepux62p" text="Osadu nelze anektovat, dokud není dokončeno rozhodnutí o vlastnictví." />
+    <string id="af4G3RYV" text=" (bitva)" />
+    <string id="agIbuP9a" text="Heh! To máš ale modřinu. Ale nebojte se, každý jednou za čas dostane nakládačku. Důležité je zvednout se, oprášit se a bojovat dál. To šampioni dělají." />
+    <string id="agkgu85j" text="Přišli jste na {SETTLEMENT}, abyste ho obléhali." />
+    <string id="aGNfjmsz" text="&lt;b&gt;Žebřík&lt;/b&gt;" />
+    <string id="aGSMGMfn" text="Milosrdenství:" />
+    <string id="agYpWI9u" text="Šance na úspěch" />
+    <string id="aH4KnzBu" text="Opatrný" />
+    <string id="AhcKMabs" text="Přepadené vesnice" />
+    <string id="aHKwty74" text="Zrušit akci" />
+    <string id="aHu7bgbx" text="Dne {DAY_OF_YEAR}, {YEAR}, {HERO_NAME} dosáhl plnoletosti." />
+    <string id="AI2Spvw0" text="Vyber" />
+    <string id="AIh1Ik4A" text="Kalradská říše" />
+    <string id="aiX4b5kS" text="Dokončené úkoly" />
+    <string id="AIYWSAyK" text="Vydělávej na obchodování. Provozuj karavany." />
+    <string id="aJoNj6JX" text="Bojovat s obouruční krátkou zbraní." />
+    <string id="aJXhsjmT" text="Zdravím tě, cestovateli. Pokud si nepřeješ, aby tvé kosti zůstaly v písku a ohlodali je šakali, dej nám, co chceme." />
+    <string id="ajZTZoXQ" text="Obouruční palcát" />
+    <string id="AkgIYqHT" text="sultán" />
+    <string id="AkUpgiBl" text="Úroveň {TIER_LEVEL}" />
+    <string id="alEG3BOa" text="Tvůj vztah se zvyšuje o {MAGNITUDE} na {VALUE} s {CLAN_LEADER}." />
+    <string id="AmbKQ7LT" text="Přenos" />
+    <string id="AMhvD9om" text="Velitel armády" />
+    <string id="anHqaNK0" text="Královna" />
+    <string id="anrHk7ea" text="{PARTY} vede útok na nepřítele. Připojíte se k {?ARMY_COMMANDER_GENDER}jejímu {?}jemu {\?} se svými vojáky." />
+    <string id="aNSAaHk9" text="Bagh Chal je hra Ovce (bílé) proti Vlkům (černým).{newline}Vlci mají čtyři pěšce, kteří začínají ve čtyřech rozích hrací plochy. V každém tahu je na šachovnici umístěna jedna ovce a jeden vlk provede tah nebo zajetí, dokud nejsou na šachovnici umístěny všechny ovce.{newline}Po umístění všech ovcí se nyní mohou na šachovnici pohybovat i ovce." />
+    <string id="anSH3M5W" text="{NUM1} x {NUM2}" />
+    <string id="aOvxxLZ8" text="Rozmanitost potravy" />
+    <string id="ap1wEfdW" text="V" />
+    <string id="Aph8CcKO" text="Volné atributové body: Tyto body můžete použít ke zvýšení atributů. Za každou {ATTRIBUTE_EVERY_LEVEL} úroveň získáte jeden volný atribut." />
+    <string id="aqCj9dhC" text="Není třeba zůstávat v obraně. Obléhejte jejich osady!" />
+    <string id="AqHr4nRR" text="Čtvrtý" />
+    <string id="ar2Y8Xs9" text="{LEFT}:" />
+    <string id="aR4e8B2A" text="II" />
+    <string id="archers" text="Lučištníci" />
+    <string id="arfabNbu" text="{DAY_OF_YEAR}, {YEAR}, {NAME} padli v bitvě." />
+    <string id="arHXmqqc" text="a prosit" />
+    <string id="ARQY0vAz" text="Nelze řídit armádu během střetnutí" />
+    <string id="arWaVMpe" text="Musíme tvrdě udeřit a zničit jejich obléhací stroje." />
+    <string id="aS3xHcD4" text="Syn" />
+    <string id="asHzEWnG" text="Pak tedy potřísníme písek tvou krví." />
+    <string id="AT5aTROe" text="Sedmý" />
+    <string id="ATsEQh7m" text="{SEASON} {?SEASON_IS_PLURAL}seasons{?}season{\?}" />
+    <string id="AtulqwTG" text="Změna vůdce družiny " />
+    <string id="AUDv8sEt" text="Aktivní záležitost" />
+    <string id="aUNYlvbN" text="Přijeli jste vyplenit {SETTLEMENT}. Někteří obyvatelé se shromáždili, aby vám kladli odpor." />
+    <string id="AUOio5Tu" text="Denní výchozí hodnoty" />
+    <string id="AVQUGwTg" text="Město je průměrně bohaté." />
+    <string id="AWW0T6xR" text="Pěšcem lze táhnout ortogonálně, vždy po jednom kameni. {newline}Pěšcem nelze táhnout zpět na kámen, ze kterého přišel v předchozím tahu. {newline}Pokud hráč nemůže táhnout, může odstranit jednoho ze soupeřových pěšců a přesto provést tah." />
+    <string id="AxRxT2Xj" text="Jakmile je družina rozpuštěna, sloučí se s blízkou klanovou družinou nebo přejde do nejbližší osady frakce na mapě a připojí se k její posádce.{newline}{newline}Tuto akci nebude možné vrátit / zrušit.{newline}{newline}Jste si jisti?" />
+    <string id="aY2SKxqG" text="Přepadněte jejich vesnice!" />
+    <string id="Ayrvf5yp" text="Zabitých" />
+    <string id="b0Mv6mZy" text="Znovu zaujměte pozice na hradě!" />
+    <string id="b0yJ9JsW" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} útočí na hradby." />
+    <string id="b1c0Sh4A" text="Dvacátý první" />
+    <string id="B1j4F6i7" text="{?DAY_IS_PLURAL}Den {?}Den{\?}" />
+    <string id="b1Ra7gHa" text="Střelné zbraně II" />
+    <string id="b1vtY2yU" text="Očekávaný" />
+    <string id="b4lDDcli" text="Rodina" />
+    <string id="b5DWVsOZ" text="{HERO.NAME} zemřel v bitvě." />
+    <string id="B5J6DbpG" text="Zbývající dny s jídlem: {REMAINING_DAYS}{newline}{newline}Celkové jídlo: {TOTAL_FOOD_AMOUNT}{newline}Denní spotřeba: {DAILY_FOOD_CONSUMPTION}" />
+    <string id="b5t34yLX" text="Koňský postroj" />
+    <string id="b6biU4f1" text="Vytvoř novou družinu " />
+    <string id="b778BvfW" text="Tento předmět je o {PERCENTAGE}% dražší než průměr." />
+    <string id="b7aDfCR9" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} se brání." />
+    <string id="b7bWCXbk" text="Teď běž, ovčáčku. A dávejte si pozor na další vlčí smečky." />
+    <string id="b7U3Gvuu" text="Někteří rozzlobení vesničané tvrdí, že nedávno vyhověli vašim požadavkům. Vypadá to, že pokud budete pokračovat, čeká vás boj." />
+    <string id="BAaS5Dkc" text="Použij" />
+    <string id="baFazbmR" text="Železo{@Plural}spousta železa{\@}" />
+    <string id="baHmYsx3" text="Obouruční zbraň" />
+    <string id="bAHNQGAw" text="Naši spojenci potřebují pomoc. Zrušte obléhání!" />
+    <string id="baIUUw1c" text="Utratit vlastní vliv na zvýšení vlivu vybraného klanu." />
+    <string id="BANC61K5" text="Předchozí postava" />
+    <string id="bARwyXXZ" text="Vylepšitelné jednotky" />
+    <string id="bB4602W2" text="Poškození bodnutím {THRUST_DAMAGE_TYPE}:" />
+    <string id="bbmrHzRF" text="Poslat členy klanu na {SETTLEMENT_NAME}" />
+    <string id="bBXGPgwe" text="mé dceři {REFERING_HERO.LINK}" />
+    <string id="BbYFboh2" text="{RULER.NAME} {?RULER.GENDER}Begum{?}Beg{\?}" />
+    <string id="bcmlu1ml" text="{?ASKED_LORD.GENDER}Je{?}Je{\?} vězněm {PRISON_PARTY_LEADER.LINK}." />
+    <string id="BD8Mi02a" text="{ASKED_LORD.LINK} V současné době je na útěku." />
+    <string id="BdFaNDom" text="Tento hrdina je již vůdcem cechu." />
+    <string id="bdFJgWp3" text="Prapor obránce" />
+    <string id="Bdg4kSqC" text=" ({NUMBER_OF_MEN})" />
+    <string id="bdJtVxQp" text="Obržíš {?PAY_OR_GET}zisk{?}ztrátu{\?} {TRADE_AMOUNT}{INFLUENCE_ICON}" />
+    <string id="bdQBpUba" text="Tak laskavý jsi, že nás neposíláš domů s prázdnýma rukama." />
+    <string id="bdvTPbLB" text="Pohovka" />
+    <string id="BE1scex6" text="Denní zisky z dílen" />
+    <string id="bF38BIoe" text="Množství zásobníku:" />
+    <string id="bFpLKvcS" text="khan" />
+    <string id="BftxIurV" text="Musíte vyřešit {DECISION_NAME} rozhodnutí." />
+    <string id="bg6x6Hbv" text="Helm" />
+    <string id="Bg83jhCR" text="Město zjevně prochází těžkými časy. Lidé vypadají podvyživeně a budovy jsou špatně udržované." />
+    <string id="bg8co4he" text="Porážka {newline}Tuto akci nebudete moci vzít zpět." />
+    <string id="bh2v8n4K" text="Oděv{@Plural}spousta oděvů{\@}" />
+    <string id="bh9U2fsZ" text="Zeť" />
+    <string id="BhGlPxqx" text="Můžeš rozpustit pouze mobilní družiny" />
+    <string id="BhiOmgst" text="V obležení" />
+    <string id="bigbrother" text="Bratr" />
+    <string id="bigsister" text="Sestra" />
+    <string id="bih4MD9a" text="Nabídka pauzy" />
+    <string id="BixmxJPX" text="Vaši vazalové budou mít větší tendenci podnikat útočné akce proti tomuto nepříteli, jako jsou nájezdy a obléhání." />
+    <string id="bJ5SzaXp" text="Zraněno" />
+    <string id="bjxBjKH2" text="má paní" />
+    <string id="BkB9aOhw" text="Okno s bannerem není právě teď přístupné!" />
+    <string id="BKFcRo7f" text="Vnuk" />
+    <string id="bkysJj7F" text="Obléhací zbraň" />
+    <string id="Bl7UdJup" text="Synovec" />
+    <string id="bLWyjOdS" text="Tělesná zbroj:" />
+    <string id="Bm4yZBWb" text="Jsi ve vězení na {SETTLEMENT_NAME}." />
+    <string id="bMjtFIba" text="Přišel jsi právě včas! {PLAYER.LINK}. Patří ti mé nejhlubší díky!" />
+    <string id="BMQ5SHOH" text="Vybavení koně I" />
+    <string id="bN8gqxtB" text="Konec bitvy" />
+    <string id="BNAHlS9P" text="Jsi si jistý? Tuto akci už nebudeš moci vzít zpět." />
+    <string id="bNoCJyi9" text="Čestný" />
+    <string id="bO5kjF3G" text="Čest:" />
+    <string id="BObPGFCw" text="Vezmi a vybav se" />
+    <string id="bPCAdgLs" text="Zvolte formaci, kterou povedete" />
+    <string id="BPVFAl7J" text="Naším plánem je zaútočit plnou silou kolem naší pěchoty." />
+    <string id="bPXvukDs" text="Přesun a zajetí" />
+    <string id="bPzyoTEF" text="Této odpovědi budeš litovat.[ib:aggressive][if:convo_insulted]" />
+    <string id="BQDrheU6" text="Tkanina{@Plural}spousta tkaniny{\@}" />
+    <string id="brQ42NE5" text="Jak se to naučit" />
+    <string id="bsabIdYm" text="Obouruční sekera" />
+    <string id="BsdOl4He" text="FOUL! Tvůj protivník zasáhl tvého koně. {?OPPONENT_GENDER}Je{?}Je{\?} diskvalifikován!" />
+    <string id="BSmAtdWF" text="Zrušte obléhání!" />
+    <string id="bTAkmho7" text="Potřebné XP k vylepšení: {XP_AMOUNT}." />
+    <string id="Btglp7Ij" text="Nemůžeš vyloučit svůj vlastní klan." />
+    <string id="btil6Rdb" text="Co to tu máme? Zdá se, že duchové hor vyslyšeli naše modlitby a dopřáli nám úspěch v lovu." />
+    <string id="BtnJh0j4" text="Ve válce" />
+    <string id="buQvCDbP" text="Cestování do {SETTLEMENT_NAME} na obranu." />
+    <string id="BVaXBAr9" text="Hoď kostkou" />
+    <string id="bWcpv1ou" text="Nebyla vybrána žádná osada" />
+    <string id="bWVG2s2h" text="Na prostřední destičku můžete přesunout pouze pěšce, vedle kterého stojí soupeřův pěšec. {newline}Každý pěšec se může libovolně přesunout o jednu destičku podél vnějšího okraje. {newline}Pěšec na prostřední destičce se může přesunout na libovolnou volnou destičku." />
+    <string id="bWz3rWWq" text="Moudrá muška. Kolik?" />
+    <string id="bWzRXUbp" text="Odvolat člena klanu" />
+    <string id="BX8RG4Dj" text="Odpovědět" />
+    <string id="BxeU4zMb" text="Už existuje jiný klan s tímto názvem." />
+    <string id="bXS5KHk8" text="Souboj jste vyhráli. Vaše armáda je tímto projevem vaší moci povzbuzena. Vaše družina získává morálku." />
+    <string id="bxtraSPF" text="{STR1}{newline} {newline}{STR2}" />
+    <string id="BY5RMAoj" text="Získal jsi {AMOUNT} {DAMAGE_TYPE} poškození od {ATTACKER_NAME} ({LOST_HP_PERCENTAGE}% HP)." />
+    <string id="bZJs2AQX" text="Tady jsou naše peníze: {MONEY}{GOLD_ICON}. A tady je naše zboží: {ITEM_LIST}. Prostě si je vezmi a nech nás žít, {?PLAYER.GENDER}madam{?}sire{\?}." />
+    <string id="bzrOHiS8" text="Lidé otevřeně nadávají na úřady, jako by měli pocit, že nemají co ztratit." />
+    <string id="C0llOApK" text="Armáda {HERO}" />
+    <string id="c1Ag8YJS" text="Battaniané ještě pamatují staré časy, kdy se lesy rozprostíraly po celé severní Kalrádii a říše a její města ještě neporušily jejich nedotknutelnost. Divocí válečníci zůstávají věrní svým tradičním způsobům. Když jdou do boje, malují si tváře a dokonce i jejich šlechtici dávají přednost pěšímu boji, přičemž používají velké sekery a obouruční meče se smrtící účinností." />
+    <string id="c1g7MC9D" text="Klanová úroveň bonusu" />
+    <string id="c3cdHImi" text="Zajměte soupeřovy pěšáky tím, že je obklíčíte z obou stran. Pokud se pěšec pohybuje mezi dvěma soupeřovými pěšci, není zajat. {newline}Na prvních dvou obrázcích jsou bílí pěšci zajati černými pěšci. Na posledních dvou obrázcích k žádnému zajetí nedochází." />
+    <string id="c4Pmtkle" text="Koně a Sedla" />
+    <string id="c6Ei8Fqh" text="Vazal {FACTION_INFORMAL_NAME}" />
+    <string id="C6n2tZlQ" text="můj spojenec {REFERING_HERO.LINK}" />
+    <string id="c7bVbjD7" text="Jak si přejete. Od nynějška bojujeme za tebe." />
+    <string id="C9EDof32" text="Žádná vybraná armáda" />
+    <string id="caadBNhn" text="Obléhací věž (úroveň 3)" />
+    <string id="caaxvMcY" text="Příbuzný" />
+    <string id="CaeFx54J" text="Získaný vliv: + {INFLUENCE} {INFLUENCE_ICON}" />
+    <string id="caFEBWSY" text="Váš protivník vás porazil. Prohrál jsi." />
+    <string id="cAgI2lPn" text="Guvernér {SETTLEMENT_NAME}" />
+    <string id="calculatinglevel3trait" text="Vypočítavost" />
+    <string id="caPP57v9" text="Přesun do rezervy" />
+    <string id="CaW72yB3" text="Celkové náklady" />
+    <string id="cBNSgpZN" text="Získáte &lt;a style=&quot;IncreaseStyle&quot; &gt;&lt;b&gt;{AMOUNT}&lt;/b&gt;&lt;/a&gt; zvýšení vztahu s {CLAN_NAME}" />
+    <string id="cBY2MxY0" text="princezna" />
+    <string id="cBZ6OlKW" text="Oštěp" />
+    <string id="CcAG3D8Q" text="Nepřiřazeno" />
+    <string id="ccUEYdrU" text="Připojit se k armádě" />
+    <string id="cDjq52h2" text="Seržant" />
+    <string id="centerformation" text="Centrum" />
+    <string id="CgAGsR1P" text="dvacátý devátý" />
+    <string id="chieftainfemale" text="náčelník" />
+    <string id="ChmM5tjf" text="Hra je nerozhodná!" />
+    <string id="cJmI2poS" text="Informace" />
+    <string id="cjZqTaHm" text="Nemáš dostatečný vliv." />
+    <string id="CKGavOyA" text="Bojuj kopím nebo podobnou tyčovou zbraní, a to buď jednoručně, nebo obouručně." />
+    <string id="cKKYSB0z" text="Prohrál jsi {AMOUNT}{GOLD_ICON}." />
+    <string id="ckPhG1KV" text="Vázaná vesnice" />
+    <string id="CkwERBcS" text="Skirmish za spojeneckou formací." />
+    <string id="cmn6qNoX" text="Skirmishers" />
+    <string id="cMrROb6w" text="Dostupný úkol" />
+    <string id="cNaiQyva" text="Šestnáctý" />
+    <string id="CObuCGjA" text="Nabídka sňatku od {CLAN_NAME}" />
+    <string id="CODsu5Ok" text="Nová kampaň" />
+    <string id="COhJ2HsU" text="Bude automaticky vyřešena za {HOUR} hodin." />
+    <string id="CoHPb7DL" text="Naším plánem je rozdrtit je jezdectvem a zbytek smést následným útokem." />
+    <string id="CP7ebY11" text="Útoky švihem mohou sesadit jezdce" />
+    <string id="cpaUPZ4c" text="Za průjezd touto zemí se platí mýto, které je splatné nám, takže pokud vám to nevadí, budeme jen vybírat náš dluh z vašeho měšce..." />
+    <string id="cqI6P8fr" text="Střílej z hradeb" />
+    <string id="cQWCp9F1" text="Denní mzda družiny " />
+    <string id="cr9fxFyS" text="Bonus proti štítu" />
+    <string id="cRMgjRMP" text="Dobře, dobře. Dávám přednost přímé dohodě před tím, abych se ti potom hrabal ve střevech a zjišťoval, co jsi tam asi tak schoval.[ib:hip][rf:convo_bemused]" />
+    <string id="CRR7cYhJ" text="V současné době staví" />
+    <string id="cRwZI5o2" text="Nedávné události" />
+    <string id="CthDdsb6" text="Vítěz" />
+    <string id="cThSwxbP" text="Nelze popravit vězně, kteří nejsou hrdiny." />
+    <string id="CVymZs3m" text="Válečná hora" />
+    <string id="cXnQaNfe" text="Nemá žádný vliv na rozhodování." />
+    <string id="CXUXk5ai" text="Císařští" />
+    <string id="cyPGadJ6" text="Automatické nasazení" />
+    <string id="CyTa1Z5d" text="{TEXT} [{HOTKEY}]" />
+    <string id="CZqZGAVB" text="Nabídka výměny je zamítnuta!" />
+    <string id="D2KdSGGJ" text="Nacházíte se mimo {SETTLEMENT_NAME}. Dovnitř nesmíte. Když se blížíte k nepřátelskému městu, jsou cesty obvykle opuštěné. Tentokrát však míjíš několik přihlížejících, a dokonce občas zaslechneš jásot. Tušíš, že jen málokdo z obyvatel je loajální {FACTION_INFORMAL_NAME} a že domobrana se pravděpodobně nezmůže na obranu města." />
+    <string id="d4n8AuUh" text="Přátelské jednotky prchají. Bitvu jsi prohrál." />
+    <string id="d4OPyxom" text="Kapacita skladu překročena." />
+    <string id="D5QlXOV0" text="Kritický neúspěch a neúspěch celé šance na přesvědčení." />
+    <string id="d68pZq4j" text="Požadovaná úroveň dovednosti" />
+    <string id="D7KllIPI" text="Problémy" />
+    <string id="D7ooUTqV" text="Padl jsi!" />
+    <string id="D8Wjbw9K" text="Byl jsem zajat, ale později se mi podařilo utéct." />
+    <string id="D9WJXQ9Z" text="Odmítnout" />
+    <string id="DaMQ9c3T" text="Vesnická bitva{newline}{newline}• Pěchota získává menší bonus.{newline}• Lučištníci získávají menší bonus při obraně.{newline}• Jízda má při obraně střední postih." />
+    <string id="DaX6bsaD" text="{CLAN_PARTY_NAME} je napaden {ENEMY_PARTY_NAME} poblíž {SETTLEMENT_NAME}." />
+    <string id="dbdliaP3" text="moje žena {REFERING_HERO.LINK}" />
+    <string id="DBU4VaIl" text="Frakce banditů" />
+    <string id="dc24lBcV" text="Zbraně pro boj zblízka IV" />
+    <string id="dcV0iOYB" text="Shromážděte své vojsko a připravte se na bitvu!" />
+    <string id="dd7Owiys" text="Uzavřete mír s {FACTION}" />
+    <string id="DdXZHifm" text="Zvýšení {ATTRIBUTE_NAME} usnadňuje učení vázaných dovedností a také zvyšuje jejich limit pro učení." />
+    <string id="debCJDAZ" text="Tuto akci nemůžete provést, pokud jste ve střetnutí." />
+    <string id="depxBZNO" text="Bonus k úrovni vůdcovských dovedností" />
+    <string id="dgaf7Jpb" text="Nastavení" />
+    <string id="DGbSsANY" text="{HERO.NAME} zemřel stářím." />
+    <string id="dGDYBpzz" text="Západní císařství" />
+    <string id="DGOgsMfx" text="{PRISONER.NAME} {?PRISONER.GENDER}byla propuštěna{?}byl propuštěn{\?} poté, co bylo zaplaceno výkupné." />
+    <string id="di4MlBRx" text="{NUMBER_OF} {ITEM}" />
+    <string id="DItheHi7" text="Zůstaňte v záloze" />
+    <string id="DIuI1moW" text="Vůdce gangu" />
+    <string id="dJbaRaAD" text="Dnů do vyčerpání zásob" />
+    <string id="DJgeYv9X" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} se pohybují v záloze." />
+    <string id="DjoYTx2w" text="Žoldnéři nemohou shromažďovat armády" />
+    <string id="DkaNhxpg" text="Jsi si jistý, že se chceš vzdát vedení? {?WILL_DESTROY}{newline}Nejsou žádné jiné klany, které by se mohly ujmout vedení. {?}{\?}Tvé království bude zničeno." />
+    <string id="dKcvwi6V" text="No vida, podívejte se na to! Měl bys začít kašlat na stříbro, příteli, nebo tě já a moji hoši budeme muset zlomit." />
+    <string id="dKXdN4BL" text="Vedeš armádu" />
+    <string id="DM6luo3c" text="Pokračovat" />
+    <string id="dMKyWmJ6" text="Jsi v pasti nepřátel." />
+    <string id="dO5tqXT8" text="Bývalý manžel" />
+    <string id="DOaIBObZ" text="(Denní výchozí hodnoty se stanou aktivními, když nejsou žádné projekty ve výstavbě)" />
+    <string id="DOKG38dF" text="Povoleny výukové programy" />
+    <string id="DPbv2cOo" text="Přesun na" />
+    <string id="dpPMuLa4" text="Nelze dokončit žádné zakázky." />
+    <string id="DqJG7bvh" text="Překročena kapacita" />
+    <string id="dQRdP9eQ" text="Setkání" />
+    <string id="DRaJ7hoz" text="Vítězem je" />
+    <string id="Dtcv8XNu" text="&lt;b&gt;Obléhací věž&lt;/b&gt;{NEWLINE}Používá se pro vstup na hradby. Lepší než pouhé žebříky" />
+    <string id="DTRwTvT4" text="Koňský lučištník, střet!" />
+    <string id="DTt1aeSj" text="{?IS_POSITIVE}+{?}-{\?}{ITEM_AMOUNT} {ITEM_TYPE}" />
+    <string id="DTWem4V1" text="Tato zásoba" />
+    <string id="DU9SofaW" text="Seknutí" />
+    <string id="DuFg1avZ" text="Další úroveň na: {NEXT_SKILL_POINTS}" />
+    <string id="Duoo5R2P" text="Mistr arény" />
+    <string id="dxtuFW8b" text="Docela dobře jsi se s tím popral. Některé velmi dobré pohyby. Několik chyb, jistě, ale rozhodně jsi slibný. A za sražení {PRIZE} soupeřů jsi získal cenu {GOLD_ICON}{OPPONENT_COUNT}." />
+    <string id="DyarV8i7" text="Pro tuto politiku již bylo navrženo rozhodnutí." />
+    <string id="dyLYsWPf" text="Bonus k perku Zajištění přítomnosti" />
+    <string id="dyY3hkH1" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} útočí na {?IS_PLURAL}různé nepřátelské formace{?}nepřátelskou formaci{\?}." />
+    <string id="Dzntsudy" text="Způsobili jste {AMOUNT} {DAMAGE_TYPE} poškození {VICTIM_NAME} ({LOST_HP_PERCENTAGE}% HP)." />
+    <string id="E05lmb5n" text="Tvůj vztah s  {HERO_NAME} se &lt;a style=&quot;DecreaseStyle&quot; &gt;&lt;b&gt;sníží&lt;/b&gt;&lt;/a&gt;" />
+    <string id="E0lb2Z2r" text="Dne {DAY_OF_YEAR}, {YEAR} se spiknutí proti Říši podařilo sjednotit její nepřátele, když se armády {FACTION_NAMES} společně vydaly do pole." />
+    <string id="e1tZ4kEY" text="Všechny věci" />
+    <string id="e4OPfBqt" text="Zdržet se" />
+    <string id="eAGeVRjI" text="Obdrželi jste {GOLD_AMOUNT}{GOLD_ICON}." />
+    <string id="EAicirVE" text="Neohrožený" />
+    <string id="eaIQXj6O" text="Volné body atributů: {NUMBER}" />
+    <string id="ealIwlQH" text="Obrana {SETTLEMENT_NAME}" />
+    <string id="eavr4x8n" text="Konstrukce:" />
+    <string id="eb0nLx5E" text="Aserai Sultanát" />
+    <string id="EbB9y2zZ" text="Vyhlásit válku" />
+    <string id="eDVvDS1i" text="Vesničané" />
+    <string id="EegxpPka" text="+{BONUS_AMOUNT} bonus ke stavbě" />
+    <string id="eEmbb1MR" text="Výroba" />
+    <string id="eHBvuPk6" text="dvacátý šestý" />
+    <string id="EHkzaZBi" text="Turnaj o {SETTLEMENT_NAME}" />
+    <string id="ehsuyvdT" text="Pokud budeš pokračovat, bude družina po dobu {TRAVEL_DURATION} cesty členů tvého klanu bez vůdce. Nebude se moci připojit k žádné armádě, dokud nedorazí její nový vůdce. Jsi si jistý?" />
+    <string id="Ej0QNsY9" text="Patnáctý" />
+    <string id="eJgaemO5" text="Výdělek ze sázek: {BET} {GOLD_ICON}" />
+    <string id="ejhFyhyx" text="&lt;b&gt;Obléhací věž&lt;/b&gt;&lt;br&gt;{NEWLINE}Přibližuje útočníky do stejné výšky jako hradby a vyrovnává šance obránců." />
+    <string id="ekQP9052" text="Stepní bitva{newline}{newline}• Jízda získává velký bonus.{newline}• Koňští lučištníci získávají velký bonus." />
+    <string id="eKwhGmbI" text="Poté, co tato jednotka získá {XP_AMOUNT} xp, bude k dispozici jedna další jednotka pro vylepšení." />
+    <string id="EL7lZLXN" text="Může srazit" />
+    <string id="elhSbQfW" text="můj příbuzný {REFERING_HERO.LINK}" />
+    <string id="EMCISbYJ" text="Bojová výstroj" />
+    <string id="empiremembers" text="Impérium" />
+    <string id="eMsA4Vk0" text="Tato družina se zvětší. Její současná cílová velikost je {TARGET_SIZE}." />
+    <string id="EMVLtu5L" text="{HERO.LINK} získal {?PLURAL}{GAINED_POINTS} bodů dovedností{?} bod dovednosti{\?} v {SKILL_NAME} a nyní je {UPDATED_SKILL_LEVEL}." />
+    <string id="eMwbzp49" text="Bitva prohrála..." />
+    <string id="enhza8zr" text="Frakce" />
+    <string id="eNQgzubm" text="Boj pěšky. Pohyb po mapě pěšky." />
+    <string id="entirestackdiscarditems" text="Podržte [{KEY_NAME}] a proveďte všechny" />
+    <string id="entirestackrecruitunits" text="Podržením [{KEY_NAME}] provedete vše" />
+    <string id="entirestacktakeitems" text="Podržením [{KEY_NAME}] provedete vše" />
+    <string id="entirestacktransfertroops" text="Podržením [{KEY_NAME}] provedete vše" />
+    <string id="entirestackupgradeunits" text="Podržením [{KEY_NAME}] provedete vše" />
+    <string id="ENzvOHsA" text="{ASKED_LORD.LINK} je v poli a {?ASKED_LORD.GENDER}je{?}je{\?} by měl být v tuto chvíli blízko {SETTLEMENT_NAME}." />
+    <string id="eob9goyW" text=" a" />
+    <string id="EOhmOITp" text="Sledování souvisejících objektů úkolu" />
+    <string id="EPGDe5fG" text="Chytat mohou pouze vlci, a to tak, že přeskočí ovci na volnou dlaždici za ní. Chytání se také řídí podle čar na hrací desce." />
+    <string id="eqAc8AOs" text="{LEFT}:" />
+    <string id="eRqURgZY" text="Battaniané" />
+    <string id="es0Y3Bxc" text="Připojte se" />
+    <string id="esxNxipn" text="Družiny s nízkou morálkou" />
+    <string id="eTyaQ1sG" text="Pokračujte v kampani" />
+    <string id="eu25AFfI" text="Nelze se nyní dostat do inventáře!" />
+    <string id="EuEJ08Dg" text="Počet zdravých oddílů obránců" />
+    <string id="eufhFrnC" text="Vesničané z {VILLAGE_NAME}" />
+    <string id="EuGCNdHG" text="Opusťte království" />
+    <string id="EUmwEtap" text="To byl pěkný boj, {PLAYER.LINK}. Zničil jsi {OPPONENT_COUNT} protivníků. Za tento výkon si samozřejmě zasloužíš odměnu: {PRIZE}{GOLD_ICON}. Pěkné, co?" />
+    <string id="eURzhtb0" text="Shromáždění kolem {PARTY_NAME}." />
+    <string id="EUzxzL9s" text="Brnění hlavy:" />
+    <string id="EV0av1mc" text="Bonus za úroveň vůdce" />
+    <string id="evuR5kwf" text="Proslýchá se, že {ITEM_NAME} se tu prodává levněji než v jiných městech. Kdybys tu nějaké koupil a odnesl je do {TOWN_NAME}, kde se prodávají dráž, pravděpodobně bys na každém kusu vydělal kolem {PRICE_DIFF}{GOLD_ICON}." />
+    <string id="EvvMNX3A" text="Začínající hráč si vybere jednoho ze čtyř pěšců, kterého odstraní z hrací desky.{newline}Poté si druhý hráč vybere jednoho ze svých sousedních pěšců, kterého také odstraní. Pokud byl pěšec začínajícího hráče uprostřed, musí druhý hráč odstranit také jednoho ze dvou pěšců uprostřed.{newline}{newline}Hra nyní začíná." />
+    <string id="Ew11a1Tx" text="Katapult" />
+    <string id="EWa1R7bv" text="Nepřátelé" />
+    <string id="EWq48MmD" text="{LEFT}: {RIGHT}" />
+    <string id="EWRoIdbA" text="Bandité" />
+    <string id="exhusbandbrotherinlaw" text="Bývalý švagr" />
+    <string id="exhusbandfatherinlaw" text="Bývalý tchán" />
+    <string id="exhusbandmotherinlaw" text="Bývalá tchyně" />
+    <string id="exhusbandsisterinlaw" text="Bývalá švagrová" />
+    <string id="exwifebrotherinlaw" text="Bývalý švagr" />
+    <string id="exwifefatherinlaw" text="Bývalý tchán" />
+    <string id="exwifemotherinlaw" text="Bývalá tchyně" />
+    <string id="exwifesisterinlaw" text="Bývalá švagrová" />
+    <string id="ey5OcaGI" text="Nelze použít se štítem" />
+    <string id="eyMU7X0e" text="Jsi pán a hlasuješ. Vládce nakonec hlasuje a rozhodne o výsledku." />
+    <string id="EZLs7hLL" text="Vy! Zastav se! Vrať nám své stříbro. Nehrajeme hry.[if:convo_angry]" />
+    <string id="EzrK2tnA" text="Během bitvy nemůžeš řídit svou armádu." />
+    <string id="F3U9AtmF" text="devátý" />
+    <string id="F4RMyaR5" text="Setkali jste se s {PARTY}." />
+    <string id="F5UPr9jh" text="Vezmi si vše" />
+    <string id="F6GhrriD" text="Vytvoř království" />
+    <string id="f6gSyvnC" text="Střílejte nepřátele lukem a šípy. Provádějte obtížné střely z velké vzdálenosti." />
+    <string id="f6pjlKdz" text="Včera" />
+    <string id="f7t4saJu" text="Hodnota" />
+    <string id="F8g1TzoX" text="Nacházíte se mimo {SETTLEMENT_NAME}. Vidíš, jak nad hradní branou vlaje prapor {LORD.LINK}." />
+    <string id="Fa16r8MN" text="Poprav zajatce" />
+    <string id="fAEvWw8z" text="Obránci se stáhli a připravují poslední obranu uvnitř pevnosti." />
+    <string id="fApjg2ae" text="Aserai" />
+    <string id="faYiCHXK" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} se dostávají na dostřel." />
+    <string id="FbcC2loc" text="Byl jsi omráčen a tvůj protivník má vyhráno!" />
+    <string id="FC64p6ED" text="Počet zdravých útočících vojáků" />
+    <string id="fd35ahzV" text="&lt;b&gt;Ohnivá balista&lt;/b&gt;{NEWLINE}Střílí střely s hroty namočenými v dehtu.{NEWLINE}Působí ohnivé poškození nepřátelským obléhacím strojům a dřevěným stavbám a je smrtící i proti vojákům." />
+    <string id="FD9abtTo" text="Pokud vsadíte 100&lt;img src=&quot;General\Icons\Coin@2x&quot;&gt; a vyhrajete, získáte {NORMALIZED_EXPECTED_GOLD}&lt;img src=&quot;General\Icons\Coin@2x&quot;&gt;" />
+    <string id="FdTd3yIx" text="Vámi provedené změny nelze použít. Chcete obnovit a změnit obrazovku?" />
+    <string id="fEJQcb4U" text="Změna loajality" />
+    <string id="fEqd7jXj" text="{EFFECT_NAME}: +{NUM}" />
+    <string id="fEu5S6Bd" text="Vzdálenost" />
+    <string id="fEXuXAl1" text="Morálka armády : {ARMY_MORALE}{newline}{ARMY_MORALE_ITEMS}" />
+    <string id="FfVdGZsj" text="+{BONUS_AMOUNT} bonus k produkci potravin" />
+    <string id="Fg9qCGUu" text="Hrozny{@Plural}pytle hroznů{\@}" />
+    <string id="fivestackdiscarditems" text="Podržte [{KEY_NAME}], abyste udělali x5" />
+    <string id="fivestackrecruitunits" text="Podržte [{KEY_NAME}] pro provedení x5" />
+    <string id="fivestacktakeitems" text="Podržte [{KEY_NAME}] pro provedení x5" />
+    <string id="fivestacktransfertroops" text="Podržte [{KEY_NAME}] pro provedení x5" />
+    <string id="fivestackupgradeunits" text="Podržte [{KEY_NAME}], abyste udělali x5" />
+    <string id="FjRiPhEI" text="Směrovaná družina " />
+    <string id="FLrzc1uk" text="Obávám se, že ti budeme muset podříznout krk - samozřejmě z principu. Za vniknutí na cizí pozemek." />
+    <string id="fMh5KZfk" text="Není třeba, abychom tu zůstávali. Jdeme!" />
+    <string id="FmIIQEQD" text="{HERO.NAME} zemřel." />
+    <string id="fMmlUHyz" text="Poškození švihem:" />
+    <string id="forgeverb" text="Ukovat" />
+    <string id="FpI5JMZq" text="Transakce byly vynulovány" />
+    <string id="fpP2s7hX" text="+{BONUS_AMOUNT} zvýšení růstu vesnice." />
+    <string id="fQ2RLaOa" text="Klan nevlastní žádné léno" />
+    <string id="fQAGU9GW" text="Štědrost:" />
+    <string id="FqwHAxuM" text="Obouruční tyčová zbraň" />
+    <string id="FRepQsmO" text="Turnaj bude mít podobu klání." />
+    <string id="frt7AmX0" text="Posádka {MAJOR_PARTY_LEADER}" />
+    <string id="fRu5Y4OT" text="Byl jsem zraněn a ponechán napospas smrti" />
+    <string id="FRuzuVyO" text="Nebyl vybrán žádný klan" />
+    <string id="FRZfpryn" text="Předložte návrh na předání tohoto sídla někomu jinému." />
+    <string id="FS78CuPs" text="Dovednosti, které jsou vázány na atribut ({ATTRIBUTE_NAME}) jsou:" />
+    <string id="FSl1LFP6" text="{CLAN} získal {AMOUNT_TO_ADD} pověst. Nová pověst je {NEW_RENOWN}." />
+    <string id="fTyJB9wd" text="Dvacátý čtvrtý" />
+    <string id="fUNa6FAo" text="Během bitvy se při podržení {MISSION_INDICATORS_KEY} zobrazí značky na nepřátelských a spojeneckých formacích." />
+    <string id="FuxkL78G" text="{YEAR} {?YEAR_IS_PLURAL}roky{?}rok{\?}." />
+    <string id="FuYivUV1" text="Dne {DAY_OF_YEAR}, {YEAR} jsi slíbil věrnost {RULER.NAME} v naději, že {?RULER.GENDER}ona{?}ona{\?} povede boj za {?PLAYER_WANTS_RESTORE}obnovení{?}porážky{\?} Říše." />
+    <string id="FVEvjlis" text="Překročen limit velikosti družin " />
+    <string id="fveVnpbZ" text="Příbuzný" />
+    <string id="FvYhaE3z" text="Znak" />
+    <string id="fwbD1Jqo" text="Koupit" />
+    <string id="FwlZRESM" text="+{BONUS_AMOUNT} bonus k domobraně" />
+    <string id="fWwYUOVs" text="Přijmeme vaši nabídku." />
+    <string id="FxoVjLvl" text="Štíty a Střelba" />
+    <string id="FxPzcyLN" text="{SUPPORTERNAME} podporuje {CANDIDATENAME}" />
+    <string id="FZBqNCvd" text="nikdo" />
+    <string id="G0AWk1rX" text="Žebřík" />
+    <string id="g0gDsalr" text="Impulzivní" />
+    <string id="g1KLcfxT" text="Vesnice prosperuje. Překypující pytle obilí, zdravá zvířata a naložené vozy svědčí o štědrosti polí." />
+    <string id="G4XXubLg" text="emira" />
+    <string id="G5yvspkZ" text="Nemůžeš ustoupit, souboj pokračuje!" />
+    <string id="g6J4Oe6z" text="Jméno klanu musí být mezi {MIN} - {MAX} znaky." />
+    <string id="g7zo28KR" text="Setkali jste se s {PARTY}. Proti tvé drtivé síle nemají šanci a vzdávají se." />
+    <string id="g8nrakuu" text="Zbraně pro boj zblízka I" />
+    <string id="G95mB3b3" text="Právě teď se nemůžete dostat do okna postavy!" />
+    <string id="gA5fByM2" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} se snaží znovu dobýt {#IS_LEFT}{#}pravou hradbu{#}hradby na několika stranách{\#}{?IS_MIDDLE}střední hradbu{?}{\?}{?IS_RIGHT}levou hradbu{?}{\?}." />
+    <string id="gamefinance" text="Finance" />
+    <string id="gAX49b7b" text="Postavili jste bariéru proti soupeři, ale zbývá vám stejný počet pěšců. Partie je nerozhodná!" />
+    <string id="GAzaM1RC" text="Může být poražen pro maso a kůži" />
+    <string id="GbbGlcMZ" text="Pěšci se mohou přesunout na libovolný kámen ve svislém nebo vodorovném směru, ale nikdy nemohou přeskočit jiné pěšce. {newline}Pěšci se nemohou přesunout na středový kámen ani přes něj. Jakmile král opustí tuto destičku, nemůže ji již také překročit." />
+    <string id="gCaT2BTu" text="{PRISONER.NAME} na základě mírové smlouvy byl propuštěn ze zajetí." />
+    <string id="gdraqMso" text="Nacházíte se mimo {SETTLEMENT_NAME}. Dovnitř nesmíte." />
+    <string id="GDugjWao" text="Zde je {MONEY}{GOLD_ICON}. Vezměte si ji a nechte nás jít." />
+    <string id="gE7QFy6y" text="{PRISONER.NAME} {?PRISONER.GENDER}utekla{?}utekl{\?} ze zajetí." />
+    <string id="geJQxzgB" text="Úkol se nezdařil: {QUEST_TITLE}" />
+    <string id="genericcharacterfirstname" text="{CHARACTER_FIRSTNAME}" />
+    <string id="genericcharactername" text="{CHARACTER_NAME}" />
+    <string id="genericclanname" text="{CLAN_NAME}" />
+    <string id="generickingdomname" text="{KINGDOM_NAME}" />
+    <string id="generickingdomshortname" text="{KINGDOM_SHORT_NAME}" />
+    <string id="gflnRhhe" text="({PRIMARY_ROLE}/{SECONDARY_ROLE})" />
+    <string id="GfpRqcWN" text="Vyberte si lučištníky" />
+    <string id="gfQmYDRq" text="Když se snažíš donutit významné osobnosti, aby ti vydaly rekruty, někteří obyvatelé se shromáždí, aby ti kladli odpor." />
+    <string id="GfR7NY0n" text="Obléhací bitva {newline}{newline}• Lučištníci získají při obraně velký bonus. {newline}• Jezdci mají při obraně střední postih. {newline}• Lučištníci na koních získají při obraně velký bonus." />
+    <string id="ggMmjk31" text="Neplatné" />
+    <string id="ggrqoGnE" text="Utratit {AMOUNT}" />
+    <string id="ggzCiYkk" text="{VALUE}{GOLD_ICON} je potřeba pro vylepšení." />
+    <string id="GHdrCWpF" text="Stisknutím {CONSOLE_KEY_NAME} zavřete" />
+    <string id="giftverb" text="Dárek" />
+    <string id="gj2HD7M3" text="Stále máte šanci vyhrát. Chcete se vzdát?" />
+    <string id="gKbGZObs" text="Celková zásoba" />
+    <string id="GKO2ogal" text="Korupce" />
+    <string id="GNGTllPc" text="Tuto akci nemůžete provést při nájezdu na vesnici" />
+    <string id="GNkrUdwb" text="Tvá pomoc byla velmi vítaná cizinče. Jmenuji se {CONVERSATION_CHARACTER.LINK}. Mohu se naučit to vaše?" />
+    <string id="GnWy8WAW" text="Loajalita:" />
+    <string id="gNzXoCrq" text="Vydej se na cestu, malá moucho." />
+    <string id="goJ91547" text="Nepřátelské informace dorazily!" />
+    <string id="GopVkA1q" text="Outlaw" />
+    <string id="gOSpzTrt" text="Zastavte se na místě. Tohle je loupež.[if:convo_aggressive]" />
+    <string id="gPAkLi7l" text="({STR})" />
+    <string id="GPESFoWD" text="Onager" />
+    <string id="GPW3ku2Y" text="{?RULER.GENDER}Princezna{?}Princ{\?} {RULER.NAME}" />
+    <string id="gQCEJvmf" text="dcera" />
+    <string id="GralaKWi" text="Dne {DAY_OF_YEAR}, {YEAR} se {FATHER_NAME} a {MOTHER_NAME} narodilo dítě." />
+    <string id="Gre2v55i" text="Moc: {POWER}" />
+    <string id="GRX8NjWI" text="Velikost" />
+    <string id="gSVaitFE" text="Nájezd {SETTLEMENT_NAME}" />
+    <string id="gT5zJaD7" text="Nepřítel mě omráčil do bezvědomí." />
+    <string id="gTlW1qOB" text="Tento předmět je o {PERCENTAGE}% levnější než průměrná cena" />
+    <string id="GUBcQZ3J" text="Současná shoda vězňů" />
+    <string id="gwKPbSVE" text="{TRAIT}{newline}{TRAIT_DESCRIPTION}" />
+    <string id="gxsoJMb8" text="zeroth" />
+    <string id="gY8kkujq" text="Bitva skončila! Stiskněte klávesu Tab pro opuštění..." />
+    <string id="GYhHacVk" text="Za zásah jsi získal 1 bod!" />
+    <string id="GZKY51fB" text="Během doby trvání bezpečného průchodu se nemůžete připojit k armádám." />
+    <string id="gZmQvtxm" text="Střecha beranidla" />
+    <string id="h03DZtbc" text="Těžký kůň" />
+    <string id="H0o13D7a" text="Obchody" />
+    <string id="H1emUb6k" text="Stáří:" />
+    <string id="H4rAiNlf" text="Vsadil jsi {BET_AMOUNT} na sebe a vyhrál jsi boj. Zde je tvá odměna {REWARD_AMOUNT}{GOLD_ICON}." />
+    <string id="h6AJXR2e" text="Jsi si jistý, že ustoupíš své družině?" />
+    <string id="h8Bcd7NE" text="{FACTION} Vládcovské volby" />
+    <string id="H9y9dLao" text="Můžeš vsadit zlato a zvýšit tak odměnu, kterou si odneseš. V každém kole budou kurzy jiné a pokaždé můžete vsadit {MAX_AMOUNT}&lt;img src=&quot;General\Icons\Coin@2x&quot;&gt;." />
+    <string id="haax8kMa" text="Píka" />
+    <string id="hAgZBZP8" text="Forfeit" />
+    <string id="haRRjDmy" text="Použijete {TRADE_AMOUNT} {?IS_PLURAL}koně{?}koně{\?} na vylepšení." />
+    <string id="hbeUbpEA" text="Jste si jisti, že chcete zrušit?" />
+    <string id="HCZ5XSEL" text="{?IS_POSITIVE}+{?}-{\?} {NUMBER}" />
+    <string id="HD2wzAxz" text="Sturgiáni jsou potomci cizích kmenů ze severní Kalradie. Když se říše rozšířila do jejich chladných lesů, našli připravený trh pro luxusní kožešiny lesních zvířat, která tradičně lovili a chytali do pastí. Ze sturgiánských náčelníků se stala knížata, která bojovala o prvenství s pomocí severských žoldnéřů, kteří se stěhovali do jejich říše. Jsou to dobří lovci a tuláci, kteří cestují daleko a hledají příležitosti k obchodu i k loupení." />
+    <string id="hDktLs4a" text="Jednali jste moudře a s respektem. Můžeš odejít." />
+    <string id="HdTVkcII" text="Zlepšete vztahy s lidmi. Stýkejte se se šlechtici. Dělejte výměnné obchody." />
+    <string id="hdyQFP2Z" text="Byl jsi zabit zbloudilým {MOUNT_NAME}!" />
+    <string id="hE4XvvXv" text="Třídit podle:" />
+    <string id="HEQ2zEei" text="Zrušit" />
+    <string id="HEUDyfbG" text="{HERO.NAME} se připojí k {CLAN_NAME}" />
+    <string id="hEWuE0Ch" text="Jsi velitel. Během bitvy budete moci rozkazovat všem formacím." />
+    <string id="hfSW9FTN" text="Střelecké zbraně V" />
+    <string id="hJypvWMR" text="Zdokonalit" />
+    <string id="HKrCB1Pa" text="Dokáže rozdrtit skrz" />
+    <string id="HkZ4E94O" text="Konfederace stepních kmenů Khuzaitů žila dříve kočovným životem, ale nedávno se usadila na východní hranici říše a pomalu přechází na agrární společnost se stálými městskými centry. Přesto si stále zachovávají mnoho aspektů svého kočovného života, včetně náklonnosti ke koním. Jsou mistry jízdní lukostřelby, střílejí a pak cválají z dosahu." />
+    <string id="hL3JIQbd" text="Veďte tuto formaci do boje." />
+    <string id="Hlusn1gG" text="Název klanu má neplatné znaky." />
+    <string id="HmbvM9Na" text="Chcete přeskočit aktuální zápas?" />
+    <string id="HMgrtLYa" text="Váš šampion prohrál souboj. Vaše vojsko je touto porážkou sklíčeno. Vaše družina ztrácí morálku." />
+    <string id="hMIjbLjt" text="madam" />
+    <string id="hmlUJaDa" text="Vskutku dobré setkání {PLAYER.LINK}. Jmenuji se {CONVERSATION_CHARACTER.LINK} a jsem vám navždy zavázán. Kdybych vám mohl s něčím pomoci, dejte mi vědět..." />
+    <string id="HNBAw1uO" text="{PARTY} získala {AMOUNT_TO_ADD} pověst. Nová pověst {CLAN} je {NEW_RENOWN}." />
+    <string id="HNqy4Ctc" text="Nemůžeš kopnout společníka, který řeší nějaký problém." />
+    <string id="hoebgN2u" text="Pokud budete pokračovat, vybraní členové klanu se vydají na cestu a nebudou k dispozici, dokud nedorazí k {SETTLEMENT_NAME}. Jsi si jistý?" />
+    <string id="homesettlement" text="Domov" />
+    <string id="hourabbr" text="h" />
+    <string id="HP9wMk1T" text="Nelze se právě teď dostat na obrazovku družiny!" />
+    <string id="HQgSPtK6" text="Jste si jisti, že chcete ukončit hru více hráčů?" />
+    <string id="hqIIEur1" text="Narazili jste na {ARMY}." />
+    <string id="hroWCoqV" text="Podpora pro uzákonění" />
+    <string id="hSsS5xAa" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} čeká na příjezd dalších obléhacích strojů." />
+    <string id="HuCClZqT" text="Mzda" />
+    <string id="husbandbrotherinlaw" text="Švagr" />
+    <string id="husbandfatherinlaw" text="tchána" />
+    <string id="husbandmotherinlaw" text="tchýně" />
+    <string id="husbandsisterinlaw" text="švagrová" />
+    <string id="hVmamTJX" text="Získat morálku družiny díky rozmanitosti jídla (Provianťák). Zlepšete prosperitu osady a budujte projekty (guvernér)." />
+    <string id="Hvw3uSNN" text="{PRISONER.NAME} {?PRISONER.GENDER}byla osvobozena{?}byl osvobozen{\?} poté, co únosci byli poraženi v bitvě." />
+    <string id="Hx47TGrA" text="Těžké" />
+    <string id="HYVQKIhh" text="Armáda obránců" />
+    <string id="HZ8ws4qX" text="Žoldnéřská služba" />
+    <string id="hzflo2kJ" text="Opět jsi nám zachránil krk, {PLAYER.LINK}! Skutečně jsi nejlepší z přátel." />
+    <string id="i0H8WLRx" text="Nemůžete vyhnat vládnoucí klan." />
+    <string id="I2YhWaIt" text="Zboží" />
+    <string id="i30TCtj2" text="PAUZA" />
+    <string id="I3Vfk5mz" text="dvacátý" />
+    <string id="I42QtISB" text="Nelze vyhodit hlavního hrdinu z klanu." />
+    <string id="I4BbOX46" text="Jste v  armádě {ARMY_LEADER}." />
+    <string id="i4g81l3E" text="Vztah: {NUM}" />
+    <string id="i5ROjI8K" text="Na {DAY_OF_YEAR}, {YEAR} jsi našel artefakt, o kterém se zmínil Tacteos." />
+    <string id="I6OJtaMT" text="Nikdy" />
+    <string id="I8xMpWxO" text="Odvážný" />
+    <string id="IbGNaL0H" text="{HERO.LINK}   Úroveň: {LEVEL}" />
+    <string id="IbkODMHV" text="Zjistit stopy a úkryty. Cestovat obtížným terénem. (Zvěd)" />
+    <string id="iBZc9RbE" text="Počkejme na všechny." />
+    <string id="iCirZbD8" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} střílejí z hradeb." />
+    <string id="icmyseoo" text="Můj pane" />
+    <string id="IcQ2doLo" text="x{QUANTITY}" />
+    <string id="ID8wnSIi" text="Tato akce není v současné fázi příběhu povolena." />
+    <string id="IdYj8OJg" text="Pommel" />
+    <string id="If65Vm9h" text="Vzdělávání dětí" />
+    <string id="IF7zS5ia" text="Překročil jsi limit zajatců.{newline}Zajatce si dočasně ponecháš, ale po nějaké době ti rychle utečou. Také se zpomalíš.{newline}Jsi si jistý?" />
+    <string id="iffbWGBa" text="Teta" />
+    <string id="iFg5N7r3" text="Jednoruční zbraň" />
+    <string id="Igoid3sR" text="Navrhni vyhnat tento klan z království ({SUPPORT}%)" />
+    <string id="ihVHfUFT" text="Formace" />
+    <string id="iIBqTcKx" text="Útoky mohou srazit protivníky k zemi" />
+    <string id="iisvVbDI" text="Koupit vše" />
+    <string id="IiyN5krb" text="{TRAIT_NAME} ({TRAIT} {TRAIT_VALUE}){newline}{TRAIT_DESCRIPTION}" />
+    <string id="iKUXVaFf" text="Cena vlivu: {reg0}" />
+    <string id="iKzyJHiD" text="Omlouvám se, ale v současné době nevím o žádném dobrém tipu na obchodování." />
+    <string id="iLD5Lkto" text="Ohnivý Onager" />
+    <string id="iLEhyGI8" text="Kalradská říše je v úpadku. Ještě před podezřelou smrtí císaře Arenikose byla kdysi jednotná říše zmítána politickým soupeřením. Dnes jsou tyto frakce v otevřené válce. Přesto Kalradiané vytrvají. Jejich metodické studium obranné strategie, při níž posádková města zpomalují útočící síly, dokud jim na pomoc nepřijdou mobilní polní armády, jim pomáhá držet sousedy na uzdě." />
+    <string id="ilhkpKfp" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} útočí na koních." />
+    <string id="ImJ4hdke" text="Navrhněte novou politiku" />
+    <string id="iNDKwJYJ" text="Cena XP za vylepšení jednotky" />
+    <string id="iNriAkLl" text="Slouží ke zvýšení rychlosti" />
+    <string id="ioKVFDcQ" text="{?AND} {?}a {\?}{SENTENCE_3}." />
+    <string id="ioKwRFcj" text="Zvážit uzavření míru (Podpora: {SUPPORT}%)" />
+    <string id="IoLK7Lec" text="Základní velikost" />
+    <string id="iORENG5d" text="Žoldnéři nemohou navrhovat politiku." />
+    <string id="IOtAJCVw" text="Celkový vliv: {TOTAL_INFLUENCE}" />
+    <string id="IPjqLEdQ" text="Před {DAY} dny" />
+    <string id="IQ4bSdf5" text="Švagrová" />
+    <string id="iQao7Ct6" text="Hladovějící družiny" />
+    <string id="iRo4meJR" text="Právě teď nemám přístup k encyklopedii!" />
+    <string id="Is3O8NXW" text=" ({NUMBER_OF_MEN}+{NUMBER_OF_WOUNDED_MEN}w)" />
+    <string id="ISJ8Tt8a" text="{COUNT} {.%}{?(COUNT &gt; 1)}{PLURAL(ITEM)}{?}{ITEM}{\?}{.%}" />
+    <string id="ISz5bLEO" text="dvanáctý" />
+    <string id="itLpRUtF" text="Klan nemá žádná volná místa v družině." />
+    <string id="ITTGMEUJ" text="Datle{@Plural}pytle datlí{\@}" />
+    <string id="itvLr7dL" text="Vyzvedněte si" />
+    <string id="iUTXqFmm" text=" a blízké {?VILLAGE_COUNT}vesnice {?}vesnice {\?} ze {VILLAGE_NAMES} sbírky datlí." />
+    <string id="IUxlDj4s" text="Náhodný výběr všech" />
+    <string id="iVEZrZzs" text="Jízda v předvoji" />
+    <string id="IvrBQHRp" text="Zbraně pro boj zblízka" />
+    <string id="IwpFM2CJ" text="Turnaj bude mít podobu koňského dostihu." />
+    <string id="iyDOTnCS" text="Dejte jim, co chtěli!" />
+    <string id="iyob7aH3" text="Braňte svou pozici" />
+    <string id="IzDYSckc" text="Karavany ({CURRENT})" />
+    <string id="izKWEAbY" text="Klan nemá žádné další příjmy" />
+    <string id="j2OaZPQz" text="Tvoji vojáci získají {XP_AMOUNT} zkušeností za darování zbraní a/nebo zbroje v závislosti na tvých výhodách. Maximálně mohou získat {XP_DONATION_LIMIT} zkušeností." />
+    <string id="J3ACAwbt" text="Váš soupeř proti vám postavil bariéru, ale vám zůstalo více pěšáků. Vyhráváte hru!" />
+    <string id="J3L0MuEU" text="Bitva je prohraná. Stisknutím {leave_key} zobrazíte výsledky." />
+    <string id="j46AltVv" text="Dvacátý osmý" />
+    <string id="j4F7tTzy" text="Klan" />
+    <string id="j4IdJPkE" text="Nelze dobíjet na koni" />
+    <string id="J4NmLqib" text="Dokončeno" />
+    <string id="J5961cx8" text="Výrazně se zpomalíte. Buďte opatrní." />
+    <string id="J7DnK8Kv" text="Dnes není tvůj šťastný den, příteli. Co kdybys odevzdal své stříbro? Byla by opravdu škoda, kdybych musel někomu podříznout krk.[if:convo_mocking_revenge]" />
+    <string id="JAFIo7cM" text=":" />
+    <string id="jAISxqxR" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} brání obléhací zbraň." />
+    <string id="JbN0RwM2" text="Ztratil jsi {INFLUENCE} vliv za to, že jsi opustil obranné obléhání svého království." />
+    <string id="jbQ3LYBl" text="Císař" />
+    <string id="JbTCDDb0" text="Bolt" />
+    <string id="jCbYaCcg" text="Dobře splněno {PLAYER.LINK}. Já jsem {CONVERSATION_CHARACTER.LINK}. Děkuji za pomoc a doufám, že se ještě setkáme." />
+    <string id="jd4ULLGr" text="Aktivní úkoly" />
+    <string id="JdNTRtpJ" text="Udržujte vysokou morálku ve své družině. Shromažďuj a veď armády. Vylepšujte své jednotky." />
+    <string id="Jelvod71" text="Získávání" />
+    <string id="jfIbp2Hg" text="Navazující úkoly:" />
+    <string id="jFL2rgkP" text="Zanecháváte za sebou vojáky a/nebo zajatce! Jsi si jistý?" />
+    <string id="JflqTj4T" text="Různé" />
+    <string id="JG2bgZMM" text="Potyčka před spojencem {AI_SIDE} {CLASS}" />
+    <string id="jGFEbaex" text="Hod kostkou" />
+    <string id="JGk5MJkN" text="Volné body" />
+    <string id="Jh7sayJB" text="Šance na neúspěch" />
+    <string id="JHBEwYGT" text="Koupeno měšťanem" />
+    <string id="jhosdZaX" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} brání klíčové pozice hradu." />
+    <string id="jIcGy6gI" text="{LEFT} : {RIGHT}" />
+    <string id="jiKRLWD4" text="Zobrazit v encyklopedii" />
+    <string id="jIZcOvMT" text="Na {DAY_OF_YEAR}, {YEAR}, {NAME} byl popraven." />
+    <string id="JkpSoFQ8" text="Způsobené ztráty" />
+    <string id="JKQjXH9M" text="Dvacátý sedmý" />
+    <string id="jM9KGCIa" text="{?RULER.GENDER}Emira{?}Emir{\?}. {RULER.NAME}" />
+    <string id="JnoB0RZ4" text="Popraven {?DYING_HERO.GENDER}Jeho{?}Him{\?}." />
+    <string id="jnTQbSsH" text="Vidíš, že se ve vesnici shromažďují lidé, kteří ti kladou odpor. Co chceš udělat?" />
+    <string id="joICaqvo" text="Nepřiřazeno" />
+    <string id="JP7LTAsa" text="Dobře! Dobře! Teď běž! Jdi pryč! [ib:aggressive][if:convo_angry]" />
+    <string id="jPwa1oOm" text="Stříbro{@Plural}spousta stříbrné rudy{\@}" />
+    <string id="JQarnWiz" text="Nemáš na to dost materiálu." />
+    <string id="jQGcUobB" text="Civilní" />
+    <string id="JQOUUVct" text="Pauza" />
+    <string id="JSokBXER" text="Těžká pěchota" />
+    <string id="jSXE0Gbj" text="Zdejších vesničanů je málo a jsou vyděšení, rychle se rozprchnou a utíkají před tebou. Vesnice je ti vydána na milost a nemilost." />
+    <string id="jtN3ayKE" text="Primární výroba" />
+    <string id="JTyC3Xra" text="Lakomý" />
+    <string id="Ju9ZiFT2" text="Zbraně pro boj zblízka V" />
+    <string id="Jw4oiIM4" text="Dne {DAY_OF_YEAR}, {YEAR}, {KING_NAME}  {?IS_KING_MALE}byla jmenována Císařovnou{?}byl jmenován Císařem{\?} Kalradie." />
+    <string id="jxatfzXh" text="Dne {DAY_OF_YEAR}, {YEAR}, {NAME} zemřel z přirozených příčin." />
+    <string id="K0mlQblA" text="Denní spotřeba potravin armády" />
+    <string id="K0XVOalL" text="Aktuální sázka" />
+    <string id="K2G3XJwZ" text="Horká hlava" />
+    <string id="k3LajvfJ" text="Redaktor praporů" />
+    <string id="k6tT1vIg" text="Klání skončilo a tvůj soupeř tě dnes porazil..." />
+    <string id="k7ig2JvK" text="baron" />
+    <string id="k8ocninL" text="Zastavte se - teď už klidně. Veliké věčné nebe nám darovalo tyto země. Nikdo tudy neprojde bez našeho svolení." />
+    <string id="k8PxNh7x" text="Štít V" />
+    <string id="k8QpbFnj" text="Cape" />
+    <string id="k9OYeP9y" text="Klikněte pro zavření" />
+    <string id="ka7vAxgo" text="Útok na nepřítele {AI_SIDE} {CLASS}" />
+    <string id="KafFddmO" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} chrání generála." />
+    <string id="KawqKhwh" text="Těžká zbroj" />
+    <string id="KC5AZohd" text="Zdravím tě, cestovateli. Vítej v našem lese. Budeme muset vybrat malé mýtné.[rf:convo_mocking_revenge]" />
+    <string id="KcQiDE6b" text="Lze prodat za {SETTLEMENT_NAME}: {SELL_PRICE}" />
+    <string id="kdV0tx9K" text="Ahoj, pocestný. Doufám, že sis vzal svůj měšec. Víte, my jsme něco, co byste mohli nazvat loupežníky, a obávám se, že vás nemůžeme nechat projít, aniž byste nám zaplatili trochu peněz.[if:convo_mocking_revenge]" />
+    <string id="kDV7wCtI" text="Dokončete to: {PREPARATION_TIME}" />
+    <string id="KE9rdUhD" text="- {HERO_NAME}" />
+    <string id="kftE5nvv" text="Brnění koně" />
+    <string id="KGH8rjOP" text="Cestuješ do {SETTLEMENT_NAME} na nájezd." />
+    <string id="KGHlXL8H" text="Výborně - vyčistíme tuto zemi vaší krví." />
+    <string id="KGjFnVsR" text="Koncepty" />
+    <string id="kgqCVvIb" text="můj bratr {REFERING_HERO.LINK}" />
+    <string id="kHC5EjDJ" text="Bonus města" />
+    <string id="kHC5EjEJ" text="Bonus pro menší frakce" />
+    <string id="Khr5yETv" text="Aserové jsou obyvatelé pouště Nahasa, směsice kočovných beduínů a usedlých zemědělců v oázách. Jsou proslulí svým jezdeckým uměním a znalostmi učení mnoha zemí, zejména medicíny, které získali díky tomu, že leží na jedněch z nejlukrativnějších obchodních cest kontinentu. Každý klan je na svůj rod zarytě hrdý a často žárlí na ostatní, ale když je sjednotí charismatický vůdce, stanou se na jihu významnou silou." />
+    <string id="ki5DqTtC" text="+{BONUS_AMOUNT} zvýšení prosperity osady." />
+    <string id="KiVCv1Bx" text="Obléhání {SETTLEMENT_NAME}" />
+    <string id="KJDqOGEU" text="Naším plánem je ustoupit do formace a bojovat další den." />
+    <string id="KkaVpLXd" text="Zvažte zavedení této politiky (Podpora: {SUPPORT}%)" />
+    <string id="KkwLUO3o" text="šestý" />
+    <string id="klZnvb15" text="Postava" />
+    <string id="kM1Y8XT0" text="Nebudete zklamáni {?PLAYER.GENDER}madam{?}sir{\?}. V celé Kalrádii nenajdeš lepší bojovníky.[ib:convo_approving]" />
+    <string id="kMAD20Ny" text="Jsi mimo {SETTLEMENT_NAME}. Nemůžeš vstoupit, protože hrad patří nepříteli. Když se blížíš k nepřátelskému městu, cesty jsou obvykle opuštěné. Tentokrát však míjíš několik přihlížejících, a dokonce občas zaslechneš jásot. Tušíš, že jen málokdo z obyvatel je loajální {FACTION_INFORMAL_NAME} a že domobrana se pravděpodobně nezmůže na obranu hradu." />
+    <string id="KOwCdwEU" text="matka" />
+    <string id="KQQaoouG" text="(Dokončeno)" />
+    <string id="kRKYHQ6V" text="Když hromádka přistane přesně na svém domovském políčku, všichni pěšci hráče, který hromádku ovládá, se vrátí do jeho ruky a mohou být znovu použiti. Pěšáci patřící druhému hráči jsou vyřazeni ze hry." />
+    <string id="krmvzGaV" text="Jak se hraje" />
+    <string id="kRraos2Z" text="Způsobil jsi potíže na mém území... To se mi nelíbilo." />
+    <string id="krtuDr9P" text="Nové pískoviště" />
+    <string id="KSaxvbs9" text="Zobrazit na mapě" />
+    <string id="ksDGaGIi" text="devatenáctý" />
+    <string id="ktFeXrXl" text="Nemůžete provádět žádné pohyby. Přeskočení tahu." />
+    <string id="KTGG9EgL" text="Bezpečné cesty! Nenechte se okrást nikým jiným než námi!" />
+    <string id="KTUcgvMZ" text="Překročíte limit vojáků. To může negativně ovlivnit morálku vaší družiny." />
+    <string id="kUBvVY89" text="Bitva při přechodu řeky{newline}{newline}• Pěchota získá menší bonus.{newline}• Lučištníci získají malý bonus při obraně.{newline}• Jízda utrpí menší postih při obraně." />
+    <string id="kuKad3dj" text="{MISSION_MODE}" />
+    <string id="kuLjsNgz" text="Pozoruhodný venkovský objekt" />
+    <string id="kVLfRWjE" text="+{BONUS_AMOUNT}% snížení mzdy posádky." />
+    <string id="kVuucX4o" text="třináctý" />
+    <string id="kvykuTJS" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} jsou útočné obléhací zbraně." />
+    <string id="Kw7awUCK" text="Vyvážené" />
+    <string id="kwKT6zKq" text="Od vaší jednotky se očekává, že: {BEHAVIOUR_NAME_BEGIN}{?IS_PLURAL} a {?}{\?}{BEHAVIOUR_NAME_END}" />
+    <string id="KWXEMsHC" text="{LORD.LINK} je na {SETTLEMENT_NAME}" />
+    <string id="kX8svveF" text="Cena této položky se blíží její průměrné ceně." />
+    <string id="kx8ZfaST" text="V pořádku. Tak jak moc si ceníš svého života? [ib:hip][if:convo_bared_teeth]" />
+    <string id="kXno6ZuU" text="Bitva skončila..." />
+    <string id="kyiibFu2" text="Vyhráli jste bitvu!" />
+    <string id="kZ7gLqMz" text="Pokud je povolen automatický nábor, posádka bude rekrutovat vojáky z významných osobností v centru města a v okolních osadách. Náklady bude hradit majitel osady." />
+    <string id="KZAQHSa2" text="Přesto je zřejmé, že z prosperity nemají všichni stejný prospěch. Lidé se zdají být naštvaní a donekonečna si stěžují na nové venkovské přistěhovalce, rostoucí ceny a na ty, kteří profitují více než ostatní." />
+    <string id="L1Q4AysI" text="Zisk" />
+    <string id="L3EE8bmx" text="Nikdo ve vaší družině nemá dostatečnou {SKILL} dovednost, aby tuto zakázku splnil. (Potřebuješ {AMOUNT} více)" />
+    <string id="l4uTnJct" text="Musíte si vybrat výsledek a to, jak moc chcete tento výsledek podpořit." />
+    <string id="l57Dk2DQ" text="Překročen limit ({TROOP_NUMBER} vězňů) v žaláři" />
+    <string id="l6a3grfK" text="Tvoje družina " />
+    <string id="L7qKijnE" text="Do tvého inventáře bylo přidáno {ITEM_NAME}, které získalo {COMPANION.NAME}." />
+    <string id="L7teSXvq" text="Musíš být vůdcem armády, abys ji mohl spravovat." />
+    <string id="l9Vve3bD" text="Podzim" />
+    <string id="lAgfGeXJ" text="Frakce království" />
+    <string id="LApMSsnb" text="Body soustředění" />
+    <string id="laV5aNhK" text="Unikátní" />
+    <string id="LAvXPBbs" text="Braňte naše obléhací stroje!" />
+    <string id="lb13ceVM" text="{?RULER.GENDER}Vysoká královna{?}Vysoký král{\?} {RULER.NAME}" />
+    <string id="lbdSaDpI" text="Zbývající čas" />
+    <string id="LBy6YDMV" text="Přeskupení" />
+    <string id="Lc1vIEnM" text="Vlci a ovce se pohybují stejným způsobem, a to posouváním podél čar na hrací desce, vždy po jednom kameni za tah." />
+    <string id="LEC8NhCV" text="Zákony" />
+    <string id="lfMgaBiJ" text="Ať se nám vyplatí vás nezabíjet." />
+    <string id="Lg3zeoYi" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} chrání {#IS_LEFT}{#}levý{#}mnoho{\#}{?IS_MIDDLE}střední{?}{\?}{?IS_RIGHT}pravý{?}{\?} bok{#IS_LEFT}{#}{#}{\#}." />
+    <string id="lh1yhgXw" text="Vybavení koně V" />
+    <string id="lihYjOSc" text="ks." />
+    <string id="littlebrother" text="Bratr" />
+    <string id="littlesister" text="Sestra" />
+    <string id="lj8XH6O7" text="Právě teď se nemůžu dostat do okna království!" />
+    <string id="ljcHO6PW" text="Změna bezpečnosti" />
+    <string id="LjUhEJxz" text="Karavana {OWNER.NAME}" />
+    <string id="LJwKdMdw" text="Počkej, až se soupeř dostane do pozice." />
+    <string id="lKIHqkAV" text="Sedmnáctý" />
+    <string id="LL6GkIfg" text="Pokud se ti podaří porazit {OPPONENT_COUNT_1} soupeře dříve, než padne, získáš {PRIZE_1}{GOLD_ICON}. Za sražení alespoň {PRIZE_2} protivníků získáš {GOLD_ICON}{OPPONENT_COUNT_2}, pokud se ti podaří porazit {PRIZE_3} protivníků, získáš {GOLD_ICON}{OPPONENT_COUNT_3} a pokud přežiješ dostatečně dlouho na to, abys porazil {PRIZE_4} protivníků, získáš {GOLD_ICON}{OPPONENT_COUNT_4}. Pokud se vám podaří zůstat posledním bojovníkem naživu, získáte velkou cenu bojů, {PRIZE_5}{GOLD_ICON}. To zní dobře, co? [if:convo_nonchalant]" />
+    <string id="Ll90uaxu" text="Úspěšná obléhání" />
+    <string id="lNADu8JO" text="Role" />
+    <string id="lnKAqDVM" text="Bránit klíčovou pozici" />
+    <string id="lockverb" text="Uzamknout" />
+    <string id="Lp0byzGQ" text="I" />
+    <string id="LpAiJGeV" text="{HERO_NAME} nemůže splnit žádný z dostupných příkazů." />
+    <string id="lpbDPuuW" text="{?RULER.GENDER}Císařovna{?}Císař{\?}. {RULER.NAME}" />
+    <string id="LpVaZbRS" text="S tímto jménem již existuje jiné království." />
+    <string id="lqm9PfF1" text="{?RULER.GENDER}Knyaginya{?}Knyaz{\?} {RULER.NAME}" />
+    <string id="lqMQ6GXj" text="Přebytek jídla" />
+    <string id="lQQPKo02" text="Přesuňte se, abyste nás chránili před nepřáteli, kteří se pohybují za našimi zády." />
+    <string id="lRAaUTjs" text="Zahoď" />
+    <string id="lrAnY7Fb" text="Staré úkoly" />
+    <string id="LSsFOEQy" text="Méně než den" />
+    <string id="lTTWrL1Q" text="Úkol vypršel: {QUEST_TITLE}" />
+    <string id="lvc1Xgf8" text="Krčmářská děvečka" />
+    <string id="lxLTCX5j" text="Povolání:" />
+    <string id="LymKjMLk" text="Vaši muži se právě připojili k vaší družině" />
+    <string id="lZ1IDnpP" text="Dej všem" />
+    <string id="LZhRP3PM" text="Počkej na další obléhací stroje" />
+    <string id="Lzmtqif5" text="Velikost armády" />
+    <string id="lznqF0oO" text="Rozpuštění" />
+    <string id="M2b5mtAE" text="Společník" />
+    <string id="m2YKBbdI" text="Ahojky, malé ztracené ovečky. Jsme vlci z hor a rádi bychom si s vámi udělali chvilku času...[rf:convo_mocking_revenge]" />
+    <string id="m6A7RLby" text="Nečestný" />
+    <string id="M6cWtObI" text="Tuto zbraň umí vyrobit následující hrdinové:" />
+    <string id="M6tfHhq7" text="Hlasovali jste a vládce rozhodl o výsledku." />
+    <string id="M9p0vPad" text="Znám vaše jméno... {COMMENT_STRING_MAIN}" />
+    <string id="m9vD3VlN" text="Tato družina se NEzvětší ani nezmenší. Bude se snažit zachovat svou velikost takovou, jaká je." />
+    <string id="Ma0PyWAC" text="Nájezdy, útočné družiny a obléhání mají při rozhodování větší váhu. Družina bude pronásledovat nepřátele dále." />
+    <string id="ma49Ya6b" text="Třicátá" />
+    <string id="MaBSSg7I" text="Beranidlo" />
+    <string id="MacceKIX" text="{RELATION_TEXT} s {BASE_HERO.NAME}" />
+    <string id="mAEaO8jM" text="{PRISONER.NAME} byl propuštěn." />
+    <string id="MAkZQKp0" text="Bonus k dovednosti / postih" />
+    <string id="maptimeplay" text="Hrajte na" />
+    <string id="mAxXKaXp" text="Obnovení" />
+    <string id="mbS0DkUo" text="Nájezd" />
+    <string id="mbT1uNPa" text="Dýka" />
+    <string id="Mc8ojOGn" text="Hearths" />
+    <string id="MciIqod6" text="Gaučové kopí" />
+    <string id="mDbaNQay" text="Vyrazte vpřed a pokuste se zasáhnout svého protivníka!" />
+    <string id="mds0myr4" text="{HERO.NAME} {?PLAYER.GENDER}ztratila{?}ztratil{\?} vlastnost {TRAIT_NAME}." />
+    <string id="MeQmoYb4" text="Nemáš dostatečně vysoký vztah, abys mohl získat tuto jednotku. {newline}Máš {REL1}. Potřebujete {REL2}." />
+    <string id="MFLAvq4Z" text="Na tomto místě jsou bandité. Chceš na ně zaútočit?" />
+    <string id="MfnYoLdc" text="Výdaje" />
+    <string id="MGv4Uabd" text="Vsadil jsi na sebe {BET_AMOUNT}, ale byl jsi poražen." />
+    <string id="mGWrSJLE" text="Nemůžete rozpustit armádu, když je v události na mapě." />
+    <string id="mhAr3dfG" text="Úkol aktivován: {QUEST_TITLE}" />
+    <string id="MHJCuM3N" text="Stůjte! Vaše cizí nohy na této posvátné půdě urážejí naše předky. Co s tím uděláme?[rf:convo_mocking_revenge]" />
+    <string id="mieKgbp8" text="Denní míra ohně" />
+    <string id="minuteabbr" text="m" />
+    <string id="mJB7knQo" text="Stáhněte se zpět" />
+    <string id="mJE0o9Zi" text="Posádky" />
+    <string id="mJkJWccN" text="Pokud budete pokračovat, zbavíte {GOVERNOR.NAME} funkce guvernéra {SETTLEMENT_NAME}. Jste si jisti?" />
+    <string id="MLmHSSg0" text="Těžká kavalerie" />
+    <string id="MmNF7sW7" text="Pohyb pěšců je možný pouze zajetím pěšců soupeře. {newline}Zjetí se provádí ortogonálním přeskočením 1 nebo více soupeřových pěšců." />
+    <string id="Mms9bbhY" text="{DAY_NUM} {?DAY_NUM==1}den{?}dny{\?}pěšce." />
+    <string id="mNr84Xm1" text="Do klanového okna se právě teď nemůžu dostat!" />
+    <string id="mountnoun" text="Osedlat" />
+    <string id="mPaQzgS0" text="Rád tě tu vidím, {PLAYER.LINK}." />
+    <string id="MpDMaBE9" text="Vzepřeš se nám, ano? Napijeme se z tvé lebky!" />
+    <string id="mPtUKcI3" text="Nepřítel se organizuje. Zvažte brzký taktický ústup." />
+    <string id="MPZ40lEk" text="Pojmenování novorozence" />
+    <string id="MqsWixDp" text="Ústup!" />
+    <string id="mSPDO0Fe" text="Jste v pasti nepřátel. Nejste ve stavu, kdy byste mohli bojovat. Vaší jedinou možností je vzdát se." />
+    <string id="MT4b8H9h" text="Neznámý" />
+    <string id="mTTWkewD" text="Dej" />
+    <string id="MUCmJaXQ" text="Vládce {FACTION_INFORMAL_NAME}" />
+    <string id="MUStU7ab" text="bratr" />
+    <string id="MW8rlyfL" text="Vyhozeno" />
+    <string id="MWatMKoP" text="Dne {DAY_OF_YEAR}, {YEAR} byla odhalena tajná dohoda mezi císařskými frakcemi, když se armády bývalých rivalů společně vydaly na bojiště." />
+    <string id="MWByKPst" text="Generálové" />
+    <string id="mwegfVKr" text="Cerebral" />
+    <string id="MWGATOoz" text="Turnaj se odehraje formou skupinového boje zblízka." />
+    <string id="MwgcfGsr" text="Pěšec, který přistane na kameni, na němž se již nachází soupeřův pěšec, tohoto soupeře zajme. Zajatý pěšec se položí na hromadu pod napadeného pěšce.{newline}Hromadu pěšců lze také znovu zajmout, pokud horní pěšec patří soupeři.{newline}Jakmile pěšec provede zajetí, v dalším tahu se přesune zpět ke svému domovskému dílku." />
+    <string id="MxG4217V" text="Vesničan" />
+    <string id="mxuirhkW" text="Zničili jste všechny nepřátelské obléhací stroje! Je čas ustoupit do hradu." />
+    <string id="mXxVf2rb" text="Kniha" />
+    <string id="Myb3WrB9" text="Role vůdců družiny a Efekty" />
+    <string id="mZR7eYHa" text="Štít I" />
+    <string id="MzxFIyAQ" text="Zobrazit srovnávací lišty království" />
+    <string id="N0MCVBXb" text="Zapomeň na to" />
+    <string id="n3e3g6Rq" text="Vsaď" />
+    <string id="N5fmlTza" text="{LEFT}, {RIGHT}" />
+    <string id="N6O2GtTK" text="Zušlechťování" />
+    <string id="n6Q6vv5t" text="Uloupil jsi {GOLD} zlata." />
+    <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} se stahují zpět." />
+    <string id="N7yWipWU" text="Bitva při přechodu řeky {newline}{newline}• Pěchota získává menší bonus. {newline}• Jízda má při útoku střední postih. {newline}• Koňští lučištníci mají při útoku menší postih." />
+    <string id="N84HlDaV" text="{NUMBER_OF} {ITEM} ({AMOUNT}{GOLD_ICON})" />
+    <string id="n9qR84YI" text="{PRISONER.NAME} utekl z {SETTLEMENT}." />
+    <string id="NaAA5kjG" text="Zvažte uzavření míru, obdržíte {TRIBUTE} tributu/den. (Podpora: {SUPPORT}%)" />
+    <string id="nAaT19CC" text="{?RULER.GENDER}Archoness{?}Archon{\?} {RULER.NAME}" />
+    <string id="NaNMRPv4" text="Aserani" />
+    <string id="NaorUInI" text="Družiny s nedostatečnou silou" />
+    <string id="NarcUcZA" text="Název frakce má neplatné znaky." />
+    <string id="nbBgbwM2" text="Ve frontě: {NUMBER}" />
+    <string id="NBv29XpJ" text="Nemůžete rozpustit armádu, dokud v ní působíte." />
+    <string id="nbw71MCj" text="{BUILDING_NAME} Budova v {SETTLEMENT_NAME} je dokončena." />
+    <string id="nDNOn5o2" text="Vybavení" />
+    <string id="ndXuPWYV" text="{NUM1}x{NUM2}" />
+    <string id="NeWvHjCw" text="Ohnivá balista" />
+    <string id="Nfm5lLWv" text="{CHILD.NAME} potřebuje tvou okamžitou pozornost!" />
+    <string id="nfQhamAF" text="Rychlost švihu:" />
+    <string id="NgHSyQem" text="V armádě" />
+    <string id="nHGm1wYg" text="Bitva dokončena. Stiskněte {leave_key} pro zobrazení výsledků" />
+    <string id="nHkQbLDc" text="Nelze použít s držáky" />
+    <string id="nHSVy0ns" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} jsou flanky z {#IS_LEFT}{#}levé{#}více stran{\#}{?IS_MIDDLE}střední{?}{\?}{?IS_RIGHT}pravé{?}{\?}." />
+    <string id="NiyNgXMe" text="Tato družina se již rozpadá" />
+    <string id="njnMk5P1" text="Disavow a Policy" />
+    <string id="nk0bADtq" text="Odmítli jste výzvu k souboji. Vaše vojsko je tímto projevem zbabělosti znechuceno. Vaše družina ztrácí morálku." />
+    <string id="NkbszXv6" text="Osada se bouří." />
+    <string id="NKYem1X0" text="Tato družina je v armádě {ARMY_LEADER}." />
+    <string id="nkzKgspT" text="Správa posádky" />
+    <string id="NLmaID0O" text="{HERO.NAME} byl popraven {KILLER.NAME}." />
+    <string id="nMcvafHY" text="Aktivní" />
+    <string id="nNDdo3I9" text="Jednoruční meč" />
+    <string id="nnr8sANN" text="{PARTY_LIST_TAG}({COUNT} + {WEAK_COUNT}w)" />
+    <string id="nNRKCYpR" text="Vlastní produkce" />
+    <string id="NnZ5w9zm" text="{NUM1} ({NUM2})" />
+    <string id="nojcK4ia" text="{?RULER.GENDER}Velká princezna{?}Velký princ{\?} {RULER.NAME}" />
+    <string id="NPJRmNAY" text="Nelze vyrobit." />
+    <string id="NqarFr4P" text="Možnosti" />
+    <string id="NQbqtEqP" text="Náklady: {COUNT}" />
+    <string id="NqSLYe6b" text="Pověst:" />
+    <string id="NqtTPVzn" text="Atributy:" />
+    <string id="NRbNsJ9C" text="Toto zruší vaše změny! Jste si jisti?" />
+    <string id="NRpwZGxI" text="Voják" />
+    <string id="NSSsxBHV" text="Náhodný výběr" />
+    <string id="NvJru5Tz" text="Pouze muž" />
+    <string id="nVKEUvaC" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} používají vražedné díry." />
+    <string id="nvswKHTZ" text="Zaplatil jsi {GOLD_AMOUNT}{GOLD_ICON}." />
+    <string id="nxQaab9d" text="{SHOPNAME} ({SHOPTYPE})" />
+    <string id="ny32aoLJ" text="Vybavení koně II" />
+    <string id="nyGRpJT3" text="Fronta" />
+    <string id="NYHinaEh" text="V bitvě nelze přistupovat k inventáři!" />
+    <string id="NZUELfbp" text="Nelze spravovat armádu během obléhání" />
+    <string id="o0OQ5omY" text="Naším plánem je zůstat v obraně." />
+    <string id="O10KTShQ" text="Obsluha" />
+    <string id="o1LEfpWD" text="Neteř" />
+    <string id="o1MtbgEi" text="Nevyřešený problém" />
+    <string id="o2ce7bhY" text="To je od vás moudré." />
+    <string id="O69Vhqxk" text="Kolik nám tedy dáte?[rf:convo_angry]" />
+    <string id="o7I8qayN" text="Ha! Není nad pořádnou ránu do břicha, která ti dá najevo, že jsi naživu, co? Vypadá to, že se ti podařilo zlikvidovat {OPPONENT_COUNT} protivníků. To není špatné. Ale to ti nepřinese žádnou výhru. Na tvém místě bych se tam vrátil a všem ukázal, co umím..." />
+    <string id="O9xpd5bn" text="baronka" />
+    <string id="oAg4dtbB" text="dvacátý pátý" />
+    <string id="ObTSCxra" text="Vazal" />
+    <string id="OBXNbvkK" text="Když se snažíš donutit vesničany, aby ti dali zboží, někteří obyvatelé se shromáždí, aby ti kladli odpor. Boj s nimi způsobí válku s {KINGDOM}." />
+    <string id="OCGaTxac" text="Cena za turnaj" />
+    <string id="OdFPHvtE" text="Na tuto osadu útočí povstalci. Chcete zasáhnout?" />
+    <string id="ODQmOrIw" text="Vývojáři" />
+    <string id="OEax2Y9c" text="Přepadněte karavany. Verbujte a veďte oddíly banditů. Infiltrujte nepřátelská města. Dávejte úplatky. Utéct ze zajetí." />
+    <string id="oGflu1jV" text="Použít vražednou díru" />
+    <string id="OGjq7rpg" text="Vezeme naše výrobky na trh v {TOWN}." />
+    <string id="OgRtdJhu" text="Bitva ve vesnici{newline}{newline}• Pěchota získává menší bonus.{newline}• Lučištníci mají při útoku střední postih.{newline}• Lučištníci na koních získávají při útoku střední postih." />
+    <string id="ogtgc69b" text="Bylo vám uděleno právo nosit prapor. Tvůj prapor bude označovat tvé postavení a přinášet ti čest. Který prapor si chceš vybrat?" />
+    <string id="OGxk0EXC" text="Turnaj skončil. Vítězem se stal {TOURNAMENT_FINAL_PARTICIPANT_A}, který ve finálovém kole porazil {TOURNAMENT_FINAL_PARTICIPANT_B}." />
+    <string id="oHaWR73d" text="Ok" />
+    <string id="Ohdrbpiw" text="Vlandian" />
+    <string id="OhLXo0gb" text="Zločinecký guvernér" />
+    <string id="OIBpCGYv" text="Tato družina se zmenší. Její současná cílová velikost je {TARGET_SIZE}." />
+    <string id="OiCCv0EL" text="Vesnice prochází těžkými časy. Zemědělské nářadí je zrezivělé a rozbité. Nejvzdálenější pole zabírá křoví a plevel." />
+    <string id="oiFt5bEV" text="Bonus k budově" />
+    <string id="oiSW6MyB" text="Truhlicová zbroj" />
+    <string id="OJmC1Ckc" text="Zbývající protivník: {REMAINING_OPPONENT_COUNT}" />
+    <string id="oKct1ecg" text="Dcera" />
+    <string id="ol0rBSrb" text="{STR1}{newline}{STR2}" />
+    <string id="OLKGQGHU" text="Jsem pánem {TOWNS}." />
+    <string id="OLyjbawD" text="[Více]" />
+    <string id="OLZqZZF3" text="Pokud budete pokračovat, {GOVERNOR.NAME} pojede pro {TRAVEL_DURATION}, aby se stal novým vládcem {SETTLEMENT_NAME}. Během cesty nebude {GOVERNOR.NAME} k dispozici a nebudeš moci změnit guvernéra {SETTLEMENT_NAME}, dokud nedorazí {GOVERNOR.NAME}. Jste si jisti?" />
+    <string id="ONGv27TH" text="A teď mi zmiz z očí, ty prašivý křikloune!" />
+    <string id="OnttNMRn" text="Štít IV" />
+    <string id="Ooqyo9RB" text="Přeskočit kolo" />
+    <string id="OPhlqUVl" text="Promluvte si" />
+    <string id="OpSGWdrk" text="Gangster" />
+    <string id="OqCodBZJ" text="Stůj, ty pse! Ukaž nám, co umíš!" />
+    <string id="Or9YduTA" text="sestra" />
+    <string id="oRaa1yls" text="Spotřební" />
+    <string id="OSZUvWbG" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} jsou připraveny." />
+    <string id="ot2M62R8" text="+{BONUS_AMOUNT} bonus xp k posádkovým jednotkám." />
+    <string id="oTGDxKW7" text="Vyhlaste válku {FACTION}" />
+    <string id="OtP3heba" text="Porazil jsi soupeře a vyhrál jsi hru!" />
+    <string id="ou9asw1a" text="Poškození švihem {SWING_DAMAGE_TYPE}:" />
+    <string id="OviaJ1tA" text="Ostatní" />
+    <string id="oVSS2Lp5" text="Vybavení koně III" />
+    <string id="OWCoBElc" text="Jsi zajat {PARTY_NAME}." />
+    <string id="owg6SqHF" text="emír" />
+    <string id="owTlJjJc" text="Švagr" />
+    <string id="OxiaKT0G" text="Sturgián" />
+    <string id="oYUAuLO7" text="Přísahal jsi, že nebudeš útočit." />
+    <string id="OzazmGBi" text="Khuzaitové" />
+    <string id="ozYRUrum" text=" Pomozte zraněným vojákům při léčení v osadách." />
+    <string id="P1VmnfsB" text="{BUILDING_NAME} Budova v {SETTLEMENT_NAME} získala jednu úroveň." />
+    <string id="P2CRzfV7" text="Obchody v osadě" />
+    <string id="p2WBSIa7" text="Soudržnost:" />
+    <string id="P3SJla9F" text="Vyrabované vesnice" />
+    <string id="p4PIzGTP" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} se drží vysoko." />
+    <string id="p5Rad7i2" text="Válečná družina " />
+    <string id="p8amfQyz" text="Žoldnéři nemohou vyhánět klany." />
+    <string id="P8BxiiKd" text="Navzdory chudobě slyšíte jen málo slov stížností, jako by lidé byli příliš zbití na to, aby očekávali nějakou změnu." />
+    <string id="P8Z3zQyy" text="Bezpečné" />
+    <string id="pa3E7810" text="Přípravy na obléhání" />
+    <string id="PAa618xe" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} vyrážejí ven." />
+    <string id="pAOtyE9u" text="Bitva na dunách {newline}{newline}• Jízda získává velký bonus. {newline}• Koňští lučištníci získávají velký bonus." />
+    <string id="pb4KfhxC" text="Vaši kapitáni nařizují taktický ústup!" />
+    <string id="pB5anEQq" text="Přesuňte se na výchozí pozici." />
+    <string id="pbdrFqb3" text="Přinuťte tuto armádu k rozpuštění." />
+    <string id="Pc0zpaGa" text="Ano, co to tu máme? V těchto končinách se platí daň za průchod, pocestný, buď v mincích, nebo v krvi.[if:convo_bared_teeth]" />
+    <string id="pcy8IXDf" text="{?RULER.GENDER}Královna{?}Král{\?} {RULER.NAME}" />
+    <string id="PDdh1sBj" text="Jméno" />
+    <string id="PdXqoa2W" text="Cestování do {SETTLEMENT_NAME}." />
+    <string id="PE4nuMc7" text="Tato stránka vysvětluje herní koncepty ve hře Bannerlord" />
+    <string id="PEKxMxal" text="Nyní můžete uniknout." />
+    <string id="pEm60xEX" text="Váš soupeř získá pěšce." />
+    <string id="PFbLgd1I" text="Vzdejte se" />
+    <string id="pgd7Dp78" text="Obydlí" />
+    <string id="pGEIBlLR" text="Prosadit" />
+    <string id="PGl6fYqY" text="Vyberte si koňské lučištníky" />
+    <string id="PGXitpMN" text="{SETTLEMENT_NAME} - ({COMMON_AREA_NAME})" />
+    <string id="PH7pkve4" text="{ISSUE_NAME}: Vaše jednotky řeší tento problém." />
+    <string id="PhF8wNaG" text="Nelze použít na koni" />
+    <string id="PHkC8Gia" text="Prodej" />
+    <string id="PhoKHbhd" text="Vyhraná bitva. Stiskněte {leave_key} pro zobrazení výsledků" />
+    <string id="Pia30xtc" text="{?ASKED_LORD.GENDER}se{?}se{\?} v současné době nachází na {TOWN_NAME}." />
+    <string id="PiHpR4QL" text="Jednoruční" />
+    <string id="PitdvCJI" text="Změna guvernéra" />
+    <string id="pJBz7hhl" text="Shromáždi své muže, máme před sebou další úkol!" />
+    <string id="PJEuE208" text="Domobrana:" />
+    <string id="pkyASW0A" text="Družina / Výše platby dosahuje" />
+    <string id="pLZeP6L6" text="Útok na hradby {?IS_GENERAL_SIDE}{?} ze {SIDE_STRING}strany {\?}" />
+    <string id="pm0yiOmv" text="Získáno: {DENAR_AMOUNT}{GOLD_ICON}" />
+    <string id="pMb8Pe12" text="Snacha" />
+    <string id="PMnSk81U" text="Tak ty hodláš bojovat, ovčáčku? Tak se podívejme na tvé rohy." />
+    <string id="PN4Edq9W" text="Zbraně pro boj zblízka III" />
+    <string id="pn9KNMxb" text="Jsi v pasti nepřátel. Tvoji muži však nejsou ve stavu, aby mohli bojovat. Vaší jedinou možností je vzdát se." />
+    <string id="PNZmPprx" text="Obouruční meč" />
+    <string id="policypropose" text="Navrhni" />
+    <string id="porKAP64" text="Zvažte zrušení této politiky ({SUPPORT}%)" />
+    <string id="PpPbWYPB" text="Způsobilý k tomu, aby se stal žoldnéřem" />
+    <string id="pPRYdrk7" text="Řízení armády" />
+    <string id="pq48aN8d" text="Morálka: {reg1}" />
+    <string id="pQ9Sxily" text="Gratulujeme, šampióne! Tvůj boj tam byl něco, na co se nezapomíná! Jako poslední z nich samozřejmě získáváš hlavní cenu: {PRIZE}{GOLD_ICON}." />
+    <string id="PqfS5lgq" text="{ABSORBED_AMOUNT} Poškození bylo absorbováno {ARMOR_AMOUNT} brněním." />
+    <string id="prs0jRAy" text="Celkem" />
+    <string id="psjAVdkH" text="Obnovit ikonu" />
+    <string id="pSjnd6PX" text="Souboj jste prohráli. Vaše armáda je z porážky skleslá. Tvá družina ztrácí morálku." />
+    <string id="PSN8IaIg" text="Štíty" />
+    <string id="pSWt8NXH" text="Nájezd {SETTLEMENT_NAME} ({RAIDING_PROCESS}%)" />
+    <string id="pSz4xSqO" text="Hrdinova dovednost {SKILL_NAME} musí být {MIN_SKILL_AMOUNT} nebo vyšší." />
+    <string id="pT9TZehy" text="Tábor" />
+    <string id="puwXJDa9" text="Prosperita:" />
+    <string id="PVidxUQ8" text="Zásoby potravin" />
+    <string id="PvrRFwHM" text="Získáš {?PAY_OR_GET}zisk{?}ztrátu{\?}. {TRADE_AMOUNT}{MORALE_ICON}" />
+    <string id="PVUeymMR" text="Probíhá" />
+    <string id="pwFp1A5W" text="Sadistický" />
+    <string id="PYaUEZzn" text="Zvažte vyhlášení války (Podpora: {SUPPORT}%)" />
+    <string id="PylbJEe5" text="Muži #" />
+    <string id="Q0qrw7F5" text="Přidat zaměření" />
+    <string id="Q2alNolf" text="moje příbuzná {REFERING_HERO.LINK}" />
+    <string id="Q2JYjFQl" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} ustupují." />
+    <string id="Q3hlcBa4" text="Část" />
+    <string id="Q3KrMlLd" text="CHARGE!" />
+    <string id="Q67Wys0i" text="Hlídkují kolem {SETTLEMENT_NAME}." />
+    <string id="Q7ONA10T" text="&lt;b&gt;Trebuchet&lt;/b&gt;{NEWLINE}Někdy nepřesný, ale ničivý proti hradbám." />
+    <string id="q7xpz1xb" text="Obchodně vázaná vesnice" />
+    <string id="Q8mI3b4K" text="Nebyla vybrána žádná politika" />
+    <string id="Q9h3y2oO" text="Osmý" />
+    <string id="QA8Gm9PY" text="Horký den, že? Neunavuj se bojem. Dejte nám, co chceme, a my odejdeme. [rf:convo_mocking_revenge]" />
+    <string id="qaueUlAp" text="Dobře. Teď buďte venku opatrní. Svět je plný zlodějů, ne všichni jsou tak hodní jako my.[ib:closed][rf:convo_bemused]" />
+    <string id="QAv3upYr" text="Plášť" />
+    <string id="qb31gnpr" text="Bonus pro vůdce klanu" />
+    <string id="QBbBahLv" text="Máš naše svolení pokračovat ve své cestě." />
+    <string id="qC4OsBt1" text="Vesnice (v obležení)" />
+    <string id="qDSda1OI" text="{DAY} {?DAY_IS_PLURAL}dny{?}dny{\?}" />
+    <string id="QE1XRyUP" text="+{BONUS_AMOUNT}% bonus k rychlosti výroby obléhacích strojů" />
+    <string id="qe686AAn" text="Jsi vládce. Vaše rozhodnutí bude konečné a bude mít přednost před čímkoli." />
+    <string id="QeeK2rge" text="Ty" />
+    <string id="QFMshJaj" text="Shromáždění v blízkosti {SETTLEMENT_NAME}." />
+    <string id="qg0WttZb" text="Musíš být součástí království" />
+    <string id="Qg5suamT" text="Vsadil jsi {BET_AMOUNT} na {FIGHTER_NAME}, ale {?FIGHTER_GENDER}byla poražena{?}byl poražen{\?}." />
+    <string id="qgHblOq4" text="Spatřil jsi léčku." />
+    <string id="qgL4P2vO" text="Město je prosperující. Lidé vypadají dobře živení a relativně spokojeně." />
+    <string id="QgUej8DP" text="Žádný aktivní úkol" />
+    <string id="qhhLVJAC" text="&lt;b&gt;Přípravy&lt;/b&gt;" />
+    <string id="qHkTYCy0" text="Vaše vojsko získá {XP_AMOUNT} zkušeností." />
+    <string id="qKg44yWp" text="Priorita" />
+    <string id="QKGVAVcc" text="Výhody guvernéra" />
+    <string id="QL2t7D44" text="Dodatečný limit dílny" />
+    <string id="ql8Xr5ap" text="Obléhací bitva{newline}{newline}• Lučištníci mají při útoku velký postih.{newline}• Jezdci mají při útoku střední postih.{newline}• Koňští lučištníci mají při útoku velký postih." />
+    <string id="QlaGZAHq" text="Dorazily nové posily!" />
+    <string id="QLM6DWHB" text="Aktivní úkoly" />
+    <string id="qlnXblKO" text="{ISSUE_NAME}: Tvé jednotky vyřešily záležitost a vrátily se ze své mise." />
+    <string id="QLRbhRKL" text="Vydání:" />
+    <string id="qlw2LWgu" text="Přesuňte se na dostřel" />
+    <string id="qM8daraD" text="Celkový počet bodů dovedností: {CURRENT_SKILL_POINTS}" />
+    <string id="QmaVRAkx" text="Nemohl jsi vyplatit všechny mzdy, tvá družina ztrácí {reg1} morálky." />
+    <string id="qMhCpq9k" text="Překročena velikost družin " />
+    <string id="Qn3DCH3d" text="Vlastník pozemku" />
+    <string id="qNgjr719" text="Vojsko obléhající {SETTLEMENT} zahájilo útok!" />
+    <string id="qnxJYAs7" text="Družina " />
+    <string id="qpmpTdla" text="Významný" />
+    <string id="qQLh6S2w" text="SP {CURRENTAMOUNT}/{TARGETAMOUNT}" />
+    <string id="qR0s1VvE" text="Slyšíš nějaké stížnosti na ceny, nedostatek a chamtivé obchodníky, ale ne víc než obvykle." />
+    <string id="qSC0t1lY" text="Na {DAY_OF_YEAR}, {YEAR}, {FIRST_HERO} si vzal {SECOND_HERO}." />
+    <string id="qsh0I4Rm" text="Tvůj soupeř hodil {DICE_ROLL}." />
+    <string id="qt7WSK15" text="{SETTLEMENT_NAME} (Přepadení)" />
+    <string id="QTbZPyha" text="Doprovodný" />
+    <string id="qtmj7h2r" text="  0" />
+    <string id="QtXf82OD" text="Zbraň by měla mít poškození bodnutím {THRUST_DAMAGE_TYPE}" />
+    <string id="quantitysign" text="Ks" />
+    <string id="qUtYks66" text="Armáda {ARMY_LEADER.LINK} se shromažďuje poblíž {SETTLEMENT_NAME}." />
+    <string id="QxdINoOA" text="příbuzná" />
+    <string id="QxlDIo3q" text="pátý" />
+    <string id="QY2nuTFB" text="Stáhněme se!" />
+    <string id="qzRbMK8G" text="Vaši vazalové budou mít větší tendenci podnikat obranné akce proti tomuto nepříteli, například reagovat na nepřátelské nájezdy a obléhání." />
+    <string id="r312jCKr" text="Navrhněte mír" />
+    <string id="R4eS65oX" text="Někteří z rozzlobených vesničanů popadnou své nástroje a připraví se ti postavit na odpor. Vypadá to, že pokud budeš pokračovat, budeš mít na krku boj." />
+    <string id="R5IOmwN1" text="Budování obléhacího tábora" />
+    <string id="R6oKMaZ5" text="{MARRIED_HERO.LINK} si vzali {MARRIED_TO.LINK}." />
+    <string id="R7v2UD8b" text="Přesouváš pěšce." />
+    <string id="R9DiQfax" text="Bitva" />
+    <string id="RaAnj4On" text="Obránci" />
+    <string id="rangedtroop" text="Střelba na dálku" />
+    <string id="ranksign" text="Ks" />
+    <string id="rBieLPA7" text="Překročili jste limit svých vojáků.{newline}Dočasně si své vojáky ponecháte, ale po nějaké době vaši družinu rychle opustí. Také tě zpomalí.{newline}Jsi si jistý?" />
+    <string id="Rbn9l507" text="Bonus k osadě rebelů" />
+    <string id="rbz1Bwbv" text="Inventář" />
+    <string id="rdbw9TVm" text="Štít II" />
+    <string id="rDnWQL87" text="Zobrazit/skrýt Pochva" />
+    <string id="RdsbyNE2" text="Zvažte uzavření míru a zaplaťte {TRIBUTE}denní tribut. (Podpora: {SUPPORT}%)" />
+    <string id="REdb7vbQ" text="{?RULER.GENDER}Sultana{?}Sultan{\?} {RULER.NAME}" />
+    <string id="rFvEZJu7" text="{ITEM_NAME} byl přidán do inventáře {PLAYER.LINK}." />
+    <string id="rgmnL6sF" text="Pouštní bitva {newline}{newline}• Jezdectvo získává velký bonus. {newline}• Koňští lučištníci získávají velký bonus." />
+    <string id="rGNrtXSx" text="Přijeli jste do {SETTLEMENT}, abyste pomohli bránit osadu před útočníky." />
+    <string id="RGqPxabq" text="Síla" />
+    <string id="rHSjMjWX" text="Rozhodnout se" />
+    <string id="RiZ9lNAe" text="Úroveň hradeb" />
+    <string id="RjgBIYvH" text="&lt;b&gt;Vylepšené beranidlo&lt;/b&gt;{NEWLINE}Slouží k prolomení brány. Lepší než normální." />
+    <string id="RJJ1Pbjk" text="Žoldnéř bojující za {FACTION_INFORMAL_NAME}" />
+    <string id="RKyiu5MH" text="Možná bychom se mohli dohodnout." />
+    <string id="rmSkXZlp" text="Turnaj skončil. {TOURNAMENT_FINAL_OPPONENT}Vítězíš, když tě porazíš v posledním kole." />
+    <string id="RNQIG1DS" text="Slyšíte to pískání a vytí? To není vítr - to jsou duchové těch, kteří se nám postavili. Připravte se k nim připojit." />
+    <string id="RO0a71EP" text="Soupeř proti vám postavil bariéru, ale vám zbývá stejný počet pěšců. Hra je nerozhodná!" />
+    <string id="ROB0VcsI" text="Váš šampion v souboji zvítězil. Vaše armáda je tímto vítězstvím povzbuzena. Vaše družina získává morálku." />
+    <string id="RpfgdR45" text="Můj pán" />
+    <string id="rPvzZKFk" text="Nedostatečná posádka" />
+    <string id="rQ5On2GL" text="Dodatečná velikost družiny pro každou družinu v klanu" />
+    <string id="RqnEjYVe" text="+{RECRUIT_AMOUNT} Nábor{?ISPLURAL}{?} {\?}" />
+    <string id="rqWJL27J" text="Zlato celkem" />
+    <string id="RsBO5aOq" text="Zbraň by měla mít švih {SWING_DAMAGE_TYPE} Poškození" />
+    <string id="RTmDiT0l" text="Aktuální bonus k velikosti družin " />
+    <string id="rTuptXLg" text="Banner útočníka" />
+    <string id="RU6D7hSR" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} postupují." />
+    <string id="RUcYGbUH" text="Nemáte dostatek bodů" />
+    <string id="RvDxHQ73" text="Cena:" />
+    <string id="RVfkxgMm" text="{?IS_PRISONER_FOLLOWING}Zůstaň{?}Pokračuj{\?}." />
+    <string id="RvKwdXWs" text="Velitel" />
+    <string id="rxOK6dn1" text="Způsobilý být vazalem" />
+    <string id="rxxZFVOa" text="{HERO_NAME} může splnit {NUMBER} rozkazy." />
+    <string id="rY23b263" text="Váš soupeř se posune o pěšce." />
+    <string id="rZ9aqmaq" text="Existuje lepší cíl. Měli bychom tam jít." />
+    <string id="RzjMX0Og" text="Dobře. Teď se vydejte na cestu. Nezapomeňte pít hodně vody!" />
+    <string id="rzsRQkXw" text="{CHAR_NAME}už máš {PERK_NAME}přednost." />
+    <string id="s1NEbhFL" text="Ve frontě" />
+    <string id="s2vaPUdG" text="Oštěpová výztuha" />
+    <string id="S3ymfdwB" text="Provedli jste změny. Chcete je použít?" />
+    <string id="s5h0Yarn" text="Spravujte svou armádu" />
+    <string id="s6ofDDii" text="Barikáda" />
+    <string id="S9tmCkHz" text="Tento hrdina vyklízí společnou oblast." />
+    <string id="sa2TQu1G" text="Tento hrdina je zaneprázdněn nějakým problémem nebo úkolem." />
+    <string id="SBp4Ja1u" text="Volné body soustředění můžete využít pro zvýšení limitu učení v jednotlivých dovednostech. Hrdinové získávají {FOCUS_PER_LEVEL} bod soustředění při každém zvýšení úrovně." />
+    <string id="SCAehHN6" text="syn" />
+    <string id="SdcpdfaV" text="Ahoj - ty. Co máš v brašnách? Co máš u sebe? [if:convo_bared_teeth]" />
+    <string id="SdXS4lxN" text="Bonus pro vůdce frakce" />
+    <string id="SEBZa2Lh" text="Zvýšení soudržnosti" />
+    <string id="secondabbr" text="ova" />
+    <string id="SeQ0Q7r6" text="Probíhající problém" />
+    <string id="settlementtrack" text="Sledovat" />
+    <string id="sfcbd6QS" text="Získal jsi {CURRENT_PROGRESS} bodů z {TARGET_PROGRESS} potřebných k úspěchu v tomto pokusu o přesvědčování." />
+    <string id="SFddKpPz" text="Těsná pěst" />
+    <string id="SFg3xgCM" text="Poblíž" />
+    <string id="sFpNAqHs" text="Soucitný" />
+    <string id="Sj9Ux8jS" text="Rozprášeno" />
+    <string id="sJLUbnLl" text="Celková síla" />
+    <string id="sKnYLPkn" text="king" />
+    <string id="slKe6Gyc" text="Celkem jídlo armády" />
+    <string id="SLNKWIj5" text="Hrdinův rys {TRAIT_NAME} musí být {MAX_TRAIT_AMOUNT} nebo nižší." />
+    <string id="smeltverb" text="Roztavit" />
+    <string id="smithingverb" text="Kovářství" />
+    <string id="SMws1ws6" text="Velký štít" />
+    <string id="SNfvAnuV" text="+{BONUS_AMOUNT}% bonus k rychlosti opravy zdi" />
+    <string id="SNVrnzES" text="Nelze shromáždit armádu během střetnutí." />
+    <string id="snxLc1Wq" text="Dva pěšáci od každého hráče začínají na hrací ploše podle obrázku. Hráči se střídají v umisťování ostatních na libovolný volný dílek s výjimkou prostředního." />
+    <string id="snyxby5L" text="Zpět na domov" />
+    <string id="So5yubRS" text="Nelze použít jednou rukou" />
+    <string id="SojzHoCa" text="Pouze ženy" />
+    <string id="spIe8wd8" text="Jednoruční tyčová zbraň" />
+    <string id="spkv1rOW" text="Změna vůdce družin " />
+    <string id="SqUphVOm" text="Družiny ({CURRENT} / {LIMIT})" />
+    <string id="SrfYbg3x" text="Vůdce" />
+    <string id="SRYuaoh1" text="Tento region zachvátily občanské nepokoje, lidé se však stále musí věnovat svým každodenním povinnostem. Většinou se dlouho nezdržují na trzích ani nenavazují oční kontakt. Zaslechnete však tiché rozhovory o povstalcích na venkově. Zdá se, že někteří se rebelů bojí, jiní jsou tajně nadšeni, že se karta alespoň na chvíli obrátila proti bohatým a mocným." />
+    <string id="strcharactertypelady" text="Lady" />
+    <string id="stS5PBIr" text="Kazatel" />
+    <string id="svArZT0G" text="Podrobnosti na" />
+    <string id="Svem1NiV" text="Váš protivník byl sražen do bezvědomí a vy jste vítěz!" />
+    <string id="svnxJA0L" text="{HERO} Nemá dostatek {SKILL} dovedností k výrobě této zbraně." />
+    <string id="Svtb9MQv" text="Duel" />
+    <string id="SwY4YLMY" text="Dračí prapor opět stojí vysoko." />
+    <string id="SydDh9jf" text="Získal jsi {COUNT} {ITEM} od {HERO.NAME}." />
+    <string id="SYm7rgCX" text="{COMPANION.LINK} opustil tvou družinu." />
+    <string id="szSjkkyl" text="Měli bychom si vybrat další předmět." />
+    <string id="T0aULilA" text="&lt;b&gt;Beranidlo&lt;/b&gt;{NEWLINE}Používá se k rozbití brány. Lepší než pouhé žebříky" />
+    <string id="t1hYTrMR" text="{DAY_OF_YEAR} {YEAR} padla říše. {FORMAL_NAME} již neexistuje." />
+    <string id="T3JJ7aIV" text="Jezdi po mapě co největší rychlostí. Bojuj na koni a získej bonus k rychlosti." />
+    <string id="T592iYI4" text="Hodíš {DICE_ROLL}." />
+    <string id="T5VsEnNE" text="Počet mužů" />
+    <string id="t5X1TNBq" text="Použij obléhací stroje {?IS_GENERAL_SIDE}{?} na {SIDE_STRING}straně {\?}." />
+    <string id="t6DiaDQ3" text="Begum" />
+    <string id="t6NXmyoF" text="{.a} {STR}" />
+    <string id="t6sgwieR" text="Hodnota řemesla" />
+    <string id="t6xdCj43" text="Ach, opravdu můžeme, opravdu můžeme. Samozřejmě za předpokladu, že máte tlustý měšec a jste ochotni ho odlehčit. [ib:hip][rf:convo_bemused]" />
+    <string id="t78atYqH" text="Obouruční" />
+    <string id="T8w5VRAy" text="Nepřátelská vojska se stahují k hradu." />
+    <string id="taaNCsVZ" text="Vítězíš v turnaji, když v posledním kole porazíš {TOURNAMENT_FINAL_OPPONENT}." />
+    <string id="tAMBVG9B" text="Třetí" />
+    <string id="tb6e1wjQ" text="Nepřítel zničil všechny naše obléhací stroje!" />
+    <string id="tDA5dhn3" text="Císařovna" />
+    <string id="TDQId8c9" text="Postavili jste proti soupeři bariéru a zbylo vám více pěšců. Vyhrál jsi hru!" />
+    <string id="tDy1TfDq" text="Návrat k hrdinovi" />
+    <string id="tdYB3Tzc" text="Znovu" />
+    <string id="tE1VwKTZ" text="Vrhací sekera" />
+    <string id="TeWnL9bh" text="můj manžel {REFERING_HERO.LINK}" />
+    <string id="TgtdcMGS" text="Moucha, která se trochu vrtí a bojuje - to zvládneme.." />
+    <string id="thIebQAR" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} jedou v předvoji." />
+    <string id="ThZdJyVW" text="Odstranit guvernéra" />
+    <string id="Ti2GeG0U" text="Po výběru této možnosti zablokuje jednu náhodnou možnost." />
+    <string id="ti5FwD4t" text="Neznámá družina " />
+    <string id="TlP31w8l" text="Bricole" />
+    <string id="TlvM7kuQ" text="Osmnáctý" />
+    <string id="tMg5AF19" text="Právě teď nemám přístup k úkolům!" />
+    <string id="TmKbTxQy" text="khatun" />
+    <string id="TNLRC4Gf" text="Bojujte s jednoruční krátkou zbraní." />
+    <string id="tnZ7BfO9" text="Návrh míru" />
+    <string id="toK51MD4" text="Navštiv" />
+    <string id="tpjGRDHP" text="Souboj skončil. Podržte {leave_key} a odejděte." />
+    <string id="Tqa0r78j" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} provádí výpad." />
+    <string id="tQDbRfMs" text="V zápalu boje jsme se rozdělili." />
+    <string id="tqSODeKW" text="Zabil ses sám!" />
+    <string id="troopclassname" text="{FORMATION_CLASS}" />
+    <string id="trRLa9pi" text="Střetli jste se s {PARTY}. Boj s nimi způsobí válku s {KINGDOM}." />
+    <string id="tSbH6mTJ" text="Nelze použít se štíty" />
+    <string id="Tsn6bCft" text="Štědrý" />
+    <string id="TSw4tD02" text="Opravdu? Předpokládám, že si dnes zašpiním ruce. [ib:aggressive][if:convo_bared_teeth]" />
+    <string id="TSWen983" text="Aktivní úkol" />
+    <string id="TTWL7RLe" text="Kuše" />
+    <string id="Tu46dFyH" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} používá obléhací zbraně." />
+    <string id="TVcqGJ1r" text="Hlavní hrdina je uvězněn!" />
+    <string id="TvmDFK6o" text="{REWARD}" />
+    <string id="TVQXa0y0" text="Bitva vyhrána!" />
+    <string id="twinfemale" text="Dvojčata" />
+    <string id="twinmale" text="Dvojče" />
+    <string id="Txbga7js" text="Narazíte na bitvu mezi {ATTACKER} a {DEFENDER}." />
+    <string id="TxeKpK3Y" text="Váš vztah s {MAGNITUDE} se zvýšil o {VALUE} na {HERO.NAME}." />
+    <string id="tXl9REtA" text="Domobrana {SETTLEMENT_NAME}" />
+    <string id="Tyc4aAdz" text="Zapojíš se do bitvy, aniž bys vedl nějaké muže." />
+    <string id="u3c9M8vx" text="Arcivévodkyně" />
+    <string id="U7etPQA2" text="{FIRSTNAME} {JOB_NAME}" />
+    <string id="U7Z7f7ZT" text="Manžel/ka" />
+    <string id="U8TPlwW9" text="Dobře poznán {PLAYER.LINK}. Jsem tvým dlužníkem za to, co jsi právě udělal. Doufám, že jednoho dne najdu způsob, jak to splatit." />
+    <string id="U8VHRdwF" text="Brnění nohou:" />
+    <string id="ua15BlYh" text="Vynulovat vše" />
+    <string id="uAL3bCfN" text="Zatížení{newline}Celková hmotnost vybavené zbroje a zbraně.{newline}Vysoké zatížení zpomaluje rychlost tvého pěšího pohybu." />
+    <string id="UaV0JT87" text="Tento hrdina nemůže tento předmět vyrobit." />
+    <string id="Uaw5VF3D" text="Váš protivník se ho chce vzdát. Přijímáte své vítězství? Pokud ne, budete pokračovat ve hře." />
+    <string id="UaYsPbER" text="Nevyplacená mzda" />
+    <string id="uB245vWg" text="Jídlo:" />
+    <string id="uBxHeyxy" text="Statečnost:" />
+    <string id="uCikaIoq" text="Splendid. Vidíte, já a moji chlapci nejsme krutí lidé. Ale trochu chamtiví jsme, to se nedá popřít, tak buďte štědří.[ib:hip][rf:convo_bemused]" />
+    <string id="UckVajhO" text="Získaná pověst: + {RENOWN}" />
+    <string id="UCo8oT1Q" text="Válečná strategie" />
+    <string id="ucyy9Sc5" text="{LEFT} / {RIGHT}" />
+    <string id="uEiFfbOq" text="{SEASON} {DAY}, {YEAR}" />
+    <string id="uFDiRV1Z" text="({PRIMARY_ROLE})" />
+    <string id="uFuDwaYp" text="{HOUR} {?PLURAL_HOURS}hodin{?}hodin{\?}" />
+    <string id="ug4LiPbb" text="Střelné zbraně IV" />
+    <string id="uGahvbVP" text="Bránit obléhací zbraně {?IS_GENERAL_SIDE}{?} na {SIDE_STRING}straně {\?}" />
+    <string id="UgMbCUMO" text="můj otec {REFERING_HERO.LINK}" />
+    <string id="ugX2RRDY" text="Byl jsem unesen a držen jako výkupné" />
+    <string id="uhcIXeba" text="Odhazujete předměty. Jsi si jistý?" />
+    <string id="uinDitbl" text="Musíme prolomit hradby." />
+    <string id="UIqPXN62" text="Zasáhněte nepřátele vrhacími zbraněmi." />
+    <string id="UJ01br0b" text="Tento hrdina nemá požadovanou dovednost {SKILL} pro splnění tohoto příkazu." />
+    <string id="um1Z5swc" text="Paní {REFERING_HERO.LINK}" />
+    <string id="Umb8XsZH" text="Průnik" />
+    <string id="uN5gwV05" text="Zesnulý" />
+    <string id="uOqdr7FM" text="Gratulujeme! Zvítězil jsi nad svým protivníkem!" />
+    <string id="uOqfaqbk" text="{PARTY_LIST_TAG}({COUNT} / {MAX_COUNT})" />
+    <string id="UOr4UP47" text="Velmi opatrný" />
+    <string id="UP6yVQ7b" text="Příznivec" />
+    <string id="uPZH31zw" text="Strýček" />
+    <string id="ur8kO8iM" text="Herní tipy" />
+    <string id="UtQhRvS8" text="manžel" />
+    <string id="Uu0wzNj3" text="Úroveň klanu: {TIER}" />
+    <string id="uUlO8l6M" text="Prý ses pohádal s některými lidmi pracujícími pro {COMMON_AREA_OWNER}. No, do toho mi nic není." />
+    <string id="uuwm0Kga" text="Dveře" />
+    <string id="uvIL0tP9" text="Dohled" />
+    <string id="uwPByaQg" text="Zahájit útok" />
+    <string id="UX7reJ3K" text="Musíme spěchat s obranou našich obléhacích strojů, aby je nepřítel nezničil." />
+    <string id="UxD6lPXa" text="Získal jsi {INFLUENCE} vliv. Nový vliv je {NEW_INFLUENCE}." />
+    <string id="UxyIkWah" text="Žoldnéři nemohou anektovat osady." />
+    <string id="uYFd4meY" text="Úkol zadal" />
+    <string id="Uzsnek6O" text="Automatický nábor" />
+    <string id="V03gbccF" text="Zasáhl jsi spřátelené vojsko!" />
+    <string id="V0Kw3O7c" text="Výukový program" />
+    <string id="V0OMMQ1F" text="Mistrovské představení, {PLAYER.LINK}. Whack! Praskni! Zničil jsi {OPPONENT_COUNT} z nich. Davu se to líbilo. A vysloužil sis cenu {PRIZE}{GOLD_ICON}." />
+    <string id="V1FKcYyi" text="{SETTLEMENT_NAME} (Uloupeno)" />
+    <string id="v3cY44N1" text="Nemůžeš anektovat osadu vládnoucího klanu." />
+    <string id="v4nltcfz" text="{PARTY_LIST_TAG}{TOTAL_COUNT}/{MAX_COUNT} ({COUNT} + {WEAK_COUNT}w)" />
+    <string id="v5bJd6mZ" text="+{BONUS_AMOUNT} bonus ke změně prosperity" />
+    <string id="V7ESaOJU" text="Vyber si svůj prapor" />
+    <string id="Vap6ahft" text="Muži! {BEHAVIOUR_NAME_BEGIN}!" />
+    <string id="VbeHEAsa" text="Ústup" />
+    <string id="Vc9Mx6Jb" text="Úkoly" />
+    <string id="vdK5SaJN" text="Mm. Škoda.[ib:aggressive][if:convo_annoyed]" />
+    <string id="vdKLq8T5" text="Hradby{newline}Úroveň {LEVEL}" />
+    <string id="veiFupWz" text="{?RULER.GENDER}Baroness{?}Baron{\?} {RULER.NAME}" />
+    <string id="VeOqrmx5" text="{LEFT}{FOCUS_ICON}{RIGHT}" />
+    <string id="VeqwXwYc" text="Nepřátelé prchají. Vyhráli jste bitvu." />
+    <string id="vgXYtMrj" text="Přeživší bitvu" />
+    <string id="VHjIJGja" text="Musíte být v království" />
+    <string id="vhq22OyK" text="Prosperita" />
+    <string id="VI4gQt8Q" text="Palcát" />
+    <string id="Vi6ojGrk" text="{FACTION_1_NAME} vs {FACTION_2_NAME}" />
+    <string id="vIpFgbU6" text="Lehká zbroj" />
+    <string id="VJNJsdif" text="{COMPANION.NAME} se připojil k tvé družině." />
+    <string id="vLU6nNwp" text="Vsadili jste {BET_AMOUNT} na {FIGHTER_NAME} a {?FIGHTER_GENDER} ona {?} ona {\?} vyhrála boj. Zde je vaše odměna {REWARD_AMOUNT}{GOLD_ICON}." />
+    <string id="vn7A8aXV" text="Nacházíte se před {SETTLEMENT_NAME}. Tvůj prapor vlaje nad hradní branou." />
+    <string id="vnmy8Bjl" text="Celkové výdaje" />
+    <string id="vo867CHX" text="Ukončené úkoly za poslední rok" />
+    <string id="VOYhAyJh" text="Stiskněte {MODIFIER_KEY} + {CLICK_KEY} a následujte." />
+    <string id="VoZBLWay" text="{RULER.NAME} {?RULER.GENDER}Khatun{?}Khan{\?}" />
+    <string id="VpCa9ATa" text="Vpravo. Jsi mrtvý.[ib:aggressive][if:convo_insulted]" />
+    <string id="VpKIzJxz" text="No vidíš, cestovateli. Právě jsme se vylodili v těchto končinách, doufáme v trochu štěstí při nájezdech a drancování, a ty nejsi pohled pro oči?[rf:convo_mocking_revenge]" />
+    <string id="vpx7Pa7v" text="Nabídka" />
+    <string id="VPYazFVH" text="Rychlost bodání:" />
+    <string id="vqHDX6hf" text="+{BONUS_AMOUNT} zvýšení věrnosti osadě" />
+    <string id="VqpmXU1m" text="Střílejte na nepřátele z kuše." />
+    <string id="VRdy76RQ" text="Skirmish" />
+    <string id="vSr60kDj" text="Dne {DAY_OF_YEAR}, {YEAR} se {MOTHER_NAME} narodilo dítě." />
+    <string id="VSZGbSEO" text="Žádné odpovídající předměty." />
+    <string id="Vvo92lyj" text="Jižní císařství" />
+    <string id="vvUayAoO" text="{HERO.NAME} byl zavražděn." />
+    <string id="vvXTnr8i" text="Výkop z klanu" />
+    <string id="vw1bbcww" text="Potyčka za spojencem {AI_SIDE} {CLASS}" />
+    <string id="Vw7BUXvw" text="Munificent" />
+    <string id="VWahbQGh" text="můj přítel {REFERING_HERO.LINK}" />
+    <string id="VWQbVKT4" text="Rozpustit družinu " />
+    <string id="vXzJJtYq" text="Náš plán je dostat se na dostřel a zasypat je šípy." />
+    <string id="VyJMWO8a" text="{GOLD_AMOUNT}{GOLD_ICON} odstraněno." />
+    <string id="VyPwh1CT" text="Vezměte hrdinu do družiny " />
+    <string id="vZRYAvYH" text="Vlandiané" />
+    <string id="vZVJNTOD" text="Darování XP" />
+    <string id="vZzDCjDr" text="V současné době se v tomto městě nikdo nechce nechat naverbovat." />
+    <string id="W1seGc3t" text="Cartridge" />
+    <string id="w3v2S03V" text="Váš vztah s {HERO_NAME} se &lt;a style=&quot;DecreaseStyle&quot; &gt;&lt;b&gt;zvýší&lt;/b&gt;&lt;/a&gt;" />
+    <string id="W4iKIM2s" text="Malý štít" />
+    <string id="W5gPypVY" text="Kovárnu používej k výrobě zbraní, zušlechťování materiálů a tavení starých zbraní." />
+    <string id="w758X31N" text="Předmět" />
+    <string id="w9beDbTI" text="Přepínání režimu kamery" />
+    <string id="w9C43LhX" text="Chcete vyřešit {DECISION_NAME} rozhodnutí?" />
+    <string id="wdsJRYRn" text="Objevil ses právě včas, {PLAYER.LINK}. Na tvou pomoc nezapomenu." />
+    <string id="Wey28apL" text="Braceable" />
+    <string id="Wg2P3acK" text="Ohnivý katapult" />
+    <string id="WharCvcX" text="Musíme bránit hradby a nepustit nepřítele dovnitř." />
+    <string id="WHED64rw" text="Po nějaké době zde bude k dispozici nová jednotka." />
+    <string id="WHtINdhX" text="Dvacátý třetí" />
+    <string id="WhuufgY5" text="Významné vztahy" />
+    <string id="wib91252" text="Profese: Válečník, který je válečníkem, a který je válečníkem: {PROFESSION}" />
+    <string id="wifebrotherinlaw" text="švagr" />
+    <string id="wifefatherinlaw" text="tchán" />
+    <string id="wifemotherinlaw" text="tchýně" />
+    <string id="wifesisterinlaw" text="švagrová" />
+    <string id="WiNRdfsm" text="Hotovo" />
+    <string id="wjb4tZDX" text="Úroveň: {LEVEL}" />
+    <string id="wjuieMsE" text="Váš protivník získal za zásah 1 bod!" />
+    <string id="wKbafI9r" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} střílejí z obléhací věže." />
+    <string id="wKgpciSx" text="{AMOUNT}{INFLUENCE_ICON}" />
+    <string id="WlV9cE5E" text="Žoldnéři nemohou navrhovat válečnou politiku." />
+    <string id="wmpwMa8j" text="{?IS_POSITIVE}+{?}-{\?}{CHANGE}" />
+    <string id="wNHfL0x0" text="Na {DAY_OF_YEAR}, {YEAR}, {NAME} padli v bitvě." />
+    <string id="wNjhpOOM" text="Použít výměnu" />
+    <string id="wshehbFu" text="Žoldnéři nemohou rozpouštět armády." />
+    <string id="WSoZkkqD" text="Vězeňská stráž" />
+    <string id="wtDdqXGW" text="Jsem rád, že respektujete naše starobylá a posvátná privilegia." />
+    <string id="WTR5Lr8W" text="Obránci vítězí, když mohou posunout svého krále na libovolný okraj šachovnice. {newline}Útočníci vítězí, když se zmocní krále nebo když mohou zabránit v pohybu všem obráncům." />
+    <string id="wTT3Fyzl" text="sir" />
+    <string id="WusvipsF" text="Nedostatek finančních prostředků!" />
+    <string id="WVAUoXMY" text="{CURRENT_XP} / {LEVEL_MAX_XP} xp" />
+    <string id="WvyWpbE8" text="Náklady na konformitu zajatců při verbování" />
+    <string id="wx6DZJ0W" text="+{BONUS_AMOUNT} bonus k zásahovým bodům na stěně" />
+    <string id="wXQUXa1P" text="Do této dovednosti již nemůžete dávat body soustředění." />
+    <string id="wXwZ778J" text="vojáci" />
+    <string id="WYfjyuHj" text="Tak tedy... Byla to dlouhá cesta, tak sáhni hluboko do měšce." />
+    <string id="WzcY3WMe" text="Vynulovat kameru" />
+    <string id="wZnsFoQ6" text="Myslím, že jsme se ještě pořádně nesetkali, příteli. Právě jsi mi tam venku zachránil život a já pořád nevím, jak se jmenuješ..." />
+    <string id="wZovddJ9" text="{PRISONER.NAME} utekl z tvé družiny." />
+    <string id="WZTRH6W9" text="Přiřazeni" />
+    <string id="X1tny9v2" text="Úspěšné nájezdy" />
+    <string id="x2mSJAVa" text="Hráč vyhrává, pokud jeho soupeři zbyl pouze jeden nebo žádný pěšec. {newline}{newline}Další způsob, jak vyhrát, je postavit bariéru, která má všechny pěšce soupeře na jedné straně. Po postavení bariéry vyhrává hráč, kterému zbylo nejvíce pěšců." />
+    <string id="X4qO3jBf" text="{?RULER.GENDER}Banmormaer{?}Mormaer{\?} {RULER.NAME}" />
+    <string id="XaCbpDUv" text="Tuto oblast bychom měli chvíli hlídat." />
+    <string id="XaFXqGhz" text="Střely" />
+    <string id="xaHELVnx" text="Obléhací věž (úroveň 1)" />
+    <string id="XbdX2AHF" text="voják" />
+    <string id="xbh6Bmhf" text="Aktuální podpora v království" />
+    <string id="XBIPqxA2" text="Prázdný" />
+    <string id="XbMVn2JV" text="Balíček Mount" />
+    <string id="xD3ICb06" text="Bitva na sněhu{newline}{newline}• Jízda získá velký bonus.{newline}• Koňští lučištníci získají velký bonus." />
+    <string id="xD9xlbXt" text="Princ" />
+    <string id="Xedhfj07" text="{TRAVEL_DURATION} dorazí do tvé družiny za {HERO_NAME}. Chcete pokračovat?" />
+    <string id="xEWwbGVK" text="Přesnost:" />
+    <string id="xf4gqDml" text="Během obléhání nelze shromáždit armádu." />
+    <string id="XgioIHv6" text="Vyřešit stávající rozhodnutí" />
+    <string id="xGjug9Sd" text="!" />
+    <string id="xgwjHi1p" text="Zřekněte se" />
+    <string id="xHc1xhG8" text="Zlikvidujte nepřítele uvnitř hradu." />
+    <string id="XJ6EG3Pa" text="+{BONUS_AMOUNT} bonus k limitu zásob potravin" />
+    <string id="xKa6TwEX" text="Pobývá v {SETTLEMENT_NAME}" />
+    <string id="xmaEEEWd" text="Nelze popravit hrdinu během bitvy" />
+    <string id="XNNvdkul" text="Vládne v {SETTLEMENT_NAME}" />
+    <string id="XnsAbUE3" text="Rozpustit" />
+    <string id="xo2zvOir" text="Protivník nemůže provádět žádné tahy. Přeskočení tahu." />
+    <string id="xq62HAIO" text="Chránit{?IS_GENERAL_SIDE}{?} {SIDE_STRING}{\?} bok spojence {AI_SIDE}. {CLASS}" />
+    <string id="xqeFT0cU" text="Za {DAY} {?DAY_IS_PLURAL}dny{?}den{\?}." />
+    <string id="xqN16a4k" text="Stolní hra" />
+    <string id="xqOqriWF" text="Vnučka" />
+    <string id="XqV3x4i3" text="Po výběru této možnosti postoupí pokus o přesvědčení do další fáze." />
+    <string id="xsIU28Za" text="Pěkné! Už žádné spaní na tvrdé studené skále a večeře na žilnaté veverce." />
+    <string id="xSKFr3Rs" text="Počkej" />
+    <string id="xT8955dO" text="Civilní oblečení" />
+    <string id="XTubeiTb" text="Štít III" />
+    <string id="Xv6knZP8" text="-{PRISONERS_AMOUNT} Vězeň{?ISPLURAL}{?} {\?}" />
+    <string id="xv8T0Il8" text="O začínajícím hráči a počtu kamenů, o které se můžete v každém tahu pohnout, rozhoduje házení čtyř dvoubarevných tyčinek." />
+    <string id="xwWUDia6" text="Sázka" />
+    <string id="xWydBJyS" text="Povstalci z {SETTLEMENT} povstali proti svému pánovi {RULER}." />
+    <string id="Xx9EbSwG" text="Bota" />
+    <string id="XxLCJb0W" text="Poctivý" />
+    <string id="xycMiCIq" text="V poslední době jsem nenašel žádné výhodné obchody." />
+    <string id="XzggyCPW" text="Tento hrdina je zaneprázdněn." />
+    <string id="xZxbFuDI" text="Šakalové se tedy dnes večer dobře nakrmí." />
+    <string id="y0MmmV8C" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} tvoří obranný kruh kolem oddílů na dálku." />
+    <string id="y1uH6Og1" text="Koňské vybavení IV" />
+    <string id="Y20AQIvo" text="{PRISONER.NAME} byl zajat {CAPTOR_NAME}!" />
+    <string id="y3cP8Etv" text="Úkol zrušen: {QUEST_TITLE}" />
+    <string id="y3OKIfj0" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} střílejí z krytu pěchoty." />
+    <string id="Y4fht2kI" text="Významné postavy" />
+    <string id="y4MiEr0H" text="Typy jednotek" />
+    <string id="Y5byltUT" text="Sultán" />
+    <string id="y8Catvvn" text="Střelné zbraně III" />
+    <string id="y8tOrlnJ" text="Jedenáctý" />
+    <string id="Y94H6XnK" text="Přijmout" />
+    <string id="yaxwYglT" text="Odesláno" />
+    <string id="YbabzW3H" text="Byl jsi ve vězení na {SETTLEMENT_NAME} po dobu {NUMBER_OF_DAYS}. {?PLURAL}dny{?}dny{\?}." />
+    <string id="YbB2IpTR" text="Váš vztah s {MAGNITUDE} se snižil o {VALUE} na {HERO.NAME}." />
+    <string id="yBnwGiuB" text="Lord" />
+    <string id="Yc4xzip6" text="Chcete popravit {NAME}?" />
+    <string id="YCYwPPlJ" text="Zakázat všechny výukové programy" />
+    <string id="YeaFZzXS" text="Dne {DAY_OF_YEAR}, {YEAR}, {LEADER_NAME} vyhlásil vytvoření nové sféry, {KINGDOM_NAME}." />
+    <string id="yeEaBV29" text="Přijmeme ji. Můžeš žít. Teď běžte, než si to rozmyslím.[ib:closed][if:convo_normal]" />
+    <string id="yenZGMzi" text="Rychle vpřed" />
+    <string id="YevUiidU" text="Tvůj vztah se snížil o {MAGNITUDE} na {VALUE} s {CLAN_LEADER}." />
+    <string id="Yf6bHCeW" text="{SETTLEMENT_NAME} (tarif)" />
+    <string id="yFl9N7wz" text="Vezmi si" />
+    <string id="yfNAkFgF" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} tvoří bojovou linii." />
+    <string id="YgcirtUD" text="Bitva na pláních {newline}{newline}• Jezdectvo získává velký bonus. {newline}• Koňští lučištníci získávají velký bonus." />
+    <string id="ygY1oKQD" text="Jsme vám k službám, {?PLAYER.GENDER}madam{?}sire{\?}. Ukaž nám směr těch, kteří potřebují zranit, a my se postaráme o zbytek.[ib:convo_approving]" />
+    <string id="YhLweMrP" text="Zbroje" />
+    <string id="Yj0cQVLH" text="Nabít!" />
+    <string id="yjXoftYs" text="Poslední známá pozice {?IS_IN_SETTLEMENT}u{?}blízko{\?} {SETTLEMENT}." />
+    <string id="YK3nXtoM" text="Přátelé" />
+    <string id="YkagFP1z" text="moje matka {REFERING_HERO.LINK}" />
+    <string id="ykZLXKH3" text="Pověst: {RENOWN}" />
+    <string id="ylQJwqKH" text="Necháváš za sebou těžce vydělanou, bezplatnou kořist! Jsi si jistý?" />
+    <string id="ymBKDAuj" text="Zobrazit poslední události v této válce" />
+    <string id="YMIFqVOk" text="Jsi si jistý, že se chceš vzdát? Všechna vaše vojska budou ztracena!" />
+    <string id="YNND0kc9" text="Hákovaná hlídaná kopí" />
+    <string id="yNyQ3RFa" text="{HERO.NAME} zemřel při porodu." />
+    <string id="yOJAiSf4" text="Žádná formace" />
+    <string id="YOSEIvyf" text="Manipulace:" />
+    <string id="yQiDdDPY" text="Lehký kůň" />
+    <string id="yRQDL2ab" text="Posádka:" />
+    <string id="yRTV90eN" text="Je třeba zvolit výsledek." />
+    <string id="yrvH6Oa1" text="Vyčkejte ve výchozí pozici!" />
+    <string id="ySlVPZyF" text="Když se snažíš donutit významné osobnosti, aby ti vydaly rekruty, někteří obyvatelé se shromáždí, aby ti kladli odpor. Boj s nimi způsobí válku s {KINGDOM}." />
+    <string id="YSM0lxns" text="Náklady" />
+    <string id="ySmxkiKH" text="Jdeme na to!" />
+    <string id="ytlsMCCn" text="{DESERTER_COUNT} {?PLURAL}Vojáci {?}Vojáci {\?} dezertovali od {PARTY}." />
+    <string id="ytYPOCZ8" text="{NUMBER}% Splněno" />
+    <string id="YukbQgHJ" text="Rychlost střel:" />
+    <string id="yUo269Us" text="Díky za pomoc, cizinče. Ještě jsme se pořádně nesetkali, že? Jak se jmenuješ?" />
+    <string id="yVLv2Q23" text="Pokračujte" />
+    <string id="YvwQL9aa" text="Hmotnost:" />
+    <string id="yWD4Nwy2" text="Měli bychom pomoci našim spojencům." />
+    <string id="YxEcX6pS" text="Na {DAY_OF_YEAR}, {YEAR} jsi našel druhý kus Dračího praporu z Calradiosu." />
+    <string id="YxKHEUEX" text="Turnaj skončil. Vítězem se stal {TOURNAMENT_FINAL_PARTICIPANT_A}, který ve finálovém kole porazil {TOURNAMENT_FINAL_PARTICIPANT_B}. Vy jste byli vyřazeni v kole {TOURNAMENT_ELIMINATED_ROUND}." />
+    <string id="YYdPfXEP" text="Tablut je hra útočníků (černých) proti obráncům (bílým). {newline}Útočníci mají početní převahu nad obránci, ale obránci se nemusí zmocnit, aby vyhráli. Jejich hlavním cílem je zajistit svého krále (středového pěšce). {newline}Král se řídí stejnými pravidly pohybu a braní jako ostatní pěšci." />
+    <string id="YYvzM5Dh" text="Zahoď vše" />
+    <string id="yzIOcJoK" text="Hráč vyhrává, pokud byl jeho soupeř zablokován a nemůže již provést žádný tah." />
+    <string id="yZzlItBW" text="tato družina " />
+    <string id="z0c2pDhZ" text="V míru" />
+    <string id="z3AvJZMt" text="Lze koupit na {SETTLEMENT_NAME} za: {BUY_PRICE}" />
+    <string id="Z3yCe1HS" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} se přeskupují." />
+    <string id="Z5kGFH7k" text="pc." />
+    <string id="Z5RlxyPJ" text="Byl jsi vězněn po dobu {NUMBER_OF_DAYS}. {?PLURAL}dny{?}dny{\?} u {PARTY_NAME}." />
+    <string id="Z6sDPstD" text="Vesnické farmy" />
+    <string id="z716wRaB" text="Nemůžeš rozpustit vojenskou družinu " />
+    <string id="z7vSaa7L" text="Výroba ve vesnici" />
+    <string id="Z8LeI4ho" text="Osobní strážci" />
+    <string id="ZaoZKcx9" text="Vesničané" />
+    <string id="ZaseErqk" text="Nelze ustoupit, poblíž jsou nepřátelé!" />
+    <string id="zBC5cQic" text="Podpora pro zrušení" />
+    <string id="ZdeswYbM" text="Obchodník nemá dost peněz! Jsi si jistý?" />
+    <string id="ZdqbU2gw" text="Přijměte" />
+    <string id="zE6OFPRu" text="Daň z osídlení" />
+    <string id="zEbvDH7V" text="Nemůžeš podporovat svůj vlastní klan." />
+    <string id="zeGAw2IE" text="Zabit" />
+    <string id="ZEzxHLaH" text="Nelze rekrutovat hrdiny z řad vězňů" />
+    <string id="zg0q1aqD" text="Nemůžete rozpustit posádku" />
+    <string id="Zg5Zmgui" text="Vracíme se z trhu v {TOWN} zpět do naší vesnice." />
+    <string id="ZhiB1EOM" text="Zajatec na {SETTLEMENT_NAME}" />
+    <string id="zkJPFtYn" text="Úkol splněn: {QUEST_TITLE}" />
+    <string id="ZlJIpfWg" text="Bonus k rychlosti: {SPEED_BONUS}%." />
+    <string id="ZMdOAbTd" text="Útočící armáda" />
+    <string id="zNekjGmR" text="Naverbujte vězně" />
+    <string id="zNEvBr6R" text="Na tahu" />
+    <string id="zNHtgL0S" text="Turnaj bude soutěží v lukostřelbě." />
+    <string id="znKxunbQ" text="Další postava" />
+    <string id="ZnsseELq" text="Jméno frakce musí být mezi {MIN} - {MAX} znaky." />
+    <string id="znxbib0f" text="Zobrazit statistiky pro toto použití" />
+    <string id="zo5hQfll" text="Vlci vyhrají, pokud se jim podaří odstranit z hrací plochy 5 ovcí. {newline}{newline}Ovce vyhrají, pokud se jim podaří zablokovat vlky tak, že nebudou moci provést žádný další tah." />
+    <string id="zpaLDTI4" text="Zaplaťte a můžete projít." />
+    <string id="ZPaw3WuO" text="Vlandiané jsou potomci dobrodruhů ze západu, kteří žili po staletí pod vládou Říše, než vytvořili nezávislé království. S úpadkem císařské moci se z nich vyvinula dobře organizovaná feudální společnost vedená kastou bojovných šlechticů, kteří dávají přednost boji s kopími a oštěpy na koních." />
+    <string id="zqihwKAs" text="&lt;b&gt;Balista&lt;/b&gt;{NEWLINE}Střílí střely se smrtícím účinkem. Účinné proti vojákům." />
+    <string id="ZqWOb1jM" text="Nacházíš se před městem {SETTLEMENT_NAME}. Nemůžeš vstoupit, protože tě hledá {FACTION_TERM}." />
+    <string id="ZR2bAa1p" text="Lehké jezdectvo" />
+    <string id="zruLFJDG" text="Obrana osad má vyšší váhu při rozhodování. Družina bude také pronásledovat nepřátele na kratší vzdálenost." />
+    <string id="ztP8UKb8" text="Vyberte si pěchotu" />
+    <string id="ZuLa12aT" text="V tomto duchu... Jsme banda bastardů, se kterou si opravdu nechcete zahrávat. [rf:convo_bemused]" />
+    <string id="Zuq5mO5e" text="Promluv si s vůdcem" />
+    <string id="ZuRzP6kF" text="Během bitvy nemůžeš shromáždit armádu" />
+    <string id="ZV7bt7Il" text="{newline}{PARTY_NAME} : {PARTY_MORALE}" />
+    <string id="ZvoyX6DX" text="Battanian" />
+    <string id="zw5IEUuD" text="{TITLE}: Deník aktualizován." />
+    <string id="Zw60OTJe" text="Lidé jsou většinou spokojení, i když slyšíš stížnosti na rostoucí ceny, nerovnoměrné rozdělení bohatství a migranty přicházející z venkova." />
+    <string id="ZwyPnboN" text="+{BONUS_AMOUNT} bonus k věrnosti osadě" />
+    <string id="zX4C3332" text="Budeš tedy zabit. Připrav se." />
+    <string id="zxckitKe" text="Vyrazili jste do útoku {PARTY}." />
+    <string id="ZxcnmaXi" text="Dorazil jsi k {SETTLEMENT}, abys na něj podnikli nájezd. Nesetkali jste se s žádným odporem. Přepadení této osady způsobí válku s {KINGDOM}." />
+    <string id="ZXXNrvvg" text="Hráč vyhrává, pokud jeho soupeř nemá v ruce ani na desce žádné další volné pěšce." />
+    <string id="zzUk6ZaA" text="Odchod" />
+  </strings>
+</base>

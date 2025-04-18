@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="8qg72H8Z" text="Kmenový válečník" />
+    <string id="afhXdjBU" text="Nomád" />
+    <string id="brigandmptroop" text="Brigáda" />
+    <string id="CAYZDsAj" text="Legionář" />
+    <string id="coursercavalryman" text="Courser" />
+    <string id="Dq1sCO1y" text="Arbelist" />
+    <string id="eFWJjaBC" text="Postava pro více hráčů" />
+    <string id="eIk6jaOG" text="Pěchota s kopím" />
+    <string id="eM1qFKNs" text="Ostrostřelec" />
+    <string id="eU0uANvZ" text="Jezdecký lučištník" />
+    <string id="fS5BIf3J" text="Přísežník" />
+    <string id="ft6QaIms" text="Katafrakt" />
+    <string id="g9VIbA9s" text="Seržant" />
+    <string id="gLlheMwd" text="Sedlák Levy" />
+    <string id="gytrdYMU" text="Mamlúk" />
+    <string id="HCzbW0hE" text="Klanový válečník" />
+    <string id="huntertroop" text="Lovec" />
+    <string id="ieiqOaZp" text="Lučištník" />
+    <string id="j5I7tYSd" text="Fiann" />
+    <string id="lar4lfKR" text="Chánova garda" />
+    <string id="LLKreyq7" text="Divočáci" />
+    <string id="My0a4Miq" text="Voulgier" />
+    <string id="naBbiK9v" text="Rabble" />
+    <string id="NJRUb0C1" text="Palatinská garda" />
+    <string id="recruitTroopType" text="Rekrut" />
+    <string id="steppebowtroop" text="Stepní luk" />
+    <string id="TNQaD5p2" text="Lučištnická milice" />
+    <string id="veterantroop" text="Veterán" />
+    <string id="XeXJAB6a" text="Menavlionská pěchota" />
+    <string id="yDiWi6SO" text="Divoch" />
+  </strings>
+</base>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="0gi1kEIR" text="25 Vítězství kapitána" />
+    <string id="16hLiz40" text="Beta tester" />
+    <string id="1aW0gpRa" text="2,5 tisíce vítězství kapitána" />
+    <string id="1CxYPryo" text="Tento odznak byl udělen hráčům, kteří vyhráli 50 zápasů v betatestu" />
+    <string id="1lj8RujG" text="Získejte 2000 výher v zápasech Kapitána." />
+    <string id="1M6atKQR" text="Získejte 5 výher ve hrách Skirmish." />
+    <string id="1WljM7iN" text="90 000 zabití kapitána" />
+    <string id="21oH4CWa" text="Lovec chyb" />
+    <string id="2ams0Tby" text="Odehrajte 200 hodin ve hře pro více hráčů Bannerlord." />
+    <string id="2haJ4Hcv" text="50K Captain Kills" />
+    <string id="2hwRwqeu" text="Získejte 40000 zabití ve hrách Skirmish." />
+    <string id="2mQSbg16" text="Hrajte Bannerlord Multiplayer 400 hodin." />
+    <string id="2NKXox6B" text="5K zabití ve hře Skirmish" />
+    <string id="2UVIakHk" text="Získejte 10 zabití ve hrách Captain." />
+    <string id="2Ys7hehK" text="Vítězství ve Skirmishi" />
+    <string id="3fbcEJlU" text="Získejte 4000 vítězství ve hrách Skirmish." />
+    <string id="3vVJJAln" text="Získejte 5 vítězství ve hrách Captain." />
+    <string id="3Vx61ntF" text="10 000 vítězství ve hře Captain" />
+    <string id="4a2bJT7g" text="Úroveň 10" />
+    <string id="4EblujXW" text="Zabití kapitána" />
+    <string id="4engYxiH" text="Získejte 7000 zabití ve hrách Skirmish." />
+    <string id="5IANKz8a" text="Alpha Tester" />
+    <string id="5KI42gNH" text="3K vítězství kapitána" />
+    <string id="5mEy2fT0" text="Dosáhněte 10. úrovně ve hře pro více hráčů." />
+    <string id="5yl9MDz7" text="Úroveň 200" />
+    <string id="5ZwXUBV5" text="Tento odznak byl udělen hráčům, kteří vyhráli 500 zápasů v předběžném přístupu." />
+    <string id="63MQh5P9" text="25 zabití ve hře Skirmish" />
+    <string id="6daSmmbC" text="15 hodin" />
+    <string id="6OKCtPMg" text="Hrajte hru Bannerlord pro více hráčů po dobu 150 hodin." />
+    <string id="6rRGEebP" text="Získejte 20000 zabití ve hrách s kapitánem." />
+    <string id="7eyjmmLa" text="Hrajte hru Bannerlord Multiplayer 500 hodin." />
+    <string id="7rXPCdGp" text="Hrajte hru Bannerlord Multiplayer 800 hodin." />
+    <string id="7UyKTkzI" text="750 vítězství ve hře Captain" />
+    <string id="7zyLOgK9" text="5 000 vítězství v soutěži Captain" />
+    <string id="82GOu9Xn" text="40 000 zabití kapitána" />
+    <string id="8lWsAP8q" text="100 vítězství kapitána" />
+    <string id="8P5dVaj5" text="Získejte vítězství ve hře Skirmish." />
+    <string id="8WIu29TL" text="500 zabití ve hře Skirmish" />
+    <string id="9C9Nbgbt" text="VIP" />
+    <string id="9DtujqB6" text="Získejte 1500 výher ve hrách Skirmish." />
+    <string id="a7e4pv1A" text="10 hodin" />
+    <string id="aCbpaHAc" text="Získejte 25 vítězství ve hrách s kapitánem." />
+    <string id="agDGvi5z" text="Hrajte Bannerlord Multiplayer po dobu 5 hodin." />
+    <string id="aljK4VFt" text="20 000 zabití ve hře Skirmish" />
+    <string id="AMghdgij" text="100 vítězství ve hře Skirmish" />
+    <string id="aNsV4LOg" text="Účastník EA" />
+    <string id="ARada0oZ" text="1K vítězství v Kapitánovi" />
+    <string id="arups4VQ" text="Získejte 60000 zabití ve hrách Captain." />
+    <string id="aRVBEYdZ" text="Získejte 50 sestřelů ve hrách Captain." />
+    <string id="ASi0dL8J" text="Hrajte Bannerlord Multiplayer po dobu 20 hodin." />
+    <string id="aubhe8Hk" text="TaleWorlds Vývojář" />
+    <string id="aUBWXr77" text="Získejte 10 vítězství ve hrách Skirmish." />
+    <string id="AuEL61vN" text="Získej 50 vítězství ve hrách Captain." />
+    <string id="aUmbvAcr" text="Získejte 10000 zabití ve hrách Captain." />
+    <string id="auw7QI1b" text="Získejte 250 zabití ve hrách Captain." />
+    <string id="aVCDFNDK" text="10 vítězství ve hře Skirmish" />
+    <string id="B1OKU7jn" text="Získejte 6000 zabití ve hrách Skirmish." />
+    <string id="b239bdHe" text="100 zabití kapitána" />
+    <string id="b2m42VgN" text="2K vítězství ve hře Skirmish" />
+    <string id="BCWVcO6k" text="Tento odznak byl udělen hráčům, kteří se zúčastnili betatestu hry pro více hráčů." />
+    <string id="bFZBeN2j" text="Tento odznak byl udělen hráči, který během veletrhu Gamescom 2020 získal nejvíce zabití kapitána." />
+    <string id="bGOprieT" text="150 hodin" />
+    <string id="bi4l3xYa" text="Získejte 9000 zabití ve hrách Skirmish." />
+    <string id="biOsjq1w" text="Počet zabití ve hře 40K Skirmish" />
+    <string id="bKmVrmzG" text="Tento odznak byl udělen hráčům, kteří vyhráli 100 zápasů v betatestu." />
+    <string id="bNEEElAA" text="Sólo zabití" />
+    <string id="BPo3gNAv" text="5 zabití ve hře Skirmish" />
+    <string id="bRoQydvY" text="80K zabití kapitána" />
+    <string id="btxP1EMZ" text="250 hodin" />
+    <string id="c66LlHlQ" text="Tento odznak byl udělen hráči, který během veletrhu Gamescom 2020 získal nejvíce zabití ve hře Skirmish." />
+    <string id="cahoCHJ9" text="7K zabití ve hře Skirmish" />
+    <string id="CAu8v3YN" text="2,5K vítězství ve Skirmishi" />
+    <string id="Cbf52UqN" text="Tento odznak byl udělen hráčům, kteří vyhráli 50 zápasů v Early Access." />
+    <string id="cDUVLNma" text="500K zabití kapitána" />
+    <string id="cHRnWvHg" text="Získejte 1000 zabití ve hrách Skirmish." />
+    <string id="CibcLbAf" text="Získejte 9000 vítězství ve hrách Captain." />
+    <string id="CiGbxwdG" text="100 hodin" />
+    <string id="CJXW1DOs" text="Získejte 4000 výher ve hrách Captain." />
+    <string id="cl2YSg5u" text="Získejte 2500 zabití ve hrách s kapitánem." />
+    <string id="CLNUZhQv" text="Získejte 2500 vítězství ve hrách s kapitánem." />
+    <string id="CNuW2VPr" text="900 hodin" />
+    <string id="CRzmSbSm" text="Získejte 500 zabití ve hrách s kapitánem." />
+    <string id="DgG681uF" text="1 000 vítězství ve hře Skirmish" />
+    <string id="DgKnDhbf" text="Hrajte hru pro více hráčů Bannerlord po dobu 50 hodin." />
+    <string id="dJdhMfBq" text="Získejte 30000 zabití ve hrách Skirmish." />
+    <string id="DKAH6hMC" text="EA 20 vítězství" />
+    <string id="DNCJX1Eb" text="500 zabití ve hře Captain" />
+    <string id="DSUsREnx" text="Získejte 25 zabití ve hrách Skirmish." />
+    <string id="dSWtiVLz" text="Tento odznak byl udělen členům komunity, kteří přispěli ke hře a komunitě." />
+    <string id="DWb2zRsZ" text="Beta 100 vítězství" />
+    <string id="dYBrZKyV" text="Získejte 7000 vítězství ve hrách Skirmish." />
+    <string id="E2ru1TH4" text="2,5 tisíce zabití kapitána" />
+    <string id="edlBQoLd" text="Získejte 50000 zabití ve hrách Skirmish." />
+    <string id="EihCSkXJ" text="8K vítězství ve hře Skirmish" />
+    <string id="ekDx9ObU" text="Captain Champion Gamescom 2020" />
+    <string id="ekqHONPb" text="4K vítězství kapitána" />
+    <string id="eOZbwBg8" text="20 000 zabití kapitána" />
+    <string id="erM9uNiZ" text="Tento odznak byl udělen hráčům, kteří zabili jiné lovce lidí." />
+    <string id="ESevd38t" text="5 hodin" />
+    <string id="ESOkYFiD" text="Tento odznak byl udělen hráčům, kteří v Early Access vyhráli 750 zápasů." />
+    <string id="f8xQElFP" text="750 vítězství v bitvách" />
+    <string id="fAaorpa8" text="EA 50 vítězství" />
+    <string id="FDvwGjni" text="Beta 50 vítězství" />
+    <string id="Fiy8XXGT" text="Získejte 500 vítězství ve hrách Skirmish." />
+    <string id="FKZ3dYik" text="Získejte 6000 výher ve hrách Skirmish." />
+    <string id="FPyc4kOa" text="Získejte 1000 výher ve hrách Skirmish." />
+    <string id="FQQbLMZx" text="Získejte 100 sestřelů ve hrách s kapitánem." />
+    <string id="FXGZg2Tx" text="1 hodina" />
+    <string id="g4BnT9UP" text="Zabití družinou" />
+    <string id="GjJgUYoG" text="100 zabití ve hře Skirmish" />
+    <string id="GKAzN0h7" text="Získejte 40000 zabití ve hrách s kapitánem." />
+    <string id="glHYOfzF" text="Dosáhněte 50. úrovně ve hře pro více hráčů." />
+    <string id="GMXL5wfG" text="75 hodin" />
+    <string id="gNiQcEa9" text="Tento odznak byl udělen členům komunity, kteří nám významně pomohli při hledání chyb a problémů, s nimiž jsme se potýkali v období alfa a beta verze hry pro více hráčů." />
+    <string id="Gp504aSx" text="Dosažení úrovně 150 ve hře pro více hráčů." />
+    <string id="GpTkaemG" text="Získejte 200 000 zabití ve hrách s kapitánem." />
+    <string id="Gs3jlkbX" text="Získejte 5000 zabití ve hrách Skirmish." />
+    <string id="GTmPMoYe" text="Zaměstnanec společnosti TaleWorlds" />
+    <string id="GTrS1paG" text="Získejte 25 zabití ve hrách Captain." />
+    <string id="gWfIlSn5" text="6 000 vítězství ve hře Captain" />
+    <string id="H1ayK1dU" text="50 zabití ve hře Kapitán" />
+    <string id="H4Zlsiu1" text="Beta 250 vítězství" />
+    <string id="HDuvb5gA" text="5 vítězství kapitána" />
+    <string id="hfv9Irc4" text="Získejte 750 vítězství ve hrách s kapitánem." />
+    <string id="hiby7k7b" text="500 vítězství v bitvách" />
+    <string id="hLBLn7Ex" text="Získejte 9000 vítězství ve hrách Skirmish." />
+    <string id="HObaeaBL" text="Hrajte Bannerlord Multiplayer 15 hodin." />
+    <string id="hV8mjFzg" text="Získejte 100 výher ve hrách s kapitánem." />
+    <string id="i5c6dD5U" text="500 hodin" />
+    <string id="iaej5Z8Z" text="Získejte 750 výher ve hrách Skirmish." />
+    <string id="IcPNgbtl" text="Tento odznak byl udělen hráčům, kteří vyhráli 100 zápasů v Early Access." />
+    <string id="iGTJ4aQq" text="EA 250 výher" />
+    <string id="IgvgHsKr" text="4K vítězství ve hře Skirmish" />
+    <string id="IhSV1upf" text="Majitel odznaku Manhunter" />
+    <string id="iJz6blun" text="Hrajte hru pro více hráčů Bannerlord po dobu 300 hodin." />
+    <string id="ikd2TZyJ" text="800 hodin" />
+    <string id="IskvXSLp" text="250 vítězství ve hře Skirmish" />
+    <string id="ITT8aMtp" text="50 hodin" />
+    <string id="j7bQmC5H" text="Celkový počet vítězství" />
+    <string id="Jd5biabt" text="25 hodin" />
+    <string id="Jebj20yv" text="10 vítězství kapitána" />
+    <string id="JLj2CCGA" text="10 000 zabití kapitána" />
+    <string id="jneqTrQz" text="Volání do zbraně Gamescom 2020" />
+    <string id="jqbTUIwm" text="Šampion ve hře Skirmish Gamescom 2020" />
+    <string id="jtBNkpp9" text="Tento odznak byl udělen hráčům, kteří vyhráli 5 zápasů během akcí Gamescom 2020." />
+    <string id="jYb8lg8w" text="Hrajte hru pro více hráčů Bannerlord 700 hodin." />
+    <string id="JZpZrzs2" text="Úroveň 100" />
+    <string id="K4wDSlNy" text="Získejte 250 vítězství ve hrách Skirmish." />
+    <string id="KcPkbnu2" text="Beta 20 vítězství" />
+    <string id="KDP7b4j4" text="Získejte 500 000 zabití ve hrách s kapitánem." />
+    <string id="ke6inj1m" text="Získejte 500 vítězství ve hrách Captain." />
+    <string id="KLcbS5z4" text="Získejte 8000 zabití ve hrách Skirmish." />
+    <string id="KQgQNPpT" text="7 000 vítězství ve hře Captain" />
+    <string id="Krxm3Cez" text="Získejte 2000 zabití ve hrách Skirmish." />
+    <string id="kw6AUzv1" text="Získejte 70000 zabití ve hrách s kapitánem." />
+    <string id="l6EKgnEm" text="Hrajte hru Bannerlord pro více hráčů více než 1000 hodin." />
+    <string id="lboBYXsb" text="4K zabití ve hře Skirmish" />
+    <string id="lFBFO2JE" text="6K vítězství ve hře Skirmish" />
+    <string id="lLgpdKmz" text="8K zabití ve hře Skirmish" />
+    <string id="LoKo54kV" text="Získejte 400000 zabití ve hrách Captain." />
+    <string id="LUMEtToo" text="700 hodin" />
+    <string id="lvNAopwh" text="9K vítězství ve hře Skirmish" />
+    <string id="lymXO8Db" text="5 vítězství v bitvě" />
+    <string id="M5IubkYP" text="50 vítězství v bitvě" />
+    <string id="m7aASoPW" text="6 000 zabití v bitvě" />
+    <string id="mddRd5Qe" text="250 zabití v bitvě" />
+    <string id="MDp4BIa8" text="30K zabití v bitvě" />
+    <string id="medMGVme" text="Tento odznak byl udělen hráčům, kteří v Early Access vyhráli 250 zápasů." />
+    <string id="N39iqvud" text="Úroveň 150" />
+    <string id="NASCMzSY" text="1000+ hodin" />
+    <string id="natgsOuM" text="250 vítězství kapitána" />
+    <string id="nELaOwh9" text="10 zabití kapitána" />
+    <string id="ngtErswq" text="Získejte 1500 výher v zápasech s kapitánem." />
+    <string id="nnXbWJBo" text="Získejte 50000 zabití v kapitánských hrách." />
+    <string id="npUvlnJr" text="Manhunter" />
+    <string id="nVwxkgin" text="7 000 vítězství ve hře Skirmish" />
+    <string id="NY7XxwgU" text="8K vítězství v kapitánské hře" />
+    <string id="NZGkLSJ8" text="Úroveň 50" />
+    <string id="O29z0Yv7" text="Získejte 30000 zabití ve hrách s kapitánem." />
+    <string id="OasvPXuW" text="Tento odznak byl udělen hráčům, kteří v Early Access vyhráli 20 zápasů." />
+    <string id="OGsa2aC1" text="Tento odznak byl udělen hráčům, kteří se zúčastnili Early Access." />
+    <string id="oI8cKePA" text="Získejte 1 zabití ve hrách Skirmish." />
+    <string id="oJHTNWlw" text="Získejte 8000 vítězství ve hrách Captain." />
+    <string id="OUfaVmEN" text="200 hodin" />
+    <string id="oxLBMh0W" text="Počet zabití ve hře Skirmish" />
+    <string id="oZSZ3cJc" text="Získejte 300000 zabití ve hrách Captain." />
+    <string id="pYaOSh9v" text="Získejte 6000 vítězství ve hrách Captain." />
+    <string id="PyYkJMHf" text="50 vítězství ve hře Captain" />
+    <string id="qAYRvltr" text="10 000 vítězství v bitvách" />
+    <string id="qDKlHRMy" text="Získejte 5000 vítězství ve hrách s kapitánem." />
+    <string id="qLpxrsFX" text="Tento odznak byl udělen hráčům, kteří se zúčastnili alfa testu pro více hráčů." />
+    <string id="qrmZPjtc" text="Dosáhněte 200. úrovně ve hře více hráčů." />
+    <string id="QtbKJGBi" text="Získejte 20000 zabití ve hrách Skirmish." />
+    <string id="qvYJuD83" text="EA 100 vítězství" />
+    <string id="qy3LQq8J" text="50 000 zabití ve hře Skirmish" />
+    <string id="RMfCrI9a" text="Hrajte hru pro více hráčů Bannerlord po dobu 1 hodiny." />
+    <string id="RNef1ThS" text="Získejte 50 zabití ve hrách Skirmish." />
+    <string id="RqmF2yD2" text="50 zabití ve hře Skirmish" />
+    <string id="rXuZXrwG" text="10 zabití ve hře Skirmish" />
+    <string id="s3HTqoLB" text="Dosáhněte 250. úrovně ve hře více hráčů." />
+    <string id="SbtOuQAF" text="Získejte 100 000 zabití ve hrách s kapitánem." />
+    <string id="sfnOdmPN" text="30 000 zabití ve hře Captain" />
+    <string id="SGWo5GWx" text="25 vítězství v bitvách" />
+    <string id="sHkmKS9r" text="25 zabití kapitána" />
+    <string id="SHwXtSCs" text="Získejte 90000 zabití ve hrách s kapitánem." />
+    <string id="sli6QNV6" text="Tento odznak byl udělen hráčům, kteří vyhráli 250 zápasů v betatestu." />
+    <string id="SMhnlsai" text="3K zabití v bitvách Skirmish" />
+    <string id="sQBjQ148" text="Úroveň 250" />
+    <string id="SQn9Bnbu" text="Získejte 80000 zabití ve hrách s kapitánem." />
+    <string id="SR2gLFGN" text="20 hodin" />
+    <string id="SR3hy9Sv" text="Získejte vítězství ve hře Captain." />
+    <string id="StGMCKHX" text="Získejte 3000 vítězství ve hrách s kapitánem." />
+    <string id="SXEkSfKt" text="Hrajte Bannerlord Multiplayer 100 hodin." />
+    <string id="SYCjLBXY" text="9 tisíc výher ve hře Captain" />
+    <string id="t1b3PE6O" text="5K zabití kapitána" />
+    <string id="t7BAQ0Ej" text="Získejte 10000 zabití ve hrách Skirmish." />
+    <string id="tAjuoucm" text="Hrajte Bannerlord Multiplayer 600 hodin." />
+    <string id="TEqD7Agb" text="Získejte 3000 vítězství ve hrách Skirmish." />
+    <string id="tgCzP4m8" text="Hrajte Bannerlord Multiplayer 25 hodin." />
+    <string id="tI5cj3Qz" text="Tento odznak byl udělen hráčům, kteří v betatestu vyhráli 20 zápasů." />
+    <string id="tiMGuZKv" text="60 000 zabití kapitána" />
+    <string id="Tj6uWbbm" text="Získejte 10000 vítězství ve hrách s kapitánem." />
+    <string id="TN4rdjoD" text="1 zabití ve hře Skirmish" />
+    <string id="TRaCgBRE" text="Získejte 50 vítězství ve hrách Skirmish." />
+    <string id="trfNdMJ5" text="3K vítězství ve hře Skirmish" />
+    <string id="TROmMtTq" text="Získejte 7000 vítězství ve hrách s kapitánem." />
+    <string id="TSItnVKH" text="Získejte 8000 vítězství ve hrách Skirmish." />
+    <string id="u8vsd2TF" text="10 000 zabití ve hře Skirmish" />
+    <string id="uC8NaJMZ" text="250 zabití kapitána" />
+    <string id="uiAjbK8D" text="Získejte 1000 vítězství ve hrách s kapitánem." />
+    <string id="uiecQRF7" text="Získejte 10 vítězství ve hrách Skirmish." />
+    <string id="uNLRgURt" text="Získejte 100 zabití ve hrách Skirmish." />
+    <string id="UvZpq86E" text="Odehrajte 250 hodin ve hře pro více hráčů Bannerlord." />
+    <string id="uYaabiLM" text="300 000 zabití kapitána" />
+    <string id="VcG2HM7g" text="1 000 zabití kapitána" />
+    <string id="vdXMKLg8" text="5K vítězství ve hře Skirmish" />
+    <string id="veWtR387" text="Získejte 100 vítězství ve hrách Skirmish." />
+    <string id="ViPUN3eO" text="Získejte 250 vítězství ve hrách s kapitánem." />
+    <string id="VjE8hOGO" text="70 tisíc zabití kapitána" />
+    <string id="vjybRGkC" text="Získejte 1000 zabití ve hrách s kapitánem." />
+    <string id="vmbD5mr9" text="Získejte 25 vítězství ve hrách Skirmish." />
+    <string id="VqBh2CW4" text="Dosáhněte 100. úrovně ve hře pro více hráčů." />
+    <string id="vWq3LN3z" text="Získejte 10000 vítězství ve hrách Skirmish." />
+    <string id="wDeUhwkp" text="2K zabití ve hře Skirmish" />
+    <string id="WHoubQ0Q" text="1,5 tisíce vítězství ve hře Captain" />
+    <string id="WneNcpTy" text="Získejte 5000 zabití ve hrách s kapitánem." />
+    <string id="wqsDfPwv" text="1 000 zabití ve hře Skirmish" />
+    <string id="WS26SCJ9" text="Získejte 4000 zabití ve hrách Skirmish." />
+    <string id="wVCeT3Pn" text="300 hodin" />
+    <string id="x2IKk7Hc" text="Získejte 3000 zabití ve hrách Skirmish." />
+    <string id="x4hdxNCf" text="400 hodin" />
+    <string id="X5hIe3U8" text="Hrajte hru pro více hráčů Bannerlord 75 hodin." />
+    <string id="Xaf1klxr" text="Získejte 5 zabití ve hrách Skirmish." />
+    <string id="xdrjQzQV" text="Získejte 5000 vítězství ve hrách Skirmish." />
+    <string id="Xe6PwUSW" text="1,5 tisíce vítězství ve hře Skirmish" />
+    <string id="XmoZWHY3" text="Získejte 250 zabití ve hrách Skirmish." />
+    <string id="xVCpomC8" text="1 výhra kapitána" />
+    <string id="Xws44eDL" text="EA 500 vítězství" />
+    <string id="y1V6h76s" text="Získejte 500 sestřelů ve hrách Skirmish." />
+    <string id="y8Qucwo8" text="1 vítězství v bitvě" />
+    <string id="yC2vtQdg" text="Získejte 2500 vítězství ve hrách Skirmish." />
+    <string id="Ycm1tFco" text="100 000 zabití kapitána" />
+    <string id="yQMOACqA" text="400 tisíc zabití kapitána" />
+    <string id="YxGlexPJ" text="Výhry kapitána" />
+    <string id="Z6c8GjOG" text="Hrajte Bannerlord Multiplayer po dobu 10 hodin." />
+    <string id="zaNLw3BW" text="200 tisíc zabití kapitána" />
+    <string id="zIZ6mnra" text="Počet odehraných hodin" />
+    <string id="ZLnOfWuV" text="Získejte 10 vítězství ve hrách Captain." />
+    <string id="zmLPZrnv" text="9 tisíc zabití ve hře Skirmish" />
+    <string id="ZodCgSL5" text="EA 750 vítězství" />
+    <string id="ZOnqe9Ju" text="600 hodin" />
+    <string id="ZPmlRivY" text="Získejte 2000 výher ve hrách Skirmish." />
+    <string id="zqJpbh3x" text="2K vítězství ve hře Captain" />
+    <string id="Zu1g7sv7" text="Hrajte hru pro více hráčů Bannerlord 900 hodin." />
+    <string id="ZUJiO0qO" text="500 vítězství Kapitán" />
+  </strings>
+</base>

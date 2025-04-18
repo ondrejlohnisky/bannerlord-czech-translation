@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="6QoSHiWC" text="Ulička bez vůdce" />
+    <string id="9NuttOBC" text="Načíst" />
+    <string id="akHsjtPh" text="S tímto hrdinou ses ještě nesetkal." />
+    <string id="averageWealthStatus" text="Průměrný" />
+    <string id="cc1d7mkq" text="Úroveň" />
+    <string id="ePmSvu1s" text="{AMOUNT}{GOLD_ICON}" />
+    <string id="GZxFIeiJ" text="Původ" />
+    <string id="Hxf6bzmR" text="Aktuální dináry" />
+    <string id="I1CMeL9R" text="Jízdní lučištníci" />
+    <string id="mapbardenarvalue" text="{DENAR_AMOUNT}{VALUE_ABBREVIATION}" />
+    <string id="nFl0ufe3" text="Družina bez vůdce" />
+    <string id="oJmRg2ms" text="Velmi bohatý" />
+    <string id="poorWealthStatus" text="Chudí" />
+    <string id="PXT6aA4J" text="Možnosti kampaně" />
+    <string id="RzFyGnWJ" text="Příznivci" />
+    <string id="SixPXaNh" text="Velmi chudí" />
+    <string id="SVJlOYCB" text="Družina má méně mužů, než je 40 % jejího limitu velikosti." />
+    <string id="UbRqC0Yz" text="Bohaté" />
+  </strings>
+</base>

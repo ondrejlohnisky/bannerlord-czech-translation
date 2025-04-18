@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="4Ygn4OGE" text="Povolit podvody" />
+    <string id="75nwCTEn" text="Klanová obrazovka je během výukového programu vypnuta." />
+    <string id="UjERCi2F" text="Tato funkce je zakázána." />
+    <string id="WFNLizqL" text="Podpořili jste království prostřednictvím hlavní příběhové linie. Opuštění tohoto království způsobí selhání vašeho úkolu.{newline}{newline}Jste si jisti?" />
+    <string id="YkbOfPRU" text="Povolení cheatů zakáže úspěchy této hry. Chcete pokračovat?" />
+  </strings>
+</base>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="ansW4mx2" text="Aserai Měšťanka" />
+    <string id="aseraipeasantman" text="Aserai rolník" />
+    <string id="baAQDdE5" text="Vlandia Měšťanka" />
+    <string id="battaniapeasantman" text="Battania Rolník" />
+    <string id="empirepeasantman" text="Říšský rolník" />
+    <string id="khuzaitpeasantman" text="Khuzaitský rolník" />
+    <string id="Q7wFotYV" text="Battania Měšťanka" />
+    <string id="qMqRkvWu" text="Sturgiánská měšťanka" />
+    <string id="sturgiapeasantman" text="Sturgiánský rolník" />
+    <string id="V8GrFH4B" text="Khuzait Měšťanka" />
+    <string id="vlandiapeasantman" text="Vlandia rolník" />
+    <string id="WbH2HS8j" text="Císařská měšťanka" />
+  </strings>
+</base>

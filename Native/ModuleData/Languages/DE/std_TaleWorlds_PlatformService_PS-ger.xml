@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="Gq0BoJkh" text="Obsahuje údaje o postupu související s aktivitou" />
+    <string id="nbQxQQDZ" text="Mount and Blade II: Bannerlord Údaje o činnosti" />
+    <string id="NyA57ke1" text="Odhlášen ze sítě PlayStation™Network" />
+    <string id="PZuqGtom" text="Údaje o postupu v aktivitě" />
+    <string id="rGRbaAV3" text="Mount and Blade II: Bannerlord Data o trofejích" />
+    <string id="SBK40pPW" text="Obsahuje údaje o postupu související s trofejemi" />
+    <string id="Vw9g7UtL" text="Údaje o postupu za trofeje" />
+    <string id="YK3nXtoM" text="Přátelé" />
+  </strings>
+</base>

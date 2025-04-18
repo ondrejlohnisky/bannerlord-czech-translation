@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="01Y1DAqA" text="{MENTOR.LINK} vám poslal zprávu: Jak asi víte, dostávám zprávy od svých špionů na tržištích v okolí. Je tam obchodník, kterého sleduji - vím, že je spojen s {OTHER_MENTOR.LINK}. Nyní slyším, že zakoupil velkou zásobu zbraní a zbroje v {QUEST_FROM_SETTLEMENT_NAME} a plánuje cestu do {QUEST_TO_SETTLEMENT_NAME}. Odtud bude dále pokračovat. Očekávám, že {OTHER_MENTOR.LINK} vyzbrojí {?OTHER_MENTOR.GENDER}její{?}jeho{\?} spojence ve skupinách v té oblasti. Pokud karavana doručí svůj náklad, očekávám, že brzy najdeme některé z našich přátel nabodnuté a mrtvé na ulicích najatými zločinci, a zbytek našich přátel bude příliš vyděšený na to, aby se k nám přidali. Potřebuji, abyste je vypátrali a zničili. Pokuste se je zastavit již při první části jejich cesty, než dorazí do {QUEST_TO_SETTLEMENT_NAME}. Pokud selžete, zjistěte, jaké je další město, do kterého směřují. Může trvat nějakou dobu, než je najdete, a až to uděláte, budou dobře střežení. Ale věřím ve vaši vytrvalost, dovednosti a pochopení, jak důležité to je. Hodně štěstí při lovu." />
+    <string id="0I9siaQY" text="Bastardi... Jste příbuzní mých zajatců, že? Viděl jsem s vámi {RADAGOS.LINK}. Víš, že se mu nedá věřit? [if:convo_confused_annoyed][ib:agresivní]" />
+    <string id="0IeByuam" text="Bylo to vítězství, takové, které je skoro stejně zlé jako porážka [if:convo_dismayed][ib:confident2]" />
+    <string id="0P4HqZiB" text="Je to pravda? [ib:normal][if:convo_shocked]" />
+    <string id="0pilmavQ" text="Jak mohu vytvořit své vlastní království?" />
+    <string id="0wQlpbtL" text="Aby se říše dostala do konečného úpadku, mělo by v ní být méně než {NUMBER} osad vlastněných císařstvím. Pokud se tak stane, může se dominantní mocností v Kalrádii stát jiné království." />
+    <string id="0yxEvgGf" text="Byla to pro něj katastrofa - zemřel v ní -, ale vítězové nedopadli o mnoho lépe." />
+    <string id="1CLNFbzR" text="Dobře. Pak ti řeknu, co vím. Slyšel jsem ještě o jednom kousku.[ib:normal2][if:convo_calm_friendly]" />
+    <string id="1GgTNRNl" text="Můžeš vznést vlastní nárok na vládu nad říší a pokusit se vyhrát občanskou válku, nebo podpořit stávajícího uchazeče...[if:convo_normal]" />
+    <string id="1LrHV647" text="Síla spiknutí" />
+    <string id="1RaUauBS" text="Úspěšně jsi dokončil výcvik." />
+    <string id="1T7p0O7B" text="Musíme být chytří. {HIDEOUT_BOSS.LINK} Je to mazaný chlapík, v nízkém a přízemním smyslu [if:convo_normal]" />
+    <string id="1v6aYpDx" text="Musíš si vybrat, ale vyber si moudře. Nebo si to můžeš nárokovat sám. Já nemám žádné preference." />
+    <string id="1xqmoDvS" text="Přípravy jsme dokončili. Pojďme si znovu promluvit s náčelníkem. Říkal, že by pro nás mohl mít úkol. Mohli bychom využít jeho přátelství." />
+    <string id="1yi00v5w" text="{PLAYER.NAME}! Rád tě vidím. Věřte tomu nebo ne, ale myslím to vážně. Hledal jsem tě...[if:convo_calm_friendly][ib:normal2]" />
+    <string id="2DZOCsy5" text="Čekali jsme na ně jako vlci v lese, když se jejich předvoj blížil po klikaté cestě. Přišli bez lučištníků, kteří by je chránili. Kaladog zatroubil na roh a naši lučištníci na ně pálili ze všech stran. Otočili štíty na jednu stranu a byli zasaženi z druhé. Bylo na co se dívat...[if:convo_huge_smile]" />
+    <string id="2GeiKTlS" text="Prokážu ti tu čest, že se s tebou utkám v souboji, a pokud vyhraješ, moji muži se stáhnou [if:convo_predatory]" />
+    <string id="2h7IlBmv" text="Ještě ne, pracuji na tom..." />
+    <string id="2NHnVb9b" text="Nimr tedy šel, bojoval a získal slávu, ale také nechal zabít řadu mužů, zejména těch z Banu Qild. A stal se chlubivým a arogantním. A pak... No, to je začátek velkého sporu mezi Sarranis a Qildis, ale zbytek příběhu bych měl asi nechat na někom jiném.[ib:closed][if:convo_undecided_closed]" />
+    <string id="2XhW49TX" text="jsi je zahnal lukem." />
+    <string id="3BjIb3CG" text="Nebo to možná byl jen Raganvad. Dusil se ve svém hněvu, když v tom se objevil battanský král Kaladog. Battaniáni si dali načas s rozebíráním těl císařského předvoje a Sturgiáni se na ně zlobili, takže ho Raganvad nazval zbabělcem. Caladog se mu vysměje a odejde." />
+    <string id="3deb2lMd" text="K obnovení říše bys měl dobýt dvě třetiny osad s císařskou kulturou." />
+    <string id="3dhvmJDp" text="No... Vypadá to, že jsme ti vrátili tvé příbuzné, takže moje část naší dohody je splněna. Teď se budu uskrovňovat. [ib:hip][if:convo_uncomfortable_voice]" />
+    <string id="3G64Ej64" text="Kupec? Můžu ti pomoct mnohem víc.[if:convo_astonished]" />
+    <string id="3Io5vmOk" text="Válečný pokrok s {FACTION}" />
+    <string id="3Pq58i2u" text="Objevena operační základna konspirace" />
+    <string id="3XbTo6O7" text="Také samozřejmě doporučuji, abyste měli co největší armádu, jakou dokážete shromáždit." />
+    <string id="3YHL3wpM" text="{BROTHER.NAME}:" />
+    <string id="40oa2Nav" text="Prapor Calradiosu je součástí legendy. Říká se, že ho nesl Calradios Veliký, když vedl svou malou skupinu vyhnanců do této země, aby si zde vytvořili nový domov. Říká se, že dokud ho bude nosit pravý Calradiosův syn, nikdy nebude v bitvě poražen. Nebo dcera, jak se domnívám, ačkoli na to nikdy nedošlo.[ib:confident][if:convo_undecided_closed]" />
+    <string id="4Baa38ra" text="Vyhráli jsme, sotva, s pomocí císařských, ale Khergity jsme zmrzačili. Od té doby byli Khergiti dost slabí - a víte, co se stane se slabými. Přesto jim nikdo neřekl, že mají dát všechna vejce do jednoho košíku.[if:convo_bored2]" />
+    <string id="4cw169Kb" text="třetí a poslední" />
+    <string id="4d5SP6B6" text="{MENTOR.LINK} navrhl, že bys měl podpořit protiimperiální království tím, že jim nabídneš Dračí prapor." />
+    <string id="4hdp6SK0" text="Poraz trenéra!" />
+    <string id="4IS4Lou7" text="Taky jsem utekl. A každý, kdo vám řekne, že by to za takových okolností neudělal, je lhář. Když jsem později té noci seděl v chladných lesích, skrýval se s ostatními uprchlíky a poslouchal, jak barbaři hulákají a řvou, když sekají hlavy jako trofeje - slibuji jim, že žádný kalradský voják by se už neměl nechat vést do boje císařem, který toho o válce ví tak málo [if:convo_thinking][ib:hip]" />
+    <string id="4Oc6MEvR" text="Ach... Pro žádného syna Battanie nebude v životě pyšnější chvíle než ten den. Každý opravdový syn Battánie.[if:convo_calm_friendly][ib:hip]" />
+    <string id="4olAbDTq" text="Bude to mocný nástroj v našich rukou. Lidé uvěří, že Nebesa přenesla vládu nad Kalradií z Říše na nás [if:convo_pondering]" />
+    <string id="4OUnPjZc" text="Vskutku. Budeš muset najít způsob, jak to udělat. Možná ti pomůže tahle bronzová věc [if:convo_empathic_voice]" />
+    <string id="4RaspRbe" text="Dobře. Pak ti řeknu, co vím. Slyšel jsem ještě o jednom kousku.[if:convo_calm_friendly]" />
+    <string id="4SnDe0rA" text="Klany {FACTION} přeběhly do okolních království, protože jejich vůdce se vzdal všech nadějí na obnovení říše." />
+    <string id="4vsPD3ec" text="{?PLAYER.GENDER}Sestro{?}Bratře{\?}... Už tři dny ty bastardy sledujeme. Myslím, že už jsme blízko. Musíme myslet na to, co se stane, až je chytíme. Jak zachráníme {PLAYER_LITTLE_BROTHER.LINK} a {PLAYER_LITTLE_SISTER.LINK}? Jsme připraveni na boj? [if:convo_grave]" />
+    <string id="4vsvniPd" text="Myslím, že jsme teď na správné cestě. Jsi lepší jezdec, takže bys měl převzít vedení." />
+    <string id="4wS8eYYe" text="Úspěchy jsou pro tuto relaci dočasně vypnuty z důvodu odpojení služby." />
+    <string id="4WZ9zJbF" text="Nevím, kde jsou další díly, možná je budete muset hledat dál [if:convo_confused_normal]" />
+    <string id="5D5lOHSL" text="Až získáš všechny dílky zpět, vrať se ke mně a já ti je pomůžu využít [if:convo_calm_friendly]" />
+    <string id="5g9ZFGrN" text="Nacházíte se na cvičišti. Zde se můžeš naučit základy boje." />
+    <string id="5j6qvGAF" text="Výborná práce! Až rozvineš tento prapor a muži uvidí to, co považovali za ztracené, udělá to na ně silný dojem.[ib:normal2][if:convo_astonished]" />
+    <string id="5K4wvz3w" text="Najdi a setkej se s {HERO.LINK} a dozvíš se více o Neretzesově praporu. V současné době se nachází v {SETTLEMENT}." />
+    <string id="5LJTeOBT" text="Byl jsem s karavanou a právě vyšli z křoví. Byli jsme obklíčeni a v přesile, tak jsme se vzdali. Říkal jsem si, že nás nechají naživu, i kdyby jen kvůli výkupnému. Ale pak nás začali bičovat maximální rychlostí, bez vody, a já už jsem byl skoro na padnutí [ib:nervous2]" />
+    <string id="5Mw4trfs" text="Až se připravíš, přijď si se mnou znovu promluvit. Možná pro tebe budu mít úkol, pokud se vydáš za těmi nájezdníky [if:convo_pondering]" />
+    <string id="5PGokzW1" text="Mluvení je levné. Jestli mě opravdu tak moc chceš, vyzývám tě na souboj." />
+    <string id="5qhaDtef" text="Ne. Nech mě si to rozmyslet." />
+    <string id="5QiuMoe6" text="Věřím, že mám kus Dračího praporu z Calradiosu." />
+    <string id="5soUEFEJ" text="{TACTEOS.NAME} Říkal jsem, že pro správného člověka by mohl mít obrovskou cenu, pokud se ti podaří nenechat se zabít. Pokud mluví pravdu, musíš být opatrný. Nikdy neprozrazuj, že ho máš. Snaž se pochopit, jakou má hodnotu a jak ho lze prodat.[if:convo_pondering]" />
+    <string id="5UHbg6D0" text="Takže. Co tě ke mně přivádí?" />
+    <string id="6aDiS9eP" text="Já jsem {CONVERSATION_HERO.FIRSTNAME}. To už ale nejspíš víš. Kdysi jsem měl velkou moc, ale teď... Každopádně jsem velmi zvědavý, co ode mě budete chtít." />
+    <string id="6Dd3Pa07" text="Podařilo se ti zmařit spiknutí." />
+    <string id="6iytd81P" text="V úkrytu jsi byl poražen bandity, ale podařilo se ti utéct. Musíte chvíli počkat, než znovu zaútočíte." />
+    <string id="6LQUuQhV" text="Děkuji ti za tvou vzácnou pomoc." />
+    <string id="6qgXAcZB" text="Neretzes, když se dozvěděl, že váháme, nám poslal zprávu, v níž nás označil za zbabělce a zrádce. A to říkáte vlandskému šlechtici na vlastní nebezpečí. Neretzes měl vědět, co dělá. Přidali jsme se ke sturgiánům.[if:convo_undecided_closed]" />
+    <string id="6UIa4784" text="Můžeš mi říct něco o bitvě u Pendraicu?" />
+    <string id="6vCHovVH" text="sis podmanil nájezdníka." />
+    <string id="6YhGGJ7a" text="Konečně potřebuješ hlavní město pro svou říši. Může to být jakákoli osada, kterou vlastníš, pokud nemluví císařským jazykem. Nepomůžu ti vytvořit další říši." />
+    <string id="77TavbOY" text="Všechny výukové programy jsi splnil. Vždy se můžeš vrátit a zlepšit si skóre." />
+    <string id="7FWF01bW" text="Uprchlíci" />
+    <string id="7O8IwMgU" text="Ach, mou pomoc budeš potřebovat v pořádku, pokud je chceš dostat zpět - tedy živé. Víte, moji chlapci mají docela konkrétní instrukce, co dělat, pokud dojde k pokusu o záchranu..." />
+    <string id="7ULaG8aT" text="Pak se můžeš vrátit, až se rozhodneš.[ib:closed][if:convo_insulted]" />
+    <string id="7VFLb3Qj" text="Dorazili jste do vesnice." />
+    <string id="7wmkPNbI" text="Bráníš se zprava." />
+    <string id="7XTkTi9B" text="{PLAYER_LITTLE_SISTER.NAME} je mladší sestra {PLAYER.LINK}." />
+    <string id="80NOk1Ee" text="Nemohl jsi sjednotit říši." />
+    <string id="8b4Ndfep" text="A samozřejmě. O tom nepochybuji.[if:convo_nonchalant]" />
+    <string id="8GCW5IRO" text="Snažil jsem se o tom zjistit víc, ale jak říkám, už jsem ze sebe vybičoval veškerou chuť cestovat. Právě teď si myslím, že bych se od studny neodvážil dál než dvacet kroků, dokud budu naživu.[ib:closed2][if:convo_shocked]" />
+    <string id="8OIwHZF1" text="Úkryt" />
+    <string id="8QX1QHAJ" text="Útok zleva." />
+    <string id="9aRqqx3U" text="Karavana doručila spiklencům své zásoby. Čeká nás silnější protivník..." />
+    <string id="9aY0ifwi" text="Ještě se setkáme...[if:convo_insulted]" />
+    <string id="9aYCfBVz" text="Město zachvátila panika poté, co se donesly zvěsti o tom, co se stalo. Arenicos zabránil tomu, aby se situace zvrhla v chaos. Když přišel čas, aby senát zvolil příštího císaře, nebylo pochyb, že by to měl být on. Dříve jsem ho miloval jako člověka, ale toho dne jsem se naučil milovat ho jako něco víc: jaký byl dar pro lid Kalradie![ib:demure2]" />
+    <string id="9E6faNBg" text="Budu o tobě muset vyšít pořádnou legendu. Božská znamení při tvém narození a tak. Zatím ti můžeme říkat Vládce praporu, který sesílá hněv nebes na drzé barbary.[ib:confident2][if:convo_relaxed_happy]" />
+    <string id="9kGnzjrU" text="Časovač spuštěn." />
+    <string id="9sAGLK6R" text="Ano, Derthert mě pověřil velením střelcům z kuší [if:convo_grave][ib:confident3]" />
+    <string id="9tpTkKdY" text="Řekni mi, kterou cestu sis vybral, až dosáhneš pokroku." />
+    <string id="9VxUSDQ7" text="Jmenuji se Tacteos. Povoláním jsem lékař. Byl jsem na, no, tak trochu výpravě, ale teď si říkám, že na takové věci nejsem stavěný.[ib:nervous][if:convo_pondering]" />
+    <string id="9xaEPyNV" text="Úkryt {RADAGOS.NAME}" />
+    <string id="9XnFlRR0" text="Interakce s touto osobou je během výukové fáze zakázána." />
+    <string id="a0JxUMgo" text="Co se stalo? Našel jsi ten kousek praporu?" />
+    <string id="a0ZKBj6P" text="Buď nezávislý klan" />
+    <string id="a29lmPLd" text="Už jsem tě porazil. Vím, jak váš gang funguje. Méně mluvení, více nájezdů. No tak..." />
+    <string id="a4W7Gzka" text="Ano. Čas je důležitý. (Přeskočit tutoriál)" />
+    <string id="A9fChKmz" text="Říše byla starým medvědem. Dobře živeným, pomalu se pohybujícím. Chtěla si udržet to, co měla. Sturgiáni byli a jsou hladoví vlci. Stejně jako my. Někdy vlci loví ve smečkách a někdy ne. Někdy chce jeden vlk, aby lev zabil jeho soka." />
+    <string id="aClquusd" text="Počet jednotek" />
+    <string id="ACyYhA2s" text="Najdi a zachraň poutníka" />
+    <string id="AGIPUYvy" text="Měli jsme štíty, ale ty můžeš najednou namířit jen jedním směrem. Začali jsme tedy jeden po druhém padat, dokud se ze stromů nevyřítili battanští falxmani. Za normálních okolností by byli velmi zranitelní vůči lučištníkům, ale, no, staré Neretze nenapadlo poslat s námi nějaké. Tak se na nás vrhli, sekali a sekali a my jsme bojovali, dokud jsme se nezlomili." />
+    <string id="agrsO3qQ" text="Díky vašim úspěšným potyčkám proti {RAIDER_NAME} nyní v okolí {SETTLEMENT} hlídkuje spiklenecká válečná skupina." />
+    <string id="aGX3L8mV" text="Slyšeli jsme, že Impérium vede válku se Sturgiány, nebo to možná bylo naopak. Myslel jsem si, že v tomto sporu nemáme žádný podíl, ale Nimr, mladý ohnivý hrdina z Bani Sarran, mě požádal o povolení vzít s sebou několik mladých bojovníků, toužících po slávě." />
+    <string id="AHDQffXv" text="Už jsi sestavil prapor?" />
+    <string id="AhthUkMu" text="Lidé říkají, že jsou stále poblíž. Spíme v lese a nevrátíme se, dokud nebudou pryč. Slyšíte, že je lovíte a všechny zabíjíte! Nebesa tě ochraňují! Nebesa vedou vaše meče! [if:convo_nervous2][ib:nervous]" />
+    <string id="AhWyBEhd" text="Byl to jeden z císařových důvěryhodných velitelů. Nedokázal zabránit Neretzovi v pochodu k porážce, ale podařilo se mu z té katastrofy něco zachránit. Když se Sturgiáni dostali přes naše barikády, podařilo se mu vyvést skupinu Neretzesových gardistů dozadu." />
+    <string id="ajBBFq1D" text="Aii... Ti ďáblové. Přepadli naši vesnici. Vzali, koho mohli chytit. Vsadím se, že otrokáře [if:convo_nervous][ib:nervous2]" />
+    <string id="aMBoh7gL" text="Otáčeli se a kroutili, když na ně pršely naše šípy, jako když ryby v rybníku zběsile řádí, když napínáš síť. Pak, když byli značně znejistěni, jsme se chopili svých falxů a mečů a sklidili úrodu. Ach, později došlo k nějakým nepříjemnostem se Sturgiány, co se týče válečné kořisti, ale byl to skvělý den! [if:convo_relaxed_happy]" />
+    <string id="ATduKfHu" text="To na vás udělá velký dojem. Přiláká to spojence, ale také ti to nejspíš udělá nové nepřátele. Jsi si jistý, že jsi připraven? [if:convo_undecided_closed]" />
+    <string id="atnUtXdO" text="{KINGDOM_NAME} Byl poražen. Tvá snaha o obnovení Říše ztroskotala." />
+    <string id="atUTLABh" text="Rozhodl ses podpořit {KINGDOM} tím, že jsi jim daroval Dračí prapor, a dal jsi na radu {MENTOR.LINK}." />
+    <string id="awgBkdXx" text="Měl by ses vrátit do menu vesnice a připravit se na výpravu za nájezdníky, pak se dozvíš o úkolu, který pro tebe má náčelník." />
+    <string id="AxKDQJ4G" text="You told {MENTOR.LINK} that you will create your own kingdom to defeat the Empire. You can do that by speaking to one of your governors once you fulfill the requirements. {?MENTOR.GENDER}She{?}He{\?} expects to talk to you once you succeed." />
+    <string id="ay1gPPsP" text="Najdi další část praporu" />
+    <string id="aY4zWYpg" text="Obdržel jsi důležitou zprávu od {MENTOR.LINK}." />
+    <string id="aYozMy3Z" text="Prohráli jsme, protože Vlandiáni porušili přísahu a bojovali s námi, když měli bojovat s námi. Dostal jsem velení katafraktů a snadno jsme rozdrtili jejich střelce z kuší. Jejich rytíři nám dělali větší potíže. Mezitím se sturgiánská pěchota snesla dolů a zaútočila na naše hlavní síly. Tam padl můj otec." />
+    <string id="b6hQWKHe" text="Rozšiř svou družinu na {PARTY_SIZE} mužů" />
+    <string id="b7Z1OBas" text="Myslíš, že brzy nájezdníky doženeme?" />
+    <string id="bdbZLJf3" text="Neretové měli povinnost pomstít battanské útoky na naši zemi. Vyrazil na pochod se všemi silami, které dokázal shromáždit. Vlandiáni nás zradili, ale to se od barbarů bez cti očekává. Štěstí přálo nepříteli. Důležité je, že jsme udělali to, co vyžadovala čest [if:convo_thinking]" />
+    <string id="BdYaRvhm" text="Nevím, kdo jsi, ale jsem tvým dlužníkem. Tihle loupežníci by nás hnali na smrt.[ib:nervous2][if:convo_uncomfortable_voice]" />
+    <string id="BekWpXmR" text="Poslechl jsi radu {MENTOR.LINK} a vytvořil jsi království, které se postavilo Říši. Můžeš {?MENTOR.GENDER}jeho{?}jemu{\?} říct, že budeš podporovat své vlastní království." />
+    <string id="bESRdcRo" text="Založ svůj klan" />
+    <string id="bhQ6Jbom" text="Narazíš na truhlu, ve které je starý kus bronzu. Je tak otlučený a zkorodovaný, že to mohlo být cokoli od poháru až po korunu. Tohle musí být ta truhla {TACTEOS.NAME}, o které ses zmínil a která měla něco společného s Neretzovým bláznovstvím." />
+    <string id="bHveKDUI" text="Tak už ses rozhodl? [ib:closed][if:convo_nonchalant]" />
+    <string id="bJjAqCxk" text="Utekla jsem - jeden z jeho mužů, o něco provinivší se než ostatní, mi přeřízl pouta, když ostatní spali - ale zrádce nemohu nechat naživu. Proto jsem se rozhodl najít tě a nabídnout ti dohodu [if:convo_focused_voice][ib:hip]" />
+    <string id="bkZFbCRx" text="Hledáme dvě děti, které zajali nájezdníci. Můžeš nám něco říct?" />
+    <string id="BleybhsD" text="Objevili se císařští katafraktové, obrnění od hlavy až k patě, a jejich koně taky, takže naši střelbu prostě ignorovali a prodrali se skrz nás. Při ústupu mě smetli a víc jsem z bitvy neviděl. Král Derthert měl dost dobrý plán, ale baroni - Ingalther, Aldric a tahle parta - ho ignorovali, jako vždycky." />
+    <string id="bmitHhDt" text="Náš starý milovaný král Aeril, skvělý muž, ale se srdcem možná až příliš něžným, si nepřál, abychom šli do války. Ale pak zmizel a já, jeho zeť, jsem nastoupil na královský trůn. Klany volaly po válce! Museli pomstít sto let trvající zločiny, které na nich byly spáchány. Já, otec svého lidu, jsem jim dal, co chtěli.[if:convo_calm_friendly]" />
+    <string id="bNcGO33Q" text="Myslíme si, že odešli na sever. Počítám, že je tu pár lidí, kteří se k tobě přidají a půjdou po nich, když jim zaplatíš za výbavu [if:convo_thinking]" />
+    <string id="bNqLQKQS" text="Došlo vám jídlo. Severně odtud je vesnice {VILLAGE_NAME}, kde můžeš nakoupit zásoby a najít nějakou pomoc." />
+    <string id="Bo66bfTh" text="Vlastni {?IS_IMPERIAL}císařskou {?}{\?}osadu" />
+    <string id="BrHU0NuE" text="Možná. Ale pokud ano, nedožiješ se toho." />
+    <string id="bSDt8FN5" text="Jsem připraven, pojďme!" />
+    <string id="BstbQV5Z" text="Byla to tragédie, která nahlodala kořeny všech velkých rodů Kalradie, dokonce i toho našeho, tak daleko od bitvy. [if:convo_annoyed][ib:normal2]" />
+    <string id="bsWSecYa" text="{PLAYER_BROTHER.NAME}je starším bratrem {PLAYER.LINK}. Vydal se hledat dva nejmladší sourozence rodu, {PLAYER_LITTLE_BROTHER.NAME} a {PLAYER_LITTLE_SISTER.NAME}." />
+    <string id="bT9yspaQ" text="Prohrál jsi bitvu proti spiklenecké karavaně. Čeká nás silnější protivník..." />
+    <string id="btAV7mmq" text="Nájezdníci v úkrytu tě porazili, ale podařilo se ti uniknout. Před dalším útokem musíte chvíli počkat." />
+    <string id="BTY2aZCt" text="Vstupte do výcvikového prostoru." />
+    <string id="bWdsH2Ls" text="Tohle jsem se naučil za celý život v politice: Není nic horšího než nepořádek. Stačí, když řeknu, že vím lépe než kdokoli jiný o lžích a krutosti, které udržovaly Říši při životě. Ale všechny vraždy, které jsem kdy spáchal za deset let služby Neretům, se nevyrovnají počtu mrtvých za jedinou hodinu, kdy armáda vtrhne do města.[if:convo_snide_voice]" />
+    <string id="BXMKgTXl" text="Tohle udělá velký dojem. Přiláká to spojence, ale také ti to pravděpodobně udělá nové nepřátele. Jsi si jistý, že jsi připraven? [if:convo_astonished]" />
+    <string id="bXYFXLgg" text="Zvyš své dináry o 1000" />
+    <string id="bZI82WMt" text="Ať už to máme za sebou! Muži útočí!" />
+    <string id="bzmcPtZ6" text="Známe tě. Bylo nám řečeno, abychom na vás dávali pozor. Víme, co plánujete s {MENTOR.NAME}. Selžeš a zemřeš.[ib:closed][if:convo_predatory]" />
+    <string id="C0xbbPqE" text="Za tvou drzost s tebou svedu souboj! Chcípni, pse! [ib:warrior][if:convo_furious]" />
+    <string id="c1Q2irLi" text="Tvoji muži mi zabili rodiče. Opravdu sis myslel, že nebudeš potrestán?" />
+    <string id="c6pDNXbb" text="Můžeš si vytvořit vlastní království nebo podpořit nějaké existující...[if:convo_normal]" />
+    <string id="C79Xxm1b" text="Mimochodem, ať tě netrápí svědomí, že mě necháš jít. K otroctví se už nevrátím. Spálil jsem příliš mnoho mostů se svými starými kolegy, dalo by se říct. Najdu si nějaký jiný způsob, jak si vydělat na živobytí - třeba námezdní prací. Každopádně se naše cesty možná ještě někdy zkříží.[if:convo_empathic_voice]" />
+    <string id="ccf67J3J" text="Popadl jsi luk a vyslal nájezdníkům do cesty několik šípů. Ti se kryli a dali ti příležitost utéct s bratrem." />
+    <string id="cEaXehHy" text="Jen jsem něco zjišťoval. Můžeš jít dál." />
+    <string id="cepWNzEA" text="Naskočil jsi na dva zbývající koně v hořící stáji hostince, s bratrem jste se vymanili z obklíčení nájezdníků a ujížděli pryč." />
+    <string id="CEqKkY3m" text="Bránit se z výšky." />
+    <string id="cfTiiEEM" text="Říše má geniální talent na ničení - ničení jazyků, tradic, bohů. Zabírá naše pevnosti, zabíjí naše muže a z našich dětí dělá své vlastní děti [if:convo_focused_voice]" />
+    <string id="ch9f3A1e" text="Zdravím tě, {?PLAYER.GENDER}madam{?}sire{\?}. Proč jsi zastavil naši karavanu? Věřím, že nás neokrádáte." />
+    <string id="Cl4xi6Be" text="Konečně potřebujete kapitál. Stačí jakákoli osada, pokud její obyvatelé mluví císařským jazykem.[if:convo_focused_voice]" />
+    <string id="cLZWjrZP" text="Přesunuli se do jiného úkrytu." />
+    <string id="cNwejsNl" text="Příhodná legenda, co? Jistě, Kalradiané byli mnohokrát poraženi, ale to asi nebyli praví synové. Přesto by se dalo říct, že představuje sílu a odolnost této říše.[ib:normal][if:convo_focused_happy]" />
+    <string id="CnXA7oyE" text="Nyní tě čekají dvě cesty, mé dítě!" />
+    <string id="CRmUZvaW" text="Možná se Neretzes unáhlil, když poslal naši pěchotu do kopců, aby zaútočila na battanskou pevnost. Myslel si však, že průsmyk obsadí rychle, než ho nepřítel stihne posílit. Kdyby uzavřel druhou sázku a ta by se ukázala jako chybná, lidé by říkali, že byl váhavý [ib:demure2]" />
+    <string id="cRvSuYC8" text="Vybrat si jinou zbraň nebo jít na jiné cvičiště." />
+    <string id="CvBoRaFv" text="Ve zmatku při útoku se ti podařilo popadnout nůž. Bodl jsi nájezdníka, který ti blokoval cestu." />
+    <string id="cYibaPhn" text="Barbaři stále přicházeli a přicházeli. S několika věrnými muži jsem se probojoval ven a dostal se zpět do hlavního města. Zjistil jsem však, že Arenicos se tam dostal dříve než já a nechal se prohlásit císařem. Vždycky byl mazaný." />
+    <string id="D4MuSwRB" text="Smutný den pro Banu Qild. Ale my jsme se pomstili.[if:convo_stern][ib:hip]" />
+    <string id="D9RoNGJg" text="Kup 2 {GRAIN}{.s}. Klikněte na možnost Koupit výrobky v menu vesnice a nakupte výrobky." />
+    <string id="DaBN0O7N" text="Nepodařilo se vám včas porazit všechny nájezdníky. Mnoho místních obyvatel má pocit, že jsi na ně přivolal neštěstí, a nechtějí s tebou mít nic společného." />
+    <string id="Db63Pe03" text="Porazili jste karavanu a získali její zásoby. Spojenci {OTHER_MENTOR.LINK} nebudou mít své zbraně. To nám poskytne čas a prostředky na přípravu." />
+    <string id="Db98U6fF" text="Obrana zleva." />
+    <string id="dbLb3krw" text="Ulovte tlupy {RAIDER_NAME}" />
+    <string id="dE2ufxte" text="Než uděláme cokoli dalšího. Máme málo jídla. Severně odtud je vesnice, kde můžeme nakoupit zásoby a najít nějakou pomoc. Jsi lepší jezdec než já, takže tě nechám vést..." />
+    <string id="DfiACGay" text="Zničte nájezdníky." />
+    <string id="Dfmg8stq" text="Zlikviduj {FACTION}" />
+    <string id="Dgdopl1b" text="Jak mohu vytvořit vlastní císařské království?" />
+    <string id="DIKPGwj1" text="Tak rád tě vidím v bezpečí. Jsou všichni v pořádku?" />
+    <string id="DjQuB0TU" text="Zachránil jsi své bratry a sestru a rozhodl ses nechat {RADAGOS.LINK} odejít..." />
+    <string id="DO4PE3Oo" text="Aktuální velikost družiny" />
+    <string id="Dp6newHS" text="Dobyté osady" />
+    <string id="dPb2Vph3" text="Moji informátoři mi řeknou, jakmile jsi přislíbil svou podporu...[ib:normal2][if:convo_nonchalant]" />
+    <string id="DQzEgUzu" text="Mluvil jsi s {HERO.LINK} a získal jsi cenné informace, které ti mohou pomoci pochopit artefakt." />
+    <string id="Dr63pCHt" text="{MENTOR.LINK} Poslal ti zprávu o útocích banditů poblíž {TARGET_SETTLEMENT} a radí ti, aby ses tam vydal a všechny je zlikvidoval, než se jejich akce obrátí proti tvému hnutí místních obyvatel." />
+    <string id="duD8SJDb" text="Naši rytíři spatřili masu aserské lehké pěchoty rozprostřenou po údolí a zaútočili na ni. Nebyli připraveni čelit náporu a byli poraženi. Pak se ale objevila skupina Khuzaitů, kteří si drželi odstup a dávali rytířům zabrat a stříleli jim zpod koní. Tehdy jsme se objevili my." />
+    <string id="DuUhVWaV" text="Povím vám něco o sobě... Byl jsem důvěrníkem starého císaře Neretze. Oficiálně jsem nebyla jeho špionkou, protože jsem žena, ale přesto jsem tuto roli plnila. Měla jsem Neretzese ráda a byla jsem mu velmi vděčná za jeho důvěru, ale nebyl to dobrý císař. Byl příliš tvrdohlavý a zásadový. Asi jsem ho měla otrávit.[ib:demure2][if:convo_empathic_voice]" />
+    <string id="dWVsS3D8" text="Nejstatečnější a nejudatnější syn našeho rodu, Nimr, odvedl velkou skupinu aserských bojovníků do boje za říši, za zlato a slávu. Šel jsem s nimi. Když jsme viděli, jak se z kopců snášejí battanští lučištníci, Nimr byl připraven. Dal povel: drželi jsme štíty nad hlavami, když se na nás snášely šípy, pak jsme hodili oštěpy a zaútočili. Srazili jsme je." />
+    <string id="DyE3luNM" text="Aby ses mohl vypořádat s nájezdníky, musíš mít ve své družině alespoň {NUMBER} člena. Vraťte se do vesnice a naverbujte další vojáky." />
+    <string id="E87miqTI" text="Vyčerpaní válkou nabídnou klany {FACTION} klanům {PLAYER_SUPPORTED_FACTION} mír." />
+    <string id="e8Tjf8Ph" text="Najmi si 1 společníka" />
+    <string id="eaxOH9mb" text="Moji ptáčkové mi řeknou, jakmile jim přislíbíš svou podporu...[if:convo_nonchalant]" />
+    <string id="EdUppdLZ" text="jsi nájezdníky ošálil." />
+    <string id="eH8z6Fws" text="Navzdory svému dračímu praporu byl {PLAYER_SUPPORTED_KINGDOM} zničen!" />
+    <string id="ehnbi5yD" text="Obávám se, že jsem žádné děti neviděl. Ale poté, co byla naše karavana napadena, náčelník nájezdníků, ten, kterému říkají Radagos, vzal a odjel s našimi cennějšími věcmi včetně truhly, kterou jsem měl já [ib:closed][if:convo_empathic_voice]" />
+    <string id="EitTbGvB" text="Nejsem si jistý. Ještě jsem se k tomu nerozhodl." />
+    <string id="eJX7rhch" text="Úspěšně jsi obnovil svůj klan." />
+    <string id="elJCacQO" text="Já na tom pracuji." />
+    <string id="eNJBjYG8" text="Úspěšně jsi sestavil Dračí prapor Calradiosu." />
+    <string id="EoLcoaHM" text="Uvidíme..." />
+    <string id="EOSyvdFG" text="Pak přišli vlandiánští rytíři. Napadli nás ze dvou stran a císař, který mohl poslat muže, aby nás zachránili, si dal na čas. Možná chtěl, aby zemřeli ti nejlepší z Aserů, abychom později nebyli příliš mocní. Ale tato zrada nebyla ničím ve srovnání s tím, čeho se nám dostalo od našich kolegů Aserai z Banu Qild." />
+    <string id="epB0x816" text="{PLAYER_LITTLE_SISTER.NAME} je mladší sestra {PLAYER.LINK}. Byla unesena bandity, kteří ji chtějí prodat do otroctví." />
+    <string id="EV5ykPuT" text="Vy a vaši muži jste byli poraženi {BOSS_NAME} a jeho spiklenci. Zbytek tvých mužů najde tvé rozbité tělo mezi zkrvavenou hromadou mrtvol. Přesto žiješ, abys mohl bojovat další den." />
+    <string id="eV8R0SKp" text="Nyní se můžeš rozhodnout, co uděláš s {DRAGON_BANNER}." />
+    <string id="eVgAY7ts" text="Dobré nebe, budu potřebovat lepší popis než tenhle. Moji muži sklidili v tomto kraji desítky malých spratků. Docela dobrá loviště! Většinu z nich už jsem ale poslal na jih na trh s otroky, který znám.[ib:hip][if:convo_snide_voice]" />
+    <string id="eVzg5Mtl" text="Spiklenecká karavana" />
+    <string id="EWD4Op6d" text="Oznámení" />
+    <string id="exoZygYL" text="Velmi dobře. Dračí prapor ve tvých rukou tě prohlašuje za mstitele zločinů Říše a jejího nástupce. Nyní se vydej vpřed a přihlas se o svůj osud! [if:convo_calm_friendly]" />
+    <string id="eYXLYgsC" text="Stále si nejsem jistý, co s ním budu dělat." />
+    <string id="ez4rbGmx" text="Urazí svého nejmocnějšího vazala a pak urazí svého nejcennějšího spojence. Pěkná práce na celý den, nemyslíš? Ale od té doby zmoudřel, i když není o nic příjemnější s ním trávit čas [ib:demure2]" />
+    <string id="F0ldgio8" text="Vrať se k tréninku." />
+    <string id="F26iH45g" text="Co se stalo? Už jsi sestavil prapor?" />
+    <string id="f3NvtzpE" text="Konspirační úkol k dispozici" />
+    <string id="F7VxtCSd" text="Tato možnost je ve výukové fázi zakázána." />
+    <string id="FaQDaRri" text="Chystám se spustit kurz. Potřebuji vědět, že mohu bojovat, pokud to bude nutné. (Pokračování výukového programu)" />
+    <string id="fBJRdxh2" text="Zkuste to znovu." />
+    <string id="FBp2ranI" text="Můžete mi tedy pomoci najít kupce?" />
+    <string id="fC60rYwy" text="Útok zprava." />
+    <string id="Fgta5mF6" text="Než odpovím, musíme o sobě vědět víc. Nevím, co o mně víš ty.  Byl jsem občanem Říše. Byl jsem velitelem císařských vojsk. Ale nejsem císařský.[ib:confident][if:convo_thinking]" />
+    <string id="FHM5GcHW" text="Dobře. Pak ti řeknu, co vím. Slyšel jsem ještě o jedné věci.[ib:normal2][if:convo_calm_friendly]" />
+    <string id="flGyoqa6" text="Byli to Sturgiáni, kteří se tváří v tvář setkali s Neretzesovou stráží. Můj otec mi přikázal, abych se držel zpátky, když je vedl do bitvy, ale on byl v jejich čele. Přinutil je ustoupit, pak se rozpadli a utíkali do úkrytu svého tábora. Šli jsme a zaútočili na jejich hradby a prolomili je, ale můj otec byl v okamžiku svého triumfu zasažen císařským palcátem a zemřel." />
+    <string id="flkmzKDz" text="Mnoho qildských mladíků šlo s ním. Zemřeli po stovkách. A žádný zisk z toho nebyl - kromě Nimra, kterého lidé z nějakého důvodu považovali za hrdinu. Bylo opovrženíhodné, jak se na něj vytahovali.[if:convo_annoyed]" />
+    <string id="fM4eSVps" text="Říkal jsi, že mluvit je ztráta času. Teď jsi majetkem {RADAGOS.NAME}." />
+    <string id="fp6QBO7l" text="Musím ty muže vzít s sebou. {RADAGOS.NAME}Je kluzký. Nechci, aby utekl.[if:convo_confused_voice]" />
+    <string id="FPhWhjq7" text="Poražen" />
+    <string id="fprOWs1E" text="Nyní, až budeš připraven vyhlásit své nové království, dej pokyn guvernérovi svého hlavního města, aby nechal přečíst proklamaci po celých tvých zemích." />
+    <string id="frk7T3ue" text="Nebude to snadné, ale mohu ti to podrobně vysvětlit..." />
+    <string id="fRMIoPUK" text="Dejte mi více času." />
+    <string id="FRSas4xT" text="Spiklenecká vojska" />
+    <string id="ft6zzDrJ" text="S tím mohu žít. Jdeme." />
+    <string id="fUcwKbW8" text="Pokud vyhraju, prostě vás zabiju a nechám ty ubohé výmluvy, kterým říkáte spiklenci, utéct." />
+    <string id="FUwIgcZO" text="Jsi si tím jistý? (Tato možnost ukončí tutoriál, který obsahuje příběhové prvky, a spustí plnou kampaň pro jednoho hráče. Tuto možnost doporučujeme zvolit pouze v případě, že jste již jednou hráli tutoriál)." />
+    <string id="FWSwngVX" text="Můžeme se vydat na cestu? Nezapomeňte - pokud padnu vyčerpáním nebo se utopím v nějaké řece, je to pro vaše miláčky konec. Nečekám teď útulný palantír, ale raději mi tu cestu příliš neztěžujte.[if:convo_uncomfortable_voice]" />
+    <string id="FyzsAZx8" text="{RADAGOS.LINK} Říkal, že ví, kde jsou tvoji sourozenci. Nabídl, že zaútočíme společně. Bude na tebe čekat v úkrytu, o kterém se zmínil poblíž {SETTLEMENT_LINK}. Úkryt vidíš vyznačený na mapě." />
+    <string id="G9iXmhGK" text="Podívej, ještě si můžeme promluvit. Dám ti měšec stříbra.[ib:weary][if:convo_confused_voice]" />
+    <string id="Ga8mDgab" text="Byl jsi poražen v úkrytu {HIDEOUT_BOSS.LINK}. Až budeš připraven, můžeš znovu zaútočit." />
+    <string id="gBbm9beO" text="Zasáhni všechny cíle. {REMAINING_TARGET} {?REMAINING_TARGET&gt;1}cíle{?}cíle{\?} zůstaly." />
+    <string id="GCbqpeDs" text="Výukový program je u konce. Nyní můžete volně prozkoumávat Calradii." />
+    <string id="gdgbaMOP" text="Nejsem si jistý, zda sdílím tvůj názor." />
+    <string id="GDNXavAl" text="Na naší říši není nic zvláštního.[if:convo_calm_friendly]Kterýkoli z těch drobných králů, chánů a sultánů by pravděpodobně mohl mít štěstí, dobýt Kalrádii a vládnout jí stejně dobře jako my. Ale jde o to - my už jsme to dokázali. Naše největší zločiny jsou minulostí. Nevracejme zpět to, co už bylo vykonáno." />
+    <string id="GGfM1HKn" text="Vítejte v MBII Bannerlord" />
+    <string id="GicEcLx2" text="Tak se tam uvidíme. Ale nezapomeň, že pokud je to past nebo něco podobného, bude tě to stát život." />
+    <string id="gJBNUAJd" text="Dokonči trať a zasáhni co nejvíce cílů." />
+    <string id="gL241Hoz" text="Velmi pěkné. Samozřejmě pověrčivé bláboly, ale lidé ti budou věřit. Dobrá tedy, dědici Calradiosu, jdi vpřed! [if:convo_nonchalant]" />
+    <string id="gL3WCqM5" text="Hrabě osady" />
+    <string id="gOI8lKcl" text="jsi ujel na rychlém koni." />
+    <string id="gSBGpUBm" text="Najdi skrýš {RADAGOS.LINK}." />
+    <string id="GVMGXfxS" text="Můžeš použít naše rodové jméno, pokud chceš, nebo si vymyslet nové. Budeš mít větší šanci získat audienci u šlechticů a pro mě bude snazší tě najít, když se budu vyptávat [if:convo_normal]" />
+    <string id="GW7Zg3IP" text="Konspirační válečná družina" />
+    <string id="gX0RzZoT" text="Pojďme si promluvit s náčelníkem." />
+    <string id="GxlPj4GC" text="Najdi úkryt, o kterém ti řekla Istiana, a získej další kus praporu." />
+    <string id="gYYGGflb" text="Nemáme času nazbyt. Když se rozdělíme, zvládneme toho víc. (Přeskoč návod)" />
+    <string id="GZaYmg95" text="Úspěšně jsi dokončil výukový program o meči." />
+    <string id="H2FMIJmw" text="Moji vlci! Zabijte je! [ib:agresivní][if:convo_furious]" />
+    <string id="h31YaM4b" text="Nasedni na koně." />
+    <string id="h68qCoz3" text="{PLAYER_LITTLE_BROTHER.NAME} je mladší bratr {PLAYER.LINK}. Byl unesen bandity, kteří ho chtějí prodat do otroctví." />
+    <string id="h9VP4ypW" text="Najdi {HERO.LINK} a setkej se s ním, aby ses dozvěděl více o Neretzesově praporu. V současné době se nachází u {SETTLEMENT}." />
+    <string id="hadftxlO" text="Příliš jsme sešli z naší cesty. Na nějakou dobu se ujmu vedení. Ty mě následuj." />
+    <string id="HCA9xOOo" text="Měl bys vládnout království neimperiální kultury." />
+    <string id="HDBkwjgf" text="{NOBLE_ANSWER}" />
+    <string id="HddJT1Ve" text="Nebyl jsem tam. Vím, že {HERO.LINK} o tom má nějaké myšlenky." />
+    <string id="heoCaRIr" text="Ne... Už o tom nebudeme mluvit. Zabij mě, nebo zabiju já tebe, takhle to skončí.[ib:warrior][if:convo_bared_teeth]" />
+    <string id="hFYG3lXw" text="No, tak někteří lidé nazývají velkou bitvu u Pendraicu v roce 1077 [ib:normal][if:convo_normal]" />
+    <string id="hGPdLssq" text="Vládce {PLAYER_SUPPORTED_FACTION} přijal mír nabídnutý válkou zničeným {FACTION}." />
+    <string id="HhFHRs7N" text="Vytvoř {?IS_IMPERIAL}imperiální frakci {?}neimperiální království {\?}" />
+    <string id="HhuBPfJn" text="Jdi za trenérem." />
+    <string id="HL9lzfjY" text="Samozřejmě, že mohu. Znáš mé jméno, čí jsem syn.[if:convo_beaten][ib:closed]" />
+    <string id="hnFkhPhp" text="Tato možnost je ve výukové fázi zakázána." />
+    <string id="HOb07MJF" text="Moc o tom nevím. Znám ale dva, kteří by mohli. {IMPERIAL_MENTOR.LINK} - Kdysi sloužila jako Neretezův neoficiální špión. Pak je tu {ANTI_IMPERIAL_MENTOR.LINK}. Sloužil u Neretezovy ochranky, ale lidé říkají, že teď je úplně jiný než tehdy." />
+    <string id="HPNuqbSf" text="Zachraňte svou rodinu" />
+    <string id="HqlXdzcv" text="Promluvte si s náčelníkem {HEADMAN.FIRSTNAME}." />
+    <string id="HrdVRMgR" text="Možná sis záchranou mého bratra a sestry zasloužil svůj život zpět. Dobrá tedy, jděte." />
+    <string id="HT9hW29s" text="Splendid! But I have a few things to do. There is a hideout near this city. {HIDEOUT_BOSS.LINK} keeps your siblings there. I will join you right where the path leads up, just out of sight of their scouts.[if:convo_snide_voice][ib:hip]" />
+    <string id="HvGW2DvS" text="Cesta byla zahájena." />
+    <string id="i3SSc0I4" text="Plán {IMPERIAL_MENTOR.NAME}" />
+    <string id="i5OOargr" text="Takové je válečné štěstí. Ale co přišlo potom... Když se rozneslo, co se stalo našim lidem, ostatní klany - zejména Arkité - věděly, že jsme slabí. Přepadli naše stáda. Každý, kdo protestoval, byl zabit. Monchug tomu moc nezabránil. Naučilo nás to, že chrabrost vás zabije, ale zrada vás obohatí.[if:convo_angry]" />
+    <string id="IavuL9KI" text="Samozřejmě. Mám v úmyslu použít prapor, abych pomohl zachránit Říši." />
+    <string id="ib2TKPUa" text="Vládce {FACTION} vede alianci proti vám. Poražte jejich armády nebo je donuťte k míru obsazením jejich osad a zničením jejich stran, abyste dosáhli vítězství." />
+    <string id="ibm9EEPa" text="Ne, potřebuji více času na rozhodnutí." />
+    <string id="IC9Vg5MA" text="Setkáme se tam později, až budeš připraven mi vše říct. [if:convo_normal][ib:normal2]" />
+    <string id="IITkXnnU" text="Kalradie je země plná nebezpečí - ale také příležitostí. Abys mohl čelit výzvám, které tě čekají, budeš muset vybudovat svůj klan.Tvůj bratr ti řekl, že existuje mnoho způsobů, jak toho dosáhnout, ale že žádný se nezříká mince. Jedním z prostředků je obchod, druhým boj a prodej zajatých banditů ve městě. Ať už se rozhodneš jít jakoukoli cestou, cestování o samotě by z tebe udělalo snadnou kořist pro kohokoli, kdo by narazil na tvou stopu.Víš, že můžeš získat muže, kteří tě budou následovat, od významných osobností ve vesnicích a městech, ačkoli tě možná požádají o jednu nebo dvě vlastní laskavosti, než ti umožní přístup ke svým cennějším bojovníkům.Přirozeně můžeš v kalradských krčmách najít i další jedinečné postavy. Ty však dávají přednost spíše zavedenějším klanům." />
+    <string id="ijyROgb4" text="Nevím, kde jsou další kusy, možná je budeš muset hledat dál. [if:convo_thinking]" />
+    <string id="ikhWkw7T" text="Úspěšně jsi porazil trenéra nováčků. Přejdi k trenérovi veteránů." />
+    <string id="IL4FcHXv" text="Slíbil jsi věrnost {KINGDOM_NAME}!" />
+    <string id="ImLQNYWC" text="Výborně - půjdu s tebou do souboje." />
+    <string id="IPP6MKfy" text="{MENTOR.LINK} Informoval tě o karavaně se zbraněmi, která bude spiklencům dodávat zbraně a zbroj." />
+    <string id="iQeMllr8" text="Když jsme s koňskými lučištníky bojovali jen my, vyhrávali jsme... Pěší muž dokáže střílet stejně dobře nebo lépe než muž na koni, při zachování všech stejných podmínek, a nás bylo mnohem víc. Takže začali klesat a cválali pryč. Rytíři je samozřejmě pronásledovali, a tehdy začaly problémy." />
+    <string id="iQrwsvb1" text="Nezbývalo nám nic jiného než jít do války. Každý, kdo vám tvrdí, že by to udělal jinak, je buď lhář, nebo zbabělec, nebo obojí. Sturgiáni nás napadli a bylo třeba je potrestat. Přišli jsme o armádu a prapor. Ale neztratili jsme čest a bez cti by říše skončila." />
+    <string id="iR4QCTxv" text="Oslabená říše" />
+    <string id="itRoeaJf" text="Slyšeli jsme, že jste unesli našeho bratříčka a sestřičku. Kde jsou?" />
+    <string id="IYnFgEgy" text="Tak pojďme dál. (Přehrajte si bojový tutoriál)" />
+    <string id="izCbZEZg" text="Velitel spiknutí{%Commander is male.}" />
+    <string id="j2dW9fZt" text="Zaútoč z výšky." />
+    <string id="J4qetbZb" text="Našel jsem však tento podivně vypadající kovový kus. Nevypadá příliš cenně, ale mohl by to být artefakt, o kterém {TACTEOS.NAME} mluvil. Možná bychom ho mohli prodat některému ze vznešených klanů za vysokou cenu.[if:convo_astonished]" />
+    <string id="j9f9Ts7i" text="Mám lepší nápad. Měli bychom větší šanci, kdybychom se teď rozdělili. Vezmu si {RADAGOS.NAME} a půjdu najít trh s otrokáři a hledat způsob, jak děti osvobodit. Musíme si však dávat pozor, abychom neohrozili jejich životy, a možná by bylo lepší je prostě koupit. Na to však musíme mít plné měšce.[if:convo_normal]" />
+    <string id="jg3T5AyE" text="Stejně jako mnoha rodinám v Kalrádii i vám válka převrátila život naruby. Váš domov byl zpustošen průchodem jedné armády za druhou. Nakonec jsi prodal svůj majetek a vydal se s otcem, matkou, bratrem a dvěma mladšími sourozenci do nového města, o kterém jsi slyšel, že je bezpečnější. Ale nepodařilo se vám to. Cestou byl hostinec, ve kterém jste bydleli, napaden nájezdníky. Tvé rodiče zabili a tvé dva nejmladší sourozence zajali, ale ty a tvůj bratr jste přežili, protože..." />
+    <string id="jGhWOnjx" text="Ano, bylo to šílenství. Největší rána, jaká byla za celý život Říši uštědřena, a my jsme ji promarnili tím, že jsme se mezi sebou hádali o vlajku.[if:convo_stern][ib:closed2]" />
+    <string id="JhEzD45J" text="Nákup {GRAIN}" />
+    <string id="JJo0i8an" text="Rozhlédni se po vesnici a najdi skupinu, která zajala pocestného, o němž ti vyprávěl náčelník." />
+    <string id="Jn4r0GjD" text="Pomůžeš mi tedy najít kupce?" />
+    <string id="jnOa3cbK" text="Než vám tuto informaci prozradím, potřebuji vědět více o vašich záměrech. Prapor by se dal použít k obnovení říše, ale také by se dal použít k jejímu zničení.[ib:closed][if:convo_angry_voice]" />
+    <string id="JOJ09cLW" text="Pojďme." />
+    <string id="jPKIN2r4" text="Ještě jedna věc. Při rozhovorech se šlechtici a dalšími významnými lidmi se snaž vystupovat jako někdo ze vzdáleného, ale významného rodu [if:convo_thinking]" />
+    <string id="JTPmw3cb" text="Nemohl jsi úkol dokončit včas." />
+    <string id="JVkPkbdg" text="Nemohl jsi oslabit Říši." />
+    <string id="JWLBKIkR" text="Náčelník {HEADMAN.FIRSTNAME}" />
+    <string id="k07wzat8" text="Ještě nejsem připraven." />
+    <string id="K75sH3vW" text="A protože už nemám nic cenného, čím bych se ti odvděčil za tvou pomoc, řeknu ti tohle. Pokud toho lotra dostihneš a porazíš, možná budeš moci získat zpět mou truhlu. Je v ní cenná ozdoba, která by prý mohla mít velkou cenu, kdybys věděl, kde ji prodat [if:convo_pondering]" />
+    <string id="karjORwI" text="K čertu s tím! Proč bych se s tebou měl utkávat?" />
+    <string id="kaZ1XtDX" text="Nejsi dost silný na to, abys zaútočil. Naber další vojáky z vesnice." />
+    <string id="kbyqtszZ" text="Poslouchám..." />
+    <string id="kdR3CeL8" text="Malý oddíl mého manžela se držel pohromadě a přidali se k němu opozdilci a uprchlíci. Popisoval pochod zpět - bez jídla, s malým množstvím vody, pochodující dnem i nocí, aby se udrželi před nepřátelskými jezdci. Ale přežili - jediná organizovaná císařská jednotka, která to dokázala." />
+    <string id="Ke7f4XSC" text="Představuji vám Dračí prapor Calradiosu." />
+    <string id="KH07mJ5k" text="Dobrá, vraťte se, až budete připraveni." />
+    <string id="KhL2ctsi" text="Nyní jsi připraven odejít. Znovu si promluv s náčelníkem. Řekl, že má pro tebe úkol." />
+    <string id="kIklPYto" text="Jsi připraven odtud odejít?" />
+    <string id="kJwV17Jx" text="Ano. Na ten den nikdy nezapomeneme... Na den, kdy jsme se dozvěděli, že ti staří muži, kteří si nárokovali právo nám vládnout, jsou neschopní a ubozí.[if:convo_stern][ib:closed]" />
+    <string id="kJxPtbHo" text="Co jsme nakonec získali? Sturgiáni nás nenávidí víc než kdy dřív. Vlandiáni také. Říše je, myslím, rozvrácená. Co na to říct... Věřím, že války by měly mít cíl. Ale zdá se, že jsem mezi našimi lidmi v menšině.[ib:closed]" />
+    <string id="kqj1Wp0f" text="Rozhodl ses, že Dračí prapor zůstane v království, kterému vládneš." />
+    <string id="kTaYz2mo" text="Mluvil jsi s {HERO.NAME}." />
+    <string id="kvTEeUWO" text="Špatně!" />
+    <string id="kw9sltab" text="Battaniáni naplánovali přepadení císařského předvoje nahoře v zalesněném průsmyku, pak se měli Vlandiáni a Sturgiáni v bitvě vrhnout na jejich boky. Naši zvědové battanskou léčku odhalili, ale Neretzes je neposlechl a stejně do ní vpadl." />
+    <string id="kwW6v202" text="Přejdi na střeleckou pozici" />
+    <string id="KXj8bsao" text="Takže... Pokud hodláš použít prapor k záchraně Říše, řeknu ti, co vím. Ale jestli chceš jít zpátky, ne dopředu, tak ti nepomůžu.[ib:closed][if:convo_undecided_closed]" />
+    <string id="kYtRsxSL" text="Bojovali jsme s Vlandiany. Vyhráli jsme, ale byla to velká jatka. Manželův kůň byl zabit a on byl sražen, ačkoli zemřel uprostřed hromady vlandských mrtvých. Jinde na poli si císař nechal useknout hlavu Sturgiánskou sekerou, a tak nám nemohl zaplatit." />
+    <string id="KYW1UiKm" text="Khergité nikdy nepatřili k nejbohatším klanům, ale vynahradili jsme si to svou statečností. Když se rozneslo, že císař slibuje stříbro za muže, kteří po jeho boku pojedou proti Sturgiánům, Battanům a dalším, naši mladí stateční chlapci se samozřejmě chopili příležitosti. Vedl je můj manžel, nejstatečnější a nejlepší z nich." />
+    <string id="kz5PJbV1" text="Budu. Za tvé četné zločiny {RADAGOS.NAME}, tvůj život je ztracen." />
+    <string id="kzgbBrYo" text="Když opouštíš úkryt, {RADAGOS.LINK}přijde k tobě a požádá tě o rozhovor." />
+    <string id="L1V8L2N1" text="Ano. Císař Neretzes nabídl, že si najme naše bojovníky jako žoldáky. Neviděl jsem na tom nic špatného.[ib:confident3][if:convo_bored]" />
+    <string id="L3Qb6lbp" text="Nabídka míru od {FACTION}" />
+    <string id="LbSvq3be" text="Ještě jedna věc, {?PLAYER.GENDER}sestro{?}bratře{\?}. Chceme, aby nás lidé brali vážně. Možná brzy povedeme muže do bitvy. Dejme našemu rodu jméno a prapor, jako to dělají šlechtici." />
+    <string id="LcxfWLgd" text="{PLAYER_BROTHER.NAME} je starší bratr {PLAYER.LINK}." />
+    <string id="Lep5YKdt" text="Zatímco Neretzesův předvoj byl vyvražděn, potkali jsme Vlandiany. Vlandové však přivedli spoustu střelců z kuší a naši jízdní lučištníci utrpěli těžké ztráty. Nakonec se objevili obrnění císařští katafraktové a převálcovali kušníky. Dostali jsme se však do boje zblízka s vlandskými rytíři a tam to začalo být krvavé." />
+    <string id="LfH7VXDH" text="Zlikvidovali jste všechny {RAIDER_NAME} bandy v okolí." />
+    <string id="lIArdHty" text="Ano. V den, kdy můj otec zemřel díky battanské zradě.[if:convo_annoyed][ib:convo_hip2]" />
+    <string id="lJiEsNiQ" text="Několik hodin poté, co opustíš cvičiště, narazíš na zraněného muže ležícího pod stromem. Podělíš se s ním o vodu a pokusíš se mu co nejlépe ošetřit rány. Řekne ti, že je potulný lékař. Jako poděkování za pomoc ti předá malý bronzový artefakt, který mu prý kdysi daroval za úplatu jeden válečník, který řekl jen to, že souvisí s Neretzesovým bláznovstvím. Tuší, že by mohl mít velkou hodnotu. Rozhodneš se zjistit víc." />
+    <string id="LKiREaFZ" text="Porazil jsi {BOSS_NAME} v čestném souboji jeho muže, spiklenci se rozprchnou a zahanbeně utečou." />
+    <string id="LLJ0oB8i" text="Dále se už musí pověst tvého rodu rozšířit široko daleko, jinak tě nikdo nebude brát vážně." />
+    <string id="Lmfi0cYk" text="Povzbudil jsi těch několik pocestných v hostinci, aby koordinovaně vyrazili. Nájezdníci většinu zabili nebo zajali, ale tobě a tvému bratrovi se podařilo uprchnout." />
+    <string id="lmG7uRK2" text="Dobře" />
+    <string id="lnAhXvbo" text="Čas od času tudy prochází potulný doktor. Jmenuje se Tacteos. Ošetřuje lidi zadarmo... Máme ho rádi.[if:convo_thinking]" />
+    <string id="LrItHItu" text="Dobře, bratře, buď opatrný. Dávej na sebe pozor." />
+    <string id="Lwdkj0hG" text="Ano, mám v úmyslu použít prapor, abych pomohl zachránit Říši." />
+    <string id="LXGXxKqw" text="Ah... No, předpokládám, že můžeme tuhle šarádu opustit.[ib:hip2][if:convo_nonchalant]Vím, kdo tě poslal, a předpokládám, že ty víš, kdo poslal mě. Jistě, můžeš si prohlédnout mé zboží a pak ucítíš jeho ostrý konec ve svém břiše." />
+    <string id="MDtTC5j5" text="Neubližujte nám![ib:nervous][if:convo_nervous]" />
+    <string id="MfczTFxp" text="Tohle vypadá jako staré cvičiště pro legie. Možná bychom si mohli ušetřit nějaký čas a oprášit své dovednosti. Cvičení by se nám mohlo hodit, až doženeme nájezdníky." />
+    <string id="MJd5agS2" text="Doporučoval bych vám shromáždit poměrně velkou armádu, protože se možná brzy dostanete do války s mocnějšími a zavedenějšími říšemi." />
+    <string id="mmQRCHUM" text="Ale na oplátku budu mít to potěšení toho bastarda zabít. Tak co říkáš? [if:convo_snide_voice][ib:confident2]" />
+    <string id="MMv3hsmI" text="Já s otrokáři nesoupeřím. Muži, zaútočte!" />
+    <string id="mN60B07k" text="Prohráli jste bitvu s nájezdníky a nepodařilo se vám porazit spiklenecké síly. Mnoho místních obyvatel má pocit, že jste na ně přivolali neštěstí, a nechtějí s vámi mít nic společného." />
+    <string id="MnmblprY" text="Kde tedy najdu další kusy?" />
+    <string id="MOVWOyeh" text="Je zřejmé, že jsi byl nebesy vyvolen k velkému účelu. Vidím zde zárodek nové legendy... Dovol mi, abych tě nazval Pánem praporu.[ib:normal][if:convo_relaxed_happy]" />
+    <string id="MREvo37b" text="Kdybys na něj mohl dohlédnout, na toho Tacteose, byli bychom ti velmi vděční. Možná, pokud je naživu a v pořádku, vám o svém úkolu poví něco víc.[if:convo_normal]" />
+    <string id="mtiaY2Pa" text="Jak mohu podpořit existující království?" />
+    <string id="mU1bC1mp" text="Setkal ses s nájezdnickou skupinou." />
+    <string id="MU2O1SaZ" text="Venku na tebe čeká vojsko." />
+    <string id="mWMkslbn" text="Zavedl nás sem. Kde jsou moji bratři a sestra?" />
+    <string id="mxKhvbn7" text="Rozhodli jste se sjednotit říši." />
+    <string id="mziMNKm2" text="Měl bys vládnout království císařské kultury." />
+    <string id="N5jJtZyr" text="Jako nepřítel Říše jsem připraven prohlásit, že mi patří Dračí prapor." />
+    <string id="N5Qg5ick" text="You told {MENTOR.LINK} that you will create your own imperial faction. You can do that by speaking to one of your governors once you fulfill the requirements. {?MENTOR.GENDER}She{?}He{\?} expects to talk to you once you succeed." />
+    <string id="n8pmVHNn" text="Ano, jsem připraven." />
+    <string id="NdkqUnXb" text="Abys měl šanci stát se císařským uchazečem, musíš splnit některé podmínky [if:convo_empathic_voice]" />
+    <string id="NGbgfPoP" text="Byl jsem tam. Šlo tam mnoho Khuzaitů. Hlavně klan Khergitů, kteří toužili po slávě, ale já byl také mladý a toužil jsem po slávě, takže jsem šel také.[ib:demure2][if:convo_bored]" />
+    <string id="NItH4oL6" text="No, jestli pořád drancují, tak se možná rozdělili na menší skupiny. Doufejme, že je nebudeme muset vyřídit všechny najednou. Ale pomohlo by nám, kdybychom mohli najmout nebo přesvědčit nějaké lidi, aby se k nám přidali." />
+    <string id="nNavD2NO" text="Opustili jste království, které jste vytvořili. Podporovat můžeš pouze království, jehož jsi součástí." />
+    <string id="nOLFHL3x" text="Ty a tvoji muži jste porazili {BOSS_NAME} a zbytek spiklenců, jak vás o to požádal {MENTOR.LINK}." />
+    <string id="nrdl5QaF" text="Můj špeh zahlédl v táboře spiklence a přidalo se k nim několik místních banditů. Můj špeh neví, zda očekávají útok, proto vás prosím, abyste byli obezřetní a připraveni na všechno. Netřeba dodávat, že mi jistě pošlete všechny dokumenty, které najdete, abych je mohl prostudovat. Rychle odejděte a vraťte se v pořádku." />
+    <string id="NvkWtb8f" text="Najděte úkryt gangu {RADAGOS.NAME} a porazte je." />
+    <string id="NzQq2qp1" text="Shromáždi {PARTY_SIZE} vojáků" />
+    <string id="O2BAcMNO" text="Jako právoplatná {?PLAYER.GENDER}císařovna {?}Císařka {\?} Kalradie jsem připravena vyhlásit vlastnictví Dračího praporu." />
+    <string id="o791xRtb" text="Přistupme tedy k tomu, abychom zničili tuto prokletou říši. Jak to vidím já, máš dvě možnosti...[ib:confident2][if:convo_pondering]" />
+    <string id="oA4iTPyV" text="Shromáždil jsi dostatek informací." />
+    <string id="oa4XFhve" text="Cesta do vesnice {VILLAGE_NAME}" />
+    <string id="oaSTbNwz" text="Tak už ses rozhodl?" />
+    <string id="OffNcRby" text="Dobrá tedy. Vydejme se na cestu." />
+    <string id="Og8nep1w" text="Při pronásledování císařských lučištníků to přehnali. Lehká noha před našimi rytíři - to nebyla žádná soutěž. Něco ti řeknu - devět desetin vítězství spočívá v tom, že poznáš, kdy nepřítel udělal chybu. Zbrklí lidé hynou stejně rychle jako slabí a zaslouží si to stejně.[ib:hip]" />
+    <string id="OKgsM4nr" text="Proklínám to jméno. Vzalo mi manžela, dva bratry a víc bratranců, než dokážu spočítat.[ib:confident2][if:convo_stern]" />
+    <string id="oKknZdXn" text="Měl by ses připojit ke království, které chceš podporovat, a to tak, že si promluvíš s jeho vůdcem. Žádný z nich nevrátí Palachům jejich národ, ale konečné vítězství kteréhokoli z nich by bylo vhodnou pomstou." />
+    <string id="oL9BdThD" text="Vyberte si jedno z nich a slibte mu věrnost. Když tato občanská válka začala, byl jsem trochu rozpolcený... Rhagaea byla nejchytřejším vládcem, Garios asi nejlepším bojovníkem a Lucon se zdál nejlépe rozumět našim zákonům a tradicím. Ale názor si můžeš udělat sám." />
+    <string id="OMrnTIe0" text="Zachránil jsi několik zajatců, které s sebou nájezdníci vláčeli. Vypadají vyprahle a vyčerpaně. Dáš jim trochu vody a chleba a po chvíli se jeden z nich zapotácí na nohy a přistoupí k tobě." />
+    <string id="ORnjaMlM" text="Nájezdníci tě porazili, ale tvůj bratr tě zachránil. Nevypadá to však, že by se někam chystali, takže bys měl znovu zaútočit, až budeš připraven.Musíš mít ve své družině alespoň {NUMBER} členů. Pokud je nemáš, vrať se do vesnice a naber další vojáky." />
+    <string id="Os79KwFa" text="Já jsem byl s předvojem. Neretzes zřejmě věděl, že Battaniané plánují přepadení - řekli mu to chuzejští zvědové. Ale neobtěžoval se nás informovat. A tak jsme šli vzhůru podél krásného zalesněného potoka, dokud ze všech stran nezačaly svištět battanské šípy.[if:convo_bored2][ib:normal2]" />
+    <string id="OS8YjyE5" text="Než se rozhodneš, jakou cestou se vydáš, měl bys posbírat všechny části Dračího praporu." />
+    <string id="OwcgxRXB" text="Válkou oslabený {FACTION} se rozpadl a jeho klany přeběhly do okolních království." />
+    <string id="oX2aoilb" text="{MENTOR.NAME} ví o vzestupu tvého {KINGDOM_NAME}. Proslýchá se, že {MENTOR.NAME} má v plánu zvrátit tvůj pokrok. Buď připraven!" />
+    <string id="p0fmZY5r" text="Zdejší náčelník nám pravděpodobně pomůže. Zkusme ho najít...[if:convo_pondering]" />
+    <string id="p3Kia1OO" text="Okamžitě je odvedu do nejbližší pevnosti. Tam budou v bezpečí." />
+    <string id="p4qJ4KSm" text="Pokud chcete více informací, můžete se pokusit promluvit se dvěma lidmi. {IMPERIAL_MENTOR.NAME} Pracoval jako jakýsi neoficiální špión pro Neretzes. Žije poblíž {IMPERIAL_MENTOR_SETTLEMENT}." />
+    <string id="pa9LrHln" text="Myslím, že jsme tady. Takže... Potřebujeme jídlo a potom možná nějaké muže, kteří by šli s námi [if:convo_thinking]" />
+    <string id="pCNSEPEP" text="Ty jsi utekl? Kde je můj bratr? Co se stalo?" />
+    <string id="PDlaPVIP" text="{PLAYER_LITTLE_BROTHER.NAME} je mladší bratr {PLAYER.LINK}." />
+    <string id="peNBA0WW" text="pozadí příběhu" />
+    <string id="PiKISvfu" text="{PLAYER.NAME}! Věděl jsem, že přijdeš. Velké nebe. Sakra, {?PLAYER.GENDER}sestro{?}bratře{\?}, nic tě nezastaví! Miluji tě, {?PLAYER.GENDER}sestro{?}bratře{\?}.[if:convo_calm_friendly][ib:aggressive2]" />
+    <string id="PiOiQ3u5" text="Úspěšně jsi dokončil výukový kurz meče a štítu." />
+    <string id="PJ5C3Dim" text="{ANTIIMPERIAL_MENTOR.NAME} spiknutí" />
+    <string id="PknruSY5" text="Pak se můžeš vrátit, až se rozhodneš.[ib:demure][if:convo_nonchalant]" />
+    <string id="PlpNTQqf" text="Vím, kde se {HIDEOUT_BOSS.LINK} nyní nachází. Pokud souhlasíš, můžeme zaútočit společně a zachránit tvé příbuzné." />
+    <string id="pOuGX9j0" text="Možná máš jeden kus praporu, ale sám o sobě je málo platný. Ostatní části budeš muset najít. Ale jakmile se ti podaří dát dohromady všechny části, budeš mít něco nesmírně cenného.[if:convo_pondering]" />
+    <string id="PQgzfHLk" text="No a teď. Slyšel jsem zvěsti, že jsi získal tento skvělý artefakt.[if:convo_nonchalant]" />
+    <string id="Pus87ZW2" text="Našel jsi {BANNER_PIECE_COUNT} kus praporu!" />
+    <string id="pVKkclVk" text="Interakce jsou během výukové fáze omezené. Tato interakce je zakázána." />
+    <string id="pX5cx3b4" text="Nechci ti ublížit. Lovíme skupinu nájezdníků, kteří unesli našeho bratra a sestru." />
+    <string id="Q2obAF4E" text="Takže máš hodně práce. Budu čekat na zprávy o vašem úspěchu. Vraťte se ke mně, až budete chtít světu oznámit své vlastnictví praporu." />
+    <string id="q80FFaBj" text="Pak je tu {ANTI_IMPERIAL_MENTOR.NAME}, který byl jeho tělesným strážcem. Měl by být poblíž {ANTI_IMPERIAL_MENTOR_SETTLEMENT} - i když prý se od té doby dost změnil." />
+    <string id="qa0o7xaj" text="Nezávislost klanu" />
+    <string id="Qb0wsarP" text="Byl jeden válečník jménem Nimr z rodu Bani Sarran. Byl statečný, ale arogantní. Mladí lidé ho samozřejmě milovali. Chtěl vést muže do boje s Říší, a i když z toho pro nás nebyl žádný zisk, Unqid mu to dovolil. Unqid umí být někdy slabý.[if:convo_thinking]" />
+    <string id="QbsDYITB" text="To jsi udělal, to jsi udělal. Tak veď dál.[ib:closed2][if:convo_calm_friendly]" />
+    <string id="Qdz5Hely" text="Bránit se před pádem." />
+    <string id="QF8B6XFS" text="Tak dobře. Rozdělíme se a budeme hledat ty malé zvlášť. Pokud je najdu dřív než vy, pošlu vám zprávu..." />
+    <string id="qg05CSZb" text="Porazili jste všechny nájezdníky poblíž {TARGET_SETTLEMENT}. Mnoho lidí nyní doufá, že se ti podaří vrátit do kraje mír a prosperitu." />
+    <string id="qhAhPWdp" text="jsi zorganizoval útěk pocestných." />
+    <string id="qIltCuBe" text="Vydejte se na cestu. Jakmile najdu ty malé, přijdu si pro tebe.[ib:normal][if:convo_calm_friendly]" />
+    <string id="QLgkR3qN" text="Úspěšně jsi dokončil trať za ({TIME_SCORE}) sekund. Obdržel jsi ({PENALTY_SECONDS}) vteřinovou penalizaci za ({MISSED_TARGETS}) chybějící cíle." />
+    <string id="qMUfOtyk" text="Mluvil jsi s {HERO.LINK}." />
+    <string id="qNR8WKcX" text="Měl by ses připojit ke království předtím, než ho podpoříš Dračím praporem." />
+    <string id="qoA4UPly" text="Nic nemůže přivést palácový lid zpět. Nyní jsou císařští. Je však urážkou našeho jména, našich bohů, naší paměti, že stát, který zničil naše svatyně a pevnosti, trvá a vzkvétá [if:convo_empathic_voice]" />
+    <string id="QOVLkdTp" text="V okolí {SETTLEMENT} nyní hlídkuje spiklenecká válečná družina." />
+    <string id="qp2zYfua" text="Doufal jsem, že zde najdu další poklady, ale myslím, že {RADAGOS.NAME} a jeho bandě se obchody příliš nedaří.[ib:closed2][if:convo_pondering]" />
+    <string id="qV1e0x8i" text="Co je to Neretzesovo bláznovství?" />
+    <string id="QVkuaezc" text="Lov na spikleneckou válečnou výpravu" />
+    <string id="QxeKZ3nE" text="Dosáhni klanové úrovně {CLAN_TIER}" />
+    <string id="R3CnF55p" text="Tak... Kdo to prochází mým podnikem a zabíjí mé zaměstnance? [if:convo_confused_voice][ib:warrior2]" />
+    <string id="r48aEAbq" text="{KINGDOM_NAME} Byl poražen. Vaše snaha zničit Impérium selhala." />
+    <string id="R5kLv5kg" text="Jsem to, čemu se říká Palaič. Palaičtina je jazyk, kterým se už nemluví, až na pár starých lidí. Dokonce i slovo palajština je imperiální. Jsme lidé, kteří zapomněli, kdo jsme.[if:convo_focused_voice]" />
+    <string id="r8ZLabb0" text="Shromáždil jsem všechny části Dračího praporu. Co teď?" />
+    <string id="rbjjDYXj" text="Nájezdníci tě v úkrytu porazili, ale podařilo se ti utéct. Musíte počkat, abyste mohli znovu zaútočit." />
+    <string id="RbXiEdXk" text="Dosáhni klanovou úroveň 1" />
+    <string id="rCX81DDR" text="Říše byla zničena!" />
+    <string id="rDuegB1L" text="Konečně jsi dorazil! Než zaútočíme, musím vám říct pár věcí: [ib:confident2][if:convo_nonchalant]" />
+    <string id="RefpTQpr" text="Možná. Sbohem, {RADAGOS.NAME}..." />
+    <string id="RF3NoR3d" text="Zdálo se, že ovládá více než jednu skupinu, která podniká nájezdy v okolí. Jestli má tahle banda tvé příbuzné, pak si myslím, že by to měl vědět on.[if:convo_pondering]" />
+    <string id="rfkKxdxp" text="Mluvil jsi také s {ANTI_IMPERIAL_MENTOR.LINK}. Teď by ses měl rozhodnout." />
+    <string id="Ri6NmpEE" text="Nikdy nezapomenu, když mi přiběhl posel oznámit, že můj otec je mrtvý. Ale věděl jsem, že musím spolknout svůj žal, protože teď jsem byl král. Sjel jsem do trosek císařského tábora, abych si vzal jejich prapor jako trofej, dědictví, které mi vybojoval můj otec a které mi připadlo. Ach, někteří bojaři byli neposlušní. Ale od té doby jsem jim ukázal, že jsem pánem já.[if:convo_contemptus]" />
+    <string id="rinefpgo" text="Přijel jsi do vesnice. Můžeš nakoupit nějaké jídlo a najmout si muže, kteří ti pomohou lovit nájezdníky. Nejprve jdi do vesnice a promluv si s náčelníkem." />
+    <string id="RJ9NbuYr" text="Takže chceš, abych sehnal peníze na výkupné za ty malé?" />
+    <string id="rMem50oz" text="Přísahal jsem, že tato říše tuto občanskou válku nepřežije, pokud ji mohu nějak zastavit. A věř mi, že kdybych měl ten prapor, mohl bych toho udělat opravdu hodně.[if:convo_angry_voice]" />
+    <string id="rmyXSgy7" text="Za prvé, tvůj klan musí být nezávislý. Nemůžeš být zavázán existující říši." />
+    <string id="RtryETdA" text="Když se zavázali, že nás podpoří v bitvě, věřili jsme, že budou stát s námi ve štítové hradbě jako muži. Ale to samozřejmě není battanský způsob. Nahoře v kopcích provedli nějakou lesní lest, zabili Neretzesův předvoj a nepochybně strávili zbytek bitvy hulákáním a chvástáním a sekáním hlav již mrtvým mužům.[if:convo_angry]" />
+    <string id="rTYNL1LB" text="{MENTOR.LINK} Řekl ti o skupině spiklenců, kteří operují v úkrytu v okolí {LOCATION_LINK}. Měl by ses tam vydat a s malou skupinou bojovníků na úkryt zaútočit a bandity překvapit." />
+    <string id="RwlDeE9t" text="Mluvil jsi také s {IMPERIAL_MENTOR.LINK}. Nyní by ses měl rozhodnout." />
+    <string id="rY0fdQSb" text="Ne, stále na tom pracuji..." />
+    <string id="S1yCTPrL" text="Tohle je jedna z nejcennějších služeb, kterou pro mě kdy kdo udělal. Jsem ti velmi vděčný.[if:convo_grateful]" />
+    <string id="S5Dn2K3m" text="Nemohl jsi zastavit spiknutí." />
+    <string id="Sb46O8WO" text="Orthos" />
+    <string id="scjogyUD" text="Starý král Vadinslav byl dost statečný. Vedl nás všechny do boje. Stál jsem po otcově boku, když jsme se přes vrcholky štítů postavili císařským z očí do očí. Bylo to jako v každé bitvě, kde se střetávají hradby štítů - údery a strkanice, boj o udržení se na nohou, ale popsat se to nedá. Řekněme jen, že je to ten typ bitvy, kterou Sturgiáni obvykle vyhrávají [ib:confident2]" />
+    <string id="sejEf69A" text="Neslyšel jsem sladší hudbu než hřmot našich kopyt, když jsme se vrhali na aserskou chátru. Padli jsme na ně, jako se sokol vrhá na králíka.[if:convo_bemused]" />
+    <string id="SF7dqoEe" text="Nimrova arogance se samozřejmě zdvojnásobila a ještě jednou zdvojnásobila. A pak nám uštědřil velkou urážku. Neřeknu, jaká ta urážka byla, protože už neexistuje. Zlikvidovali jsme ji. Tradičním způsobem. Na to se můžete zeptat někoho jiného." />
+    <string id="SFJFIaAD" text="No... Velké vítězství krále Kaladoga... Kdo by se odvážil říct něco, co by pošpinilo jeho lesk? [if:convo_undecided_open][ib:closed]" />
+    <string id="ShG19Xhi" text="Děkuji..." />
+    <string id="sJeYHMGG" text="Sjednotil jsi říši." />
+    <string id="sJoO1JzN" text="Když už nás měli císařští dost, rozešli se a utíkali na hradby. Tam házeli šipky, kameny a svůj prokletý oheň. Museli jsme po žebřících, jeden po druhém. Vadinslav byl zasažen palcátem a padl k zemi; můj otec pak vylezl nahoru, štípal se při tom, shromáždil nás a dovedl k vítězství." />
+    <string id="SmVwMrUM" text="Prapor Calradiosu je součástí legendy. Říká se, že ho nesl Kalradios Veliký, který poprvé přivedl svůj lid do této země, aby ji dobyl a zpustošil. Legenda praví, že žádné vojsko vedené pravým Kalradiovým synem nebude v bitvě poraženo [ib:confident2][if:convo_thinking]" />
+    <string id="sn3Eabme" text="Samozřejmě. Nebyla jsem svědkem bitvy, ale můj manžel Arenicos o ní často mluvil.[if:convo_calm_friendly]" />
+    <string id="sSaZVD2e" text="Můj otec vzal mrtvému Neretzovi z rukou císařský Dračí prapor - je to známá historka - a pak se ho ale pokusil získat malý princ Raganvad. Otec mu ho zlomil přes koleno, hodil ho po něm a řekl mu, ať si sežene vlastní hračky na hraní. Hah! Byl to dobrý, dobrý den.[if:convo_huge_smile]" />
+    <string id="StLYbEQZ" text="Potřebujeme pomoc. Nějací nájezdníci zajali našeho mladšího bratra a sestru. Myslíme si, že možná prošli tudy." />
+    <string id="str_continue" text="Pokračuj..." />
+    <string id="SVcr0EJM" text="Karavana pokračuje z {TO_SETTLEMENT_LINK} do {FROM_SETTLEMENT_LINK}." />
+    <string id="SvYCz6z6" text="Prohráli jste. Výcvik můžete znovu zahájit interakcí se stojanem na zbraně." />
+    <string id="t71lPdyb" text="Jak to udělat?" />
+    <string id="T7OTmJUp" text="{MENTOR.LINK} má pro tebe zprávu" />
+    <string id="T7ye4wUT" text="Král Aeril zmizel při lovu a králem se stává Caladog. Ten vede kmeny do války. Ach, byli jsme dost nedočkaví, i když Aeril uzavřel s císařem příměří zpečetěné přísahami. Když jsme byli oslněni vyhlídkou na pomstu, kdo se stará o naše svaté slovo a čest?[ib:confident]" />
+    <string id="T8naYoGH" text="Šlechtici, se kterými se dá mluvit" />
+    <string id="taOCFKtZ" text="Musíš naverbovat další vojáky, aby se vypořádali s nájezdníky. Vrať se do vesnice a naverbuj další vojáky." />
+    <string id="TB20aFsf" text="Pravděpodobně víte, že jsem {CONVERSATION_HERO.FIRSTNAME}. Nevím, proč jste mě vyhledali, ale vězte, že můj starý život císařského psíka skončil." />
+    <string id="tBGtavMG" text="Většina těch, kteří odešli, byli Khergité. Je to mladý klan. Jejich rod není takový jako náš. Vždycky se chtěli prosadit. Každopádně v bitvě byl jejich nojan Solun zabit spolu s většinou mužů z jeho rodu. Co na to říct? Žízeň po slávě je nebezpečná jak pro žíznivého, tak pro jeho okolí." />
+    <string id="TcRH7abK" text="Až získáš zpět všechny kousky, vrať se ke mně a já ti je pomohu využít.[if:convo_calm_friendly]" />
+    <string id="TEgoba7R" text="Dobře. Pak ti povím, co vím. Slyšel jsem ještě o jednom kousku.[ib:confident2][if:convo_calm_friendly]" />
+    <string id="TeMExjrH" text="Tato možnost je během aktuálního aktivního úkolu zakázána." />
+    <string id="tF6VeYaA" text="Pokud vyhraješ, slibuji, že tě moje armáda nerozdrtí." />
+    <string id="TH6L7OXu" text="Pak se můžeš vrátit, až se rozhodneš.[ib:demure][if:convo_snide_voice]" />
+    <string id="TIaVyqMx" text="Jsem rád, že jsi našel, co jsi potřeboval. A teď k té záležitosti, o které jsem se zmínil dříve...[if:convo_grave]" />
+    <string id="tJQ5oajd" text="Dále si tvůj klan musí získat značnou pověst, jinak tě nikdo nebude následovat." />
+    <string id="tkJD40hE" text="To by tě mělo na nějakou dobu zaměstnat. Vrať se, až budeš připraven." />
+    <string id="TKpFB4qN" text="Císař Neretzes vedl armádu v doprovodu Chuzaitů a Aserů do boje proti koalici Sturgiánů, Battanů a Vlandianů." />
+    <string id="tkXKef0Z" text="I já bych rád viděl říši zničenou." />
+    <string id="TLaxmQDF" text="Bezpochyby zahyneš mým mečem, ale dnes není ten den." />
+    <string id="TLRyyRaW" text="Zakoupeno {GRAIN} Částka" />
+    <string id="TNxWBS07" text="Boj začne za {REMAINING_TIME} {?REMAINING_TIME&gt;1}seconds{?}second{\?}..." />
+    <string id="tRzjuX0E" text="Jak mohu podpořit stávajícího císařského uchazeče?" />
+    <string id="tsjQtWsO" text="Děkuji, že jste mě opět zachránili. Doufám, že se naše cesty ještě někdy zkříží![ib:normal2][if:convo_calm_friendly]" />
+    <string id="tVlZTOst" text="Vybral sis jinou cestu." />
+    <string id="tWwXEWh6" text="Použij portrét k rozhovoru a vstup do mise." />
+    <string id="tzkclhXs" text="Jak se máme připravit na boj?" />
+    <string id="tzsZTcWd" text="Zajímalo by mě, které království mám podpořit." />
+    <string id="TZZX9kWf" text="{MENTOR.LINK} navrhl, že bys měl podpořit císařskou frakci tím, že jí nabídneš Dračí prapor." />
+    <string id="UCoOMWaj" text="Jak jsem již řekl, je tu případ pro všechny uchazeče. Když tato válka začala, myslel jsem si, že Rhagaea nejlépe rozumí tomu, jak vládnout, Garios je nejsilnější válečník a Lucon nejpevněji chápe naše tradice [if:convo_empathic_voice]" />
+    <string id="UdHL9YZC" text="No dobrá, není to ten slavný {PLAYER.LINK}! Už nějakou dobu jsi nám trnem v oku. Je dobře, že jsi teď tady. Ušetří nás to hledání [if:convo_confused_annoyed][ib:hip]" />
+    <string id="UDL0v1bR" text="Věřím, že mám kousek Dračího praporu z Calradiosu." />
+    <string id="uFsMzAuR" text="Promluv si s tím, koho si vybereš, nebo se ke mně vrať, pokud si chceš prapor nárokovat pro sebe.[if:convo_normal]" />
+    <string id="uhYXopnJ" text="Už jsi dokončil přípravy? [if:convo_undecided_open]" />
+    <string id="UjyZ7GFk" text="Působivé, velmi působivé. No, teď to bude zajímavé.[ib:normal2][if:convo_astonished]" />
+    <string id="Uk7F483P" text="V souboji jsi byl poražen {BOSS_NAME}. Tvoji muži odnesou tvé zraněné tělo do bezpečí. Podle dohody spiklenci rychle odcházejí a beze stopy mizí." />
+    <string id="UkNUuyr1" text="Poražené družiny" />
+    <string id="ULn7iWlz" text="Bude to mocný nástroj v našich rukou. Lidé budou věřit, že Nebesa zamýšlejí obnovit Kalradskou říši.[if:convo_pondering]" />
+    <string id="uNgu02FH" text="Mají i tvé lidi? To je mi líto. Ti bastardi už v těchto končinách také trochu zabíjeli a loupili [ib:normal2][if:convo_dismayed]" />
+    <string id="UnjgFmnE" text="Poslechl jsi radu {MENTOR.LINK} a vytvořil jsi císařskou frakci. Můžeš {?MENTOR.GENDER}jeho{?}jemu{\?} říct, že budeš podporovat své vlastní království." />
+    <string id="unOLk4PY" text="Takže. Kdo jsi a co tě ke mně přivádí?" />
+    <string id="UpUqL368" text="Jaká spodina, co? Dokonce i v této profesi se podvádění kamarádů nesluší." />
+    <string id="upyNhwZ9" text="Ano, mám v úmyslu použít prapor, abych pomohl zničit říši." />
+    <string id="US0VAHiE" text="Zlikvidoval jsi {RAIDER_NAME} družinu." />
+    <string id="uvbCyLiR" text="Je to pravda? No, to je zajímavé.[ib:normal][if:convo_astonished]" />
+    <string id="UVuwofhS" text="Klany povstávají, klany padají. Mojí povinností jsou všichni Khuzaité. Podívej se na to takhle. Nebýt smrti jejího manžela, lady Mesui by nikdy nezdědila vedení Khergitů. Smrt vytváří příležitost. Ti, kdo přežili velkou bitvu, dávají najevo smutek, ale uvnitř se radují.[ib:closed][if:convo_mocking_revenge]" />
+    <string id="V5K8RpAa" text="{MENTOR.LINK} zpráva: Zdravím tě, {PLAYER.NAME}. Máme nový problém. Moji agenti mi hlásí neobvyklou aktivitu banditů poblíž {TARGET_SETTLEMENT}. Zdá se, že přepadávají a zabíjejí pocestné {?IS_EMPIRE}pod ochranou Říše, {?}kteří nejsou pod ochranou Říše, {\?}a ostatní nechávají na pokoji. To se velmi podobá práci {NEMESIS_MENTOR.LINK}, zastrašovat místní obchodníky, aby se nikdo nepostavil za naši věc. Radím vám, abyste tyto bandity co nejrychleji zlikvidovali. To by bylo dobrým signálem jak pro naše spojence, tak pro naše nepřátele." />
+    <string id="vaLehwRl" text="Složili jsme přísahu Říši, že se k ní v případě napadení připojíme. Zdálo se mi jasné, že jsme měli přísahu dodržet, že Battaniané a Sturgiáni jsou agresoři, ale vždycky se dá polemizovat o detailech. Nakonec si naši baroni nepřáli bojovat s Říší, a tak se bránili tomu, aby jí přišli na pomoc [if:convo_undecided_closed]" />
+    <string id="VbJvL8yB" text="Ach, to mi nemůžeš věřit. Ale potřebujete mě a já si myslím, že máte dost mužů, abyste mi mohli snadno a rychle podříznout krk, kdybych vás zavedl do pasti. A já ti nemusím věřit - jsi můj prostředek pomsty, ne můj partner [if:convo_grave]" />
+    <string id="vCBuF6dq" text="Naverbuj 4 rekruty. Kliknutím na možnost Rekrutovat vojáky v nabídce vesnice naverbujte vojáky." />
+    <string id="vDRRsed8" text="Raději nám pomoz získat bratra a sestru zpět, jinak se budeš houpat na stromě." />
+    <string id="veHe94Ec" text="Úspěšně jsi dokončil trať za ({TIME_SCORE}) sekund, aniž bys minul jakýkoli cíl!" />
+    <string id="VeY3PQFL" text="Rozhodli jste se porazit Impérium." />
+    <string id="vjOHmHOH" text="Přepadení... Mistrovsky naplánovaná a provedená, to nemůže nikdo popřít. Ale také nebudu popírat, že Sturgiáni bojovali s hlavní částí císařských sil a Vlandiáni se svou slavnou jízdou, takže si nemyslím, že největší slávu získali synové Battanie [if:convo_contemptuous]" />
+    <string id="vJyTsFdU" text="Nevypadá to nic moc a mám podezření, že tahle partička by to dala za pár mincí, ale mám to od žoldáka, kterého jsem kdysi léčil, a přísahal, že to souvisí s Neretzesovým bláznovstvím. Nevím, co to znamená, kromě toho, že Neretzes byl samozřejmě císař, který před několika lety zemřel v bitvě. Možná se ti podaří zjistit jeho skutečnou hodnotu.[if:convo_calm_friendly]" />
+    <string id="VLD5416o" text="Najatý společník" />
+    <string id="vxDVCK3n" text="V úkrytu jsi byl poražen nájezdníky, ale podařilo se ti utéct. Musíš počkat, abys mohl znovu zaútočit." />
+    <string id="w0CUaEU7" text="Zatím jsi mi nepodřízl krk, což byl moudrý tah. Jsem si jistý, že najdu způsob, jak pro tebe mít větší cenu živý než mrtvý.[if:convo_calm_friendly]" />
+    <string id="W49eUmpT" text="Můžeš sesednout z koně pomocí {CROUCH_KEY}, nebo {ACTION_KEY} a zároveň se na koně podívat." />
+    <string id="w6Wa3lSL" text="Ustoupil" />
+    <string id="W7hi7jS4" text="Eh, no, asi jsem se odvážil doufat. Dobrá tedy, nebudu se před tebou plazit, tak už to měj za sebou.[ib:hip][if:convo_uncomfortable_voice]" />
+    <string id="wajioDaK" text="Zůstal jsem s Neretzem, dokud nás Sturgiánská pěchota nepřinutila vrátit se do našeho tábora, a pak jsem bojoval na hradbách. Nakonec jsme je už nemohli déle zadržet. Neviděl jsem, co se stalo s Neretzesem ani s naším praporem. Arenicos nás odtamtud dostal a dostal nás domů. Předtím jsem si Arenikose nevážil, ale toho dne jsem viděl, že je hoden být císařem." />
+    <string id="wbhKgpmr" text="Připrav se vyrazit se svým bratrem na misi pomsty a záchrany. Zde je tvá postava. Pokračuj, pokud jsi připraven, nebo se vrať a proveď změny." />
+    <string id="WDylM3dx" text="Na cestu se vydal jen několik hodin předtím, než tudy prošli nájezdníci. No, není to zrovna světácký typ, prostě takový ten chlapík, který by narazil na past a nechal se zajmout. Máme o něj strach.[if:convo_dismayed]" />
+    <string id="weS3DJKA" text="Válkou oslabený vládce {FACTION} nabízí {PLAYER_FACTION} mír." />
+    <string id="WIUbM9Hc" text="Vyberte si zbraň a začněte s výcvikem." />
+    <string id="WN1tHPnB" text="Měli jsme pokračovat v obsazování celé západní říše. Kdyby měl Derthert trochu mužnosti, udělali bychom to. Ale jeho srdce nikdy nebylo ve válce. Domníval se, že tím, že pomohl Sturgiánům, porušil svou přísahu říši, a to ho hryzalo. Byl by z něj dobrý poskok. Místo toho je naším králem.[if:convo_contemptus]" />
+    <string id="WN6aHR6m" text="V úkrytu jsi byl poražen bandity, ale podařilo se ti utéct. Musíš chvíli počkat, než znovu zaútočíš." />
+    <string id="wO19nK2y" text="Oslabil jsi říši." />
+    <string id="WTjAYUoD" text="Najdi další část praporu" />
+    <string id="WUa1gnkS" text="Podívej, těsně před bitvou zmizel náš nejvyšší král Aeril. A králem se stává jeho adoptivní syn Caladog. To rozvášní jazyky, víš? Ale řeknu ti - starý Aeril by nikdy v životě nedokázal zvítězit tak, jako toho dne Caladog." />
+    <string id="wvHvnEog" text="Najdi úkryt, o kterém ti řekl Arzagos, a získej další kus praporu." />
+    <string id="WWcG7kPr" text="Kupec? Přemýšlej o něčem větším. Řeknu ti jen, že pokud najdeš chybějící kousky, jsem si jistý, že ti je pomůžu dobře zužitkovat.[ib:confident2][if:convo_calm_friendly]" />
+    <string id="wWLnZ6G4" text="Když je tvůj hon na příbuzné bezvýsledný, co kdybys odešel a zachránil si život? Buď to, nebo vás donutím, abyste jazykem slízali všechnu krev, kterou jste tu prolili. Nebo si to můžeme vyřídit my dva, jeden na jednoho.[if:convo_angry_voice]" />
+    <string id="WysXGbM6" text="Klikni pravým tlačítkem myši na obranu" />
+    <string id="X1TJNkBV" text="Našli jsme tvého bratříčka a sestřičku. Ale můj bývalý partner {HIDEOUT_BOSS.LINK} mě zradil. Přišli jsme do jeho tábora, abychom vyjednali propuštění dětí, a on se nás hned na místě zmocnil.[if:convo_angry_voice]" />
+    <string id="x3KpQouT" text="Když už byli všichni hodní a závislí jako vyplašené ovce a utíkali sem a tam, my ostatní válečníci jsme se na ně vrhli se svými falxami a meči. Rozštěpil jsem se sem a tam. Sebral jsem dvanáct hlav a můj úlovek nebyl zdaleka největší. Ach, vnoučata už unavuje, když jim vyprávím tenhle příběh...[if:convo_calm_friendly]" />
+    <string id="X3pDRmjK" text="Vítězství, které vybojoval můj otec, si nárokoval Raganvad [if:convo_annoyed][ib:warrior2]" />
+    <string id="X9Vmjipn" text="Útok ze spoda." />
+    <string id="xachJ1hb" text="Ano, všichni jsme v pořádku. Ti malí jsou vyděšení, ale v pořádku... Musíme si pospíšit a dostat se odsud pryč. [if:convo_calm_friendly][ib:confident]" />
+    <string id="XdDQdSsW" text="Cítil jsem, jak se ke mně plíží příznaky úpalu, a řekl jsem jim to, ale oni mě jen ještě víc chlácholili... Kdyby s námi nejela tvoje skupina... Možná mám způsob, jak vám pořádně poděkovat.[ib:normal][if:convo_thinking]" />
+    <string id="XEuhxpCX" text="Nyní Impérium používá ve válce triky a pasti. Žádný Battanian se nebojí setkat se s císařským vojákem jako muž s mužem, ale my jsme si mysleli, že by bylo zábavné použít jejich triky proti nim. Tak jsme nastražili léčku na obou stranách zalesněného průsmyku, a nevíte co? Vpochodovali přímo do ní.[if:convo_happy]" />
+    <string id="Xg6jhfPt" text="Nimr se vrátil se zaslouženou slávou. Dcera Banu Qild se o něj zajímala a měli spolu tajný románek, jak to mladí občas dělají. Jak to hrdinové dělají. Nimrovy činy však zranily pýchu Qildů. Unesli ho, zabili a pověsili v kleci na svém trhu. My Říši a Vlandianům odpustíme. Qildi... na to se mě raději neptej [if:convo_contemptus][ib:confident]" />
+    <string id="xGdoz9Pn" text="No, naposledy jsme ho viděli před několika dny. Měl u sebe nějakou truhlu, která se tvářila velmi záhadně. Říkal, že je na nějakém úkolu, ale víc nám nechtěl říct [if:convo_pondering]" />
+    <string id="XIIISsIg" text="Bani Sarran nikdy nebyl na nic pyšnější, [if:convo_calm_friendly][ib:hip]" />
+    <string id="xjduipCO" text="Samozřejmě, že naše slavné armády byly mnohokrát poraženy, ale ti velitelé a císaři asi nebyli praví synové. Chytrá malá legenda. Dítě by ji prohlédlo, kdyby se snažilo, ale lidé se samozřejmě nikdy nesnaží prohlédnout vznešené lži, které nás spojují. Díky nebesům za to.[ib:closed][if:convo_pondering]" />
+    <string id="xjk4hNXD" text="V bitvě jsem nebojoval. Stál jsem na kopci a říkal svým velitelům, kam mají jít a na koho mají zaútočit. A vedli jsme si docela dobře, myslím, že jsi slyšel. Přesto jsme utrpěli ztráty - těžké ztráty a získali jsme jen málo. A za to mě baroni obviňovali, i když to byl jejich nápad bojovat. Toho dne jsem se naučil, že král má vždy vést, nikdy nenásledovat. Ale byla to hořká lekce.[if:convo_contemptus][ib:closed]" />
+    <string id="xknCpvcb" text="Teď se uklidni. Všechno ti řeknu.[ib:closed2][if:convo_grave]" />
+    <string id="xL3WGYsw" text="Sebrané kusy" />
+    <string id="XlSHcfsP" text="Tato možnost ukončí výukový program!" />
+    <string id="XQrmVPKL" text="{PLAYER.LINK} Doufám, že tě tento dopis zastihne v pořádku. Od špeha z {LOCATION_LINK} města jsem se dozvěděl, že naši protivníci si v jeho okolí zřídili tábor. Nedokázala mi říct, co mají v plánu, ale kdybys přepadl tábor, ukradl část jejich zásob a přinesl mi je zpět, mohli bychom si udělat představu o jejich nekalých úmyslech. Prohledej okolí {LOCATION_LINK} a najdi jejich úkryt." />
+    <string id="Xrz05hYE" text="Projdi se kolem" />
+    <string id="XSzmugWh" text="V úkrytu jsi byl nájezdníky poražen, ale podařilo se ti utéct. Musíte chvíli počkat, než znovu zaútočíte." />
+    <string id="XtC0hXhr" text="Podpoř {?IS_IMPERIAL}imperiální frakci {?}neimperiální království {\?}" />
+    <string id="xVFupnFu" text="Úspěšně jsi zasáhl všechny cíle za ({TIME_SCORE}) sekund." />
+    <string id="XWL3XcIq" text="{FACTION} Poražen" />
+    <string id="Xx94UrYe" text="Možná jsem. Co máš u sebe? Poctivé zboží, nebo zbraně? Co kdybys nás nechal se podívat?" />
+    <string id="y150haHv" text="Narušit zásobovací linky" />
+    <string id="y3fn2vWY" text="Naberte vojáky." />
+    <string id="Y6OJHdMH" text="Jsem zaneprázdněný muž, ale vždycky se najde čas na rozhovor o požehnané bitvě u Pendraicu.[if:convo_mocking_teasing][ib:confident3]" />
+    <string id="Y6SqyQwn" text="Setkej se s {HERO.NAME}" />
+    <string id="y84UnOQX" text="Sestav Dračí prapor" />
+    <string id="ya8eMCpj" text="Sjednotit říši" />
+    <string id="YAWCkOYa" text="Stopy vypadají čerstvě a na obzoru jsem zahlédl kouř. Nemohou se pohybovat příliš rychle, pokud stále drancují a přepadávají. Ne, jsem si docela jistý, že se nám podaří zachránit ty malé... nebo při tom zemřeme." />
+    <string id="yCzcfKNM" text="Zaprvé, tvůj klan musí být nezávislý. Nemůžeš být zavázán existující říši." />
+    <string id="YEeb0B1V" text="Já jsem {HEADMAN.FIRSTNAME}, náčelník této vesnice. Co tě sem přivádí? [ib:normal][if:convo_shocked]" />
+    <string id="YgoxFJSz" text="Dobrá, vrať se, až budeš připraven.[if:convo_nonchalant]" />
+    <string id="YJxCbbpd" text="Spiknutí je aktivováno!" />
+    <string id="yNcBDr9j" text="Mluvil jsi s {IMPERIAL_MENTOR.LINK}. Nyní si možná budeš chtít promluvit s {ANTI_IMPERIAL_MENTOR.LINK} a vzít si také {?ANTI_IMPERIAL_MENTOR.GENDER}jeho{?}jeho{\?} názor. {?ANTI_IMPERIAL_MENTOR.GENDER}Ona {?}On{\?} je momentálně v {SETTLEMENT_LINK}." />
+    <string id="ypDmy5Rn" text="Uh, jak si můžeme navzájem věřit?" />
+    <string id="yRAl8YRL" text="Ano. Byl jsem mladším důstojníkem v Neretzesově štábu. Lidé o bitvě říkají mnoho věcí, které prozrazují nedostatek porozumění, Neretzesovi i okolnostem, kterým čelil. [if:convo_undecided_closed][ib:closed]" />
+    <string id="ysRVZiA6" text="Při průzkumu Kalradie se můžeš o svém artefaktu a jeho významu dozvědět více, když se kteréhokoli lorda či dámy zeptáš na nedávnou historii říše." />
+    <string id="yub8ZSFP" text="Mluvil jsi s {ANTI_IMPERIAL_MENTOR.LINK}. Nyní si možná budeš chtít promluvit s {IMPERIAL_MENTOR.LINK} a zajímat se také o {?IMPERIAL_MENTOR.GENDER}její {?}a {\?}jeho názory. {?IMPERIAL_MENTOR.GENDER}Ona {?}On {\?} je v současné době v {SETTLEMENT_LINK}." />
+    <string id="z3VamNrX" text="Pošlete tam své vojáky." />
+    <string id="Z54ZrDG9" text="Tak tedy do příště." />
+    <string id="z8LQn2Uh" text="Dorazili jste do úkrytu." />
+    <string id="Z9mcDuDi" text="Úspěchy jsou vypnuty!" />
+    <string id="Zb1uFhsY" text="Přejděte k trenérovi." />
+    <string id="ZDEcFXIm" text="Můžeš mít jeden kus praporu, ale sám o sobě je málo užitečný. Ostatní části budeš muset najít. Jakmile se ti však podaří dát dohromady všechny části, získáš něco nesmírně cenného [if:convo_undecided_open]" />
+    <string id="ZhZ7MCeh" text="Dobře. Porážku poznám, když ji vidím. Pokud mám být tvým zajatcem, dovol mi, abych se ti představil. Jsem Radagos.[ib:weary2][if:convo_uncomfortable_voice]" />
+    <string id="ZKdBlAmp" text="Karavana se zbraněmi, která má spiklencům doplnit zásoby, bude brzy na cestě.{newline}{MENTOR.LINK} zpráva:{newline}Naši špehové se dozvěděli o karavaně se zbraněmi, která se snaží spiklencům přivézt kvalitní zbraně a zbroj. Víme, že se na svou trasu vydá ze {QUEST_FROM_SETTLEMENT_NAME} do {QUEST_TO_SETTLEMENT_NAME} za {SPAWN_DAYS} dnů. Zjistíme a budeme vás informovat o nových trasách, kterými se vydá, jak bude postupovat." />
+    <string id="ZkSthA9d" text="Říká se, že Olek Starý vyrval Dračí prapor z císařových mrtvých rukou. Pak si ho však princ Raganvad, který v bitvě ani nevytáhl meč, nárokoval jako trofej. Olek, který byl celý od krve svých nepřátel, se Raganvadovi vysmál a řekl mu, ať si jde hledat svou vlastní hračku, se kterou si bude hrát. Raganvad ho udeřil, a tak Olek zlomil hůl s praporcem o koleno a hodil ji svému princi do obličeje." />
+    <string id="zLRlmitp" text="Prozkoumej Neretzesovo bláznovství" />
+    <string id="ZpcV9MZE" text="Zachránil jsi své bratry a sestru a rozhodl ses popravit {RADAGOS.LINK}, protože zavinil smrt tvých rodičů." />
+    <string id="Zq9qXcCk" text="Byl jsi poražen {RADAGOS.NAME} družinou, ale tvůj bratr tě zachránil. Nevypadá to však, že by se někam chystali, takže bys měl znovu zaútočit, až budeš připraven. Ve své družině musíš mít alespoň {NUMBER} členů. Pokud je nemáš, vrať se k {QUEST_VILLAGE} a naber další vojáky." />
+    <string id="ZqOvtLBM" text="Ve zmatku při útoku jsi vykřikl, že v zadní místnosti někdo našel poklad. Poté jsi se svým bratrem prošel nechráněným vchodem." />
+    <string id="zRZd90cZ" text="Byl jsem tam. Tehdy jsem byl ještě mladý panoš." />
+    <string id="zTYd6Qai" text="Říše byla sjednocena pod {FACTION}!" />
+    <string id="Zyn5FrTR" text="Budeme na to pamatovat." />
+    <string id="Zz6IvIH9" text="Říše nás na chvíli nechala na pokoji a Neretzes nabízel stříbro za muže, tak jsem si řekl: Proč ne? Ať pomohou Říši. Ach, to jsem měl vědět. Ve válkách je nejlepší mít s nimi co nejméně společného." />
+  </strings>
+</base>

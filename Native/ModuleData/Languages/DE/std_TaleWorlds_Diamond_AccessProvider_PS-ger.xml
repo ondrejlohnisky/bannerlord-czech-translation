@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="3rcPHq9a" text="Nejste přihlášeni k síti PlayStation™Network. Chcete-li používat online funkce, musíte se přihlásit." />
+    <string id="8BV4hDK6" text="Je vyžadována aktualizace systémového softwaru." />
+    <string id="8yk50Ba5" text="Pro hraní hry pro více hráčů je vyžadována služba PlayStation®Plus." />
+    <string id="g56TVkLF" text="Nejste oprávněni hrát hru Multiplayer. Zkontrolujte prosím nastavení omezení obsahu." />
+    <string id="i0QuqXWk" text="Uživatel nebyl nalezen." />
+    <string id="kS9dxNIk" text="Služba platformy se nezdařila." />
+    <string id="oe39dfge" text="Síťové připojení se nezdařilo." />
+    <string id="PQbtrqBl" text="Je vyžadována aktualizace hry." />
+    <string id="rYbxXReN" text="Uživatel je odhlášen." />
+    <string id="Udt1Ua7r" text="Nepodařilo se zkontrolovat aktualizace hry." />
+    <string id="UhUvwvkh" text="Jste odpojeni od sítě PlayStation™Network. Online funkce nejsou k dispozici." />
+  </strings>
+</base>

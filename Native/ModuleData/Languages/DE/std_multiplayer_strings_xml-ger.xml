@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="03hsUIsL" text="Vlandiánští rytíři, kteří téměř každý den svého života trénují na válku, jsou skutečně silou, se kterou je třeba počítat. Když se objeví na bitevním poli, nahánějí svým nepřátelům strach. Když vyrazí do útoku, pod jejich těžkými hřmotnými kopyty se zachvěje i země." />
+    <string id="0dnD9cR4" text="Pryč je nadvláda legionářů. Když se dnes řekne císařská úderná jednotka, představí se proslulí katafraktové, od hlavy až k patě obrnění tou nejlepší ocelí, jakou dokážou v říšských kovárnách ukovat. Tito profesionální kavalíři, vydržovaní na náklady paláce jako vojáci na plný úvazek, nemají na práci nic jiného než výcvik s kopím, složenými opakovacími luky, meči a sekerami." />
+    <string id="1E5axt0j" text="Battanské klany mají živou tradici, že jejich nejméně společenští členové odcházejí do lesů, kde žijí jako zvířata. Mnozí z nich se přesto vracejí, aby bojovali po boku svých lidí, když jdou do války, ale nemají výcvik s kernem, často se chopí oštěpu a bojují jako šarvátkáři." />
+    <string id="1vYsKNdH" text="Rozcvička skončí za {SECONDS_LEFT} sekund." />
+    <string id="3In09YKu" text="Od každé vlandiánské vesnice se očekává, že dodá svému feudálnímu pánovi odvody vojáků, a pokud kvóta není splněna, pán přijde a odvede si několik čerstvě vycvičených mladíků na mušku. Málokdy však lordi ztrácejí čas a peníze tím, že by jim poskytovali vybavení nebo výcvik. Ale i tak si mazaný sedlák najde způsob, jak přežít, a to tak, že bude plenit nepřátele (a spolubojovníky) a držet se zkušenějších spojenců." />
+    <string id="3r3MPbhV" text="Sturgiánští bojaři vždy hledají zkušené bojovníky, které by si mohli přivést do své družiny neboli osobní družiny. Udržují si věrnost dary ve zlatě, jsou vybaveni nejlepšími zbraněmi a koňmi a tvoří údernou sílu každé severní armády." />
+    <string id="47mXdgma" text="Hra skončila remízou." />
+    <string id="5AzK3hAE" text="Zbývá pouze vlajka {PARAM1}. Ostatní dvě byly z mapy odstraněny." />
+    <string id="5FanO0Lb" text="Ačkoli se většina Chuzejců od dobývání usadila ve městech a vesnicích, několik jich stále žije ve stepi a nepodléhá žádné autoritě. Stále bojují za chána, za plat a patří k nejodolnějším jezdcům konfederace, ačkoli jejich vybavení bývá levnější a zbroj lehčí než u hlavních kmenových sil." />
+    <string id="5WMHiC9P" text="Vlandiánští vojevůdci zjistili, že i když je odvod rolníků nutným zlem, mohou z nich vytěžit maximum, když jim dají kuše a naučí je s nimi správně mířit a střílet. Pomocí tohoto stroje, který je v podstatě ruční verzí obávaných kalradských balist, dokáží vlandijští arbelisti prorazit díru i do nejtěžšího tehdejšího brnění." />
+    <string id="6rBs2x2E" text="Přípravná fáze! Vyberte si své vybavení!" />
+    <string id="7UagK9bw" text="Ty" />
+    <string id="akXybGlj" text="Hlavní bojové síly battanských klanů, známé také jako Kern, jsou podporovány všeobecným odvodem mužů schopných nosit zbraň. Křiklavý příval těchto oddílů s dlouhými noži, holemi a kopími může být děsivým pohledem." />
+    <string id="aT2qskIk" text="Tito jezdci, kterým se doslova říká nájezdníci, vynikají v taktice udeř a uteč. Jako výborní jezdci obvykle slouží jako vojenští zvědové. Na bitevním poli jsou rozmístěni na křídlech a očekává se od nich, že budou krýt spřátelené jednotky nebo obcházet nepřátele. Jindy mají za úkol pronásledovat směrovky a pronásledovat nepřátelskou lehkou jízdu, která je na katafrakty příliš rychlá." />
+    <string id="B7XVRNoz" text="Berserkeři jsou elitní severští žoldnéři, kteří vládnou skvělými obouručními sekerami a dalšími obávanými zbraněmi a mají na sobě jednoduché vlčí kůže. Tito hbití válečníci jsou proslulí bezohledným bojem, který slouží jako úderné oddíly k prolomení nepřátelské linie." />
+    <string id="bdrb4ur3" text="Každá vesnice a město ve sturgiánských zemích dodává bojarům a knížatům vojsko neboli milici. Ti podporují družinu v boji, a pokud se vyznamenají, mohou doufat v povýšení do jejích řad." />
+    <string id="bGCJdPKj" text="Ze selských odvodů jsou vybíráni a cvičeni ti největší, nejpodlejší a nejrychlejší, aby se z nich stali obávaní Voulgiers. Tito vojáci s tyčovými zbraněmi slouží ve vlandiánských armádách jako shocktroopers a pustoší nepřátelskou pěchotu." />
+    <string id="bh61m33z" text="Již probíhá aktivní anketa." />
+    <string id="CwL29FSv" text="Život v Nahase je drsný, a tak se od dítěte kmene očekává, že se naučí dobře bojovat. Tito kmenoví bojovníci jsou levné, ale účinné jednotky, které mohou při správném výběru vybavení plnit různé role a obstát proti mnoha lépe vyzbrojeným nepřátelským vojákům." />
+    <string id="d2b4wgya" text="Nemohli se připojit k serveru" />
+    <string id="EH2wycm4" text="({PARAM})" />
+    <string id="FeM74rlx" text="Několik nejsilnějších a nejvěrnějších mladíků z každého kmene je naverbováno do Kheshig, soukromých strážních jednotek chána a jeho noiánů. Tito neohrožení bojovníci jsou důkladně vycvičeni, aby se stali smrtícími v lukostřelbě i boji zblízka." />
+    <string id="FfGKyq5e" text="V každé sturgiánské komunitě žijí lovci a trapeři, kteří přivážejí ze severu luxusní kožešiny, jež se vyměňují za zboží z teplejších zemí. V době války se často nechávají naverbovat jako lučištníci, stopaři a zvědové." />
+    <string id="FoSTFipC" text="{PLAYER_NAME} je nyní odmlčen." />
+    <string id="GW8hSCxa" text="Počet členů týmu by měl být alespoň {MIN_PARTICIPANT_COUNT} pro hlasování o výkopu." />
+    <string id="h4Pt3aX9" text="Vlandiánští seržanti jsou obyčejní lidé, kteří zjistili, že mají talent na krveprolití. Často si odsloužili nějaký čas v žoldnéřské společnosti nebo se přelévají od lorda k lordu. Jsou proslulí po celé Kalrádii svou houževnatostí a profesionalitou. Jsou kovadlinou kladiva a kovadliny vlandiánského vojska, přičemž kladivem jsou samozřejmě rytíři." />
+    <string id="HdgRTYa7" text="Nejlepší válečníci z řad Battanů se zavazují doprovázet kmenového vůdce do bitvy, kdykoli ho vede. Tvoří střed linie a vyztužují páteř kernu." />
+    <string id="hhU2vxWe" text="Byli jste poraženi!" />
+    <string id="iDzjO25n" text="Mnoho měst a vesnic, které nejsou formálně součástí kmenové konfederace Khuzaitů, musí poskytnout vojáky pro chánova vojska. Tito zpravidla špatně vyzbrojení a vycvičení lidé, kterým ostatní říkají Rabble, mohou doufat, že se udrží, dokud jim nepřijde na pomoc chánova elitní jízda." />
+    <string id="iHHQi3aA" text="Nejzuřivějšími nechazajtskými kmeny, které podléhají chánovi, jsou obvykle horské národy. Jejich zuřivé útoky kopím, často předznamenané krupobitím oštěpů, mohou smést nepřítele, který byl vyrušen podpůrnými jízdními lučištníky." />
+    <string id="iPvn6Cdi" text="Mladší synové battanských šlechticů bez půdy se často přidávají k bojovým družinám, známým jako Fianna, a vyhledávají dobrodružství, kdekoli je najdou. Mnozí z nich žijí v lesích a loví s proslulým battanským dlouhým lukem, ale v případě potřeby si mohou obléci i zbroj a bojovat v sevřených řadách." />
+    <string id="iUNjJT5I" text="Stisknutím {ALT_WEAP_KEY} se vzdáte spawnování" />
+    <string id="JhbHd9aW" text="Dvě vlajky budou odstraněny za {PARAM1} sekund." />
+    <string id="JJOcOByF" text="Aserští strážci jsou vybíráni z nejvyšších a nejsilnějších členů kmene. Jejich impozantní postavy se hodí jak k ovládání obrovských obouručních seker, tak k zasévání strachu do srdcí nepřátel. Stráže jsou hbití nárazoví vojáci, kteří jsou velmi dobří proti pěchotě se štítem, ale slabí proti nepřátelským lučištníkům." />
+    <string id="kEJSbmTN" text="Váš tým získal vlajku {PARAM1}." />
+    <string id="KTzOaXiD" text="Zlato {PARAM1}, které nebylo v tomto kole použito, se přenáší do nového kola." />
+    <string id="leAbyu5E" text="Hrstka bohatších obyvatel na sturgiánských hranicích vlastní vlastní koně a mnozí se naučili jezdeckému umění okolních koňských kmenů. Bojaři si jich velmi cení jako zvědů a strážců hlavních sil." />
+    <string id="Lkeorx7u" text="{?IS_WINNER}Vyhráli jste {?}Prohráli jste {\?}kolo!" />
+    <string id="mCaUvnSa" text="Tvoje vojsko tě následuje." />
+    <string id="Mpu7rab1" text="Jádro císařských armád tvoří profesionální pěchota a těžkooděnci, ale dnešní císařští velitelé v těžké situaci s sebou obvykle berou početné síly dobrovolných pomocníků, aby doplnili početní stavy. Od nich se očekává, že se budou držet mimo boj zblízka, budou nepřítele obcházet z boku a zasypávat ho oštěpy." />
+    <string id="mQzjI3GL" text="Cílový hráč ještě není synchronizován, zkuste to za chvíli znovu." />
+    <string id="Mrd3xhZx" text="Sturgiánské hranice často přitahují uprchlíky a zběhlé otroky, kteří dávají přednost svobodnému životu mimo dosah jakékoli bojarské moci. Tito zoufalí muži a ženy, kteří tradičně bojují oštěpy a sekerami, se přesto často hlásí do bojarských vojsk za pár stříbrných mincí a příslib kořisti." />
+    <string id="mufyAigI" text="Poslali jste příliš mnoho žádostí o průzkum!" />
+    <string id="mXoD63su" text="Nejlepší lovci Battanů se přidávají ke svým kmenovým odvodům jako lučištníci. Obvykle se střetávají před hlavním vojskem a utíkají před silněji vyzbrojenými nepřátelskými oddíly." />
+    <string id="NazRDaKI" text="{PLAYER_NAME} je nyní trvale ztlumen." />
+    <string id="NUCTjH4G" text="Po minutě budeš odstraněn pro neaktivitu!" />
+    <string id="of45b3tL" text="Varjagové jsou ručně vybíráni z nejlepších žoldnéřů a dobrodruhů ze severu a jsou domácími oddíly sturgiánských knížat. Slouží jako tělesná stráž a jsou považováni za jednu z nejlepších těžkých pěchot v celé Kalradii." />
+    <string id="pARTBcnI" text="Vanguardi jsou obvykle synové a dcery bohatých měšťanů, drobné šlechty nebo kohokoli, kdo si může dovolit koně. Tvoří hlavní proud lehké jízdy Vlandianů. Slouží jako předvoj, zvědové, obchvatníci nebo se používají, když se rytíři nechtějí obtěžovat s pronásledováním rozběhlých oddílů nebo jiné rychleji se pohybující lehké či střelné jízdy." />
+    <string id="PBfDAXEe" text="Jste vítězové!" />
+    <string id="Q4zplpf7" text="Samotný termín mamlúk znamená majetek. Aserská šlechta chce profesionální vojáky, kteří nemají žádné příbuzenské vazby a nemají nic jiného na práci než zdokonalovat své bojové dovednosti, ať už jde o jízdu na koni, kopí, luk nebo meč. Mamluke je nejlepším železným vojákem Aserai. Podle potřeby se z nich snadno stanou parní válci, jízdní lučištníci nebo flanďáci." />
+    <string id="qzsjGcEz" text="Malebný pastýřský ráj, kterým je jižní Vlandie, má tradici ve výcviku nejlepších arbelistů v celé Kalrádii. Jsou velmi žádaní jako žoldáci nebo školitelé dalších arbalistů po celé Vlandii. Tito lidé se ve svém oboru vyznají velmi dobře a jsou připraveni na všechno, ať už jde o přicházejícího rytíře na útoku nebo střelce z dlouhého luku střílejícího zpoza hradby." />
+    <string id="r88TwVdE" text="Jízdní lučištníci jsou hlavní údernou silou khuzaitské hordy. Očekává se, že každý kmen v konfederaci shromáždí své nejlepší muže, když chán táhne do války. Bojují rychle, trpělivě a lstivě a svými šípy bodají do nepřátelských sil, dokud je dostatečně neobměkčí, aby mohli vyrazit na útok." />
+    <string id="rautfQvy" text="Vlajka {PARAM1} byla obsazena nepřátelským týmem." />
+    <string id="RR1uTag6" text="Battanští hrdinové z dávných dob byli známí svou krutostí a pohrdáním vlastní bezpečností a ti bojovníci, kteří se tomuto ideálu nejvíce přibližují, se chopili masivního falxu, ničivé zakřivené čepele, která se obvykle používá obouruč. Bojují ve středu linie a snaží se prosekat si cestu k nepřátelskému praporu." />
+    <string id="sPmQz21k" text="Nepřítel" />
+    <string id="t7IHdqai" text="Díky výrazně lehčí zbroji se Aserové začali hodně spoléhat na své oddíly na dálku. A tito zkušení lučištníci jsou páteří jejich armády. V tom, co dělají, jsou tak dobří, že právě aserští lučištníci určují standard, který mají lučištníci ostatních kultur následovat." />
+    <string id="tC6vapdE" text="Zatímco většina battanských šlechticů bude bojovat se svými přísežnými uprostřed bitevní linie pěšky, několik z nich, včetně mladších a lehčích šlechticů, bude bojovat z koně. Jedná se spíše o lehké než těžké jezdectvo, které se nejlépe uplatní jako jezdci na koních a na křídlech." />
+    <string id="TJKjYxBN" text="[SMRT] {PLAYER_NAME}" />
+    <string id="tKKmLI4l" text="{PLAYER_NAME} byl vyřazen." />
+    <string id="TqhcGf4a" text="Vlajka {PARAM1} byla z mapy odstraněna." />
+    <string id="URA3QmYL" text="Někteří příslušníci kmene Khuzaitů jsou příliš chudí na to, aby si mohli dovolit koně, a bojují pěšky s luky. Obvykle se spoléhají na to, že se díky rychlosti chůze vyhnou boji zblízka, ale přesto si ponechávají sekeru nebo šavli, aby se mohli bránit, jsou-li zahnáni do kouta." />
+    <string id="vcgwTu9d" text="Menavlionská pěchota je vycvičena a má svěřen menavlion, smrtící tyčovou zbraň s ostrou, dlouhou oboustrannou čepelí místo hlavice a silnou robustní násadou, která se hodí k bodání i sekání. Obvykle stojí těsně za legionáři, podporují je a vystupují vpřed, když se přiblíží jízda nebo se rozpadne nepřátelská formace." />
+    <string id="VHa9Ibh3" text="Náklady na oddíl" />
+    <string id="vhgPg46a" text="Tito profesionální vojáci jsou placeni státem a jsou to vynikající bojovníci na blízko. Císařští velitelé jim říkali Skutatoi kvůli velkým štítům, které třímají. Toto jméno se však neujalo hrdým vojákům, kteří se místo toho rádi nazývali legionáři, na počest starých legií." />
+    <string id="wakpAZbM" text="Ne všichni Khuzaité používají úhybnou taktiku udeř a uteč. Někteří z nejlepších jezdců, těžce obrněných a vybavených kopím a palcátem, se specializují na zasazení smrtícího úderu nepřátelskému vojsku poté, co ho podpůrní jízdní lučištníci vyčerpají." />
+    <string id="wbxSsKup" text="Císařská palácová garda má pro službu ve stráži k dispozici armádu císařství, která nabízí vysoké platy a jedno z nejprestižnějších míst. Očekává se od nich, že půjdou ostatním jednotkám příkladem, a to jak svou bojovou zdatností, tak smyslem pro povinnost. Protože nikdy nevíme, jak je císař využije, očekává se od nich, že budou ovládat luky i boj zblízka." />
+    <string id="wg96CXKf" text="Některé kmeny žijí ještě hlouběji v pouštích, kde bez svých věrných jezdců nemají kvůli obrovským vzdálenostem naději na přežití. Tito lidé z kmenů jsou rození jezdci, kteří se v sedle doslova narodili. Jawwalové jsou nejrychlejšími jezdci v Kalradii a jsou velmi dobří v taktice udeř a uteč." />
+    <string id="xjhWA6Rv" text="Stisknutím tlačítka {USE_KEY} převezměte kontrolu" />
+    <string id="Xz6KH85U" text="U aserských kmenů je házení oštěpem sport, který baví každé dítě. Z nejlepších z těchto dětí vyrostou hbití skirmishers. Kromě velkých štítů jsou velmi lehce obrněni. Mohou se tedy rychle pohybovat po bojišti, obcházet nepřátele a působit jim obrovské škody ze zad." />
+    <string id="Y7SgXcAG" text="Stisknutím tlačítka {USE_KEY} se zrodí" />
+    <string id="yOAa139m" text="Funkce {PLAYER_NAME} je nyní ztlumena." />
+    <string id="ZAa01aJb" text="Sousedé říše se někdy jejím městským obyvatelům posmívají jako rozmazleným a slabým, ale to nemůže být dále od pravdy. Říše je obklopena nepřáteli a občané ochotně vstupují do městské domobrany, aby se naučili bránit její hradby, obvykle se specializují na lukostřelbu. Velitelé je často berou na tažení, kde podle potřeby slouží jako lučištníci nebo arbalisté." />
+    <string id="zo1UF7fu" text="Aserští veteráni patří mezi nejstarší a nejzkušenější bojovníky kmene. Nájezdy, bitvy a obléhání jim poskytly dostatek příležitostí naučit se jak dovednostem přežít, tak ukořistit dobré zbraně a zbroj. Jsou to jak smrtící lučištníci, tak i nebezpeční bojovníci zblízka, kterými jsou nyní." />
+  </strings>
+</base>

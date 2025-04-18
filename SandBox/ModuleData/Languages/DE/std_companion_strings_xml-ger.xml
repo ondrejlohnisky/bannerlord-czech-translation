@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="05P003ev" text="Když jsem byla malá, zvolila jsem si povolání štítonošky a doprovázela jsem své bratry na jejich nájezdech. Když jsem dosáhla plnoletosti, pronásledoval mě jeden z nejlepších válečníků v našem údolí. Všechny dívky snily o tom, že se za něj provdají. Souhlasila jsem, že si ho vezmu pod podmínkou, že se mi nikdy nepokusí zabránit v odchodu do války, a tento slib splnil." />
+    <string id="08SDOFly" text="Míříš z města? Už tři dny tu čekám, až se můj kontakt objeví, ale myslím, že se neobjeví. Mám podezření, že jsem na sebe možná trochu upozornil." />
+    <string id="0b8vP1ba" text="Pošpinil jsi posvátnou tradici manželství! Znečistil jsi ji krví!" />
+    <string id="1af4enJo" text="Mm... Souhlasím s pány, kteří si neradi zahrávají s Jiným světem." />
+    <string id="1EKWnCBa" text="A tak jsem časem navázal kontakty ve městech v západní polovině Kalradie. Někdy je to strážce, který se nebrání troše peněz navíc. Někdy je to pradlena, která v noci spustí přes hradby provaz. Jsou to pro tebe užitečné znalosti?" />
+    <string id="1KFSnLeb" text="Tři roky sám? Musel ses naučit hodně dřevařského řemesla. Možná budu potřebovat zvěda." />
+    <string id="22Wl39Zg" text="Chtěl jsem jen připít na tvé zdraví. Jak to někdy dělají cizinci v hospodách, aniž by chtěli ublížit." />
+    <string id="2fa1Ai55" text="No, bývaly doby, kdy jsem byl vůči cizincům méně ostražitý, ale od té doby jsem se naučil, že mnozí z těch, kdo mě osloví v hostinci nebo na cestě, mají nedůstojné úmysly. Je to trochu příběh, ale pokud vás to zajímá, povím vám ho." />
+    <string id="2JwZXgOZ" text="To je rozumné. Tady je pro tebe {NPCPAYMENT}{GOLD_ICON}. Připravte se." />
+    <string id="2MJElaJi" text="No, tady mistr dělostřelectva vzal protizávaží přímo na lebku. Byla to pětikilová koule, takže protizávaží vážilo asi tolik jako malý kůň. Dovedete si představit, jak to vypadalo. Takže mi nezaplatí - i když ta koule, hrdě říkám, hodila rovnou přes pět set kroků. Dokonce i s trochou bláta na něm." />
+    <string id="2oniHsNe" text="Můj zesnulý manžel, nebesa žehnej jeho památce, shromáždil vlastní jednotku, aby pomohla střežit hranice. Dbal na to, aby jeho muži projevovali náležitý smysl pro disciplínu, povinnost, základní osobní hygienu a úctu k našim morálním tradicím. Bohužel jeho kariéru přerušil aserský oštěp, ale já hodlám pokračovat v jeho šlépějích." />
+    <string id="2pv2fc22" text="Pokud se o mně chcete dozvědět víc, řeknu vám tohle: Pocházím odtud ze severu. Přišel jsem sem, abych si udělal jméno a bojoval. Trochu jsem bojoval za skolderbrody, ale už mě omrzeli, protože bojují víc než většina ostatních, ale pro mě bojují málo." />
+    <string id="30PC7qqc" text="Považuji to za dobrý způsob, jak získat užitečné informace." />
+    <string id="36X0Ptyo" text="Jak fascinující. Pověz mi víc." />
+    <string id="37gFwKgg" text="Mám skupinu bojovníků a hodil by se mi muž s nějakými zkušenostmi." />
+    <string id="3tsuUf0H" text="A měl pravdu, když to řekl! Dobrý den, pane." />
+    <string id="3Yax10rQ" text="No, možná na těch legendách něco bude, protože já jsem si vedl velmi dobře a svého pána jsem velmi obohatil. Císařský zákon nyní nařizuje, že muži nesmějí zabíjet v aréně, ale nikdo nešťourá do toho, co se děje na soukromých zábavách bohatých, a více než desítka mých kolegů otroků musela pocítit mé ostří v hrudi." />
+    <string id="4dJ0KhjB" text="Ale možná je to tak lepší. Ať už tuhle válku vyhraje kdokoli, bude alespoň důstojným vůdcem men..... Hledáte meče k pronájmu? Nudím se a jsem připraven znovu se vrhnout do hry a pochybuji, že budu své ženě moc chybět." />
+    <string id="4m5w7HIP" text="Máte-li družinu ve zbrani a slíbíte-li, že budete ctít své slovo a dluhy, jsem ochoten v ní sloužit." />
+    <string id="5A0dXh2j" text="Takovou práci opravdu nemám, pokud se ptáte na tohle." />
+    <string id="5E6L8WcA" text="Možná bych mohl někoho takového najmout." />
+    <string id="5Y5mxebR" text="No, vypadá to, že se alespoň umíš prát. Potřebujete zaměstnání?" />
+    <string id="6EeM0jbm" text="Možná ano. Co můžeš nabídnout?" />
+    <string id="6Rqc8OOc" text="Nebesa nás chrání před zlem! Jdi pryč! Jdi pryč!" />
+    <string id="6Yy1KWgT" text="Starej se o sebe, kámo." />
+    <string id="77kuaIpz" text="Když jsem byl ještě dítě, přišla do síně mého otce žena, o které se říkalo, že umí mluvit s nadpozemským světem. Když mě uviděla, řekla mu, že na mně vidí znamení víl. Provedla věštbu a řekla, že se dozvěděla, že si ze mě lidstvo vystřelí: vyrostu ve velkou krásku, ale každý muž, který se rozhodne si mě vzít, zemře." />
+    <string id="7BMEqR9P" text="Dobře. Chtěla bych od vás jen požádat o zálohu ve výši {NPCPAYMENT}{GOLD_ICON}, abychom urovnali všechny záležitosti, a pak se k vám připojím." />
+    <string id="7cVb7eda" text="Je těžké najít lorda, který by mě vzal do své družiny, protože muži mají tendenci se mě bát. Příležitostí k práci je tedy málo." />
+    <string id="7qfZbVii" text="Myslím, že by se mi hodil člověk jako ty." />
+    <string id="7WrfCwuL" text="Dobře. Budu po tobě chtít {NPCPAYMENT}{GOLD_ICON} předem. Jak říkám, jsem žíznivý muž." />
+    <string id="8HKl3HNH" text="Jediné, co žádám - kromě jídla, přístřeší a pár dinárů na kapesné, samozřejmě - je, abych se nezúčastnil drancování a braní otroků." />
+    <string id="8O8jU9Jp" text="A na vaše zdraví, fyzické i duchovní! A vždy pamatujte - duchovní zdraví pochází pouze z pokání, a k tomu je třeba něco kát." />
+    <string id="8ya4JQyc" text="Zdravím tě, cizinče. Musíš tu být cizincem, neboť málokdo z těch, kdo se tu narodili, by se mnou mluvil." />
+    <string id="9HTt6P0U" text="To je jedno z řešení špatného manželství. Prošel jsi tímto plánem?" />
+    <string id="9vcC9WNE" text="Ach ano, asi ano. Nuže, pokud tě to zajímá, jmenuji se Haldaea a rozhodla jsem se stát válečnicí." />
+    <string id="9w5W46E9" text="Zdravím. Hledám válečníky a ty vypadáš, že bys na to mohl stačit." />
+    <string id="9yWwSi7g" text="Zníte jako problém, pane. Dobrý den." />
+    <string id="a1qmkOxD" text="Kdo jsi? Co chcete?" />
+    <string id="a2rWCsZS" text="Doufám, že vám nevadí trocha neskromnosti. Pokud stavíte, jsem jeden z nejlepších, které si můžete najmout. Dokážu postavit jakýkoliv oblouk, jakoukoliv věž, jakoukoliv kopuli, kterou byste si přál. Každé město v okolí má ukázky mého řemesla." />
+    <string id="a4yeaMZq" text="Ano. Pokračuj." />
+    <string id="a6Yqb6nY" text="Já jsem.  " />
+    <string id="A7ToDPfN" text="Skvělé. Takový je duch. Posbírejte si věci." />
+    <string id="Ac8dPtH8" text="Nevím a ani mě to nezajímá." />
+    <string id="AGBkVF4G" text="Předpokládám, že to není na škodu. Takže. Pověz mi o sobě." />
+    <string id="aGRXxufp" text="Jak asi tušíte, jsem pašerák. A to dobrý." />
+    <string id="APKQ8HuA" text="Obávám se, že nejsem. Přeji vám hezký den." />
+    <string id="Auq79Hap" text="Mezi mými lidmi se to říká zdvořile, ale je to také pravda. Svět by byl krásnější, kdyby lidé mohli cestovat podle libosti a přinášet moudrost a bohatství z jednoho vzdáleného místa na druhé." />
+    <string id="awCIaqxG" text="Ho tam. Dáte si se mnou šálek piva?" />
+    <string id="AXy281gD" text="Jaká kletba?" />
+    <string id="BIXQz5yS" text="Jestli je to tvoje poslední poslední přání, tak asi můžu. Tady je {NPCPAYMENT}{GOLD_ICON}." />
+    <string id="bKFWqaxQ" text="Nejsem si jistý, jestli ti můžu zaplatit jako on..." />
+    <string id="blY5YhSL" text="Dobrá tedy. To by se mohlo hodit. Mohu vám nabídnout místo ve své společnosti." />
+    <string id="bmdw47FV" text=" Každé zabití vyneslo mému pánovi truhlu stříbra. Necítím žádnou vinu - moji protivníci se mě snažili zabít a někteří byli velmi blízko. Máš k tomu co říct?" />
+    <string id="BMKqMpQ7" text="Nejvíce mě zajímá barbarská ctnost zasekávání seker do lebek. Nevypadáš na to." />
+    <string id="bRRi5GiL" text="Tady jsou mé podmínky: Očekávám, že dostanu dobře zaplaceno, a nezabíjím muže, kteří se nebrání." />
+    <string id="bsnUJ7Br" text="To jsou užitečné dovednosti. Hledáte práci?" />
+    <string id="bUZATRQM" text="Faerijky? Na takové pohádky nemám čas." />
+    <string id="bwb4nB4m" text=" Investoval jsi celé své jmění do jediného nákladu pepře?" />
+    <string id="bx0dzZTU" text="Aha. Omlouvám se. Už dlouho jsem nemluvil s jinými lidmi. A jsem trochu opilý... Podívejte, povím vám svůj příběh." />
+    <string id="bXfBBvzl" text="Pocházím z fen Dairl. Nepatříme k největším klanům Battánie, ale jsme dobří bojovníci. Když jsem dosáhl plnoletosti, opustil jsem na několik let otcův domov a žil v lesích jako vlčí kůže. Je to náš zvyk, že mladí lidé běhají jako Vlčí kůže. Nejí vařená jídla, nebydlí v domech ani nenosí spředené látky a na oplátku se nezodpovídají lidským zákonům." />
+    <string id="c1vQQwKv" text="Jistě, předpokládám, že ano." />
+    <string id="C6GmacOA" text="Jinak jsem zaneprázdněn, pane." />
+    <string id="cI8YERnL" text="Pokud tak učiníte, slibuji, že budu vždy v první linii vaší bojové linie a nikdy se nevyhnu povinnosti ani tváří v tvář smrti." />
+    <string id="CKgC2JXg" text="Nevzbuzujete ve mně důvěru." />
+    <string id="clatEXV2" text="Teď se stahuji, paní. Přeji vám hezký den." />
+    <string id="cXKvmJGb" text="Jistě vám neuniklo, že tato naše říše je v hrozném stavu. Muži ztratili veškerý smysl pro povinnost a sebeúctu a pravidelně stáčejí ocas tváří v tvář rebelům, barbarům a podobné chátře." />
+    <string id="d0K0iKV2" text="Když jsem byl ještě dítě, odvedli mě z mého domova v hluboké stepi jako rukojmí říše, a i když bylo hořké opustit rodinu, považuji to za nejšťastnější věc, která mě kdy potkala." />
+    <string id="D9hP21YA" text="Hm, možná jsem. Máš nějaké relevantní zkušenosti?" />
+    <string id="dagVYLDb" text="Strávila jsem hodně času v kasárnách a naučila se mnoho znalostí, které by žena vojáka měla znát. Ale byla jsem bláhová, když jsem si myslela, že se Aldric o našich stycích nikdy nedozví. Nepochybně to považoval za potupu pro svou rodinu a možná na mého milence žárlil, protože jsem viděla, jak Aldric sám vrhl pohled mým směrem. Nechal mého milence obvinit z krádeže, pověsit a namočit do dehtu. Každou noc se budím ze snu, v němž vidím tělo svého milence, jak černá a kroutí se ve větru, když visí na bráně." />
+    <string id="Db8cb8w6" text="No, máš správný přístup. Možná tě vezmu na milost." />
+    <string id="dDt6c7kr" text="Nebojte se. Nesmetu armádu jako mouchu, ale v případě potřeby bych nejspíš dokázal sejmout jednoho nebo dva padouchy najednou. Je tu však malá záležitost, že tě musím požádat o - {NPCPAYMENT}{GOLD_ICON}. V této hospodě jsem si udělal menší účet a možná ho budu muset někdy znovu použít." />
+    <string id="DdYimYLm" text="Měl jsem trochu chráněnou výchovu, víte. Jsem praneteří Aldrika, pána ze Sarghertu. Můj otec zemřel v jeho válkách, ale byla jsem považována za člena jeho domácnosti a měla jsem být provdána za jezdce z jeho družiny. Bohužel jsem se zamilovala do jednoho z prostých vojáků. Byl vysoce duchapřítomný, pohledný - typ chlapce, který si představoval, že se ho zlo tohoto světa nikdy nedotkne." />
+    <string id="DLcjTWn7" text="Ano?" />
+    <string id="Dr6ZjtKR" text="Zdravím tě, poutníku. Mohl bych vědět, odkud jsi?" />
+    <string id="dU3II3Lv" text="Zrovna nedávno večer jsem se účastnil večírku právě v tomto městě a hostitel mi řekl, že jsem opravdovou ozdobou mezi hosty, která přináší na jeho večírek více světla než sto luceren a více hudby než sto louten. S velkým zármutkem řekl, ţe na mě musí zavolat své stráţce, protoţe jsem nějakým nedopatřením nebyl pozván, a tak jsem se při konzumaci jeho jídla stal z právního hlediska zlodějem." />
+    <string id="dZFO1esU" text="Musí vědět něco, co já nevím. Dobrý den, má paní." />
+    <string id="EfbhgTy0" text="Piju, když mám žízeň, a ne když mi nějaký hulvát vrazí do ruky pohár." />
+    <string id="EGchHvKa" text="Procházel jsem se po síních, gerech a stanech a sbíral jsem zajímavé zprávy. Ale i tak bych vás rád doprovodil, pokud dovolíte." />
+    <string id="EmTojvwy" text="Víš, kdo jsem, cestovateli?" />
+    <string id="EPj9FwBy" text="Podívej, je mi líto, že tě obtěžuji, ale - všiml jsem si, že jsi zřejmě poutník. Bojovník, jako - žoldák nebo tak něco. Rád bych se k vám přidal." />
+    <string id="EQSc8FxA" text="Skvělé - co se týče peněz. Řekněme zálohu {NPCPAYMENT}{GOLD_ICON}? To mi stačí, abych věděl, že to myslíš vážně." />
+    <string id="eUkVaqJN" text="Asi pestrý život, ale mě to moc nezajímá. Přeji vám hezký den." />
+    <string id="ff0uDowD" text="Brzy po našem sňatku pro mě ztratil zápal a začal svého slibu litovat. Když jsem chtěla vyrazit na nájezdy, zamračil se a požadoval, abych zůstala doma a dala mu děti. Začal žárlit. Když jsem mu to oplatila nadávkou, udeřil mě plochou stranou meče. Jednoho dne mě na tržišti před všemi lidmi z naší vesnice obvinil, že lžu s každým, kdo mi zkříží cestu, ať je to muž nebo žena. Udeřil jsem ho. Podle zákonů našeho lidu mi nedal žádný důvod k rozvodu, a tak jsem místo toho požadovala boj na život a na smrt." />
+    <string id="FkhUMTpJ" text="Řekl jsem si, že mám dar kázat. Zabloudili bychom do nějaké vesnice a já bych spustil řeč, která by přiměla vesničany prodat své pozemky a připojit se k nám na naší nekonečné pouti. Ale víte, myslím, že Dokonalý začal trochu žárlit, začal mě obviňovat tu ze smrtelného omylu, tu z hříchu pýchy..." />
+    <string id="FKMaPDMy" text="Asi si mě s někým pletete." />
+    <string id="fpQnbafH" text="Tenhle rozhovor se stal poměrně rychle nebezpečným." />
+    <string id="fV5Icuc4" text="To je užitečné. Umíš také bojovat?" />
+    <string id="fY7gnK3p" text="Zdravím - ahoj - jestli ti to nevadí... - máš chvilku?" />
+    <string id="g4cOvMnT" text="Jen nezapomeň svým mužům říct o kletbě, která na mě padla, protože bych nerad připravil o život někoho jiného, pokud se tomu dá vyhnout." />
+    <string id="Gepa1szA" text="Můj otec byl obchodník. Když zemřel, odkázal svým dětem malé dědictví. Většina připadla mým bratrům. Ti zamířili na východ, do zemí Pádišáha, a mě nechali ve vedení našich zájmů v Kalradii. Abych mohl nastoupit na otcovu pozici a aby se mnou ostatní obchodníci jednali jako se sobě rovným, věděl jsem, že musím v krátké době vydělat hodně peněz, jinak mě vystrnadí z trhu." />
+    <string id="GhmTenPP" text="Proto se toulám pouští. Poznávám její tajné cesty, její skryté dary, jako milenec poznává tajemství a dary své milované." />
+    <string id="gI4xkaaR" text="Připouštím, že pro císařské kněžstvo je to trochu kacířská představa, ale to už jsem byl vychován jako kacíř. Možná jsi už slyšel o Záblesku plamene? Inu, narodil jsem se do družiny Dokonalého, ještě když Zápalky plápolaly ohněm a my jsme putovali krajem a hlásali víru a vzpouru." />
+    <string id="gkOfyxfd" text="Možná později." />
+    <string id="gMXTUU1O" text="Dobrá, mohu ti nabídnout místo ve své společnosti." />
+    <string id="gQa9XZfG" text="Mohu ti nabídnout své znalosti o původu lordů, náčelníků, noiů a další šlechty Kalradie, civilizované i divoké. Uvidíš, že je možná potěší, když při prvním seznámení s nimi budeš tvrdit, že poznáš, jak se jmenuje jejich rod a zda se jim říká Bezkostný, Hnízdobr, Drápek nebo nějaká jiná půvabná přezdívka." />
+    <string id="Gyslal3Y" text="Skvělé! Ale než se podepíšu... Několik dívek pracujících v této hospodě... No, kdybych náhodou jednu nebo dvě z nich nechal s dítětem, měl bych jim před odchodem nechat trochu mincí. {NPCPAYMENT}{GOLD_ICON} by to mělo pokrýt. Můžeš mi to dát předem?" />
+    <string id="gzs2h4eS" text="No, to jim přišlo velmi vtipné. Ale už se tolik nesmáli, když jsem udeřil holí podkoního a vzal jim jejich nejlepšího koně, lněného ročka. Došel jsem k závěru, že ti, kdo vlastní nejlepší koně, si nejvíc zaslouží, aby se s nimi rozloučili." />
+    <string id="H1BjisqL" text="Dobře. S tím mohu souhlasit." />
+    <string id="H4fGpzOV" text="Tohle je fascinující, ale trochu mě tlačí čas. Prozatím přeji hezký den." />
+    <string id="h4QlH7wG" text="Kdybych to udělal, byl bych ochoten vyhledat služby někoho méně vznětlivého." />
+    <string id="h4rt3qUq" text="Požádali mě, abych na jedné z věží postavil trebuchet s protizávažím. A to je elementární, že? Protizávaží - to znamená, že aby se vrhací rameno dostalo nahoru, musí něco jiného spadnout dolů, ne? Takže pokud stojíte kolem trebuchetu a díváte se, měli byste dávat pozor, kde stojíte, když zatáhnu za lano, že?" />
+    <string id="H7Y4lTjl" text="Myslím, že jsem o tomto zvyku slyšel. Neříkají Battaniané, že je to učí lesním cestám?" />
+    <string id="hcMJen3F" text="Ne, to nemůžu říct. Tak kdo jsi?" />
+    <string id="Ho8MFOOi" text=" Zajistím, aby se tvoji muži báli mého opovržení víc než kopí nepřítele." />
+    <string id="hR7mKQPs" text="Samotné opovržení neudělá muže statečnými, madam. Myslím, že byste si měla najít jiného kapitána." />
+    <string id="hyhYcrFp" text="Dobrá tedy. Považujte se za najatou." />
+    <string id="i53bBgar" text="Takže... Posledních pár let jsem měl příležitostné práce. Většinou stojím na tržištích a vykřikuji o přednostech sedel toho a toho..." />
+    <string id="iBHDCIwV" text="Nepřijímám nováčky, kteří si kladou podmínky. Přeji vám hezký den." />
+    <string id="iBoVz4wv" text="Jsem Lath, kníže pustin, pán samoty, pán prázdnoty. Chcete-li znát má další jména, můžete se zeptat mých příbuzných, leoparda, hyeny a gazely." />
+    <string id="IcBPLx2R" text="Dobrá, tady je {NPCPAYMENT}{GOLD_ICON}." />
+    <string id="IcD7bMKe" text="Narodil jsem se ve stepi, ale císařští otrokáři mě unesli, když jsem byl ještě děvče. Říše měla legendy o ženách-bojovnicích v hlubokých stepích, a když mě prodali, tvrdili, že jsem jednou z nich - abych je pobavila tím, že jejich legendy naplním. Naučili mě zacházet s mečem a já se to naučila dobře." />
+    <string id="IEO3gvnz" text="...." />
+    <string id="igGhbdFj" text="Nebesa nás vedou, kam chtějí. A jak si vyděláváš na živobytí?" />
+    <string id="IszNoAcX" text="Před pár hodinami jsem ukradl svého stého koně! A takový kůň to byl. Viděl jsem ho ve vlaku karavany, která přijížděla do města. Bylo to, jako by nebesa řekla čtyřem větrům: Spojte se a vytvořte šlachy a kosti, udělejte mu srst zářivě šedou a na nose bílý plamen! Bohužel to bylo nehodné zvíře. Odhodilo mě a vrátilo se ke svému majiteli. Ale i tak je to den hodný zapamatování, že?" />
+    <string id="iVXlb8Lv" text="Ne, ne. Pokračuj." />
+    <string id="iwxJWG81" text="Takovou výhodnou nabídku si nemohu nechat ujít. Rád bych si tě najal." />
+    <string id="j2auwAej" text="Inženýr musí být především opatrný. Dobrý den, pane." />
+    <string id="j4MeTe5O" text="Vím, kolik vydělává námezdní čepel, a neočekávám větší plat než kdokoli jiný ve vaší firmě. Rád bych vás však požádal o malý poplatek předem, abych se ujistil, že nemáte v úmyslu mě podvést. Řekněme {NPCPAYMENT}{GOLD_ICON} dináry?" />
+    <string id="jaLG4P9R" text="Mohl bych. Co to je?" />
+    <string id="jb3TXFa9" text="Smutný příběh, má drahá, ale Kalradie je jich plná. Dobrý den." />
+    <string id="jEtASKar" text="Pokud poneseš mnoho zásob, mohu ti slíbit - jako může v tomto nejistém světě slíbit kdokoli cokoli - že ti svůj plat mnohonásobně vrátím." />
+    <string id="jIC9xW8W" text="To rád slyším. Přirozeně očekávám, že za svou krev a pot dostanu náhradu ve stříbře." />
+    <string id="JIl4An61" text="Mnohem víc než zloděj koní, můj dobrý muži. Jsem kníže podkovářů! Ukradl jsem aserijské klisny zprostřed stanů a jezdil na nich po pouštních pláních pod měsícem, vzal jsem vlandiánské hřebce z jejich výběhů, statné poníky Chuzejců a vyrovnané valachy císařských kopiníků. Je v domě bard? Už to všechno chápeš, nebo mám začít znovu?" />
+    <string id="Jk83lyZl" text="Utekla jsem ze Sarghertu. V hostinci v Bostrumu jsem si našel chirurga, který souhlasil, že mě přijme za učedníka. Následoval jsem armády říše a zjistil jsem, že mé znalosti, které jsem se naučil v kasárnách v Sarghertu, mají využití. Stal jsem se chirurgickým učněm, který odstraňoval šípy z žeber nebo trepanoval lebku." />
+    <string id="JrHYSBL1" text=" A tak jsem tady a hledám obživu jediným způsobem, který znám - proléváním cizí krve. Máš práci?" />
+    <string id="jW6UlCAi" text="Mluvíme s duchy, že? Nebudu vás rušit." />
+    <string id="jxZSkF76" text="Ty ses utkala se svým manželem? Nebesa odvracejí všechno zlo. Už jsem toho slyšela dost." />
+    <string id="JZU9vtFg" text="Pokud chceš rychle projít pouští, najít úkryty, kde se schováš před nepřáteli, najít vodu tam, kde jiní nacházejí jen prach a smrt, pak jsem tvůj muž." />
+    <string id="K0Eh3eYs" text="Skvělé. Budu potřebovat malou částku peněz předem - {NPCPAYMENT}{GOLD_ICON}. Mám několik sluhů, kteří jsou v naší rodině už léta a kteří mě nemohou doprovázet. Čest a základní lidskost vyžadují, abych jim dal malou částku peněz, aby se mohli postavit na nohy." />
+    <string id="k767XKYO" text="Moje rodina mě prosila, abych to nedělal. Stejně tak většina ostatních.. Ale starší řekli, že sice neexistuje precedens, aby se manželé utkali v souboji, ale v zákoně není nic, co by tomu bránilo. Cítila jsem takový vztek. Bylo to, jako by místo mě v mém těle přebýval jiný člověk, démon. Odmítla jsem všechny nabídky na zprostředkování a požadovala, aby souboj pokračoval." />
+    <string id="kcQQS5OF" text="Poté, co můj otec zemřel - myslím, že žalem -, jsem se rozhodla, že se budu věnovat vyznání zbraně, aby všichni muži věděli, že nejsem vdaný typ. A všem ostatním, jakmile se s nimi setkám, řeknu o tom, že jsem prokletá." />
+    <string id="kn76Y4yi" text="Nemám pro vás žádné zlaté talíře, z nichž byste mohli stolovat. Pochybuji, že bys u nás dlouho vydržel. Přeji vám hezký den." />
+    <string id="KoetJ3P0" text="Přiznám se, že mě barbaři obzvlášť zajímají, protože mají mnoho ctností, které jsme my v Říši ztratili - jistou poctivost ducha, řekl bych, ne náš hustý guláš civilizovaných intrik." />
+    <string id="kpD07Ib2" text="Je jen jedna věc, kterou chci teď od kohokoli slyšet: že zprávy, které jsem slyšel, jsou falešné. Že skladiště v Makebu, kde jsem skladoval svůj pepř, nezapálilo a že jsem nepřišel o své jmění." />
+    <string id="KU1nXWTK" text="Rozpálená štěrková pláň mě zná, stejně jako vlnící se písek a zastíněný kaňon. Čelil jsem bičující písečné bouři, hučící povodni, vražednému polednímu žáru, a všichni mi říkali: Bezpečně projdi, bratře. A já jsem se s nimi setkal." />
+    <string id="KUKuUJaL" text="Příliš se snažíš prodat. Asi budu muset říct ne." />
+    <string id="KYPP1pKE" text="To je skvělé. To je velmi velkorysé. Ale doufám, že mi odpustíte, když vás vzhledem k drsným lekcím, které jsem v minulosti dostal, požádám o malou zálohu - {NPCPAYMENT}{GOLD_ICON}, pokud vám to nevadí." />
+    <string id="LcihqCpu" text="Omlouvám se, ale to mě nezajímá." />
+    <string id="lDVo9y0g" text="A proč tomu tak je? Jaký je váš příběh?" />
+    <string id="lJkybj3d" text="Ahoj, poutníku. Nechcete si se mnou dát šálek vína?" />
+    <string id="LnHkGgsd" text="To je od tebe milé." />
+    <string id="M5mMHrDL" text="Ahoj, cizinče! Napij se na mě, protože v den, jako je ten dnešní, se nesluší, aby někdo stál v mé přítomnosti zachmuřený a střízlivý!" />
+    <string id="m7KEC7wT" text="Dobře. Můžeš... Můžete mi dát {NPCPAYMENT}{GOLD_ICON} předem? Potřebuji lepší boty." />
+    <string id="MigoHjvo" text="Náš vlastní svět a ten cizí jsou jen stíny toho druhého, víš? Pokaždé, když vidím duchy, říkají mi, abych někoho sledoval - karavanu, nájezdníky, skupinu žoldáků. Přidám se k té skupině a ta mě zavede k jiné. Tímto způsobem jsem prošel Kalrádií a znovu ji překročil. Teď mi říkají, abych následoval tebe." />
+    <string id="mjiaqseL" text="Slyšel jsem, že smůla je nakažlivá. Sbohem." />
+    <string id="MjSlFqAl" text="Ano? Musím ti říct, že nemám ve zvyku mluvit s cizinci v krčmách." />
+    <string id="mk0l1BfB" text="Dalo by se to tak říct. Sloužil jsem v císařských legiích dvě desetiletí. Kdysi dávno si zasloužily, aby se jim říkalo legie. Sloužili jsme spolu celá léta, stejná skupina mužů pod jednou standartou, a raději bychom zemřeli, než abychom viděli, jak ta standarta ochabuje nebo padá. Ale Drosios Neretzes vedl poslední ze skutečných legií do léčky v battanských lesích. Možná jsi ten příběh slyšel." />
+    <string id="MlzMSNkQ" text="A také, jak jsem ti řekl, od dnešního odpoledne jsem napravený koník. Nenajdeš lepšího znalce koní, než jsem já." />
+    <string id="n3IEXAGH" text="Na oplátku slibuji, že udělám vše, co bude v mých silách, abych jakoukoli ubohou sebranku, kterou naverbujete, vypráskal na vojáky. Neobtěžuji se s jezdci a neobtěžuji se s lučištníky. Ale dejte mi pěšáky s trochou odvahy a já je naučím stát pohromadě ve skálopevné formaci, která rozbije jakýkoli útrok, který na ni povedete." />
+    <string id="n5y4faSu" text="Skvělé! Musím tě však požádat o malou zálohu ve výši {NPCPAYMENT}{GOLD_ICON}. Mám dluh, který jsem doufal splatit nějakým stříbrem, ale narazil jsem na jisté potíže." />
+    <string id="N91Wnhht" text="Musím vás požádat jen o jednu věc. Rád bych opustil toto město s čistými účetními knihami. Rád bych vyrovnal všechny své dluhy. Záloha ve výši {NPCPAYMENT}{GOLD_ICON} by měla stačit." />
+    <string id="nagec3c3" text="Oh... Hm... Podívejte, válečníci mohou být trochu důvěřiví... Možná bychom to měli nechat plavat." />
+    <string id="nbbn0HaV" text="Proč? Řeknu ti proč." />
+    <string id="nEHOUdf8" text="Přiznám se, že to není poprvé, co se mi něco takového stalo. Hostitelé bývají na seznamy hostů takoví puntičkáři. Ale dostalo mě to trochu do slepé uličky, protože bych asi měla tohle město co nejdřív opustit." />
+    <string id="NLLnv7WH" text="Byl jsem tu a tam. Pořád se nudím. Pořád piju víc, než bych měl." />
+    <string id="NMTS37x2" text="Naskytla se mi příležitost koupit pepř od jiného obchodníka, který prodával se slevou a potřeboval peníze. Samozřejmě jsem si pepř a jeho skladování prohlédl. Vyslechl jsem hlídače ve skladu. Můžete nám věřit, madam, řekli. Buďte si jistá, že váš pepř je v dobrých rukou. Jeden z nich však v noci nechával zapálený pekáč kvůli teplu, a když si šel ulevit, velbloud ho kopl do slámy. Když se vrátil, skladiště bylo v plamenech." />
+    <string id="nNFSLJ2A" text="To je příliš specializovaná dovednost, má paní. Na shledanou." />
+    <string id="nYAU0zNC" text="Jeden moudrý král kdysi řekl: Žádám od svých generálů jen to, aby měli štěstí. Dobrý den, madam." />
+    <string id="o7gJN0Kk" text="Svého rozhodnutí nebudete litovat. Musím vás požádat o jednu věc - než vyjedete, potřebuji novou uzdu a sedlo. Záloha {NPCPAYMENT}{GOLD_ICON} by měla stačit." />
+    <string id="odwyvxY1" text="Skvělé. Mám ve vás plnou důvěru." />
+    <string id="OGNIl4xM" text="Nemám zájem o vaše služby." />
+    <string id="OGqp7v0p" text="Chápu. Co se tu stalo?" />
+    <string id="on8y3fa6" text="Ale dejme tomu, že bych našel ambiciózního mladého kapitána - možná někoho, jako jsi ty, někoho, kdo potřebuje strhnout dav nebo někdy nadchnout vojáky. Počítám, že bych s takovým kapitánem mohl cestovat - samozřejmě sdílet všechny bitvy a útrapy cesty - a možná ho naučit něco z toho, co umím." />
+    <string id="ovC1Sdix" text="Velmi dobře. Jednu věc ti mohu slíbit, a to spoustu bojů." />
+    <string id="OVCdGjpT" text="Možná. Jaké dovednosti můžeš nabídnout?" />
+    <string id="oxNAJ1Ha" text="V tom případě půjdu obtěžovat někoho jiného." />
+    <string id="peDtXrrt" text="Promiňte mi to. Vidím věci, které ostatní nevidí. Duchové z jiného světa, kteří na krátký okamžik přecházejí do našeho světa. Omlouvám se - vím, že je to pro mé okolí znepokojující. Ale musím jim věnovat pozornost." />
+    <string id="PeWH4UqF" text="Pokud se mi podaří připojit se k nějaké skupině, jako je ta vaše, nejspíš nebudou žádné potíže. Nemám nic, čím bych vám mohl zaplatit, ale kdybyste mi dovolil odpracovat si případný dluh, byl bych vám vděčný." />
+    <string id="pgoFlK3o" text="Každopádně jsem se odtamtud dostal, když se tam ještě potáceli s kbelíkem a mopem. Ale pokud dojde k vyšetřování a lidé začnou hledat viníka, no, pravděpodobně se rozhodnou ukázat prstem na externího dodavatele. Takže by mi nevadilo, kdybych se dostal z města pryč." />
+    <string id="PktncYtr" text="Znám takové, kteří nejsou, ty, co vám vypálí vesnici. Tvůj typ, jak tak na tebe koukám." />
+    <string id="plzerw4U" text="Jestli to srážíš, tak já nejsem jen jeden z nejlepších - já jsem nejlepší. Dělám beranidla, miny a samozřejmě katapulty. Torzní a protizávaží. Můžeš se zeptat kteréhokoli kastelána v kterémkoli městě Kalradie... No, možná by bylo lepší neptat se v tomto městě, ale v jakémkoli jiném městě v Kalrádii." />
+    <string id="pQfiRC55" text="Vezmu kohokoli, ať už je označen vílou, nebo ne, pokud dokáže udržet místo v bojové linii." />
+    <string id="pVSiRbni" text="Omlouvám se. Už dlouho jsem s nikým tak dlouze nemluvil. Myslím, že je to tím vínem. To mi stouplo do hlavy. Už tři roky žiju v lese, kde mi dělají společnost jen vlci." />
+    <string id="pyz3ruTU" text="To je od tebe hezké, že mi to říkáš. Jaké dovednosti bys mohl přinést do mé společnosti?" />
+    <string id="pZhCmnEO" text="Můj otec byl služebníkem fen Uvain. V patnácti letech bylo jasné, že jako cvičitel koní nemám sobě rovného. Melidir fen Uvain mi učinil nabídku. tři roky u něj sloužím a oni mi dají k dispozici celé stádo. Na konci třetího roku, když jsem si měl vyzvednout odměnu, mi Melidirův stájník řekl, že právě daroval všechny koně ze stáda svému synovi. Kdybych chtěl, mohl bych si vzít kozu." />
+    <string id="QAuX5fN4" text="Vezmi si mě teď a můžeš mít mé služby za zlomek jejich ceny. Věř mi, že ve tvém oboru není větších výdajů než zdlouhavé obléhání. Pokud nerad piješ špinavou vodu a nedřepíš v bahnitých příkopech, najmout si mě je příležitost, kterou si nemůžeš dovolit propásnout." />
+    <string id="qCdrnUWP" text="No, byl jsem nucen vytáhnout meč a trochu pořezat jeho muže, než jsem zmizel za zdí. Ale jeho hostům jsem zanechal opravdu nezapomenutelnou zábavu a jemu příběh, díky kterému se nepochybně stane ozdobou mnoha příštích večírků." />
+    <string id="qEsEzBME" text="Hmm. Mohlo by mě to zajímat. Co mi můžeš nabídnout?" />
+    <string id="QNVJgFbF" text="Můžu vám říct, že to bylo únavné, být obviněn z kacířství kacířem, zatímco ve dne žijeme z darů a v noci se schováváme v živém plotě, aby místní šlechtu neomrzelo, že přemlouváme jejich nájemníky ke svaté chudobě. Řekl jsem Perfektovi, že chci přinést naše poselství do měst, a on mi dal svolení, abych sem přišel, ale myslím, že jsem trochu zabloudil." />
+    <string id="QQN2906x" text="Nech mě o tom trochu přemýšlet." />
+    <string id="qrfeidLk" text="Dobře. Na tvé zdraví." />
+    <string id="R0oKayMF" text="Jestli jsi poutník, jak říkáš, možná by mi prospělo, kdybych šel s tebou a posbíral co nejvíc příběhů. Možná bych vám skutečně mohl nějak pomoci." />
+    <string id="r7P5d97H" text="Zdravím tě, cizinče. Hledáš někoho, kdo by za tebe prolil krev?" />
+    <string id="rmX5ufHr" text="Možná mířím mimo město. Řekni mi o sobě něco víc." />
+    <string id="rNkwrwo4" text="Obviňuji Arenikose a jeho takzvané reformy. Zachránilo mu to stříbro, ale teď jsou naše armády jen rozhárané družiny lordů - poskoci, sedláci, kteří nemají na bojišti co pohledávat, pár dobrých mužů, ale ne dost. Chybí hrdost a disciplína. Není divu, že se v těchto dnech hádáme mezi sebou a vysmívají se nám barbaři, kterým jsme kdysi vládli." />
+    <string id="RsCPQ167" text="Moji rodiče se do Baravenusu přistěhovali jako uprchlíci před nájezdy Sturgianů a já jsem začal dělat poslíčky pro obchodníky. Někteří z nich rádi dostávají zboží do města nebo z města, aniž by museli projít branou - možná jim nevadí platit clo, nebo je možná původní majitel zboží někde hledá." />
+    <string id="RTNL9zYa" text="Když o tom tak přemýšlím, byl jsi chvíli sám. Možná bys ještě neměl vstupovat do společnosti." />
+    <string id="RUu7rzvX" text="Dobře. Člověk, který se vyzná v koních, je vždycky vítán. Platím každý týden, ne po třech letech." />
+    <string id="RZZXKFvd" text="Vlastně mě víc zajímají šarvátky." />
+    <string id="s0TgECe7" text="Dobrý den. Přijď ještě blíž a vrazím ti nůž do břicha, ale jestli zůstaneš, kde jsi, nevidím důvod, proč si příjemně nepopovídat." />
+    <string id="s0Yanm4a" text="Velmi dobře. Požádal bych o {NPCPAYMENT}{GOLD_ICON} předem. Zabíjím ty, kdo mě podvádějí, a potom může být těžké vybrat platbu." />
+    <string id="s1cAUzB7" text="Bohužel jsem měl větší štěstí, když jsem koně bral, než když jsem si je nechával. A jestli v tom budu pokračovat, dřív nebo později asi skončím v oprátce. Sto koní je přece dost dobrý bod na to, aby člověk skončil, ne? Musím si hledat poctivou práci. Předpokládám, že žádnou takovou práci nemáte?" />
+    <string id="scmsbgrX" text="Počkej! Ticho! Vyděsíte ho! Ach... To je jedno. Je pryč." />
+    <string id="SjQiHp6W" text="Nejsem si jistý, jestli jste to, co hledám..." />
+    <string id="SPp4OsPO" text="Lath je v pořádku. Není třeba mluvit s hyenami. Co děláš ty?" />
+    <string id="sQgZR0dA" text="Příteli, proč by člověk neměl jíst to nejlepší jídlo ze zlatých talířů, když na to má rozum? I když se přiznám, že už jsem z toho všeho trochu otrávený a možná bych uvítal změnu tempa." />
+    <string id="sRxN3IyF" text="Než se mnou promluvíš, věz, že jsem v kletbě." />
+    <string id="SVOylcqx" text="Pokud se vyznáš v karavanech, možná pro tebe budu mít nějakou práci." />
+    <string id="swaLbjD1" text="Důležitější je, že bych měl jít dál. Nepředpokládám, že byste měl zájem o mé schopnosti a znalosti? Znám zadní vrátka do každého města ve východní polovině Kalradie nebo správného strážce, kterého lze podplatit." />
+    <string id="T8egZl6T" text="Ano. Prosím, pokračujte." />
+    <string id="TaDaCPb8" text="Nechtěl jsem slyšet tvůj příběh. Mám jinou práci." />
+    <string id="teLnMBXG" text="Mám rád, když jsou moji muži agresivní, ale jsou tu určité hranice. Dobrý den, pane." />
+    <string id="tEw3TwnM" text="To je od něj neomalenost! Co se stalo potom?" />
+    <string id="TGYJUUn0" text="Pokračujte." />
+    <string id="TMLpc1mq" text="Takže se živíte tím, že se vkrádáte na cizí večeře, jak vidím. Ale zdá se, že máte užitečné schopnosti." />
+    <string id="TnVIWrof" text="Vypadá to, že máš správný přístup. Povězte mi o sobě víc." />
+    <string id="u8N37fgb" text="Tragický příběh, má paní. Prosím, pokračujte." />
+    <string id="UhEt737M" text="To jsem udělala já. No, byl to risk - ale promyšlený. Pokud jste ochotna vyslechnout si můj příběh, uvítám možnost zbavit se svého trápení." />
+    <string id="UlsvDHLV" text="Ach, škoda. Kdybyste byl rodák z Kalradie, velmi by mě zajímal váš původ a některé podrobnosti o místě vašeho narození. Sbírám poznámky o rodech této země, a to jak o velkých císařských rodech, tak o našich barbarských bratrech." />
+    <string id="unbf7266" text="Přišel jsem se napít, ne si povídat, takže ať už chceš říct cokoli, radil bych ti, abys to řekl někomu jinému. Pokud tedy nemáš nějaký boj, který je třeba vybojovat." />
+    <string id="UpEItRrJ" text="Haló? Haló? Vypadáš, jako bys zíral přímo skrz mě." />
+    <string id="Upr8OV6G" text="Omlouvám se, madam. Prosím, pokračujte." />
+    <string id="UYmAp92Q" text="Na oplátku vám slibuji, že do každé bitvy půjdu jako první. Také hodně křičím. Uvidíte, že to ostatní povzbudí. Máme dohodu?" />
+    <string id="v2664Qeo" text="..." />
+    <string id="v86ZaoFv" text="Myslím, že ztrácíte čas, madam. Dobrý den." />
+    <string id="VC5CkkUD" text="To je velmi působivé! Tedy z technického hlediska." />
+    <string id="VDssJwd4" text="Dobrý pokus, cizinče. To není druhá polovina toho slova. Ale nevypadáte jako městská hlídka, takže to trochu risknu a na něco se vás zeptám." />
+    <string id="vGokzhrp" text="Aha, ano. To vskutku ano." />
+    <string id="vl7wgzIg" text="Jsem Tabur, syn Alqanův. Nepoznáváš to jméno? No, možná se pohybujeme v jiných kruzích. Každý znalec večeří, vína, kurtizán a poezie by o mně nepochybně slyšel." />
+    <string id="vm7V0Il5" text="No, na takové věci nevěřil, a tak se zasmál, hodil jí pár mincí a poslal ji na cestu. Vyrostl jsem. Když byl můj první nápadník v bitvě probodnut kopím, zarmoutila jsem se, ale moc jsem na to nemyslela. Když můj druhý nápadník zemřel na horečku, znervózněla jsem. Když byl můj třetí nápadník na lovu shozen z koně, věděla jsem, že musím něco udělat." />
+    <string id="vp24haLz" text="Počítej se štěstím, že zrovna nevolám hlídku. Přeji vám hezký den." />
+    <string id="vqC3imQv" text="Rabble? Barbaři? To jsou moji přátelé, o kterých mluvíš!" />
+    <string id="vT1fdgss" text="Spíš mistr prázdných řečí. Dobrý den, pane." />
+    <string id="vuiCGQpZ" text="Už není co říct. Můj pán byl zhýralé zvíře, ale nechal mi malý podíl z výhry a nakonec si koupil svobodu. Myslím, že si také mohl uvědomit, že kdyby si mě nakonec nechal proti mé vůli, skončil by s přeťatou žilou na krku." />
+    <string id="vXvsnePq" text="Vidím tě, duchu! Co jsi mi přišel říct tentokrát?" />
+    <string id="vYY87DK9" text="Fah. Vlčí kůže jsou bohaté divoké děti, které si hrají na zvířata. V mé tlupě byl jeden, Deimul fen Gruffendoc, bratranec krále. Měl rychlý jazyk. Posmíval se mi při každé příležitosti. Byl jsem pomalý a nikdy mě nenapadlo, jak mu odpovědět. Jednou v noci jsem to už nevydržel. Vytáhl jsem nůž a poprali jsme se. Bodl jsem ho do stehna a nikdo nevěděl, jak zastavit krvácení, takže vykrvácel." />
+    <string id="vzfZyIfy" text="Jistě. Velmi rozumné opatření." />
+    <string id="wd4BBrTY" text="Protože jsem propil všechno stříbro, co jsem měl v kapse, a mám zase žízeň. Protože už je to příliš dlouho, co jsem se oháněl mečem, a trochu mě svědí ruka. Protože když jednou za pár týdnů nezabiješ člověka, lidé zapomenou, co jsi zač. Tady. Potřebuješ jen jeden důvod, a já ti právě dávám tři." />
+    <string id="Wnt5Ngzr" text="Zdravím vás, {?PLAYER.GENDER}madam{?}sir{\?}. Nemáte náhodou zájem o inženýra?" />
+    <string id="WQCAanal" text="Ach, ty staré časy. A nepochybně si tehdy stěžovali na starší časy. Už jsem toho slyšel dost." />
+    <string id="WYri5sav" text="Dobrý den, cizinče. Kočka chodí po tichých tlapkách." />
+    <string id="WzyHzNW3" text="Skvělé, {?PLAYER.GENDER}madam{?}sir{\?}! Je tu ještě jedna malá laskavost. V tomto městě jsem nadělal několik dluhů, většinou kvůli rozlévání vína na knihy. Chtěl bych požádat o zálohu {NPCPAYMENT}na svůj plat." />
+    <string id="XAbqJNk5" text="Císař Arenicos byl k mým nápadům velmi vstřícný a povolil mi doprovázet jeho vojska. Ale od té doby, co začala tato občanská válka, jsou velitelé velmi ostražití - obávají se, že bych mohl být špehem jedné nebo druhé strany. Musel jsem trávit čas v knihovně, a ne v terénu, což mě velmi odrazuje." />
+    <string id="XHCxDciV" text="Doufám, že jsem vám objasnil, o co mi jde." />
+    <string id="Xi0A9Bb8" text="Nicméně ačkoli je poušť štědrá, koně a ocel je třeba kupovat za stříbro. Chci vám tedy oznámit, že mé služby jsou k pronájmu." />
+    <string id="XJZ9XV1U" text="V tuto chvíli ne, madam. Přeji vám dobrý den." />
+    <string id="xlJEkqH9" text="Mám v úmyslu najít kapitána společnosti, který mě přijme jako učedníka. Poté se naučím válečnému umění, vytvořím vlastní družinu a zahanbím tak muže v říši, aby získali zpět svou ztracenou mužnost." />
+    <string id="xpGLd7Co" text="Obávám se, že ne, má paní. Měla bys raději odejít." />
+    <string id="XUqko0Fo" text="[co neudělá]" />
+    <string id="xxaOegyt" text="Hm, ale nosí v tlamě velkého ptáka?" />
+    <string id="Xxmiytv0" text="Do lesa občas přicházely hlídky a lovecké výpravy. Mohl bych kolem nich běhat a oni by ani nevěděli, že tam jsem." />
+    <string id="Y1R0x220" text="To je od nich směšné..." />
+    <string id="Y7elloP2" text="Uh, no, já bych mohl. Proč bys za mě chtěl bojovat?" />
+    <string id="YBtDZuCL" text="Výborně. Chtěl bych zálohu, už jen proto, že budu potřebovat vyčistit své vybavení. Řekněme {NPCPAYMENT}?" />
+    <string id="yczuEk0C" text=" Bojoval, aby zabil, ale já byl rychlejší a zabil jsem ho. Necítím žádnou lítost. Každý, kdo si myslí, že může se štítonoškou zacházet jako s movitým majetkem, ať zváží svůj osud." />
+    <string id="yjkGHRkA" text="Pro učence je to asi zajímavé, ale pro mě ne. Dobrý den." />
+    <string id="ySwWQmYW" text="Poslední věc, kterou chci, má paní, je, aby mě někdo viděl, jak s vámi mluvím." />
+    <string id="yTnm04Hh" text="Mohu si dovolit zaplatit {NPCPAYMENT}{GOLD_ICON} dináry. Připravte se." />
+    <string id="YWQTQ5OH" text="Máš moje vlasy na hlavě. Dobrý den, pane." />
+    <string id="yYHCwEeo" text="I teď mám pocit, že jsem udělal moudré rozhodnutí, když jsem koupil pepř - moudré, ale nešťastné. Takové je štěstí! Kdybych se nechopila příležitosti, ostatní obchodníci by se mi posmívali, že jsem příliš plachá žena, než abych uspěla v mužském řemesle. Teď mi nadávají, že jsem zbrklá žena, které chybí mužský úsudek." />
+    <string id="Z3b8jrxn" text="Začala jsem se s nimi stýkat poté, co zmizela moje matka. Nejdřív jsme si mysleli, že ji unesli nájezdníci nebo vlci. Takový je život ve stepi, kde jsme žili. Ale duchové mi řekli, že matku nikdo neunesl, že odešla Níže, aby shromáždila duchy ostatních členů své rodiny. Musím být připraven provést obřad jejího návratu." />
+    <string id="zbji14tF" text="Jsem hledač a zvěd." />
+    <string id="ziu66P84" text="Budu stát tam, kde jsem. Tak proč tak přátelský pozdrav?" />
+    <string id="znWhtJxt" text="Vskutku to dělám. Věnuji pozornost zejména balení a nakládání. Je to jemné umění, které rozhoduje o tom, jak rychle se nákladní zvíře dokáže pohybovat, zda karavana jede rychle, nebo se věčně zastavuje, aby posbírala vysypaný náklad." />
+    <string id="ZO6PptgQ" text="Tady a tady. Do Kalradie jsem přijel nedávno." />
+    <string id="ZSR5CZxx" text="Tak dobře. Čím je dnešní den tak výjimečný?" />
+    <string id="zsXbMbnc" text="Mám jeden, a to mohu." />
+    <string id="zyBXzKZ6" text="Ahoj, cestovatelko. Poutník je požehnáním pro země, kterými prochází." />
+  </strings>
+</base>

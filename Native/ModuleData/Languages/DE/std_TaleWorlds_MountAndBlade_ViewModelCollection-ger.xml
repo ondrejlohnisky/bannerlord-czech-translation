@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="0Itt3bZM" text="Aktuální verze dokumentu s vazbami kláves je zastaralá. Vazby kláves byly vráceny na výchozí hodnoty." />
+    <string id="1hlaGzGI" text="Podívejte se na" />
+    <string id="1hnq3Kb1" text="Jste si jisti, že chcete obnovit všechny vlastnosti? Vaše změny budou ztraceny." />
+    <string id="2AGvFYk9" text="Abyste mohli zahájit misi, musíte mít alespoň jednu formaci s třídou {FORMATION_CLASS}." />
+    <string id="4gCU2ykB" text="Vraťte všechny klíče na výchozí hodnoty" />
+    <string id="5Ixsvn3s" text="Přepnout výsledkovou tabuli" />
+    <string id="5Xoilj6r" text="Vykřikněte" />
+    <string id="61isYVW0" text="Hráč {USER_NAME} nebyl nalezen" />
+    <string id="6syoutpV" text="Z {WHISPER_TARGET}" />
+    <string id="74PKmRWJ" text="Přehodit vlasy" />
+    <string id="76VR5o8h" text="Před odesláním další zprávy musíte počkat {SECONDS} sekund." />
+    <string id="7jhe9cT9" text="Pro změnu typu této formace musíte mít alespoň jednu další formaci tohoto typu." />
+    <string id="7XtICVeZ" text="Zorné pole" />
+    <string id="82LuSDnd" text="Rychlý pohyb kurzoru doleva" />
+    <string id="ADKHovtz" text="Obnovit rozmístění" />
+    <string id="ApD0xQXT" text="{STR1}: {STR2}" />
+    <string id="atUHbDeM" text="Otočení kamery na mapě" />
+    <string id="b1DHZsaH" text="Nyní nelze vydat příkaz." />
+    <string id="BANC61K5" text="Předchozí postava" />
+    <string id="bIcFZT6L" text="Typ obočí" />
+    <string id="bLPSaLNv" text="Rychlý pohyb kurzoru doprava" />
+    <string id="bsiRNJtk" text="{NAME}:" />
+    <string id="CCBcdzGa" text="Tím se obnoví výchozí stav VŠECH možností této kategorie. Tuto akci nebude možné vrátit zpět. {newline} {newline}Jste si jisti?" />
+    <string id="cDzWYQrz" text="Obnovit výchozí nastavení?" />
+    <string id="cLJdeUWz" text="Výška:" />
+    <string id="cZNA5Z6l" text="Formation {NUMBER}" />
+    <string id="D0TbQm4r" text="BREACHED" />
+    <string id="d1tCz15N" text="Podržte pro pokles" />
+    <string id="d5SNB0HV" text="Vybrat {ITEM_NAME}" />
+    <string id="Dhb2N5JD" text="Stisknutím tlačítka {KEY} procházejte kanály" />
+    <string id="DmaP2qaR" text="Typ kůže" />
+    <string id="DQvGNQ0g" text="Pod příkazem není žádná jednotka." />
+    <string id="DvnRkWQg" text="Převést jednotky na {FORMATION_INDEX}" />
+    <string id="eeJcVeQG" text="Konec soustředění" />
+    <string id="eGuQKRhb" text="Opouštíte oblast!" />
+    <string id="EmVbbIUc" text="Návrat" />
+    <string id="EUAKPHek" text="Tělo:" />
+    <string id="f64QfbTO" text="{KEY} odeslat" />
+    <string id="fM9E7frB" text="Výkon" />
+    <string id="FRSGOfUJ" text="Přepnout zahrnout bojový deník" />
+    <string id="FTXx0aRp" text="Hrát jako" />
+    <string id="FvYhaE3z" text="Znak" />
+    <string id="G6hYIR5k" text="Hloubka hlasu:" />
+    <string id="gamepadActionKeybind" text="Akce" />
+    <string id="gamepadMapKeybind" text="Mapa" />
+    <string id="gamevideo" text="Video" />
+    <string id="GMhOZGnb" text="Nelze vydat příkaz, když je mrtvý." />
+    <string id="H1emUb6k" text="Věk:" />
+    <string id="hdGay8xc" text="Přesun kurzoru na mapě" />
+    <string id="HEEZhL90" text="Stiskněte pro vybavení" />
+    <string id="HH7LDwlK" text="Přepínání rychlého posunu vpřed" />
+    <string id="hiKTvBgF" text="Opravdu chcete resetovat změny provedené na této kartě? Vaše změny budou ztraceny." />
+    <string id="i0esOr2l" text="Velitel není namontován!" />
+    <string id="i28Kjuay" text="Přesunout postavu" />
+    <string id="i4Oo6aoM" text="Stahování obsahu..." />
+    <string id="iPx4jep6" text="Expozice" />
+    <string id="j5pLIV91" text="Spuštění zaostřování" />
+    <string id="jR237DSU" text="Velitel je namontován!" />
+    <string id="jS5rrX8M" text="Neexistují žádné změny, které by bylo třeba aplikovat." />
+    <string id="KxH4VVU3" text="Taunt" />
+    <string id="l2CNxPXG" text="Typ zubů" />
+    <string id="lCZMJt2k" text="Možnosti videa byly změněny" />
+    <string id="LlrlE199" text="Stále můžete nasadit obléhací stroje.Stejně začnete?" />
+    <string id="macpKFaG" text="Hlas" />
+    <string id="mAxXKaXp" text="Obnovit" />
+    <string id="MceLT3Zg" text="Bezdrátový ovladač" />
+    <string id="meFS5F4V" text="-{DAMAGE}" />
+    <string id="mPCrz4rs" text="Zablokuje procentuální podíl vojáků před relativními změnami." />
+    <string id="MssTzJJb" text="Přiřadit jako velitele" />
+    <string id="mueocuFG" text="Zobrazit indikátory" />
+    <string id="nEpZvaEl" text="Rychlý posun kurzoru dolů" />
+    <string id="ngyMTaqr" text="Přiřadit jako jednotku hrdiny" />
+    <string id="Npqlj5Ln" text="Vrátit změny" />
+    <string id="NuMQvQxg" text="Výkřiky" />
+    <string id="ou5KJERr" text="Stisknutím {KEY} skryjete" />
+    <string id="oZc8oEAP" text="Obnovení výchozího nastavení této kategorie" />
+    <string id="P3IWytsr" text="Formace je v současné době prázdná" />
+    <string id="peUP9ZZj" text="Jste si jisti? Provedli jste nějaké změny a ty se ztratí." />
+    <string id="photomodefocus" text="Zaměření" />
+    <string id="pK4EyTZC" text="Chcete tato nastavení zachovat?" />
+    <string id="qmNeO8FG" text="Vazby kláves" />
+    <string id="qnxJYAs7" text="Party" />
+    <string id="qXxpITdc" text="Barva očí:" />
+    <string id="RVIKFCno" text="Obnovit výchozí nastavení" />
+    <string id="rx18kyZb" text="Bojový protokol" />
+    <string id="s6qslcQY" text="{PERCENTAGE} ({TROOP_COUNT}/{TOTAL_TROOP_COUNT})" />
+    <string id="Sbb8YcJM" text="Zrušení výběru všech vybraných hrdinů" />
+    <string id="scnSXrYC" text="Nositelé praporu" />
+    <string id="SfsnlbyK" text="Aplikované změny." />
+    <string id="SLY8z9fP" text="Všechny formace jsou vybrány!" />
+    <string id="SQpGQzTI" text="Ovladač" />
+    <string id="suyl7WWa" text="Není vybaven žádným praporem" />
+    <string id="SYYOSOoa" text="Připraveno" />
+    <string id="TxphX8Uk" text="Nasazení" />
+    <string id="U1rHNqOk" text="{KEY} pro zrušení" />
+    <string id="u78WUP9W" text="Rychlý pohyb kurzoru nahoru" />
+    <string id="VyMD4iRV" text="Jednotky hrdinů" />
+    <string id="wubDWOlh" text="Vyberte profil" />
+    <string id="xTv4tCbZ" text="Všichni! Poslouchejte mě" />
+    <string id="YjbNtFcw" text="Tím se obnoví výchozí stavy VŠECH kláves. Tuto akci nebude možné vrátit zpět. {newline} {newline}Jste si jistý?" />
+    <string id="yRIPADWl" text="{TROOP_COUNT}/{TOTAL_TROOP_COUNT}" />
+    <string id="YwbymaBc" text="Vyberte všechny hrdiny" />
+    <string id="zBld61ck" text="Hmotnost:" />
+    <string id="ZixS1b4u" text="Tuto bitvu nevedete." />
+    <string id="zjcZZgUY" text="Efekt praporu" />
+    <string id="znKxunbQ" text="Další postava" />
+  </strings>
+</base>

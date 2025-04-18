@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="0m0IUnL1" text="fen Uvain" />
+    <string id="0u8ipbgn" text="Kmeny známé jako Lesní lidé provozují v hlubokých lesích, mimo dosah sturgiánských bojarů, podloudné zemědělství. Vypalují pásy stromů, na panenské půdě pohnojené popelem pěstují plodiny několik let, dokud se půda nevyčerpá, a jdou dál. Je to neefektivní využití půdy, ale velmi efektivní využití pracovní síly, vhodné pro početně malou populaci na velkém území. Také proto, že pozemky se těžko vyměřují a zdaňují, je to velmi dobrá strategie pro lidi, kteří nestojí o to, aby jim někdo vládl." />
+    <string id="14GLGKNj" text="fen Caernacht" />
+    <string id="3o5s6L3y" text="dey Meroc" />
+    <string id="4Dbwdjbe" text="Hongeros" />
+    <string id="4rr3d8hY" text="Dolentos" />
+    <string id="4TiYXBqK" text="Ghilmani jsou skupina žoldnéřů, kteří se rekrutují z kmenů jižní Kalradie a zemí na východě. Právně jsou svými vlastními otroky i pány: každý se prodává řádu a tím se stává jeho spoluvlastníkem. Jsou známí svými skvělými koňmi a pěkným oblečením. Podle jejich naolejovaných kadeří, parfémů a pavích per by však nikdo neměl usuzovat, že tráví více času předváděním než výcvikem. Jako jízdní lučištníci nemají konkurenci a jako kopiníci jsou těsně za Vlandiany a císařskými katafrakty." />
+    <string id="6BvGhzao" text="Karakhergit" />
+    <string id="6OEQJV6k" text="Julios" />
+    <string id="7bhNgOKd" text="Vlčí kůže jsou dědici dlouhé tradice v battanských zemích, kdy se bojovníci ve výcviku po část svého mládí vydávají na divokou cestu, kde se učí způsobům života v lesích a snášení útrap. Dokud vlčí kůže nenosí sešité oblečení, nejí vařené jídlo a nespí pod střechou, je imunní vůči lidským zákonům. Ve skutečnosti jsou moderní vlčí kůže většinou synové bohatých rodin, kteří se na pár let oddávají své divoké stránce, okrádají pocestné a žijí krutě a nemusí se nutně držet starého zákoníku." />
+    <string id="7k9izAvC" text="Skolderbroda" />
+    <string id="7WL1LWdf" text="Jezerní krysy" />
+    <string id="8Wi66Sp2" text="Prienicos" />
+    <string id="9NWQNInC" text="dey Molarn" />
+    <string id="9ORFG9l4" text="Chonis" />
+    <string id="9qAUWcfa" text="dey Gunric" />
+    <string id="9qAWNBvA" text="Eleftheroi, svobodný lid, žije ve stepích na okraji říše. Původně potomci uprchlých otroků a dlužníků se brzy stali vysoce ceněnými místními císařskými veliteli pro své znalosti této hraniční oblasti. Jejich vůdcům byly uděleny tituly, jejich mladí muži byli přijati do družin archontů a císařů. Ale přestože jsou nyní velmi loajální k myšlence impéria, zůstávají vůči jeho skutečné moci značně nepřátelští." />
+    <string id="9Y1u2onl" text="Banu Hulyan" />
+    <string id="9ZEdEWmi" text="Jezerní krysy žijí v bažinách na břehu velkého severního jezera v chatrčích z trámů zničených lodí. Živí se ztroskotáváním, tj. lákáním lodí na mělčiny pomocí falešných majáků a majáčků. Protože jimi zbytek Kalradie opovrhuje - všichni jsou zločinci, páchnou bahenním plynem, bahnem a zkaženými rybami -, oplácejí to všem ostatním. Ačkoli jsou většinou Sturgiany, jejich řady se rozrostly o uprchlíky, dlužníky a všechny ostatní, kteří raději žijí podle zlodějského kodexu než podle zákonů šlechty." />
+    <string id="a4GxTbPD" text="Varros" />
+    <string id="A4wIVnM4" text="Gundaroving" />
+    <string id="a67wFbUw" text="fen Gruffendoc" />
+    <string id="Aft8nsgn" text="Banu Sarmal" />
+    <string id="ApJrV7bA" text="Sorados" />
+    <string id="AppNvfPv" text="Ormidoving" />
+    <string id="as2TiAIJ" text="Lesní bratrstvo" />
+    <string id="b6SEM6Ab" text="Koltit" />
+    <string id="B8c2mNKj" text="Zápalky plamene jsou potomci povstaleckého hnutí, které povstalo téměř před sto lety poté, co byl svatým, ale neúčinným mladistvým císařem Darusosem svržen jeden z jeho generálů. Tvrdí, že připravují cestu Nebesům, aby přivedli Darusose zpět a nastolili zlatý věk, ale stejně jako mnoho jiných povstaleckých hnutí v Kalradii byli nuceni obrátit se k vydírání, aby přežili." />
+    <string id="bhxVA9w7" text="Poslední legie vznikla poté, co císař Arenicos po bitvě u Pendraicu zrušil poslední stálé armády říše a místo toho se spolehl na soukromé družiny archontů, které byly podstatně levnější a lépe kontrolovaly území. Legie se skládá z mužů, kteří tuto změnu nesnášeli: milovali starou armádu, její standardy, historii jednotek a táborový život a viní nový systém ze zničení říše. Ale armáda nedrží pohromadě, pokud není pravidelně placena, a oni berou zakázky od císařských i cizích pánů." />
+    <string id="bjemmmcF" text="Corenios" />
+    <string id="bsPd5zri" text="Skolderbroda neboli Štítoví bratři jsou žoldnéřskou společností pro válečníky, kteří berou boj a výcvik velmi vážně. Jsou převážně severští, ale připouštějí i rekruty z jiných kultur, pokud se za ně zaručí již sloužící Štítový bratr. Jejich pravidla jsou téměř mnišská: v jejich táborech nejsou žádné ženy, žádné zábavy a žádný z Bratrů nesmí bez povolení přenocovat venku. V boji bojují kopím a sekerou v severském stylu a jsou ceněni všemi šlechtickými rody na severu." />
+    <string id="BxCRDt5m" text="Vizartos" />
+    <string id="cd0yDTM1" text="Lonalion" />
+    <string id="CibaXzG8" text="Phalentes" />
+    <string id="CRSFOSil" text="Urkhunait" />
+    <string id="CS4rSk99" text="dey Cortain" />
+    <string id="cYTdzMQ4" text="Oburit" />
+    <string id="DeSGiCgF" text="dey Rothad" />
+    <string id="dRaYhQva" text="Původ Beni Zilal, Synů stínů, je opředen legendami. Mnohé z nich vyprávějí o mesiášském kazateli, který vládl z citadely hluboko v poušti, okouzloval své stoupence pomocí halucinogenních bylin a terorizoval aserskou šlechtu hrozbou vraždy. Bez ohledu na to, kolik pravdy tyto příběhy obsahují, je toto bratrstvo nyní mocnou institucí v hlubokých končinách Nahasy, vybírá peníze za ochranu od karavan projíždějících jeho územím a uzavírá dohody s místními potentáty, zatímco čeká na den, kdy bude moci odhalit své karty otevřeněji." />
+    <string id="Ds2vQVwr" text="Avlonos" />
+    <string id="eC6qIOzz" text="Eleftheroi" />
+    <string id="EnZHNc2k" text="Isyaroving" />
+    <string id="Eu932blQ" text="Kuloving" />
+    <string id="fvYgmrjG" text="Banu Sarran" />
+    <string id="fXENjJJL" text="Osticos" />
+    <string id="GCy0xb6U" text="Společnost" />
+    <string id="ghilmanClanName" text="Ghilman" />
+    <string id="gXeF1yKn" text="Harfit" />
+    <string id="h7ujXmDx" text="Mestricaros" />
+    <string id="HMnHaJac" text="fen Morcar" />
+    <string id="hrWQWgaM" text="Pethros" />
+    <string id="j3KtHQzn" text="Ruka" />
+    <string id="k3djFmuO" text="fen Penraic" />
+    <string id="kbGk2so8" text="Baltait" />
+    <string id="khnadIv1" text="Bratrstvo" />
+    <string id="l6JtB97p" text="Banu Atij" />
+    <string id="LqTTchsa" text="Legie zrazených" />
+    <string id="LTWTTQ71" text="Palladios" />
+    <string id="lUfFxWlk" text="Banu Qaraz" />
+    <string id="LygSwU3i" text="dey Jelind" />
+    <string id="LZVzzczs" text="dey Fortes" />
+    <string id="m0teef5g" text="Tigrit" />
+    <string id="mddbprXj" text="Vagiroving" />
+    <string id="mpjp1MT2" text="dey Arromanc" />
+    <string id="mtZu1l2j" text="Embers of the Flame" />
+    <string id="MVHawAEp" text="Skrytá ruka" />
+    <string id="nclQqoam" text="Serapides" />
+    <string id="nh4Y3LOc" text="Vlčí kůže" />
+    <string id="NI1paia1" text="Banu Ruwaid" />
+    <string id="NObV048p" text="Beni Zilal" />
+    <string id="nQOf27Rx" text="Skrytá ruka je mafie, která ovládá venkovské oblasti a někdy i města na jihu říše. Prosperují tím, že jsou užiteční úřadům: potlačují nepokoje, umlčují nepohodlné kazatele a okrádají obchodníky, kteří konkurují jejich mecenášům. Mnozí z nich se vracejí mezi úctyhodným životem ve městech a zločineckým životem na venkově. Člen pobočníka může strávit dva nebo tři měsíce v roce v horách jako lupič a pak se vrátit do města, aby pracoval jako vymahač a obchodník s kradeným zbožím, protože dobře ví, že se ho nikdo nebude příliš vyptávat." />
+    <string id="o0Xm5Rqk" text="Playerland" />
+    <string id="o4wKMT9x" text="Banu Habbab" />
+    <string id="o7ud4X2X" text="Lesní lidé" />
+    <string id="ObBvcDhJ" text="fen Giall" />
+    <string id="OVQoC9fn" text="Comnos" />
+    <string id="pdz4YsEf" text="Maneolis" />
+    <string id="Q1nAHnV7" text="Khergit" />
+    <string id="qFntgcGy" text="dey Tihr" />
+    <string id="qoLWSdRE" text="fen Eingal" />
+    <string id="RWOYui01" text="Jawwal neboli Tuláci jsou hlavní beduínskou konfederací v poušti Nahasa. Putují z náhorních planin do nížinných pastvin a za své území prohlašují obrovské plochy pouště, na nichž musí každá karavana nabídnout peníze za ochranu. Skládají básně o svých činech a vysmívají se ostatním klanům Banu Asera za to, že se vzdali svobody černých vlněných stanů a vyměnili je za kamenné domy v oázách. Ostatní klany je považují za vychloubačné otravy, i když je neochotně respektují jako ochránce starých aserských zvyků." />
+    <string id="s0AVQCbJ" text="Togaroving" />
+    <string id="SCTf5cay" text="Vatatzes" />
+    <string id="Ssl38GEF" text="Legie" />
+    <string id="tA3IRBgv" text="Impestores" />
+    <string id="tae3lhXh" text="Družina jsou Vlandiáni, většinou místní levité, kteří se špatně přizpůsobují mírovým časům a kteří se rozhodli pro život v neustálé válce. Jsou to pravděpodobně nejméně disciplinovaní a nejvíce loupeživí kalradští žoldnéři, kteří jsou pohromou pro každý kousek krajiny, kde je jim dovoleno volně pobíhat. Přesto jako všichni žoldnéři vědí, že jejich budoucí výdělek závisí na jejich pověsti, a tak dodržují smlouvy a trénují své dovednosti, zejména zacházení s kuší, aby zajistili, že jejich zaměstnavatelé dostanou za své peníze odpovídající odměnu." />
+    <string id="tdGvElSy" text="Dionicos" />
+    <string id="txCNVmSV" text="Neretzes" />
+    <string id="UmVjzPI4" text="Společnost zlatého kance" />
+    <string id="UQHUu2bj" text="Leonipardes" />
+    <string id="UW8BjPXR" text="Argoros" />
+    <string id="vbLAA0RF" text="dey Valant" />
+    <string id="VpF6skYs" text="Arkit" />
+    <string id="W2HkbCeX" text="Ubroving" />
+    <string id="W9n5iPbB" text="Yanserit" />
+    <string id="wFR1ukg9" text="Banu Qild" />
+    <string id="WssI6mOE" text="Kostoroving" />
+    <string id="xahrUc5n" text="Lesní bratrstvo vzniklo jako vlandianské rolnické hnutí, které se skrývalo v lesích, okrádalo bohaté a rozdávalo chudým. Narazilo však na problémy, které by mohlo mít každé dlouhodobě působící povstalecké hnutí - potřebovalo zajistit stálý přísun potravin a také zajistit, aby se nikdo z chudých neodvážil vydělat si na ně udáním pytel mincí. Pomalu, ale jistě začalo využívat vydírání, teror a korupční dohody s místními úřady, aby přežilo, a začalo se jen málo lišit od jiných organizovaných banditských skupin v Kalrádii." />
+    <string id="xbkYPXCt" text="Vetranis" />
+    <string id="XJbDRBfd" text="Karakhergité jsou jedním z posledních kočovných klanů v západní stepi. Urchunští chánové se je pokoušeli přemluvit, aby se usadili, a nabízeli jim zemědělskou půdu a nevolníky výměnou za závazek platit daně a dodávat vojenské dávky, ale oni se tomu bránili. Ostatní klany se k nim chovají s kombinací závisti a opovržení. Se svými usedlými bratry obchodují a někdy se i sbližují, ale v omezené míře se věnují i únosům pro výkupné a přepadávání stád a vysmívají se těm, kteří by jim vyčítali, že pokračují ve starých hrdinských způsobech." />
+    <string id="xqkKtWqa" text="Elaches" />
+    <string id="xw0eTkkb" text="Vezhoving" />
+    <string id="yQcZrUYi" text="dey Folcun" />
+    <string id="zcLTthfN" text="Embers" />
+    <string id="zvas3ieB" text="fen Derngil" />
+    <string id="zY2TQC9t" text="Banu Arbas" />
+  </strings>
+</base>

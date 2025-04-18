@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="0qCWauna" text="10% bonus za úspěch" />
+    <string id="0yCa27tK" text="Podržením {LEAVE_AREA_KEY} můžete opustit aktuální oblast." />
+    <string id="19ofEN12" text="Možnost, že vy nebo ostatní hrdinové zemřete v bitvě." />
+    <string id="1xtmifKD" text="Vybraná úlitba / Zaplacená úlitba" />
+    <string id="2wiUtuu5" text="Splněné řemeslné zakázky" />
+    <string id="3Dhbg955" text="Celkové získané hodnocení zločinu" />
+    <string id="3GDgVYim" text="Přeběhlé nepřátelské klany" />
+    <string id="3kqjY7wD" text="Úspěšnost přesvědčování" />
+    <string id="4IZnbvlD" text="Baudein" />
+    <string id="4v3Lb6BU" text="Přednastavené obtížnosti" />
+    <string id="57QbB8cu" text="Dináry získané z daní" />
+    <string id="584IPqj2" text="Nejdražší vyrobená zbraň (název / hodnota)" />
+    <string id="5gLojbx4" text="Vyhrané turnaje" />
+    <string id="5x5qnXVG" text="5% bonus za úspěch" />
+    <string id="776J8Fng" text="Baldimos" />
+    <string id="7ZhNilg8" text="Snadné (5% bonus)" />
+    <string id="7ZOp7cg5" text="Dobyté hrady" />
+    <string id="8byRf9zO" text="Obecné" />
+    <string id="8eYtra7T" text="Určete obtížnost hry" />
+    <string id="9a6ZBSGw" text="Největší armáda vytvořená hráčem" />
+    <string id="9jSxo790" text="Realistické" />
+    <string id="9l5RgXiU" text="Zvolte, zda se na mapě kampaně budou vpravo zobrazovat oznámení o kruhové mapě." />
+    <string id="9WimyleE" text="Bitvy" />
+    <string id="aaEgGfCX" text="Žádní společníci se zabitím" />
+    <string id="APt3biyJ" text="Dny strávené jako vězeň" />
+    <string id="AQfVclN8" text="Cena" />
+    <string id="aWeYcDKm" text="Otevřít nabídku Cheat" />
+    <string id="AYOLqun4" text="Možnost smrti člena klanu v bitvách" />
+    <string id="b1h7b7oj" text="{BATTLES_WON}/{BATTLES_LOST}/{ALL_BATTLES}" />
+    <string id="B8qJSb66" text="Zajatí členové oddílu" />
+    <string id="bfiDLULr" text="Sníženo o 50 %" />
+    <string id="bLwIgxXa" text="Obtížnost náboru" />
+    <string id="BNynfsuy" text="Zničené nepřátelské klany" />
+    <string id="BskZLZRb" text="Vyberte, zda jsou hrdinové schopni stárnout a rozmnožovat se." />
+    <string id="btC3Y3hb" text="Tuto volbu nelze později změnit." />
+    <string id="bXifxuLd" text="Sníženo o 100 %" />
+    <string id="bZDU6SCU" text="Úmrtí hrdinů v boji" />
+    <string id="carorTAF" text="Sníženo na 2/3 (snadné)" />
+    <string id="CCFwzq24" text="Největší bitva vyhraná jako vůdce" />
+    <string id="cKOZjVU0" text="Žádné vyrobené předměty" />
+    <string id="cLHMjwb5" text="Vojáci zabiti nebo vyřazeni jako strana" />
+    <string id="cpWFA3dl" text="Zakázat smrt v bitvě pro hrdinu hráče" />
+    <string id="CQZJLWfw" text="U mistra turnaje si můžete obnovit své výhody... za správnou cenu." />
+    <string id="czU1QREp" text="Společník s nejvíce vyřešenými problémy" />
+    <string id="d4O49oLs" text="Bitvy(V/P/VŠE)" />
+    <string id="D9GkBqyW" text="Výcvikové pole můžete opustit podržením {LEAVE_KEY}{newline}Na mapu kampaně se můžete kdykoli vrátit." />
+    <string id="debaZA1j" text="Tuto možnost lze změnit pouze při vytváření postavy." />
+    <string id="DELVwiEM" text="Tira" />
+    <string id="DFMhzFGV" text="Mít v inventáři několik koní může značně urychlit vaši družinu, protože zvýší nosnost a pěšáci budou jezdit na náhradních koních. Smečkové koně a muly jsou však užiteční pouze pro přepravu nákladu." />
+    <string id="DV7u7B6A" text="Zajatí hrdinové" />
+    <string id="ehdBvNmN" text="Zakázat smrt v boji pro všechny hrdiny" />
+    <string id="EhELIf65" text="Teruin" />
+    <string id="fbaQp3ox" text="Povolte automatické přidělování perků pro členy vašeho klanu." />
+    <string id="fDQuQ8Ph" text="Přijatí zajatci" />
+    <string id="FiRWs5vF" text="Režim Ironman vás omezuje na jeden soubor s uložením a automaticky ukládá při ukončení hry." />
+    <string id="freebooterdifficulty" text="Začátečník" />
+    <string id="GbSZ3ZXh" text="Dináry získané z karavan" />
+    <string id="GCqWwDWg" text="Baladir" />
+    <string id="ggMFUCVT" text="Hrdinové zabiti v bitvách" />
+    <string id="GkTR3n2o" text="Odešli jste do výslužby." />
+    <string id="gRVHCPak" text="Resetujte všechny výukové programy" />
+    <string id="H9X6MFgL" text="Nejvyšší umístění v turnajovém žebříčku" />
+    <string id="hEYfasE1" text="Poměr obdrženého poškození vaší postavy." />
+    <string id="HHaRDiuO" text="Vojáci zabiti nebo vyřazeni osobně" />
+    <string id="hLijkSTy" text="Cheat Menu lze také aktivovat podržením Levý nárazník + pravý spouštěč + D-Pad dolů v mapě." />
+    <string id="HMFb1gaq" text="Rovnostářské" />
+    <string id="hR6Zo6pD" text="Oligarchický" />
+    <string id="HVrobtL5" text="Název nového království: {newline} - Nemůže obsahovat číslice.{newline} - Nesmí být delší než {MAX_LETTER_COUNT} znaky.{newline} - Nesmí být kratší než {MIN_LETTER_COUNT} znaků." />
+    <string id="HWNEo6pa" text="S tímto znakem se ještě nesetkáte." />
+    <string id="i6x93YjL" text="Cheat Menu lze také aktivovat podržením L1 + R2 + tlačítko dolů v mapě." />
+    <string id="IgeL6qHr" text="Poměr obdrženého poškození ke spojencům, kteří nejsou pod vaším velením." />
+    <string id="irBV6UE4" text="{MINUTE} {?IS_PLURAL}minutes{?}minute{\?}" />
+    <string id="ispBRM5j" text="Množství dodatečné šance na úspěch při přesvědčování." />
+    <string id="IWD56KMc" text="Rychlost pohybu po mapě" />
+    <string id="IzGEz5B0" text="Sníženo na 50 % (velmi snadné)" />
+    <string id="JbFRrjqM" text="Když se nacházíte ve scéně města nebo vesnice, při podržení {MISSION_INDICATORS_KEY} se zobrazí značky důležitých osob a zajímavých míst." />
+    <string id="jKn9B0bh" text="Dobyl jsi Calradii!" />
+    <string id="JMhKt2W1" text="Náročné" />
+    <string id="JR6UgiT1" text="Sníženo na 50 % (Snadné)" />
+    <string id="k4CF68S6" text="Zdržujeme se" />
+    <string id="k71J6bVH" text="Vítězství" />
+    <string id="KbPD5cEw" text="Sníženo na 1/3 (Velmi snadné)" />
+    <string id="KM7uAbL8" text="Poškození, které hráč obdržel" />
+    <string id="Kqkf6HBN" text="Žádní společníci s vyřešenými problémy" />
+    <string id="lfDzgLTa" text="{PROFESSION} v {LOCATION}" />
+    <string id="LfpteADn" text="Určete obtížnost bojové umělé inteligence." />
+    <string id="m0907jTh" text="Když se díváte na nápovědu, můžete stisknutím {EXTEND_KEY} zobrazit její rozšířenou verzi." />
+    <string id="M7HGkj18" text="Narozené děti" />
+    <string id="m7RFdwFt" text="Celkový počet získaných dinárů" />
+    <string id="mD89ih8N" text="Změna jména klanu" />
+    <string id="MMv0U5Yr" text="Bannerlord" />
+    <string id="MV0AR9XC" text="Množství dalších vojáků, které můžete rekrutovat z významných osobností." />
+    <string id="N4T1pPur" text="Množství bonusové rychlosti pohybu pro vaši družinu na mapě kampaně." />
+    <string id="N6fz1efb" text="Přeskočí tutoriál na začátku hry." />
+    <string id="NaMPa4ML" text="Autoritářský" />
+    <string id="nJefkQ3Z" text="Finance" />
+    <string id="NQfjuHcs" text="Získaný vliv" />
+    <string id="o81neN4A" text="Povolit narození a stárnutí" />
+    <string id="ob84Szvh" text="Sníženo na 25 % (velmi snadné)" />
+    <string id="Oea9a5nY" text="Přátelské jednotky obdržely poškození" />
+    <string id="oJBveifV" text="Výběrem předvolby obtížnosti změníte všechny možnosti obtížnosti." />
+    <string id="OKjjmsPq" text="Tato volba závisí na tom, zda je povolena volba {OPTION}." />
+    <string id="oo6qQsL9" text="Sníženo na 75 % (Snadné)" />
+    <string id="OPPcXXSJ" text="Povolit smrt v bitvě pro všechny hrdiny" />
+    <string id="opUBnFym" text="Terte" />
+    <string id="oUz16Nav" text="Obnovit výukový program" />
+    <string id="OXVO6LUN" text="Dináry získané z dílen" />
+    <string id="qc9Llr3x" text="Hrdina" />
+    <string id="QEjoqEe0" text="Doba hraní kampaně (Doba kampaně)" />
+    <string id="QZHSvGrD" text="Baldrim" />
+    <string id="QzmJL5I7" text="Snadné (1 navíc)" />
+    <string id="raD9MK3O" text="Obtížnost" />
+    <string id="ReNnVfEn" text="Změna názvu království" />
+    <string id="rweyNfS3" text="Vyčištěné úkryty" />
+    <string id="Rx13jX4M" text="Společník s největším počtem zabití" />
+    <string id="RZFAxCMp" text="Velmi snadné (10% bonus)" />
+    <string id="Sfd3aqia" text="Bandan" />
+    <string id="SFGwg8op" text="Počet odemčených dílků" />
+    <string id="sp8Kred0" text="Člen musí být v hráčově družině, aby mohl tuto akci provést." />
+    <string id="SrkDqNdb" text="Povolení vyskakovacích oken výukového programu" />
+    <string id="SrP38hbU" text="Počet najatých společníků" />
+    <string id="sYVFg9ai" text="Obtížnost bojové umělé inteligence" />
+    <string id="t47EzcbW" text="Povolit výukový program" />
+    <string id="TAgQrIxj" text="Vyrobené zbraně" />
+    <string id="taU38mMa" text="Doba hraní kampaně (v reálném světě)" />
+    <string id="Tv35SPaB" text="Dináry získané z výkupného" />
+    <string id="TyNDRFPg" text="Možnost, že členové vašeho klanu zemřou po sražení v bitvě." />
+    <string id="TZ9ugd1p" text="Automatické přidělování perků členům klanu" />
+    <string id="uBajEuVL" text="V herních oknech můžete otevřít položku encyklopedie pro daný předmět stisknutím {ENCYCLOPEDIA_SHORTCUT}. Toto funguje pro portréty jednotek, ikony měst a většinu dalších prvků." />
+    <string id="UcgNVM0P" text="Velmi snadné (2 navíc)" />
+    <string id="UfQotsfo" text="Hodnost #" />
+    <string id="uG2Alcat" text="Obtížnost hry" />
+    <string id="veterandifficulty" text="Veterán" />
+    <string id="vNLVkLT5" text="Režim Ironman" />
+    <string id="VRSsxx1g" text="Vyřešené problémy" />
+    <string id="WBkmgu69" text="Jednotky rekrutované z měst a vesnic" />
+    <string id="wip6jLEM" text="Poměr obdrženého poškození k vašim jednotkám." />
+    <string id="X7Xp9xGe" text="Tertha" />
+    <string id="XsIq2RFs" text="Baldim" />
+    <string id="Y0GDVFiN" text="Přepadené vesnice" />
+    <string id="YhwN5u7f" text="Váš klan již není!" />
+    <string id="yKJ9c8IV" text="Povolení oznámení o pravém kruhu na mapě" />
+    <string id="yLa9ftit" text="Nastaví časový interval mezi automatickými uloženími." />
+    <string id="YuNsJ7bD" text="Vyrábění" />
+    <string id="yvdQ9MD6" text="Terea" />
+    <string id="Z33uQl2f" text="Tarya" />
+    <string id="ZcyJePFm" text="Přátelské družiny obdržely poškození" />
+    <string id="ZWiFWA2W" text="Přeskočit hlavní příběhový tutoriál" />
+  </strings>
+</base>

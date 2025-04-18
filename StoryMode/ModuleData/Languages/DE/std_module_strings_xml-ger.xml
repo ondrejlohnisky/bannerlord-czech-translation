@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="0FQcVmYK" text="{newline}{newline}Otevřete nabídku rozkazů pomocí {HOLD_OPEN_ORDER_KEY} a nařiďte svým vojákům, aby vás následovali pomocí zkratek {FIRST_ORDER_CATEGORY_KEY} a {SECOND_ORDER_CATEGORY_KEY}, a pokuste se je napadnout v malých skupinkách." />
+    <string id="0FssY1wG" text="Na horní liště se zobrazují portréty důležitých NPC.{newline}{newline}Stiskněte {CONSOLE_ACTION_KEY}, když je kurzor na jejich portrétu, a v nabídce vyberte možnost mluvit." />
+    <string id="0NPZA7Ub" text="Řemeslné zakázky" />
+    <string id="0yLZL3Vz" text="V nabídce vpravo nahoře se zobrazují důležité osoby v aktuální lokaci. {newline}{newline}Stiskněte {CONSOLE_ACTION_KEY}, když je kurzor na portrétu náčelníka, a promluvte si s ním." />
+    <string id="1GgxLyhx" text="Encyklopedie království" />
+    <string id="1jggMDRI" text="Na této obrazovce můžete vyrábět různé zbraně pro sebe nebo plnit objednávky pro místní nehráčské postavy. K tomu musíte použít surové nebo rafinované suroviny, které můžete buď zakoupit, nebo vyrobit tavením zbraní, které máte u sebe. {newline}{newline}Za pomoci zvýrazněného tlačítka můžete změnit typ zbraně, kterou vyrábíte." />
+    <string id="1XkYGDEZ" text="Nabídka třídění vám umožní seřadit výsledky podle různých proměnných." />
+    <string id="3hfKI636" text="Encyklopedie klanů" />
+    <string id="3nilwlcM" text="Dostali jste se na stránku {TUTORIAL_SETTLEMENT_NAME}. Chcete-li prozkoumat toto místo, můžete vstoupit do osady stisknutím zvýrazněného tlačítka vlevo." />
+    <string id="3r0HfDMk" text="Přesunutí družiny provedete tak, že na mapě najedete na ukazatel a stisknete {CONSOLE_ACTION_KEY}. Tím zanecháte na cílovém místě značku - pokud jste ovšem nenajížděli na nepřístupné oblasti, jako jsou hory nebo moře. {newline}{newline}Vydejme se na {TUTORIAL_SETTLEMENT_NAME}!" />
+    <string id="3RqEmB15" text="Navigace po Kalrádii" />
+    <string id="3Y5dudW9" text="Alda" />
+    <string id="3YkpC9Nf" text="Položky můžete filtrovat pomocí tlačítek v horní části. Vyfiltrujte Různé." />
+    <string id="4JFfP1lt" text="Civilní vybavení" />
+    <string id="4kBdT24F" text="Nathanos" />
+    <string id="58IKj85P" text="S postavou můžete pohybovat:{newline}- Dopředu pomocí {FORWARD_KEY}{newline}- Dozadu pomocí {BACKWARDS_KEY}{newline}- Doleva pomocí {LEFT_KEY}{newline}- Doprava pomocí {RIGHT_KEY}{newline}{newline}Vyzkoušejte je všechny hned!" />
+    <string id="5bYwdRFs" text="Trénink s mečem" />
+    <string id="5M48atXU" text="Máte aktivní úkol! Více se o něm dozvíte, když kliknete na záznam o úkolu v levém dolním rohu obrazovky." />
+    <string id="5RSfkx7d" text="Shromáždění vaší armády může nějakou dobu trvat." />
+    <string id="6G8w1ZBv" text="Našel jsi prapor! Prapory jsou předměty, kterými mohou být hrdinové vybaveni a které poskytují významné bonusy formacím, které tito hrdinové vedou. Efekt praporu si můžete prohlédnout a zjistit, když na předmět praporu najedete kurzorem myši." />
+    <string id="77YzJbA2" text="Encyklopedie nabízí aktuální informace o osadách, hrdinech, klanech a frakcích. Výběrem kategorie zobrazíte obsah zařazený do dané kategorie." />
+    <string id="7kjdE4s2" text="Prapory" />
+    <string id="7xHMIZEP" text="Cvičný cíl" />
+    <string id="8UUV94Lq" text="Trénink na dálku" />
+    <string id="8YvBapxl" text="Varic" />
+    <string id="9aymfBBG" text="Získávání společníků" />
+    <string id="9Dpz9Emy" text="Tvůj bratr tě požádal, aby sis najal alespoň 4 muže, než se vydáš vstříc nájezdníkům.{newline}{newline}Vojáky si můžeš najmout ve vesnicích a městech stisknutím {CONSOLE_ACTION_KEY}, když je kurzor na tlačítku Nábor vojáků." />
+    <string id="9YqwNQPO" text="Výcvik jízdních oddílů" />
+    <string id="AtMSecCf" text="Třídit" />
+    <string id="atWs6mkm" text="Výcvik s jednoručním mečem a štítem" />
+    <string id="axnDLcDA" text="Promluvte si s náčelníkem" />
+    <string id="b1suRGVY" text="Vojáci, kteří jsou připraveni k vylepšení, jsou označeni speciální ikonou{UPGRADE_ICON}.{newline}{newline}Celkový počet vylepšitelných vojáků je zobrazen uvnitř zvýrazněného tlačítka v pravém horním rohu obrazovky.{newline}{newline}Otevřete vyskakovací okno a vylepšete některé z vojáků." />
+    <string id="B5MNWr0J" text="Vítejte v Calradii!{newline}{newline}Mapu světa můžete prozkoumat pohybem kamery pomocí {CONSOLE_MOVEMENT_KEY}, posouváním pohledu pomocí {CONSOLE_CAMERA_KEY} a přibližováním a oddalováním pomocí {MAP_ZOOM_OUT_KEY} a {MAP_ZOOM_IN_KEY}.{newline}{newline}Zkuste to." />
+    <string id="B7WlM3CU" text="Zásoby byste měli nakupovat v nabídce osady vlevo." />
+    <string id="bfIEbq8b" text="Armádu vytvoříte přidáním členů ze seznamu vlevo. Chcete-li dokončit svůj výběr, stiskněte Hotovo." />
+    <string id="BfQrnvpC" text="Vytvoření armády" />
+    <string id="BoQ0N23g" text="Poražte trenéra nováčků" />
+    <string id="bqgthBbb" text="Pokud nejste vedoucím střetnutí, otevře se obrazovka Order of Battle v omezeném stavu. To znamená, že lordi, kteří jsou vám nadřazeni, budou vybírat své formace jako první. Vy se pak přiřadíte k jedné formaci a budete ovládat tuto jedinou formaci. {newline}{newline}Zkuste se přiřadit k dostupné formaci." />
+    <string id="BV5gL8SK" text="Pokud víte, co nebo koho hledáte, můžete použít vyhledávací panel a zadat. Vyhledávací lišta obsahuje seznam všech osob, osad a jednotek v Kalrádii." />
+    <string id="bZOVbBRG" text="Jakmile vaše dovednostní body dosáhnou požadované hranice, zpřístupní se vám jedna nebo více výhod {newline}{newline}O tom vás bude informovat malý indikátor nad tlačítkem na obrazovce postavy. {newline}{newline}Kliknutím na tlačítko postavy zobrazíte dostupné možnosti výběru výhod." />
+    <string id="C8NDynaB" text="Niasen" />
+    <string id="CaCfbRJq" text="Nozhon" />
+    <string id="CONYULU6" text="Phasos" />
+    <string id="CpKLau15" text="Tvůj bratr ti doporučuje zakoupit 2 pytle obilí.{newline}{newline}To můžeš udělat tak, že je přeneseš do inventáře pomocí malé šipky na levé straně." />
+    <string id="cZsPNpCs" text="Nákup potravin" />
+    <string id="d0LpBfis" text="Výcvik s kuší" />
+    <string id="D0SoDPcr" text="Pokročilý výcvik boje zblízka" />
+    <string id="D4b6tzYx" text="Encyklopedické jednotky" />
+    <string id="ddoD208G" text="Významní lidé ti pomohou naverbovat další a lepší (vyšší úrovně) jednotky podle toho, jaký s nimi máš vztah.{newline}{newline}Kliknutím na některé jednotky je přesuneš do své party." />
+    <string id="dFpNRB1g" text="Nogand" />
+    <string id="dLXZaEI1" text="Nákup potravin" />
+    <string id="DtKKtcws" text="Všimněte si, že rychlost vaší družiny klesla, protože nesete příliš mnoho zátěže.{newline}Měli byste snížit množství nesené zátěže, abyste zrychlili.{newline} Nosnost vaší party můžete také zvýšit rekrutováním dalších vojáků nebo nákupem koní a velbloudů." />
+    <string id="e54212r1" text="Ve městech můžeš najít nadané jedince, kteří ti mohou pomoci.{newline}{newline}Tyto potenciální společníky najdeš poflakující se v hostincích.{newline}{newline}Jdi nyní do hostinské čtvrti a najdi potenciálního společníka." />
+    <string id="E9f8YUbO" text="Získáte úroveň pokaždé, když váš celkový počet dovednostních bodů dosáhne cílové hodnoty. Při zvyšování úrovně získáte body soustředění, které můžete utratit.{newline}{newline}Pokud máte volné body soustředění, uvidíte to podle malého ukazatele nad tlačítkem na obrazovce postavy. Kliknutím na tlačítko si můžete prohlédnout různé dovednosti a vybrat si jednu, která zvýší soustředění." />
+    <string id="EeC9zwta" text="Významné osobnosti vám pomohou naverbovat další a lepší (vyšší úrovně) vojáky podle toho, jaký s nimi máte vztah.{newline}{newline}Přesun vojáků do vaší družiny provedete stisknutím {CONSOLE_ACTION_KEY}, když je kurzor na jejich portrétech." />
+    <string id="eFv4yeJY" text="Pokud máte alespoň 20 vojáků, budete mít možnost před každou bitvou vypracovat strategii. Můžete přiřadit hrdiny jako kapitány formací, rozdělit své vojáky mezi formace a dát přednost tomu, které druhy vojáků mají být zařazeny do které formace, stejně jako některým dalším možnostem. {newline}{newline}Zkuste se přiřadit jako kapitán jedné z formací přetažením svého portrétu v horní části uprostřed na jedno z míst pro kapitána formace." />
+    <string id="elRQHiLR" text="Výcvik s jezdeckým mečem" />
+    <string id="EvAriC6s" text="Každá postava v Calradii má dvě sady vybavení. Postavy používají svou vojenskou sadu, když očekávají potíže. Mezi jejich sadami můžete přepínat pomocí tlačítek nad modelem postavy. Všimněte si, že většina brnění a zbraní je v civilní sadě nepoužitelná, protože civilní sada se používá, když je pro vaši postavu nevhodné nebo zakázané být silně vyzbrojen." />
+    <string id="f6xYa3c4" text="Vítejte v Calradii! {newline}{newline}Mapu světa můžete prozkoumávat pohybem kamery pomocí {FORWARD_KEY}{BACKWARDS_KEY}{LEFT_KEY}{RIGHT_KEY}, posouváním pohledu kliknutím pravým tlačítkem myši a přetažením myši a přibližováním a oddalováním pomocí kolečka myši.{newline}{newline}Zkuste to." />
+    <string id="FCMKJLrh" text="Svým mužům můžete říci, aby útočili, otevřením příkazů k pohybu pomocí {FIRST_ORDER_CATEGORY_KEY} a výběrem útoku pomocí {THIRD_ORDER_CATEGORY_KEY}." />
+    <string id="GDPa0sQX" text="Sledování vám umožní najít osady na mapě světa. Dokud je tlačítko sledování aktivní, budou vybrané osady zvýrazněny. Kliknutím na bod v blízkosti textu osady můžete sledování vypnout." />
+    <string id="GhVXQrYF" text="Vylepšování jednotek" />
+    <string id="GjGF4xbn" text="Výcvik štítů" />
+    <string id="gKzLAjXr" text="Všimněte si, že soudržnost vaší armády klesla na nízký bod a je pravděpodobnější, že se vaše armáda rozptýlí.{newline}Klepnutím na tlačítko správy armády můžete soudržnost zvýšit." />
+    <string id="gUvxp8mf" text="Výcvik s lukem" />
+    <string id="HfZVK8gb" text="Ano... Znám tě?" />
+    <string id="HORKLD7t" text="Prostřednictvím tohoto panelu se můžete podílet na rozhodovacím procesu své frakce. Můžete utrácet vliv, abyste ovlivnili názory, ale poslední slovo bude mít vždy vládce.{newline}{newline}Pro pokračování vyberte jednu z dostupných možností rozhodování." />
+    <string id="HOuIbabS" text="Výcvik s obouručním mečem" />
+    <string id="HPe7HaZx" text="Vykoupení vězňů" />
+    <string id="hZ9eNwFZ" text="Výhody se obvykle zpřístupňují ve dvojicích.{newline}{newline}Každá z nich poskytuje různé bonusy, takže vybírejte s rozmyslem." />
+    <string id="I1Cvs1zL" text="Někteří z vašich vojáků mají nyní dostatek zkušeností pro vylepšení.{newline}{newline}Pro přezkoumání a vylepšení vašich vojáků klikněte na zvýrazněné tlačítko na obrazovce družiny." />
+    <string id="IcBq2jSZ" text="Aitheen" />
+    <string id="IjMel5eg" text="Můžeš prodat všechny zajatce najednou.{newline}{newline}Nebo se můžeš spojit se zprostředkovatelem výkupného a vybrat si je jednotlivě." />
+    <string id="iOLa5rjZ" text="Obilí je obvykle nejlevnější jídlo, které můžete koupit.{newline}{newline}Jiné druhy jídla mohou při konzumaci poskytovat různé bonusy.{newline}{newline}Nakupte si nyní nějaké jídlo." />
+    <string id="iVbIg7hT" text="Poražte trenéra veteránů." />
+    <string id="JD7OlpIl" text="Když je kurzor na tlačítku +, můžete stisknout {CONSOLE_ACTION_KEY} a přidat si 10 koherencí. Uvědomte si, že její zvýšení stojí nějaký vliv." />
+    <string id="JDtbzwB0" text="Nusun" />
+    <string id="JEhe0TvD" text="Máš aktivní úkol! Více se o něm dozvíte, když stisknete {CONSOLE_ACTION_KEY}, zatímco kurzor je na záznamu úkolů v levém dolním rohu obrazovky." />
+    <string id="jLWPSiOR" text="Promluvte si s náčelníkem" />
+    <string id="JoYrhCGB" text="Snažíte se najít něco konkrétního? Pomocí filtrů na levé liště můžete zúžit výsledky." />
+    <string id="jWvle1tC" text="Dokonči trať a zasáhni co nejvíce cílů ({HIT} / {ALL})." />
+    <string id="JXbP1ula" text="Svou postavou můžete pohybovat pomocí {CONSOLE_MOVEMENT_KEY}.{newline}{newline}Zkuste se nyní pohybovat ve čtyřech směrech!" />
+    <string id="k9QvIYaR" text="Body soustředění slouží ke zvýšení rychlosti učení u libovolné dovednosti." />
+    <string id="KbpiRMnO" text="Kliknutím na tlačítko Navštívit zahájíte konverzaci." />
+    <string id="kwW6v202" text="Přejděte na pozici pro střelbu" />
+    <string id="L0tOoWpV" text="Přejděte na normální trenažér" />
+    <string id="L24eYhaX" text="Nasedněte na koně" />
+    <string id="L2biDS8U" text="Významné osobnosti ve městech zveřejní objednávky na nové zbraně. Budou mít požadavky, které musíte splnit, a za objednanou zbraň vám zaplatí.{newline}{newline}Tyto objednávky si můžete prohlédnout kliknutím na zvýrazněné tlačítko vpravo nahoře." />
+    <string id="LA4oaC7b" text="Mise v úkrytu začínají tak, že nepřítel neví o vašem příchodu.{newline}{newline}Přikázat vojákům, aby vás sledovali, můžete pomocí zkratek {FIRST_ORDER_CATEGORY_KEY} a {SECOND_ORDER_CATEGORY_KEY} a snažit se na ně útočit v malých skupinkách." />
+    <string id="lfkwsa5f" text="Sledování" />
+    <string id="LGuJctoZ" text="Útoč na trenéra ({HIT} / {ALL})" />
+    <string id="lN1RQ260" text="Střílej na cíle ({HIT} / {ALL})" />
+    <string id="lRPvkRJy" text="Na začátku bitvy budou vaši vojáci držet pozice. Můžete jim říci, aby je následovali, a to tak, že otevřete nabídku rozkazů pomocí {HOLD_OPEN_ORDER_KEY} a rozkazy k pohybu pomocí {FIRST_ORDER_CATEGORY_KEY} a zvolíte Následuj mě pomocí {SECOND_ORDER_CATEGORY_KEY}." />
+    <string id="LS1whiyj" text="V nabídce vpravo nahoře se zobrazují důležité osoby ve vaší aktuální lokaci. {newline}{newline}Klikněte na portrét náčelníka a promluvte si s ním." />
+    <string id="m2uEbrkh" text="Najun" />
+    <string id="MCeCa7SE" text="Stránky oddílů umožňují zobrazit dovednosti a sady vybavení vybraného oddílu. Vyzkoušejte si prozkoumat stromy vylepšení a naplánujte si složení armády dopředu." />
+    <string id="mfugkRoz" text="Úkryty a rozkazy" />
+    <string id="MgBazeaE" text="Alte" />
+    <string id="MmFO0Erq" text="Podržením {MISSION_INDICATORS_KEY} zobrazíte polohu náčelníka.{newline}{newline}Jakmile se ocitnete v jeho blízkosti, stisknutím {INTERACTION_KEY} s ním promluvíte." />
+    <string id="mo30kGdz" text="Přidělování rolí" />
+    <string id="MqeQco4z" text="Výcvik s jezdeckým oštěpem" />
+    <string id="mvYbXi4O" text="Svým mužům můžete říci, aby útočili, a to tak, že pomocí {HOLD_OPEN_ORDER_KEY} otevřete nabídku rozkazů, pomocí {FIRST_ORDER_CATEGORY_KEY} rozkazy pohybu a pomocí {THIRD_ORDER_CATEGORY_KEY} zvolíte Útok." />
+    <string id="N8YVPdBw" text="Úroveň získáte pokaždé, když celkový součet bodů dovedností dosáhne cílové hodnoty. Zvýšením úrovně získáte body soustředění, které můžete utratit. {newline}{newline}Pokud máte volné body soustředění, uvidíte to podle malého indikátoru nad tlačítkem na obrazovce postavy. Stisknutím {CONSOLE_ACTION_KEY}, když je kurzor na tlačítku postavy, si můžete prohlédnout různé dovednosti a vybrat si jednu, která zvýší soustředění." />
+    <string id="NED1z7Pe" text="Chcete-li opustit misi, můžete podržet {LEAVE_MISSION_KEY}.{newline}{newline}Tím se vrátíte do nabídky osady, kde můžete nakupovat zásoby a najímat rekruty." />
+    <string id="NWxC3CbS" text="Fodor" />
+    <string id="o5ho2Txg" text="Soudržnost armády" />
+    <string id="OA9bQ8QJ" text="Alea" />
+    <string id="odbkXZkz" text="Přesun vaší družiny se provádí kliknutím na mapu. To zanechá na cílovém místě značku - pokud jste neklikli na nepřístupné oblasti, jako jsou hory nebo moře.{newline}{newline}Vydejme se na {TUTORIAL_SETTLEMENT_NAME}!" />
+    <string id="oj7B1GOT" text="Vstup do osad" />
+    <string id="OJmYUcaU" text="Výcvik s obouručním mečem" />
+    <string id="oKl1p2er" text="Můžeš povolat ostatní pány na svůj prapor. Stiskněte {CONSOLE_ACTION_KEY}, když je kurzor na zvýrazněné ikoně vojska v pravém dolním rohu, abyste tak učinili." />
+    <string id="okM9QUFA" text="Výcvik v práci s oštěpem" />
+    <string id="oq3SvXCm" text="Někteří z vašich vojáků mají nyní dostatek zkušeností pro vylepšení. {newline}{newline}Pro přezkoumání a vylepšení vojáků stiskněte {CONSOLE_ACTION_KEY}, zatímco je kurzor na zvýrazněném tlačítku na obrazovce družiny." />
+    <string id="P7KbSBvr" text="Výcvik jezdců" />
+    <string id="pAf5Mt3X" text="Alishka" />
+    <string id="Ph2nk4Ms" text="Na začátku bitvy budou vaši vojáci držet pozici. Můžete jim říci, aby zaútočili tak, že otevřete příkazy k pohybu pomocí {FIRST_ORDER_CATEGORY_KEY} a zvolíte Následuj mě pomocí {SECOND_ORDER_CATEGORY_KEY}." />
+    <string id="pKtXgb6b" text="Dostupnou výhodu můžete zvolit stisknutím {CONSOLE_ACTION_KEY}, když je kurzor na jejím tlačítku." />
+    <string id="pow4wUAM" text="Přepadení vesnice oslabí ekonomiku majitelovy frakce tím, že naruší tok zásob mezi vesnicí a její vázanou osadou. Také nájezdníci získají z nájezdů nějaké suroviny." />
+    <string id="q3mOBLFn" text="Výběr zaměření dovednosti" />
+    <string id="q65JaEBW" text="Alya" />
+    <string id="q71nXdD4" text="Přejít na trenéra" />
+    <string id="QewGND2m" text="Obléhání" />
+    <string id="QHhdmvLj" text="Bojový výcvik" />
+    <string id="qjMhakoM" text="Všimněte si, že soudržnost vaší armády klesla na nízký bod a je pravděpodobnější, že se vaše armáda rozptýlí.{newline}Když je kurzor na tlačítku řízení armády, můžete stisknout {CONSOLE_ACTION_KEY} a zvýšit tak soudržnost." />
+    <string id="qNrWU4Or" text="Výcvik boje zblízka" />
+    <string id="QVChn4mG" text="Potraviny jsou také obchodním zbožím. Obchodní zboží můžete snadno najít pomocí filtru Různé." />
+    <string id="rLEIuqZO" text="Po těžké bitvě můžete mít na výběr, zda si vezmete nějaké zajatce, nebo naverbujete ty, které jste osvobodili od nepřítele. {newline}{newline}Obě možnosti provedete tak, že vojáky přenesete do své družiny pomocí tlačítka s malou šipkou vlevo." />
+    <string id="rVaufuNb" text="Otevřeli jste stránku, na které má vaše postava jen velmi málo informací. Příchodem do osad a setkáním se zajímavými lidmi souvisejícími s touto stránkou se dozvíte více a aktuálnějších informací." />
+    <string id="Rvn8tGB0" text="Tvůj bratr tě požádal, abys najal alespoň 4 muže, než se vydáš vstříc nájezdníkům.{newline}{newline}Jednotky můžeš najmout ve vesnicích a městech kliknutím na tlačítko Najmout jednotky." />
+    <string id="SbLp73Z3" text="Členům klanu ve své družině můžeš přidělit role. Budou jim přiděleny bonusy podle jejich schopností a výhod.{newline}{newline}Proces přidělování můžete zahájit přes zvýrazněnou oblast." />
+    <string id="SJ5Yp3eI" text="Vylepšování oddílů vás bude stát dináry a zkušenosti oddílů. Některé jednotky mohou mít dvě možné cesty vylepšení a mohou vyžadovat předměty, například koně." />
+    <string id="sYkqpuFx" text="Bannerlord má mnoho různých prvků, které ovlivňují svět Calradie. Vždy můžete použít filtry, abyste se dozvěděli více o herních konceptech." />
+    <string id="TVqGNr8b" text="Sledování klanů Caldraia vám umožní sledovat spojence i nepřátele. Po odhalení můžete zkontrolovat jejich členy, léna a úrovně moci." />
+    <string id="tZtrK3cs" text="Výcvik lukostřelby na koni" />
+    <string id="TZZaO7iI" text="Jakmile vaše dovednostní body dosáhnou požadované hranice, zpřístupní se vám jedna nebo více výhod.{newline}{newline}O tom vás informuje malý indikátor nad tlačítkem na obrazovce postavy.{newline}{newline}Stisknutím {CONSOLE_ACTION_KEY}, když je kurzor na tlačítku postavy, zobrazíte dostupné volby výhod." />
+    <string id="Uge82Njb" text="Už jste se rozhodli, co budete dělat?" />
+    <string id="uW4htMut" text="Výcvik s mečem a štítem" />
+    <string id="uWEUYE1m" text="Dostupnou výhodu si vyberete kliknutím na její tlačítko." />
+    <string id="v3Ibi438" text="Stisknutím {CONSOLE_ACTION_KEY}, když je kurzor na tlačítku Navštívit, zahájíte konverzaci." />
+    <string id="vdEoBkpr" text="Zásoby jídla musíte udržovat po celou dobu. Pokud vám dojde jídlo, vaše družina ztratí morálku. Vaši vojáci vás mohou kvůli nízké morálce opustit. {newline}{newline}Svou zásobu jídla vidíte na informačním panelu. Najeďte na ni a uvidíte, kolik jídla vaše družina každý den spotřebuje. Protože tvá družina potřebuje jídlo, jdi nyní na tržiště a nějaké si kup." />
+    <string id="VMcd4nma" text="V encyklopedii najdeš informace o všech městech, hradech a vesnicích v Kalrádii. Jakmile je navštívíš nebo odhalíš, můžeš z encyklopedie sledovat aktuální informace." />
+    <string id="VRLsCOQa" text="Rozhodnutí o království" />
+    <string id="VvpPbvpm" text="Můžeš povolat další pány na svůj prapor. Klikněte na zvýrazněnou ikonu armády vpravo dole a udělejte to." />
+    <string id="VzE9aVBh" text="Na horní liště se zobrazují portréty důležitých NPC.{newline}{newline}Klikněte na portrét a z nabídky vyberte možnost navštívit." />
+    <string id="w4Ajm40u" text="Faroc" />
+    <string id="wbdzBBPp" text="Vraťte se k pozoruhodnému a dozvíte se více o úkolu, který vás čeká, stisknutím {CONSOLE_ACTION_KEY}, když je kurzor na tlačítku Navštívit." />
+    <string id="wgK6QxXm" text="To je vaše hodnocení zločinnosti u frakce, která vlastní osadu. Hodnocení získáváte okrádáním nebo napadáním poddaných království. Hráči s ratingem 30 nebo vyšším v neutrálním království bude zakázán vstup do jeho osad, zatímco nezávislý hráč s ratingem zločinnosti 60 nebo vyšším bude napaden na potkání. Hodnocení zločinnosti se časem snižuje.{newline}{newline}Podrobnější informace o hodnocení zločinnosti získáte v encyklopedii." />
+    <string id="wq9sNkMc" text="Opuštění mise" />
+    <string id="WTF4ZIe7" text="Jatu" />
+    <string id="wZPdOclh" text="Osady v encyklopedii" />
+    <string id="x4xx1Zd6" text="Bojové příkazy" />
+    <string id="xCHBC7S9" text="Kliknutím na tlačítko Navštivte se vrátíte do pozoruhodného místa a dozvíte se více o úkolu, který vás čeká." />
+    <string id="xDyzNFic" text="Koncepty encyklopedie" />
+    <string id="xFWG6uZ8" text="Obléhání jsou nedílnou součástí války v Kalrádii, protože jsou hlavním způsobem dobývání měst a hradů." />
+    <string id="xORASoex" text="Kliknutím na tlačítko + přidáte 10 obléhání. Uvědomte si, že její zvýšení stojí určitý vliv." />
+    <string id="Xr50xGhr" text=" ({TIME_SCORE} sekund)" />
+    <string id="yF9agd1M" text="Mlha války" />
+    <string id="yhTaDeLf" text="Můžete vytvářet nové formace a rozdělit tak své jednotky do menších skupin, abyste měli jemnější kontrolu. Manipulací s posuvníky uvnitř karet formací můžete také určit, jaké procento vybraného typu vojska má v těchto formacích začít bitvu. {newline}{newline}Zkuste vytvořit novou formaci výběrem jejího typu a upravte váhu vojska formace." />
+    <string id="yrlPHYpa" text="Výběr vylepšení perků" />
+    <string id="Z7zWkAV8" text="Své zajatce můžeš vykoupit u zprostředkovatele výkupného.{newline}{newline}Najdeš ho v oblasti hostince." />
+    <string id="z9eC5hjv" text="Výcvik s kopím a štítem" />
+    <string id="zF0xUaXd" text="Prozkoumejte království, abyste měli přehled o lénech, klanech a válkách v královstvích Kalradie." />
+    <string id="zN9iNaIW" text="Nájezdnická vesnice" />
+    <string id="ZozwfwVl" text="Braň se ({HIT} / {ALL})" />
+    <string id="ZW9OGfEt" text="Záchrana a Braní zajatců" />
+  </strings>
+</base>

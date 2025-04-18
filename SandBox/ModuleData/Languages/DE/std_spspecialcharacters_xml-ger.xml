@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="1OZBZZCi" text="{FIRSTNAME} Boar" />
+    <string id="28tWEFNi" text="{FIRSTNAME} Wanderer" />
+    <string id="2U2Hy2Su" text="{FIRSTNAME} Fairhair" />
+    <string id="3wzexaA7" text="{FIRSTNAME} She-Wolf" />
+    <string id="4GIoPUen" text="{FIRSTNAME} Swordsman" />
+    <string id="6CAbkgS4" text="{FIRSTNAME} Wainwright" />
+    <string id="7apnGFz7" text="{FIRSTNAME} Black" />
+    <string id="7hrmlfxh" text="z legie" />
+    <string id="7lg12a57" text="{FIRSTNAME} Brave" />
+    <string id="8o5SDCCJ" text="{FIRSTNAME} Shark" />
+    <string id="ACqta1a5" text="{FIRSTNAME} Engineer" />
+    <string id="aE8abvsQ" text="{FIRSTNAME} Lucky" />
+    <string id="agS5lIg7" text="{FIRSTNAME} Fatherless" />
+    <string id="akALDUs0" text="{FIRSTNAME} Longknife" />
+    <string id="azCSz9QH" text="Rukou" />
+    <string id="bPHbb7pc" text="Poustevník" />
+    <string id="bpw8fOs5" text="Karakhuzaitů" />
+    <string id="bvjFhiDr" text="{FIRSTNAME} Scholar" />
+    <string id="C8hwcOdF" text="Jezdecký plenitel" />
+    <string id="cP1o8eUs" text="z Jawwalu" />
+    <string id="CQOlMayc" text="{FIRSTNAME}Ragged" />
+    <string id="cud22JY1" text="{FIRSTNAME} Surgeon" />
+    <string id="e84pvBYI" text="{FIRSTNAME} Dispossessed" />
+    <string id="eobXmmLg" text="Společnosti" />
+    <string id="FceN76tW" text="Jezerních krys" />
+    <string id="femalethug" text="Hromotluk" />
+    <string id="fJmGKlaO" text="{FIRSTNAME} Horsethief" />
+    <string id="G8mawcBV" text="{FIRSTNAME} Healer" />
+    <string id="gED0ZMhi" text="Ilay" />
+    <string id="H7eELtL6" text="Vypůjčený oddíl" />
+    <string id="hrMatilh" text="{FIRSTNAME} Smith" />
+    <string id="IgOTjF4i" text="Ghilmana" />
+    <string id="IVnvHF8S" text="Eleftheroi" />
+    <string id="Ivx4uJVp" text="{FIRSTNAME} Silent" />
+    <string id="j2nVPqIX" text="{FIRSTNAME} Hawk" />
+    <string id="J6Yksji5" text="Jezdec na koni" />
+    <string id="jepZ0btT" text="Sebevědomý soupeř" />
+    <string id="jG3duO7A" text="Vyvoleného" />
+    <string id="jKAhAoVb" text="Lesního lidu" />
+    <string id="JL8RBEu3" text="Beni Zilal" />
+    <string id="KkStFl12" text="Vlčích kůží" />
+    <string id="KnTl4ESh" text="{FIRSTNAME} Cowthief" />
+    <string id="KphYbafC" text="Odvážný soupeř" />
+    <string id="KY2zbWkj" text="{FIRSTNAME} Swift" />
+    <string id="LmlL8fVu" text="{FIRSTNAME} Bloodaxe" />
+    <string id="mcbREzPt" text="Strážců" />
+    <string id="mtBA7sfk" text="Tvrdý soupeř" />
+    <string id="muC2SGlM" text="{FIRSTNAME} z Wastes" />
+    <string id="N4taBJyx" text="{FIRSTNAME} Tracker" />
+    <string id="nDtjEazo" text="{FIRSTNAME} Bellowsbreath" />
+    <string id="nqE62lQW" text="{FIRSTNAME} Blacktooth" />
+    <string id="NSaetzNJ" text="{FIRSTNAME} Coalbiter" />
+    <string id="ntkipfCV" text="{FIRSTNAME} Loud" />
+    <string id="NWuGUi4p" text="{FIRSTNAME} Leopardess" />
+    <string id="OArAImbM" text="{FIRSTNAME} z Hills" />
+    <string id="OFWvD0xe" text="{FIRSTNAME} Hyena" />
+    <string id="OIXub6bS" text="{FIRSTNAME} Alone" />
+    <string id="oJJPZOKf" text="Vikrum" />
+    <string id="OzjuQYGH" text="ze Skolderbrody" />
+    <string id="PQkMcfAW" text="{FIRSTNAME} Exile" />
+    <string id="pTuZB1Hj" text="{FIRSTNAME} Ironbelly" />
+    <string id="pZSAdyC0" text="{FIRSTNAME} Butcher" />
+    <string id="q5QjQyde" text="{FIRSTNAME} Mad" />
+    <string id="QGcgQDqK" text="Bratrstva" />
+    <string id="Qm5cstq3" text="Ulyk" />
+    <string id="qslA0bVb" text="{FIRSTNAME} Red" />
+    <string id="QWbgE4bw" text="{FIRSTNAME} Ironeye" />
+    <string id="QyQPJJ9B" text="{FIRSTNAME} Accursed" />
+    <string id="R0NM6lfm" text="Raekel" />
+    <string id="rgdi5Sxa" text="{FIRSTNAME} Prince" />
+    <string id="rtsnnL2J" text="{FIRSTNAME} Shieldmaiden" />
+    <string id="S9skielR" text="Nervózní velitel karavany" />
+    <string id="S9z09NaN" text="Vypůjčený oddíl veteránů" />
+    <string id="sdzaip5J" text="{FIRSTNAME} Knowing" />
+    <string id="seS9ZZUW" text="{FIRSTNAME} Grey Falcon" />
+    <string id="sk64gxdw" text="Důstojný soupeř" />
+    <string id="t9e34kgH" text="{FIRSTNAME} Robber" />
+    <string id="TyxXbqVw" text="{FIRSTNAME} Falcon" />
+    <string id="vmwCdada" text="Jihan" />
+    <string id="vtXRptVa" text="{FIRSTNAME} Golden" />
+    <string id="W7aa22Yl" text="{FIRSTNAME} Breakskull" />
+    <string id="w9u2RUgm" text="{FIRSTNAME} Ill-Starred" />
+    <string id="WU5GnkvR" text="{FIRSTNAME} Fish" />
+    <string id="WvwWX4me" text="{FIRSTNAME} Barrelchest" />
+    <string id="X2TtXlAq" text="Perikleje" />
+    <string id="XBJtv4mD" text="{FIRSTNAME} Spicevendor" />
+    <string id="xTQPfmS9" text="{FIRSTNAME} Bull" />
+    <string id="XuxARPTM" text="{FIRSTNAME} Bitterdraught" />
+    <string id="ykTARD4b" text="{FIRSTNAME} Outcast" />
+    <string id="yr5pa0hs" text="{FIRSTNAME} Willowbark" />
+    <string id="ZCc3VFat" text="{FIRSTNAME} Grizzled" />
+    <string id="zoaTZMm7" text="{FIRSTNAME} Huntress" />
+    <string id="zXjdb1zT" text="{FIRSTNAME} Frostbeard" />
+  </strings>
+</base>

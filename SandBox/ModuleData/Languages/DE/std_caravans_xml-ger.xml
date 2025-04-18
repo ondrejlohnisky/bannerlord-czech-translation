@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="7bjyJDaK" text="Vůdce hráčské frakce žoldnéřů" />
+    <string id="EsJ3Drv7" text="Sturgia Mercenaries Leader" />
+    <string id="GIRpmax8" text="Aserai Vůdce žoldnéřů" />
+    <string id="jHVTqyI4" text="Impérium Vůdce žoldnéřů" />
+    <string id="ugbfHGZ3" text="Vůdce světových žoldnéřů" />
+    <string id="VPis3atP" text="Vůdce žoldnéřů Khuzait" />
+    <string id="XhbgteUK" text="Vlandia Žoldnéři Vůdce" />
+    <string id="y6E1CTsv" text="Battania Žoldnéři Vůdce" />
+  </strings>
+</base>

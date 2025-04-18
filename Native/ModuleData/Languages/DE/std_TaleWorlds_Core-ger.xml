@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="2K0iVRkW" text="Schopnost organizovat skupinu a řídit logistiku. To ti pomůže řídit panství nebo spravovat město a může zvýšit velikost družiny, kterou vedeš nebo ve které sloužíš jako provianťák." />
+    <string id="2wclahIJ" text="Házení" />
+    <string id="81YLbLok" text="Zkušenost s temnou stránkou lidského života. Dokážeš poznat, kdy chce strážný úplatek, víš, jak někoho zastrašit, a máš dobrý smysl pro to, co ti může a nemůže projít." />
+    <string id="97EmbcHQ" text="Schopnost inspirovat. Dokážete naplnit jednotlivce sebedůvěrou a ve větších skupinách vzbudit nadšení a odvahu." />
+    <string id="Aj3zqQq4" text="Není k dispozici" />
+    <string id="Bn7IsMpu" text="INT" />
+    <string id="bVD9j0wI" text="Fyzická zdatnost, rychlost a rovnováha." />
+    <string id="controlskill" text="Ovládání" />
+    <string id="d2ApwXJr" text="VYT" />
+    <string id="EGeY1gfs" text="Charisma" />
+    <string id="engineeringskill" text="Inženýrství" />
+    <string id="eob9goyW" text=" a" />
+    <string id="eoLbkhsY" text="Ovládá boj s obouručními zbraněmi střední délky, jako jsou větší sekery a meče." />
+    <string id="Ffwgecvr" text="{PLUS_OR_MINUS}{BONUSEFFECT}" />
+    <string id="FLf5J3su" text="Znalost luků a fyzická kondice pro účinnou střelbu z nich." />
+    <string id="FQOFDrAu" text="Váš úsudek o tom, jak se vojáci budou chovat při kontaktu. Díky tomu dokážeš dobře odhadnout, kdy bude neortodoxní taktika fungovat a kdy ne." />
+    <string id="Gu0Wxxul" text="Snížení přesnosti o {BONUS_AMOUNT}% pro jednotky na dálku ve vaší formaci." />
+    <string id="H9Zamrao" text="Schopnost ovládat koně, udržet rovnováhu, když se náhle nebo nečekaně pohne, a také obecné znalosti o koních, včetně péče o ně a jejich chovu." />
+    <string id="haax8kMa" text="Píka" />
+    <string id="haV3nLYA" text="Znalost obsluhy a údržby kuší." />
+    <string id="hbaMnpVR" text="Znalost toho, jak vyrobit věci, které vydrží velké síly, aniž by se zhroutily. Užitečné při stavbě staveb i zařízení, která je bourají." />
+    <string id="HsLfmEmb" text="Vůdcovství" />
+    <string id="HuXafdmR" text="OVL" />
+    <string id="igg5sEh3" text="Znalost, jak zastavit krvácení, zafixovat zlomené kosti, odstranit zaseknuté zbraně a vyčistit rány, aby se zabránilo infekci, a přikládat obklady, aby se zmírnila bolest a zklidnil zánět." />
+    <string id="iKmXX7i3" text="Ovládání kopí, oštěpu, hole a dalších jednoručních i obouručních tyčových zbraní." />
+    <string id="jJ9sLOLb" text="Vitalita představuje schopnost pohybovat se rychle a silně. Je důležitá pro boj zblízka." />
+    <string id="JKH59XNp" text="Lékařství" />
+    <string id="JZM1mQvb" text="Lstivost" />
+    <string id="K8rCOQUZ" text="Vytrvalost představuje schopnost vykonávat po dlouhou dobu namáhavou fyzickou činnost." />
+    <string id="kfdxjIad" text="," />
+    <string id="kmBxaJZd" text="Znalost, jak prohledat divočinu, abyste našli život. Dokážeš sledovat stopy, zpozorovat pohyb v podrostu a podle záblesku světla na hrotech kopí nebo oblaku prachu odhalit nepřítele na druhé straně údolí." />
+    <string id="kvOavzcs" text="Vytrvalost" />
+    <string id="LJ6Krlbr" text="Průzkum" />
+    <string id="lsJMCkZy" text="Znalost nejběžnějšího zboží na trhu a jeho ceny, stejně jako schopnost rozpoznat vadné zboží nebo poznat, zda jsi byl zkrácen na množství." />
+    <string id="m8o51fc7" text="Taktika" />
+    <string id="NwTpATW5" text="Zvládnutí přesného a silného vrhání." />
+    <string id="p9i3zRm9" text="Jízda na koni" />
+    <string id="PHoxdReD" text="SOC" />
+    <string id="skZS2UlW" text="Atletika" />
+    <string id="smithingskill" text="Kovářství" />
+    <string id="socialskill" text="Sociální" />
+    <string id="sOrJoxiC" text="Inteligence" />
+    <string id="stewardskill" text="Správcovství" />
+    <string id="sxGmF0tC" text="{BONUS_AMOUNT}% poškození při boji zblízka vojáky ve vaší formaci proti jezdectvu." />
+    <string id="t0Qzb7CY" text="Zvýšené poškození při boji zblízka proti jízdním oddílům" />
+    <string id="TeUtEGV0" text="Inteligence představuje nadání pro čtení a teoretické učení." />
+    <string id="tH6Ooj0P" text="LST" />
+    <string id="Uz1HHeKg" text="Vyrobená náhodná zbraň" />
+    <string id="V0ZMJ0PX" text="Krádeže" />
+    <string id="VajIVjkc" text="Schopnost přimět člověka, aby si vás oblíbil a důvěřoval vám. Dokážeš dobře odhadnout motivace lidí a druhy argumentů, na které budou reagovat." />
+    <string id="Ve8xoa3i" text="VIT" />
+    <string id="vx0OCvaj" text="Ovládání představuje schopnost používat sílu, aniž by byla obětována přesnost. Je nezbytná pro používání zbraní na dálku." />
+    <string id="XMDTt96y" text="Sociální představuje schopnost pochopit motivace lidí a ovlivnit je." />
+    <string id="xWbkjccP" text="Znalost kování kovu, párování rukojeti s ostřím, soustružení tyčí, šití šupin a dalších dovedností užitečných při sestavování zbraní a zbrojí." />
+    <string id="yEkSSqIm" text="Zvládnutí boje s jednoručními zbraněmi buď se štítem, nebo bez něj." />
+    <string id="YO5LUfiO" text="Lstivost je schopnost předvídat, co udělají ostatní, a přelstít jejich plány." />
+    <string id="YWkdD7Ki" text="Síla" />
+  </strings>
+</base>

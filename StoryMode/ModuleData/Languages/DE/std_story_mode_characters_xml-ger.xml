@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="4bIP3dka" text="Conspiracy Longbowman" />
+    <string id="6c5L2D91" text="Conspiracy Warmonger" />
+    <string id="6IetyqbY" text="Conspiracy Jezdecký bojovník" />
+    <string id="8AHT9pt5" text="Mistr výcviku" />
+    <string id="adR3pIDp" text="Spiknutí Vznešený jezdec" />
+    <string id="agvI8ymJ" text="Spiknutí Divoký jezdec" />
+    <string id="BAgYPdXW" text="Spiklenecký bojovník" />
+    <string id="C658axDH" text="Spiklenecký jízdní mistr lučištník" />
+    <string id="CPONpX33" text="Spiklenecký velitel" />
+    <string id="CsHLuOEl" text="Spiklenecký mistr oštěpu" />
+    <string id="daOtjNZp" text="Arzagos" />
+    <string id="dXfXpOX8" text="Conspiracy Hellion" />
+    <string id="GfHGXdpx" text="Spiklenecký nájezdník" />
+    <string id="i8GS9pn9" text="Spiklenecký veterán bojovník" />
+    <string id="IMwAoSax" text="Radagosův nájezdník" />
+    <string id="ixCSdUlD" text="Spiklenec Kern" />
+    <string id="j5Me8RDp" text="Konspirační vycvičený kušník" />
+    <string id="JbDdyuJ1" text="Spiklenecký mistr karavany" />
+    <string id="JchFJ884" text="Spiklenecký velitel balíčků" />
+    <string id="kfhY01a7" text="Náčelníkův oddíl" />
+    <string id="LKPF1mjo" text="Spiknutí Válečný střelmistr s kuší" />
+    <string id="loRgnHVa" text="Spiknutí Vycvičený lovec" />
+    <string id="mau9JLzO" text="Spiklenecký vůdce lovu" />
+    <string id="mBa3kDNF" text="Spiklenecký bojový jezdec" />
+    <string id="MrpOJn2h" text="Uprchlík" />
+    <string id="NdfXwR79" text="Konspirační rytířský učedník" />
+    <string id="No2HgX5E" text="Radagos" />
+    <string id="O8QblvbQ" text="Tacteos" />
+    <string id="osbMBjVt" text="Conspiracy Jezdecký myslivec" />
+    <string id="SLxnu4XO" text="Galter" />
+    <string id="uCmEaWOI" text="Istiana" />
+    <string id="USA8hlVX" text="Strážce spiknutí" />
+    <string id="VmFyP2Lp" text="Spiklenecký strážce" />
+    <string id="XbsySjkl" text="Spiklenecký vycvičený kopitník" />
+    <string id="XmUZ2QU2" text="Spiklenecký rytíř" />
+    <string id="Xp88aUTU" text="Konspirační vycvičený lučištník" />
+    <string id="Zdqhbpzx" text="Spiklenecký lučištník na koni" />
+    <string id="ZzIjKqFG" text="Spiklenecký berserker" />
+  </strings>
+</base>

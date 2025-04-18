@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="7hx2Nlmd" text="Koželužna" />
+    <string id="8MwqyFfS" text="Ironmonger" />
+    <string id="AfiEQPky" text="Každé město má několik řemeslníků. Někdo musí vyrábět každodenní věci pro obyčejné lidi a většina z nich to dělá sama." />
+    <string id="boupIGPX" text="Výrobna oleje" />
+    <string id="bZeZCHoa" text="Tkalcovna vlny" />
+    <string id="cawbOcb1" text="Surové kůže jsme ošetřili vápnem a dalšími chemikáliemi a proměnili je v pružnou kůži." />
+    <string id="cxrsASao" text="Vzácná stříbrná ruda se ve Stříbrňáku mění na šperky, nejkvalitnější ze všeho obchodního zboží." />
+    <string id="EBCKXbTa" text="Tkalcovna sametu" />
+    <string id="Ej2aaOhh" text="Ovčí vlnu spřádáme do příze, kterou pak na tkalcovských stavech tkáme do látek. Je to zde nejběžnější druh tkaniny, zejména v chladnějších oblastech." />
+    <string id="eS6nGak1" text="Tkadlec vlny" />
+    <string id="GsaLzLfl" text="Pivovar" />
+    <string id="hn82dw2C" text="Sladujeme, rmutujeme a kvasíme obilí k vaření piva, nejoblíbenějšího nápoje prostého lidu, zejména v severních zemích." />
+    <string id="HXuAkbcU" text="Tkalcovna sametu" />
+    <string id="IO7Jgato" text="Tesař" />
+    <string id="J2Ioper5" text="V kovárně se železná ruda taví do ingotů, z nichž se pak kují nástroje, hřebíky, zbraně a brnění." />
+    <string id="llI5116T" text="Lisujeme hrozny a kvasíme šťávu. Po víně je v celé Kalrádii vždy velká poptávka." />
+    <string id="oFKrLaBy" text="Tkáme surové hedvábí do ještě jemnějšího sametu a vyrábíme z něj nejluxusnější oděvy v Kalrádii." />
+    <string id="ousGnzju" text="Koželuh" />
+    <string id="PdvjpThP" text="Vinař" />
+    <string id="pVjxlT1f" text="Brewer" />
+    <string id="qF9UGd2S" text="Drtíme olivy a poté z nich lisujeme olej, který se používá na vaření, k osvětlení lamp, na výrobu mýdla a k mnoha dalším účelům." />
+    <string id="RLz2b53X" text="Oděvník" />
+    <string id="silversmithworker" text="Klenotník" />
+    <string id="silversmithworkshop" text="Klenotník" />
+    <string id="Tj7ErPfn" text="Hrnčířství" />
+    <string id="tK4IiP3J" text="Tkalcovna lnu" />
+    <string id="UiSes6XY" text="Truhlářství" />
+    <string id="uy2mSmw3" text="Vinařství" />
+    <string id="vDwDPFua" text="Lněná stébla podrobujeme zdlouhavému procesu oddělování vláken a následně z nich tkáme len. Tkanina je lehčí než vlna a je oblíbená v létě a v teplejších oblastech." />
+    <string id="VHLUHBaT" text="Řemeslníci" />
+    <string id="wCuAxt4m" text="Olivář" />
+    <string id="wLTQpbIM" text="Hrnčíř" />
+    <string id="xTeJPsMH" text="Pilujeme prkna a soustružíme polena, pak z nich vyrábíme zbraně, štíty a nástroje." />
+    <string id="yI0RHP6R" text="Vyrábíme hrnce z hlíny a pak je vypalujeme v pecích. Lidé v hrncích skladují většinu věcí a je po nich vždy velká poptávka." />
+  </strings>
+</base>

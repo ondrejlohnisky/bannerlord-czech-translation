@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="1e12bdjj" text="Snímek obrazovky byl uložen do {PATH}." />
+    <string id="79bODbwZ" text="Foto režim je již aktivní." />
+    <string id="ajKnHI1s" text="Vyfotit" />
+    <string id="aogZyZlR" text="Musíte počkat {SECONDS} sekund, než budete moci znovu jásat/řvát." />
+    <string id="asCeKZXx" text="Znovu zapněte uživatelské rozhraní bitvy" />
+    <string id="B41vvGuo" text="Neplatná klávesa" />
+    <string id="controllerDisconnectedDescriptionPS" text="Chcete-li pokračovat, znovu připojte bezdrátový ovladač" />
+    <string id="controllerDisconnectedDescriptionXB" text="Pro pokračování prosím znovu připojte ovladač" />
+    <string id="controllerDisconnectedTitlePS" text="Bezdrátový ovladač odpojen" />
+    <string id="controllerDisconnectedTitleXB" text="Ovladač odpojen" />
+    <string id="hvaDkG4w" text="Stiskněte libovolnou klávesu." />
+    <string id="ImQnhIQ5" text="Během konverzace nelze použít fotografický režim." />
+    <string id="LDRV5PxX" text="Touchpad Nastavení myši se projeví správně až po návratu do úvodní nabídky! Doporučuje se odchod do hlavní nabídky!" />
+    <string id="qkPfC3Cb" text="Varování" />
+    <string id="rZSjkCpw" text="Nelze používat foto režim během nasazení." />
+    <string id="VklN5Wm6" text="Foto režim" />
+    <string id="WA6Sk6cH" text="Cheat Menu" />
+  </strings>
+</base>

@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="02FaqhzI" text="Slyšel jsem o tobě. Říkají o tobě dobré věci. Občas si promluvíme. Přátelství s někým, jako jsem já, může být pro někoho, jako jste vy, docela výhodné." />
+    <string id="0etg1Q9l" text="Ve {FIRST_NAME} službách jsem od svých mužů žádal mnoho obětí. Nechci slyšet, že by jejich loajalita byla nemístná." />
+    <string id="1bxTLLAk" text="Přepadl jsi mou osadu v {SETTLEMENT_NAME}. Myslíš si, že jsem slabý? Myslíš si, že můžeš okrást mé vesničany a nezaplatit za to krví?" />
+    <string id="1JgKFOw8" text="Máš mou věrnost." />
+    <string id="1jUa8olQ" text="Neočekávám, že se vzdáš, ale dám ti příležitost, abys tak učinil. [ib:warrior][if:convo_stern]" />
+    <string id="1MPxKtue" text="Je to důležité? Mám teď dost práce." />
+    <string id="1Rht7WZI" text="Myslím, že jsem slyšel tvé jméno. Myslím, že jsi nám způsobil nějaké potíže." />
+    <string id="267ch9fZ" text="Ten nájezd na {VILLAGE_NAME}... Těžké pro tamní farmáře. No, každopádně si myslím, že {ENEMY_NAME} by nám udělali totéž." />
+    <string id="27KUtWGA" text="Splnil jsi úkol, který jsem ti dal. Děkuji ti." />
+    <string id="2FWBCCw0" text="Sestra" />
+    <string id="2VkCAuiu" text="Ano... Myslím, že jsem slyšel vaše jméno." />
+    <string id="2vMNJl7F" text="Dobře. Tak je to vyřešeno." />
+    <string id="3L7Rkswm" text="Můžete se vzdát, ale doufám, že to neuděláte. Rád bych do tebe zabodl čepel, dokud nebudeš pištět.[ib:warrior][if:convo_mocking_revenge]" />
+    <string id="3PsQTf0z" text="Mám tě v hrsti. Vzdej se, nebo zaútočíme.[ib:warrior][if:convo_aggressive]" />
+    <string id="3TGug4Vb" text="Znám tvé jméno. Říká se, že jsi nejstatečnější válečník. Mohu jen doufat, že tvá čest a milosrdenství odpovídají tvé statečnosti." />
+    <string id="3UucAOBW" text="Jsem {CONVERSATION_CHARACTER.LINK} z {CLAN_NAME}." />
+    <string id="48g7K7Zi" text="Až budeš kráčet po těchto cestách, příteli, věz, že nic neunikne pozornosti Skryté ruky. Páni a císaři přicházejí a odcházejí, ale my zůstáváme." />
+    <string id="49sxmwcX" text="Nehýbej se! Brzy ho budeš potřebovat, abys prosil o milost." />
+    <string id="4Jo8JMZm" text="Má paní" />
+    <string id="4Uagj1LN" text="Vlastně si myslím, že si tě nechám v zajetí jako svého vězně." />
+    <string id="5DCMLfp8" text="Slyšel jsem o tobě. Nemám náladu na žertování, takže upusťme od zdvořilostí." />
+    <string id="5Fa0uDJn" text="Sultánka z Aserai" />
+    <string id="5j6mIuu1" text="Cože? Nerozumím." />
+    <string id="5ZfjV7hS" text="To stačí! Dnes jsi vyhrál, ty pse! Ach, ta hanba! [if:convo_angry]" />
+    <string id="62vceTar" text="Jsem {CONVERSATION_CHARACTER.LINK}, z {CLAN_NAME}." />
+    <string id="6acfbHiE" text="Zapíšu si tvé jméno. Moji důvěru si však budeš muset zasloužit, cizinče, neboť svět je zrádné místo a tohle je zrádná doba." />
+    <string id="6l8ty6Dr" text="Rád tě poznávám." />
+    <string id="6LlDlGSb" text="Nejvyšší královna Battanů" />
+    <string id="6UBdsXlo" text="Možná se jednoho dne potkáme na bitevním poli. Ghilmany poznáš podle nádhery našich koní a lesku naší oceli. Pokud budeme na tvé straně, můžeš se radovat. Pokud jsme vaši nepřátelé, můžete si ušetřit spoustu starostí tím, že utečete dřív, než boj začne." />
+    <string id="6YUFDgGb" text="Je to významný krok, který se chystám učinit, a to mi ho usnadní." />
+    <string id="7ErxFkCB" text="Pochybuji, že se {VILLAGE_FACTION} bude líbit, co jsme udělali tam v {VILLAGE_NAME}..." />
+    <string id="7lWtkqHv" text="Budu si pamatovat tvé jméno." />
+    <string id="7pQ3y21E" text="Ještě jednou ti děkuji za veškerou pomoc." />
+    <string id="80C0gWJ4" text="Král Vlandianů" />
+    <string id="86aQkXpV" text="Výborně - vyzkouším tvou odvahu!" />
+    <string id="8eLXNZ7U" text="Je dobré vědět, s kým člověk bojuje." />
+    <string id="8GDgJCB4" text="Pokud budeš někdy hledat statné bojovníky, příteli, měl bys uvažovat o najmutí družiny kanců. K našemu praporu se hlásí ti nejodolnější chlapci ve Vlandii. Protože pokud si nenajmeš nás, může to udělat tvůj nepřítel." />
+    <string id="8WLSZRZc" text="Dobrá tedy. Co navrhuješ?" />
+    <string id="8x8kVUGX" text="Hájit práva chudých a pokorných, vdov a sirotků, a nebesa to vezmou na vědomí." />
+    <string id="99gE1ZoY" text="Já jsem {CONVERSATION_CHARACTER.LINK}, z {FACTION}." />
+    <string id="9LwkLxo7" text="Možná jsi skromného původu, ale zdá se, že jsi typ, který se ve světě prosadí. Předpokládejme, že se dostaneš do mocenského a odpovědného postavení. Jak byste ji využil?" />
+    <string id="9uH1NdsT" text="Jsi pohledný ďábel, že? Vsadím se, že s tebou bude spousta problémů." />
+    <string id="9ZHhYooG" text="Pamatuješ, jak jsem tě porazil, jeden na jednoho? Vracíš se pro další?" />
+    <string id="A40Z3egp" text="Ta práce, kterou jsi pro mě udělal... Dobrá práce." />
+    <string id="a55SAS18" text="Máme proti tobě výhodu. Vzdej se a bude s tebou dobře zacházeno.[ib:warrior][if:convo_stern]" />
+    <string id="a5LChqbr" text="Obyčejný lid těchto zemí potřebuje, aby se o něj někdo staral. A k tomu je tu naše Bratrstvo. Uslyšíš nás nazývat bandity nebo lupiči. Nevěřte tomu ani slovo." />
+    <string id="a6EBXT6C" text="Ano... Oba jsme byli na tom turnaji, že? Takové zklamání... Doufám, že ten darebák {WINNER_NAME} prohraje cenu ve hře v kostky." />
+    <string id="a8584KD0" text="Já jsem {CONVERSATION_CHARACTER.LINK}, z {CLAN_NAME}. Jsem si jistý, že jste jméno našeho klanu slyšeli v eposech ze stepi. Neseme jméno jednoho z dvanácti synů velké vlčice, matky Chuzejců." />
+    <string id="aaadHoIb" text="Kéž {?GENDER} ona {?} ona {\?} rozdrtí všechny {?GENDER}její {?}jeho {\?} nepřátele!" />
+    <string id="aagGt8pX" text="Vaše lordstvo" />
+    <string id="aFbkjgVe" text="Takže jsi nebyl schopen splnit tento úkol... No, někdy se nám tyto věci vymknou z rukou... a někdy ne. Ale nezabývejme se tím." />
+    <string id="agKiYTCE" text="Ach ano. Myslím, že jsem slyšel vaše jméno. Je mi opravdu potěšením setkat se tváří v tvář." />
+    <string id="aIimfZZe" text="Slyšel jsem o vás. Mluvili o tobě jako o působivém válečníkovi. Nezmínili se však, že jste tak, em, okouzlující." />
+    <string id="aKD9kfTI" text="Určitě si vzpomínáš, jak {TOURNAMENT_WINNER} vyhrál ten turnaj v {TOURNAMENT_TOWN}... Nezaslouženější vítězství jsem nikdy neviděl....." />
+    <string id="atHFPCcK" text="Rád tě poznávám. Pamatuj, že na světě není cennější měny než váha tvého slova, takže se mnou mluv pravdivě a já s tebou budu mluvit stejně." />
+    <string id="auVAWUJ3" text="Věz, že pokud mi někdy zkřížíš cestu, skončíš jako potrava pro havrany." />
+    <string id="AZf7kPgr" text="Dnes máš navrch. Vzdej se, když ne kvůli sobě, tak mysli na své muže![ib:warrior][if:convo_thinking]" />
+    <string id="bAir72Sf" text="Přestaň! Vzdávám se![if:convo_beaten]" />
+    <string id="bbjLFWhP" text="Vyhrál jsem náš poslední souboj, ale ty jsi bojoval dobře. Nedivil bych se ti, kdyby sis přál odvetu." />
+    <string id="BbVpiTdi" text="Slyšel jsem, že jsi světák, jak se říká. Pověz mi něco o svých cestách." />
+    <string id="BCfeuAX5" text="A já? Tvá krutost je tak rafinovaná, že bys mě raději viděl volného a poníženého než v řetězech. Užij si svůj triumf![if:convo_contemptuous]" />
+    <string id="bDarsOFR" text="Jsem {CONVERSATION_CHARACTER.LINK} z rodu {CLAN_NAME}." />
+    <string id="bdiuV4qb" text="Znám tvé jméno. Říká se, že jsi {?PLAYER.GENDER}ženská {?}muž {\?} statečnosti. Pokud nám osud někdy přisoudí zkřížit meče, bude to pro nás čest." />
+    <string id="BMc3VJcf" text="Neznám tvé jméno. Ale na tom nezáleží. Někteří říkají, že je větší ctí založit velký rod, než se s ním narodit." />
+    <string id="bNReoRmt" text="Pokud se někdy ocitneš v situaci, kdy budeš potřebovat najmout válečníky, měl bys zvážit vstup do Legie zrazených. Víme, co znamená dodržet slovo a smlouvu, protože jsme viděli, jakou cenu má porušení víry." />
+    <string id="brGfaXyo" text="Nevím, co si o tobě mám myslet, kromě toho, že jsi buď velmi odvážný, nebo velmi zbrklý, případně obojí." />
+    <string id="BRMngn5i" text="To stačí! Jsem váš vězeň. Mohu zaplatit výkupné. Mám pro tebe větší cenu živý než mrtvý.[if:convo_thinking]" />
+    <string id="C5JaFsDZ" text="{FIRST_NAME} je můj pán. To je vše, co k tomu mohu říci." />
+    <string id="c7hrnOUE" text="Ten úkol, který jsem ti dal, asi nevyšel." />
+    <string id="caKCwoPM" text="Beni Zilal jsou strážci tajemství. Sledujeme je ze stínů. Dělejte si z nás nepřátele na vlastní nebezpečí." />
+    <string id="cFiSjbf4" text="Hah! Chci s tebou bojovat." />
+    <string id="cGuzIVlk" text="Říká se, že jsi hodně cestoval. Pověz mi něco o svých cestách..." />
+    <string id="cMO9JXvk" text="Jsem {CONVERSATION_CHARACTER.LINK}, z {CLAN_NAME}. Naše země držíme v léno {LIEGE_TITLE} a ctíme přísahu věrnosti." />
+    <string id="CN20EFDE" text="Naneštěstí by ode mě bylo při těchto poměrech poněkud pošetilé, kdybych na vás nezaútočil." />
+    <string id="CPWbB47d" text="Slyšel jsem o vás! Už dlouho jsem se s vámi chtěl seznámit." />
+    <string id="csxzwd17" text="Takže jsi vyhrál ten turnaj... No, v těchto věcech vždycky hraje roli štěstí, to je jisté." />
+    <string id="CUfZXlOd" text="Vaše jméno si budu pamatovat." />
+    <string id="d2QGFdRJ" text="Nemáš šanci. Vzdej se, nebo tě vykuchám jako rybu.[ib:warrior][if:convo_angry]" />
+    <string id="D5SIBhjl" text="Určitě si pamatuješ, jak {TOURNAMENT_WINNER} vyhrál ten turnaj tady... Nezaslouženější vítězství jsem nikdy neviděl....." />
+    <string id="dC8acIya" text="Já jsem {CONVERSATION_CHARACTER.LINK} z {CLAN_NAME}." />
+    <string id="dD6hNymL" text="Moji chlapci a já... Ať už jste slyšeli cokoli, respektujeme autority. Doufáme, že můžeme být užiteční." />
+    <string id="dD93WVhO" text="Jediné, co byste o mně měli vědět, je, že jsem velmi dobrý přítel a rozhodně mě nechcete za nepřítele." />
+    <string id="dhwnbgoz" text="Ne, to nefunguje." />
+    <string id="DIjtFVu8" text="Tvoje poslední kapka krve? Tak to ji asi budu muset prolít já." />
+    <string id="dKmAktt7" text="Nemůžeš mě porazit, a pokud se o to pokusíš, dám ti bolestnou lekci. Ustup! [ib:warrior][if:convo_angry]" />
+    <string id="dLHsoh3f" text="Slyšel jsem o tobě. Tvé jméno vyvolává v lidských srdcích strach. To je ta nejlepší pověst, jakou můžeš mít. Možná máme společné zájmy." />
+    <string id="dlkg2jQf" text="Jsem {CONVERSATION_CHARACTER.LINK}, z {CLAN_NAME}, jednoho ze starobylých rodů Sturgianů." />
+    <string id="DLV6F3ob" text="Možná jsi o Karakhergitech neslyšel. Odvažujeme se hodně do sešívaných zemí, do zkažených zemí. Neklaníme se žádnému chánovi. Nešijeme obilí. Držíme se starých způsobů uprostřed velkých travin." />
+    <string id="dniQq29H" text="Řeknu to na rovinu. Nejsi z dobré rodiny. Někdo by řekl, že si kladete příliš vysoké cíle. Předpokládejme však, že se ve světě vyšvihnete. Co bys dělal?" />
+    <string id="DRzsgjsD" text="Jsem {CONVERSATION_CHARACTER.LINK}, z rodu {CLAN_NAME}, jednoho z nejslavnějších rodů v dějinách říše." />
+    <string id="dvpbyoAQ" text="Slyšel jsem o tobě. Konečně se setkáváme. Zníš jako dobrá {?PLAYER.GENDER}žena {?}muž{\?}, kterého je třeba znát. Občas si spolu promluvíme." />
+    <string id="DxuuarNT" text="Znám tvé jméno - a podle toho, co se o tobě říká, bych řekl, že ho zná i nejedna truchlící vdova. Ale to se mě netýká." />
+    <string id="E9B7Vrbx" text="Přepadl jsi mou osadu v {SETTLEMENT_NAME}. Teď jsem tě přivedl do bitvy. Braň se!" />
+    <string id="eHuiRxC4" text="A co ten turnaj tady, co? A představ si, že si ti soutěžící mysleli, že mají proti mně šanci." />
+    <string id="EIThhVgG" text="Znám tvé jméno. Rád jsem tě poznal." />
+    <string id="ELtT9ctL" text="Možná znáš Skolderbrodu. Na bitevním poli nemáme konkurenci. Očekáváme, že dostaneme zaplaceno podle naší hodnoty, a to není levné, ale pokud přijmeme vaši minci, budete mít naši přísahu, že budeme dodržovat podmínky smlouvy, a to až do naší smrti, bude-li to nutné." />
+    <string id="ETxtYU6C" text="Takže... udělal sis dobré jméno..." />
+    <string id="eu6O20oJ" text="Podívejte, rád bych za vaši věc prolil svou krev. Ale musím se starat o své příbuzné a o ty, kteří u mě hledají ochranu. Potřebuji od tebe víc." />
+    <string id="EXgm5Utx" text="Přejeme {?GENDER}jí{?}mu{\?} dlouhý život!" />
+    <string id="eyxfHmCU" text="Já jsem {CONVERSATION_CHARACTER.LINK}, z {CLAN_NAME}. Náš rod slouží vlandiánským králům již po generace." />
+    <string id="eZh2qzeR" text="A co ten turnaj v {TOURNAMENT_TOWN}, co? A představte si, že si ti soutěžící mysleli, že mají proti mně šanci." />
+    <string id="f2eZL7w5" text="Ach, předpokládám, že jsem povinen dát ti šanci, abys mohl plakat o svůj život. Vzdáš se tedy?[ib:warrior][if:convo_mocking_revenge]" />
+    <string id="f3X79aDs" text="Takže... slyšel jsem, že jsi toho hodně procestoval. Nepochybně jsi viděl spoustu podivných a hrozných věcí. Možná jsi udělal pár divných a hrozných věcí. No tak, pověz mi něco o svých cestách. Slibuji, že nebudu šokován." />
+    <string id="Fb7JxGKM" text="Jo... znám vaše jméno. Dobře. Na povídání nejsem, takže přeskočíme polévku a přejdeme rovnou k masu." />
+    <string id="fbArcLAA" text="Má paní, pokud jste stejně zkušená jako zbraň a máte spravedlivou tvář, pak by se vás vaši nepřátelé měli vskutku bát!" />
+    <string id="FbstpIYj" text="Neříkej, že jsem ti nedal šanci." />
+    <string id="FFXqPFwl" text="Jsem {CONVERSATION_CHARACTER.LINK}, z {CLAN_NAME}, jednoho z nejslavnějších rodů v análech Vlandiánského království." />
+    <string id="fHFpgitO" text="Rád tě poznávám. Vždy si pamatuj, že odvaha je sice chvályhodná, ale největší ctností je soucit." />
+    <string id="flctCQUT" text="Jak galantní. Doufám, že jednoho dne budu mít příležitost vám to oplatit." />
+    <string id="FpD4Y9cX" text="Děkuji vám. Musím zůstat tvým nepřítelem, ale přesto jsem ti vděčný.[if:convo_relaxed_happy]" />
+    <string id="FYLmd2ch" text="Přepadl jsi mé nájemníky v {SETTLEMENT_NAME}. Není třeba říkat, že mě to nepotěšilo." />
+    <string id="g3oFsCtd" text="Požádal jsi o smír. Budu věřit, že budete ctít válečné zvyky a nebudete se pokoušet o žádné úskoky." />
+    <string id="G8ol9sG3" text="Je mi líto, že s vámi musím bojovat, ale musím. Pokud se ovšem nechceš vzdát.[ib:warrior][if:convo_stern]" />
+    <string id="gBRBdsIe" text="Jsem si jist, že někdo s tvou pověstí ví, že nic na tomto světě nemá takovou cenu jako váha tvého slova. Mluv se mnou pravdivě a já s tebou udělám totéž." />
+    <string id="gggmhjd7" text="Nejsem si jist, zda mi můžeš nabídnout něco, co bych neudělal lépe, kdybych si prostě vzal." />
+    <string id="ghawrJRK" text="Slyšel jsem, že jste přepadli {SETTLEMENT_NAME}. To je můj majetek, ty kreténe. Myslíš si, že ze mě uděláš slabocha? Za tohle zemřeš." />
+    <string id="GO47mubj" text="Co přesně navrhuješ?" />
+    <string id="Gp3l5fjI" text="Takže, co se týče toho úkolu, který jsem ti dal... No, můžu jen doufat, že ses snažil, jak nejlépe umíš, jak jsi řekl." />
+    <string id="gxV3M6HH" text="Samozřejmě přeji {?GENDER}jemu{?}jemu{\?} dlouhý život a vítězství nad všemi {?GENDER}jeho{?}jeho{\?} nepřáteli. Říci něco jiného by byla zrada, jak jistě víš." />
+    <string id="gyCA2mZP" text="Jak vidím, nemáme o čem diskutovat." />
+    <string id="HaHZss32" text="Jsem {CONVERSATION_CHARACTER.LINK}, věrný služebník {LIEGE_TITLE}." />
+    <string id="HbVsATfi" text="Znám tvé jméno. Lidé chválí tvou statečnost. Nezapomeň však, že čest a soucit je také třeba pěstovat." />
+    <string id="heKSWVJk" text="Ach, předpokládám, že jsem povinen dát ti šanci vzdát se, ale doufám, že to neuděláš. Docela se těším, až uvidím, jak dobře máš hlavu připevněnou ke krku.[ib:warrior][if:convo_mocking_aristocratic]" />
+    <string id="hfftfRcq" text="Bohužel, v tomhle si asi prostě nerozumíme." />
+    <string id="hIFazIcK" text="Tak ať!" />
+    <string id="hP35jSyk" text="Jsem {CONVERSATION_CHARACTER.LINK}, z rodu {CLAN_NAME}." />
+    <string id="hQlpbksp" text="Ano... Oba jsme byli na tom turnaji v {TOURNAMENT_TOWN}, že? Takže zklamání... Doufám, že ten darebák {WINNER_NAME} prohraje cenu ve hře v kostky." />
+    <string id="hQsjeTix" text="Vzdávám se! Uděl mi válečné pocty a prokaž si čest! [if:convo_thinking]" />
+    <string id="HwhUEZPE" text="Jo... znám tvé jméno. Nic proti tobě nemám, příteli. Nepleť se do mých záležitostí a já se nebudu plést do tvých." />
+    <string id="HwsshsMz" text="Jsem rád, že jsme se v té nedávné záležitosti dokázali dohodnout." />
+    <string id="i1RXpQxR" text="Pamatuješ si na náš souboj? Byl to dobrý souboj. Ale obávám se, že s výhodou, kterou teď mám, si nemohu dovolit být tak sportovní." />
+    <string id="I67MlgYp" text="Ne... Pokud mi nedáte víc, nemůžu to udělat." />
+    <string id="iAKHTPlP" text="Bylo mi ctí utkat se s tebou na tom turnaji tady." />
+    <string id="iepWkkfA" text="Vaše milost" />
+    <string id="ieVRr359" text="Označím vaše jméno." />
+    <string id="iM76GPzK" text="Vždycky budu naslouchat {?PLAYER.GENDER}čestné ženě {?}muži {\?}. Na druhou stranu, pokud ji postrádáte, nezatěžujte mě prosím svou společností." />
+    <string id="iOnsulPb" text="Možná jste o nás slyšel. Lidé nám říkají Záblesky plamene. Před mnoha generacemi nám Nebesa nařídila, abychom se připravili na velkou očistu země. Až do toho dne doutnáme v tichosti. Ale až ten den přijde, náš spravedlivý hněv vzplane." />
+    <string id="itfE84jd" text="Jste v přesile. Vzdejte se. Nebo se nevzdávejte. Smrt v bitvě je krásná věc.[ib:warrior][if:convo_bored]" />
+    <string id="IuSH0tcp" text="{FIRST_NAME} si vždy {?GENDER}splnila{?}splnil{\?} povinnosti ke mě a já mám v úmyslu udělat totéž." />
+    <string id="J0wLOV3u" text="Vím, že úkol, který jsem ti dal, nebyl snadný... No, o tom už nebudeme mluvit." />
+    <string id="JBZcBg9h" text="Rád jsem tě poznal." />
+    <string id="JcdmntiC" text="Ach, ano. Podle toho, co o tobě říkali, jsem si představoval někoho, z jehož čepele ještě kape krev nepřátel, ne někoho s tvým půvabem a šarmem." />
+    <string id="JJAWbuNT" text="Jsem {CONVERSATION_CHARACTER.LINK}, z {CLAN_NAME}. Říká se, že náš předek byl mezi těmi, kdo připluli na zlatých lodích, které připluly do této země ze západu, v časech Hrdinů. Samozřejmě, pokud věříte, že na těch lodích byli všichni, o nichž se říká, že na nich byli, tak by se převrátily od tíhy." />
+    <string id="JkHvOVlo" text="Zapíšu si tvé jméno. Neberte si teď špatně, když vám hned nepodám přátelskou ruku, protože svět je zrádné místo a já jsem se naučil být obezřetný." />
+    <string id="JNb6l91E" text="Jestli chceš někdy dostat šanci na slávu, možná bys měl zvážit, jestli bys za mě nechtěl bojovat. Jednou můžeš svým vnoučatům vyprávět, že jsi sloužil pod mým velením." />
+    <string id="jr0XszmA" text="Nemohu říct, že bych to jméno slyšel, ale je dobré se s tebou seznámit." />
+    <string id="jrG4UPBr" text="Za každý můj dům, který jsi při svém nájezdu {SETTLEMENT_NAME} vypálil, vyřežu z tvého těla další kus." />
+    <string id="JS5hKW6p" text="Nepatřím k těm, kdo milují válku pro ni samotnou. Přesto však potřebuji spolehlivé válečníky, kteří jsou věrní svému slovu. Zachovám věrnost všem, kteří zachovají věrnost mně." />
+    <string id="jxduaTUc" text="Slyšel jsem o tobě mluvit - o ženě, která umí bojovat jako muž." />
+    <string id="k50ZjzZ7" text="Neviděl jsem tě od toho turnaje v {TOURNAMENT_TOWN}. Snad bude mít někdo z nás příště větší štěstí." />
+    <string id="K5Fvv504" text="Jsem {CONVERSATION_CHARACTER.LINK} z rodu {CLAN_NAME}, má {?PLAYER.GENDER}paní {?}pane{\?}, a je mi ctí vám sloužit." />
+    <string id="k6TABWrF" text="Slyšeli jsme o vašich krutých činech, když jste přepadli mou osadu v {SETTLEMENT_NAME}. Jsem zodpovědný za ochranu svých nájemníků, a pokud je nemohu ochránit, za jejich pomstu." />
+    <string id="kaEUZ8NA" text="Můj syn" />
+    <string id="kBcfMYzE" text="Bylo mi ctí utkat se s tebou na turnaji v {TOURNAMENT_TOWN}." />
+    <string id="KC7PxI8c" text="Jsi nepřítel, a proto zůstaneš vězněm." />
+    <string id="kil3bT75" text="Jednu věc bys měl vědět: Jestli mě zkřížíš, budeš toho litovat." />
+    <string id="kkOYSCSz" text="Statečná slova jsou snadná. Uvidíme, co se stane." />
+    <string id="KkWNSw9p" text="Znám tvé jméno. V mužských srdcích vyvolává strach. To je dobře. Možná bychom si někdy měli promluvit spolu." />
+    <string id="KlQlzYdS" text="To je pro Štěstěnu dobrý vtip, když se staří přátelé hádají. Budeme tančit podle jejích not, nebo se chceš vzdát? [ib:warrior][if:convo_nonchalant]" />
+    <string id="KMygMFj2" text="Je mou povinností s tebou bojovat." />
+    <string id="L2GbDVja" text="Jsem {CONVERSATION_CHARACTER.LINK} z {CLAN_NAME}, má {?PLAYER.GENDER}paní{?}pane{\?}, a je mi ctí vám sloužit." />
+    <string id="l2nEIZV5" text="Já jsem {CONVERSATION_CHARACTER.LINK} z {CLAN_NAME}." />
+    <string id="L2PFxbD3" text="Takže... Před nedávnem jsi zradil mou důvěru. Opravdu si máme o čem povídat?" />
+    <string id="L6FSmeIv" text="Říká se, že jsi hodně cestoval. Žijeme v tak hrozné době, tolik strádání. Co si myslíš o tom, co jsi viděl?" />
+    <string id="l9CJa1Do" text="Ne. To nestačí na to, o co mě žádáš." />
+    <string id="LBb7YgXU" text="právoplatný císař Kalradianů." />
+    <string id="LbpdzoRd" text="Jsem {CONVERSATION_CHARACTER.LINK}, z rodu {CLAN_NAME}. Náš rod stojí v senátu a čestně plní své povinnosti od prvních dnů císařství." />
+    <string id="lcPeNFTN" text="Rád vás poznávám." />
+    <string id="LEZKgNEm" text="Nikdy jsem o tobě neslyšel. Nepochybně další sup, který přišel do této země tloustnout na zbytcích války." />
+    <string id="lI8rPjEd" text="Za koho mě máš? Za spiklence? Ať už navrhujete cokoli, mělo by to být čestné." />
+    <string id="LkVCTVMx" text="Děkuji ti za to, co jsi pro mě udělal. Dodržel jsi své slovo. Ne každý je dnes tak spolehlivý." />
+    <string id="LYUqmf6P" text="Vyslechnu tě. Předpokládám, že nenavrhnete nic nečestného." />
+    <string id="mHP7PtrJ" text="Eh. To je dobrá nabídka." />
+    <string id="Mlpy0SQo" text="Vzdávám se! Bojoval jsi dobře. Není důvod k dalšímu krveprolití.[if:convo_thinking]" />
+    <string id="MSiuWF7V" text="Víc už nemůžeme snést! Pozvedli jsme prapor vzpoury a budeme bojovat proti nepřátelům lidu, dokud nebudou splněny naše spravedlivé požadavky." />
+    <string id="mUa4sDgF" text="Přepadl jsi mou osadu v {SETTLEMENT_NAME}. Teď jsem tady, abych vám splatil, co vám dlužím." />
+    <string id="MUHdZHFw" text="Hodně jsem o vás slyšel. Říká se, že se svou zdatností ve zbrani vyrovnáš i těm nejstatečnějším mužům. Snad jednou vyzkouším svou udatnost proti tvé, ať už v turnaji, nebo na bitevním poli!" />
+    <string id="MUuNmr6C" text="Šance dnes nejsou ve tvůj prospěch. Můžeš s námi bojovat, ale také se nemusíš stydět, když se teď vzdáš.[ib:warrior][if:convo_thinking]" />
+    <string id="MzKWlFTv" text="Škoda, že spolu musíme bojovat. Chceš se vzdát? [ib:warrior][if:convo_stern]" />
+    <string id="N5pglyyU" text="Ať je po tvém." />
+    <string id="NeUilOqh" text="Vítáme cizince v naší zemi. Lesy jsou rozlehlé a zvěře k lovu a jídla k sběru je tu dost pro všechny. Jsou však i tací, kteří sem přicházejí, aby nás okradli, zotročili nebo na nás uvalili daň. Každé jaro se při tání objevují těla těchto zlodějů." />
+    <string id="nJgp2MoR" text="Znám tvé jméno - a podle toho, co jsem slyšel, se zaručuji, že ho zná i nejedna truchlící vdova. Ale to se mě netýká." />
+    <string id="nLbQ8rpF" text="Váš návrh je nanejvýš přijatelný." />
+    <string id="NmlauVxB" text="Mm. Pokračujte." />
+    <string id="Nq2dyiO1" text="Jsem {CONVERSATION_CHARACTER.LINK}, z rodu {CLAN_NAME}, jméno, které jste jistě mnohokrát slyšeli v ságách o Sturgianech." />
+    <string id="nRnbBnFq" text="Já jsem? No... Jsem vděčný.[if:convo_relaxed_happy]" />
+    <string id="NW1n9k45" text="Bratranec" />
+    <string id="o2aKr8JD" text="Slyšel jsem tvé jméno." />
+    <string id="o4talwN5" text="Ještě jednou děkuji, že jsi souhlasil, že tu záležitost vyřídíš za mě." />
+    <string id="O8wTipT2" text="Děkuji vám. Až budeš konečně poražen, požádám, aby tvá smrt byla rychlá a milosrdná. Pokud se k nám ovšem nechceš přidat... Prozatím se rozlučte.[if:convo_nonchalant]" />
+    <string id="ODa9Eikp" text="Ten nájezd na {VILLAGE_NAME}... Inu, chudí trpí za chyby svých pánů, říká se." />
+    <string id="OgzAlCkk" text="Ještě se vzpamatovávám z modřin, které jsi mi způsobil." />
+    <string id="oIrz5050" text="Vaše výsosti" />
+    <string id="oW51mkNE" text="Můžete s námi bojovat, ale mnoho vašich mužů bude zabito a pravděpodobně prohrajete. Vzdej se a ušetři nás oba zbytečného krveprolití.[ib:warrior][if:convo_stern]" />
+    <string id="oxMlxVqd" text="Přepadl jsi mou osadu v {SETTLEMENT_NAME}. Za to zemřeš!" />
+    <string id="oZnVxkp0" text="Co se stalo v {VILLAGE_NAME}... Nemám rád takové útoky na nevinné vesničany. Přál bych si, aby takové věci nebyly nutné." />
+    <string id="PBgLvyOa" text="Jsem {CONVERSATION_CHARACTER.LINK}, z {CLAN_NAME}. Naši předkové patřili k těm, kteří přišli z dalekého severu, aby přijali knížecí denár a přísahali bránit tyto země, a my jsme této přísaze zůstali věrni." />
+    <string id="pDN7Wafo" text="Chán Khuzaitů" />
+    <string id="PFgGnk7z" text="Je samozřejmé, že vám zachovávám věrnost." />
+    <string id="Pg8vccKF" text="Nikdy jsem o tobě neslyšel. Pochybuji, že mi způsobíte velké potíže." />
+    <string id="pgIaAnBt" text="Takže ten problém, o který jsem tě požádal, aby ses postaral... prý nedopadl dobře." />
+    <string id="PhTv43ve" text="Ach, ano. Konečně se setkáváme. Zníš jako dobrá žena, kterou je třeba znát. Občas si spolu promluvíme." />
+    <string id="PKzNW9do" text="Bylo to těžké, když jsi přepadl mou osadu v {SETTLEMENT_NAME}. Válka je krutá, ale nedělej ji krutější, než je nutné." />
+    <string id="pn79h0aj" text="Jsem {CONVERSATION_CHARACTER.LINK}, z {CLAN_NAME}. Titul jsme dostali od samotného císaře Vortiose. Ne že by měl na výběr, protože byl tehdy v zajetí na jedné z našich přepadových lodí, ale jsem si jistý, že uznal ušlechtilost naší krve." />
+    <string id="pQkiu5qf" text="Chceš, abych ti dal další úkol, abys mě mohl znovu zradit?" />
+    <string id="PQZfXcU1" text="Slyšel jsem tvé jméno. Lidé mluví o tvých činech. Je dobré se s tebou konečně setkat." />
+    <string id="pXULuzaq" text="Vzdávám se! Vyhrál jsi. Ať je tento den proklet! [if:convo_angry]" />
+    <string id="pZj9C1yA" text="Ať se stane vůle nebes. Ale ti, kdo uhladí cestu, budou odměněni." />
+    <string id="q5nQGimE" text="Já jsem {CONVERSATION_CHARACTER.LINK}, z rodu {CLAN_NAME}. Ačkoli by člověk neměl být na svůj rod příliš pyšný, s potěšením mohu říci, že jsme vždy brali vážně svou povinnost chránit prostý lid Říše." />
+    <string id="qa2xUjcT" text="Znám tvé jméno. Mohu jen doufat, že to, co jsem slyšel, není pravda." />
+    <string id="qB3wfM1f" text="Jsem rád, že jsme se s vámi dokázali dohodnout, a to už dříve." />
+    <string id="Qb4tlTEj" text="Ale už dost řečí. Vzdej se, nebo bojuj! [ib:warrior][if:convo_angry]" />
+    <string id="QhkM71ap" text="Je mi ctí tě poznat, dobrý pane." />
+    <string id="QpBmbygb" text="Možná jsi o nás slyšel - o Eleftheroi. Naši otcové byli zloději, uprchlíci a výtržníci - to nezapřeme. Přišli jsme sem, protože nás nikde jinde nechtěli. Ale řeknu ti tohle - jestli říše přežije, bude to díky mužům, jako jsme my, kteří dělají těžkou krvavou práci tady na divokých polích, ne díky těm, kteří pohodlně spí ve svých postelích." />
+    <string id="qRW6JkXM" text="Slyšel jsem, že to ty jsi přepadl mou osadu  {SETTLEMENT_NAME} a sebral úrodu a dobytek. Mám podezření, že tvoji muži museli mít hlad, ale to moji nájemníci také. Budeme bojovat o to, co zbylo?" />
+    <string id="qSF2z6Wa" text="I have not heard of you, but you have the look of a {?PLAYER.GENDER}woman{?}man{\?} who might make something of {?PLAYER.GENDER}herself{?}himself{\?}, some day." />
+    <string id="QuNcB0dA" text="Dobrá tedy. Přijímám." />
+    <string id="qvwfev22" text="Mám vás v hrsti. Vzdej se, nebo zemři.[ib:warrior][if:convo_aggressive]" />
+    <string id="R6sTYEaz" text="Z toho se nevymluvíš." />
+    <string id="ra7YMN8S" text="Jsi mi věrný. Jestli uslyším jediné slovo proti tobě, vyříznu tomu člověku jazyk." />
+    <string id="RajD4RC1" text="Nikdy jsem o tobě neslyšel." />
+    <string id="rCNUXFTN" text="Vzdávám se! Gratuluji k vítězství.[if:convo_beaten]" />
+    <string id="reg1AUxr" text="Mé dítě" />
+    <string id="rhTUDKhJ" text="Jsem {CONVERSATION_CHARACTER.LINK}, z {CLAN_NAME}. Není klanu Battanů, který by do naší sbírky pohárů na pití nepřispěl lebkou některého ze svých šampionů." />
+    <string id="rK2dayAa" text="Dobrá tedy. Jsem připraven to udělat." />
+    <string id="rndbZI9I" text="Neberte si to špatně, ale někteří by řekli, že míříte trochu jinam, než je vaše postavení. Ale řekněme, že tvůj vzestup ve světě. Co byste dělal?" />
+    <string id="RNZ9LOxc" text="Můj přítel" />
+    <string id="rPrBa7gK" text="Můj manžel" />
+    <string id="Rs0aUNlQ" text="Vesničané v {VILLAGE_NAME} na nás budou dlouho vzpomínat." />
+    <string id="rUzbs0Zr" text="Khatun z Khuzaitů" />
+    <string id="ry1ycxNY" text="Kéž by k tomu nedošlo." />
+    <string id="s1FVPS5D" text="Jsem {CONVERSATION_CHARACTER.LINK}, z rodu {CLAN_NAME}. Naše rodina slouží říši už po generace." />
+    <string id="S1vGzr8z" text="Jsem {CONVERSATION_CHARACTER.LINK} z rodu {CLAN_NAME}, který patří k rodu Aserai." />
+    <string id="s6xlGuTH" text="Budu ctít podmínky jednání, pokud vy učiníte totéž." />
+    <string id="sax2tF9L" text="Jsi vskutku {?PLAYER.GENDER}žena{?}muž{\?} cti, {?PLAYER.GENDER}madam{?}sire{\?}. Na to nezapomenu.[if:convo_relaxed_happy]" />
+    <string id="sEfAuErj" text="Někteří lidé říkají, že to dotáhneš daleko... Předpokládejme, že se dostaneš do mocenského postavení. Co bys dělal?" />
+    <string id="SJ3bpDxC" text="Nepoznávám tvůj prapor, ale zjevně jsi vysoce postavená dáma. Považujte mě prosím za svého nejpokornějšího služebníka." />
+    <string id="sJNrVlXa" text="Slyšela jsem, že se dost často pohybujete... Tak... povězte mi něco o svých cestách." />
+    <string id="SSuL62NZ" text="Jsem věrná {FIRST_NAME}. Ať nikdo neříká opak." />
+    <string id="sswCmQZ2" text="Říkají nám Jezerní krysy, ale my jsme raději známí jako svobodní lidé z bažin. Žádný kníže ani bojar nás nedonutí sklonit hlavu a podrbat kolena. Vězte to a nejspíš spolu budeme dobře vycházet." />
+    <string id="T0Cdfsx2" text="Požádal jsi o jednání. Kdybys byl v pokušení zkusit nějaký trik, věz, že mám připravené lučištníky, kteří tě udrží v poctivosti." />
+    <string id="t3FQbYU6" text="Vaše vítězství v turnaji v {TOURNAMENT_TOWN}... No, v těchto věcech vždycky hraje roli štěstí, to je jisté." />
+    <string id="t6sRVI5C" text="Moje žena" />
+    <string id="T8kAgaPd" text="Ne - potřebuji víc, abych si byl jistý, že své stoupence nevedu na smrt." />
+    <string id="tA4wDLt2" text="Požádám své písaře, aby si poznamenali tvé jméno." />
+    <string id="te2DSMtg" text="Už si to nenecháme líbit. Prolijeme krev utlačovatelů a každého, kdo se postaví do cesty našemu spravedlivému hněvu." />
+    <string id="tOanKs9o" text="Já jsem {LIEGE_TITLE}." />
+    <string id="tRSD2C3k" text="Ten úkol jsi na sebe vzal za mě. Velmi pěkně odvedená práce." />
+    <string id="tUa5WBpp" text="právoplatná císařovna Kalradianů" />
+    <string id="TUwY7IKc" text="Takže... opravdu jsi mě dostal. Nejsem si jistý, jestli si teď máme o čem povídat." />
+    <string id="TvqjhDaQ" text="Takže, můj mladý lve. Vypadáš jako někdo, kdo to může dotáhnout daleko, pokud neskončí mrtvý." />
+    <string id="Tvy4UvJC" text="Královna Vlandianů" />
+    <string id="tXnSN2ey" text="Myslím, že jsme se nedohodli." />
+    <string id="TzPC5L5X" text="Vždycky hledám dobré bojovníky. Pokud se na mě zeptáš, předpokládám, že ti řeknu, že se o své muže dobře starám." />
+    <string id="U4p70l9B" text="Jsem {CONVERSATION_CHARACTER.LINK} z {CLAN_NAME}." />
+    <string id="u5b8UKaa" text="Ten nájezd na {VILLAGE_NAME}... Krutý, ale doufejme, že přinese rychlejší konec války." />
+    <string id="U770Bvy8" text="Jsem {CONVERSATION_CHARACTER.LINK}, z {CLAN_NAME}. Sláva našeho rodu nemá v battanských písních obdoby." />
+    <string id="U9u8Qeu4" text="Možná jsi už slyšel o Vlčích kůžích, cestovateli. My jsme šelmy. Věz, že dokud nejíme vařené maso, nenosíme tkané látky a nespíme pod střechou, nemohou se nás dotknout lidské zákony. Proto k nám přistupuj opatrně." />
+    <string id="Ua0T0A7t" text="Jsem {CONVERSATION_CHARACTER.LINK}, z {CLAN_NAME}, jednoho z prastarých rodů Battanů." />
+    <string id="UBtWqLDS" text="Slyšel jsem, že tví muži přepadli chudé vesničany z {SETTLEMENT_NAME}. Měl bys vědět, že jsou pod mou ochranou. Až příště přepadneš nějakou osadu, snaž se, aby tě její majitel nenačapal..." />
+    <string id="UehvSvLD" text="Ta práce, kterou jsem ti dal... Řekl bych, že jsi mě zklamal." />
+    <string id="ufa20b2l" text="S těmi, kdo dodržují přísahu, se vypořádám. Pokud patříš k těm, kteří si svého slova neváží, neztrácej můj čas." />
+    <string id="Ufn3916B" text="Slyšel jsem o tobě. Takže se teď setkáváme. Nejsem z těch, kdo mluví, takže jestli mi chceš něco říct, řekni to." />
+    <string id="UyIuz9dt" text="Co se stalo v {VILLAGE_NAME}... Válka je krutá." />
+    <string id="v2664Qeo" text="..." />
+    <string id="v4nyY62z" text="královna Sturgianů" />
+    <string id="VB5R2lAb" text="Správně. Takže tím naše malá dohoda končí." />
+    <string id="ve7pKxrc" text="Vesničané tam u {VILLAGE_NAME}... To mohli být moji lidé..." />
+    <string id="vN4spwD1" text="Vězte, že jestli se mi někdy postavíte, skončíte jako potrava pro šakaly." />
+    <string id="vNnMHR84" text="Děláš si čest, {?PLAYER.GENDER}madam{?}sire{\?}. Na tohle nezapomenu...[if:convo_relaxed_happy]" />
+    <string id="VOExVZtX" text="Omlouvám se. Nemám rád krveprolití, ale nemohu tě nechat odjet bojovat další den." />
+    <string id="VUn8mQ5n" text="Nejvyšší král Battanů" />
+    <string id="w1BKhf5F" text="Když jsi přepadl {VILLAGE_NAME}, vzal jsi mi můj majetek, takže ti vezmu hlavu a připevním ji na první budovu, kterou obnovíme." />
+    <string id="w6CzYbRH" text="Od toho turnaje jsem tě tu neviděl. Snad bude mít jeden z nás příště větší štěstí." />
+    <string id="w7EY8rbd" text="Změňme téma." />
+    <string id="WbAAkcbw" text="Je mi ctí tě poznat, má paní." />
+    <string id="Wec8VlAQ" text="Gratuluji ti k vítězství v tom turnaji v {TOURNAMENT_TOWN}." />
+    <string id="WFwoWAic" text="Vzdávám se! Vzdávám se! Odvolejte své psy! [if:convo_angry]" />
+    <string id="WH8P3Y5F" text="Jsem {CONVERSATION_CHARACTER.LINK} z {CLAN_NAME}." />
+    <string id="wkZzavDk" text="Takže to vypadá, že se nedohodneme Ale přijď později s lepším návrhem a já tě vyslechnu." />
+    <string id="WnxA6JQl" text="Rád jsem tě poznal. Podívej, jedné věci si cením, a to, že lidé drží slovo, takže jednej se mnou na rovinu a já budu jednat na rovinu s tebou." />
+    <string id="wrIYDx9V" text="Jsem volný? No... Tak tedy nashledanou.[if:convo_nonchalant]" />
+    <string id="Wt4iJPcd" text="Slyšel jsem o tobě! Je velmi dobré se s vámi konečně seznámit." />
+    <string id="WVeS3Lsb" text="Nehledejte věci tohoto světa, ale žízněte po božské pravdě." />
+    <string id="wWwoTzpG" text="Bratr" />
+    <string id="x3EZDo5k" text="Slyšel jsem, že máš ve zvyku napadat bezbranné vesničany, jako jsou moji nájemníci v {VILLAGE_NAME}. Myslím, že moji muži pro tebe budou tvrdším soustem." />
+    <string id="xb5RGe0W" text="Ještě jednou děkuji, že jste se za mě ujal této drobné záležitosti. Hodně štěstí." />
+    <string id="XBbdhx4M" text="Znovu opakuji, že jsem rád za vaši pomoc." />
+    <string id="xH4KJEBP" text="Přísahal jsem {?GENDER}její {?}jeho {\?}službě. To je vše, co k tomu mohu říci." />
+    <string id="xHjVl9gR" text="Slyšel jsem o tobě. Konečně se setkáváme. Zníte jako dobrá {?PLAYER.GENDER}žena {?}muž{\?}, kterého je třeba znát. Občas si spolu promluvíme. Možná se nám podaří najít řešení, které bude prospěšné pro nás oba." />
+    <string id="xJ1LJ3mH" text="Jsme vám vydáni na milost a nemilost.[if:convo_beaten]" />
+    <string id="xjrRbZ3U" text="Dělejte, co musíte." />
+    <string id="Xk2rNuxQ" text="sultán Aserai" />
+    <string id="Xl25HtPL" text="Je dobré znát tvé jméno. Až tě uvidím na hostině, budu vědět, jak tě pozdravit, a až tě uvidím ve štítové hradbě, budu vědět, koho zabít." />
+    <string id="xnR3sXJP" text="{PLAYER.NAME}" />
+    <string id="xsaOxeHV" text="Mnoho jsem o tobě slyšel. Někteří muži se možná bojí ženy, která je zběhlá ve válečném umění, ale já například neodvrátím ruce, které mohou uchopit meč, pokud je jejich majitelka statečná a věrná." />
+    <string id="xUOhJEJS" text="Rád tě poznávám. Vždy hledám bojovníky, kteří si cení odvahy, slávy a dobrého jména." />
+    <string id="Y8rYJaOa" text="Jsem {CONVERSATION_CHARACTER.LINK}, z rodu {CLAN_NAME}, jednoho z nejslavnějších rodů v análech říše. Barbaři, které jsme pobili, a sláva, kterou jsme získali, nemají obdoby." />
+    <string id="y9bafYom" text="Gratuluji vám k vítězství v tomto turnaji." />
+    <string id="YayEAKaI" text="Možná jsi ještě neslyšel o Jawwalu. Nuže, až přejdeš poušť, daleko od oáz a pramenů, v zemi, kterou ostatní opovrhují, s trním vhodným jen pro kozy a velbloudy, pak jsi v našem panství." />
+    <string id="YDjLPgi3" text="Hmm. Vzbudil jsi můj zájem. Co mi chceš říct?" />
+    <string id="ygP56lXC" text="Nebesa nás obdařila svými přikázáními, která musíme dodržovat a zajistit, aby je dodržovali i ostatní." />
+    <string id="yRlINUML" text="Hah! Uvidíme, jak budeš prosit o milost." />
+    <string id="yUkG588C" text="Tohle je dobré. Jsem rád, že jsme se dohodli." />
+    <string id="YWOSDu1W" text="To stačí! Rozhodl jsem se žít a bojovat další den. Věřím, že budeš respektovat válečné zvyky a dovolíš mi zaplatit spravedlivé výkupné.[if:convo_thinking]" />
+    <string id="z1s1qOma" text="Myslím, že vím, o čem mluvíš. Čest mi vylučuje, abych o tom vůbec uvažoval." />
+    <string id="z2yr4mc6" text="Jsem {CONVERSATION_CHARACTER.LINK}, z {CLAN_NAME}. Náš klan věrně slouží chanátu Khuzaitů už po generace." />
+    <string id="Z3E8MDaB" text="Napadl jsi mou osadu v {SETTLEMENT_NAME}. Ach, nebudu předstírat, že by se moji muži také trochu pobavili, kdybych to byl já, kdo by navštívil vaši osadu. Ale jako ochránce svých nájemníků mám jistou povinnost je trochu pomstít. Neberte si to prosím osobně." />
+    <string id="ZH04pkV6" text="král Sturgianů" />
+    <string id="ZlA0uc8z" text="Ještě jednou ti děkuji, že jsi souhlasil s vyřešením tohoto mého problému. Přeji vám s ním hodně štěstí." />
+    <string id="zPbQs8Zt" text="Mohu ti nabídnout slavnou smrt v boji, nebo pohostinnost mých kobek.[ib:warrior][if:convo_mocking_teasing]" />
+    <string id="zwRbpQJ0" text="Už jsem o tobě slyšel! Škoda, že jsme se takto setkali." />
+    <string id="zZ9FQJRI" text="Jsem {CONVERSATION_CHARACTER.LINK}, z {CLAN_NAME}, nejstaršího a nejvznešenějšího aserijského rodu." />
+  </strings>
+</base>

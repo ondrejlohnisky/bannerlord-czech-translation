@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="07OrsbVH" text="Silný šroub" />
+    <string id="0h7l0uK3" text="Stepní vynikající luk" />
+    <string id="0LoGEHxz" text="Pouštní kroužková čapka" />
+    <string id="0PSC0Vkf" text="Přilba s brýlemi přes kůži" />
+    <string id="0Pxq8UqX" text="Vysočinský plášť" />
+    <string id="0rzKQbWy" text="Stepní poloviční plášť" />
+    <string id="1A57qBlx" text="Battánské dlouhé kopí" />
+    <string id="1aotLA6v" text="Horalská štika" />
+    <string id="1iS91QJH" text="Battanský obouruční meč" />
+    <string id="1LHNLYqc" text="Těžký scimitar" />
+    <string id="1pjTjmHR" text="MP Test Píky" />
+    <string id="1tABvwsL" text="Dlouhý parameron" />
+    <string id="1X2X0Qe4" text="Barbarský kůň" />
+    <string id="1yvsiaZ6" text="Battanský těžký palcát" />
+    <string id="1yzNGUJH" text="Císařská sekera" />
+    <string id="2BlJHSeu" text="Císařská kožená zbroj" />
+    <string id="2FwUtU6h" text="Sturgiánská vrhací sekera" />
+    <string id="2iaLi16f" text="Přilba z horalské kůže" />
+    <string id="2KHcAWiq" text="Keffiyeh s látkovou páskou" />
+    <string id="2PN7ddKx" text="Velké kopí" />
+    <string id="2Q0m5CG0" text="Postroj z pouštní látky" />
+    <string id="2u4RneKh" text="Severská tunika s páskem" />
+    <string id="2w09rN4S" text="Těžký bronzový lamelový plášť přes kroužkovou čapku" />
+    <string id="2xvB6XQP" text="Stepní houževnatý kůň" />
+    <string id="3aPKkyd2" text="Vlandiánský krátký meč" />
+    <string id="3c3uqW3d" text="Battanský krátký meč" />
+    <string id="3eb3ZyiU" text="Vynikající luk" />
+    <string id="3qF14kaR" text="Císařský plášť Pauldron" />
+    <string id="3WdXljdt" text="Houževnatý nahasan" />
+    <string id="3Wzhxkn1" text="Hrnec" />
+    <string id="3XSuOAYT" text="Dlouhý luk Yeow" />
+    <string id="42KNket2" text="Horalské boty" />
+    <string id="4a99jSHC" text="Stepní kožená ramena" />
+    <string id="4aFPp5hj" text="Lehký oválný štít" />
+    <string id="4iqTIpAs" text="Šlechtická přilba s kožešinou" />
+    <string id="4OT8Re4a" text="Pouštní postroj" />
+    <string id="4Q4JVfuT" text="Medvědí kůže" />
+    <string id="4xUR2kAj" text="Císařský těžký palcát" />
+    <string id="5bEHZ2z1" text="Císařská přilba s brýlemi" />
+    <string id="5DVBFbLV" text="Ušlechtilý velký meč" />
+    <string id="5YGP047h" text="Paramerion" />
+    <string id="607BAdXw" text="Západní dlouhé kopí" />
+    <string id="6eO6QDoE" text="Sturgiánské těžké kopí" />
+    <string id="73U5RElj" text="Kožešinový klobouk" />
+    <string id="7566s7pt" text="Pěchotní pošta přes pruhovanou kůži" />
+    <string id="7jemQg2V" text="Těžký ostnatý šíp" />
+    <string id="7R8r1WvR" text="MP test 2h sekera" />
+    <string id="7rhZlXdO" text="Lovecký dlouhý luk" />
+    <string id="7zIWNagP" text="Těžký luk" />
+    <string id="84gnexLb" text="Pouštní kůň" />
+    <string id="8bH8n3Aq" text="Lehký vysoký hřebenový štít" />
+    <string id="8DnJls9z" text="Stepní kožené nárameníky" />
+    <string id="8dvj7xik" text="Sturgiánský meč" />
+    <string id="8frVbv2b" text="Northlandská lamelová ramena" />
+    <string id="8nObGQqW" text="Rhomphaia" />
+    <string id="8nuXQ9F9" text="Kožešinový plášť" />
+    <string id="8oKVhtth" text="Brigádnická zbroj s přezkami" />
+    <string id="8qwg1gr3" text="Štít starého jezdce s drakem" />
+    <string id="8Sy6nZPs" text="Stepní bojový kůň" />
+    <string id="9aVMFixc" text="Sturgiánské dlouhé kopí" />
+    <string id="9GCPcCss" text="Rychlý lovecký luk" />
+    <string id="9NW9y1ll" text="Zkušební palcát" />
+    <string id="9rXUVscR" text="Tuareg" />
+    <string id="9XhksMzN" text="Západní oštěp" />
+    <string id="a3vHlztg" text="Plátované páskové rukavice" />
+    <string id="a4hyzv3f" text="Tarpan" />
+    <string id="a8ycVmwU" text="Bardiche" />
+    <string id="abGJeb3q" text="Sturgiánská  lamelová zbroj" />
+    <string id="acufJvyn" text="Dlouhý menavlion" />
+    <string id="aDEjwU8L" text="Dřevorubecká sekera" />
+    <string id="aDeVl2EL" text="Sturgiánský oštěp" />
+    <string id="Ae9L1a9g" text="Maul" />
+    <string id="aGvBKCG8" text="Vlčí hlava" />
+    <string id="aGxtOTB8" text="Horalská sekera" />
+    <string id="AHel76R6" text="Khuzaitský těžký palcát" />
+    <string id="aHQCG5Tn" text="Řetězové brnění" />
+    <string id="AIu3kKvz" text="Osedlaný kůň" />
+    <string id="ajifXc8I" text="Plumbata" />
+    <string id="AJjEnCGN" text="Šupinová pošta" />
+    <string id="aKIqpIf0" text="Stepní rychlý krátký luk" />
+    <string id="aMB36bbl" text="Sturgiánský dlouhý pěchotní oštěp" />
+    <string id="AO5LPmQf" text="Těžký kontos" />
+    <string id="aR1Tl119" text="Kurýrní boty" />
+    <string id="arabgbEK" text="Battánský jezdecký meč" />
+    <string id="aT7w4Npp" text="Battánský bodný palcát" />
+    <string id="AWlrtbep" text="Severská rybí harpuna" />
+    <string id="b0pyML1S" text="Sturgiánské kopí" />
+    <string id="b5dkMbBp" text="Sturgiánský krátký oštěp" />
+    <string id="B8p6E8GJ" text="Tabar" />
+    <string id="bAXuK5eG" text="Aserská lamelová zbroj" />
+    <string id="bcnknjPD" text="Battánský palcát" />
+    <string id="bDfKz5SZ" text="Praky" />
+    <string id="BDGbu59Q" text="Jaculanský kůň" />
+    <string id="bdgTtBDq" text="Obouruční železný palcát" />
+    <string id="bkg0kWHH" text="Khuzaitský pěchotní kyj" />
+    <string id="BLeQnEKZ" text="Kožené boty" />
+    <string id="BlTREYCY" text="Přilba strážného lorda" />
+    <string id="bOPllY2F" text="Sturgiánský jezdecký meč" />
+    <string id="brmba4ca" text="Lehký oštěp" />
+    <string id="Bruzcqbm" text="Těžký cepín" />
+    <string id="btoJTO9G" text="Nájezdnická sekera" />
+    <string id="BwOZwFxm" text="Aserai Pike" />
+    <string id="bYmKOh4p" text="Zkušební kopí" />
+    <string id="bYxnCJjq" text="Pěchotní plášť" />
+    <string id="bZ0aUz2b" text="Těžký palcát Aserai" />
+    <string id="bzCoIgk7" text="Vojenský účet" />
+    <string id="bzr6vtXi" text="Těžký menavlion" />
+    <string id="bzrVXGAl" text="Zdobená bronzová pásková helma přes koženoui čapku" />
+    <string id="bZSQpada" text="Císařská těžká sekera" />
+    <string id="C077yplu" text="Zdobený štít Khuzait" />
+    <string id="c1a5Pt8j" text="Bronzový nosní plášť přes kroužkovou čapku" />
+    <string id="c6dK068V" text="Khuzaitské dlouhé kopí" />
+    <string id="cBZ6OlKW" text="Oštěp" />
+    <string id="cCaHNMwf" text="Vysokohorské omotávky na nohy" />
+    <string id="CEk1LX84" text="Sturgiánské dlouhé kopí" />
+    <string id="cEUqPott" text="Aserské dlouhé kopí" />
+    <string id="CgG2aRyh" text="Půlšupinový plášť" />
+    <string id="CJCatm7j" text="Lehčí štít z dubového draka" />
+    <string id="cjHygHb0" text="Hrncová přilba s hrotem přes polstrování" />
+    <string id="courserhorse" text="Courser" />
+    <string id="cQMDVJnE" text="Císařská bojová sekera" />
+    <string id="Csfcw8G7" text="Slovenská kůže" />
+    <string id="CtzzoSBc" text="Krátká obouruční sekera Skoldern" />
+    <string id="CuZ2eWxn" text="Battanský bastardský meč" />
+    <string id="cVYVpeBS" text="Nájezdnická přilba přes kroužkovou čapku" />
+    <string id="Cw5N7rK6" text="Válečný kurýr" />
+    <string id="cwC8Jp99" text="Horalská ramenní kožešina" />
+    <string id="CXnhFf1t" text="Vyztužené kožené nárameníky" />
+    <string id="CyJiWngO" text="Bronzové šupiny na ramenou" />
+    <string id="dK4f8ArH" text="Císařská zbraň" />
+    <string id="DnhVJl4d" text="Dlouhý pouštní plášť" />
+    <string id="DScCbmoS" text="Šlechtické nárameníky Battania" />
+    <string id="DxRrAuRo" text="Battanské kopí" />
+    <string id="DyXDcO36" text="Aseraiské zdobené kroužkové brnění" />
+    <string id="e0SDWwmU" text="Robustní stepní zbroj" />
+    <string id="Eb106Xg8" text="Sturgiánský krátký meč" />
+    <string id="eDMDUUfw" text="Aseraiské kroužkové brnění" />
+    <string id="eEMgc7yU" text="Battanský vyztužený velký štít" />
+    <string id="Ejx5lXjk" text="Sturgiánský pronásledovatel" />
+    <string id="EOz0edW4" text="Stepní přilba" />
+    <string id="EPehLvzV" text="Císařský oštěp" />
+    <string id="EpkGO9qE" text="Kovové vidle" />
+    <string id="eQBDt5Wk" text="Pádový poník" />
+    <string id="eso5zk60" text="Přilba lorda Aserai" />
+    <string id="eTKxlDl1" text="Boty horalského válečníka" />
+    <string id="FexNLsO5" text="Císařské oštěpy" />
+    <string id="FHakBPXw" text="Hauberk" />
+    <string id="FLBYsvxp" text="Dlouhý meč" />
+    <string id="FmN4ryxu" text="Velký meč" />
+    <string id="FyXM8Iob" text="Pouštní látkový nárameník" />
+    <string id="Gbfot0SN" text="Aserský jezdecký palcát" />
+    <string id="GEHTam8H" text="Battanský průzkumný štít" />
+    <string id="GFKPrrb8" text="Přilba šlechtice Aserai" />
+    <string id="gfvG04SP" text="Pouštní kožený nárameník" />
+    <string id="gKhpLiyg" text="Poštovní a plátová ochrana" />
+    <string id="Goloz0Vm" text="Husnphree" />
+    <string id="gTptIfxY" text="Pouštní čepice" />
+    <string id="GTWUtUFj" text="Řetězový koňský postroj" />
+    <string id="gXbmGrGL" text="Zdobené císařské boty" />
+    <string id="gXu0brD7" text="Vlandiánská sekera" />
+    <string id="H41qKfaL" text="Horalská šlechtická přilba s pérem" />
+    <string id="h5IlkYck" text="Těžký plášť" />
+    <string id="h5kfaD4v" text="Charger" />
+    <string id="hCBCLp0e" text="Půlpancéřová a plátová ochrana" />
+    <string id="HEsETRqw" text="Zesílený jezdecký štít s drakem" />
+    <string id="hF11nBki" text="Vlandiánský jezdecký meč" />
+    <string id="HFIsOSHl" text="Jezdecká obouruční sekera" />
+    <string id="hj563EZr" text="Kulatý štít s hroty" />
+    <string id="HKPCngu0" text="Jezdecká sekera" />
+    <string id="Hm7D4Z6v" text="Northlander Ring Barding" />
+    <string id="hTRaPvRa" text="Horalské kožené boty" />
+    <string id="Hy4uQ7d5" text="Vlandiánský jezdecký palcát" />
+    <string id="I1faIdpc" text="Rváč" />
+    <string id="I1ZBVhON" text="Stepní nárameník s cvočky" />
+    <string id="I2yl5DWj" text="Těžký chuzaitský šíp" />
+    <string id="I8zNQS7i" text="Skolderská obouruční sekera" />
+    <string id="Ia7K4egV" text="Lordská přilba" />
+    <string id="iauvbwL3" text="Strážný luk" />
+    <string id="IbrLksih" text="Východní lehká sekera" />
+    <string id="igAT9Eqb" text="Stepní Charger" />
+    <string id="IH9GsYzv" text="Pytlovité kalhoty" />
+    <string id="ihN5JZ9h" text="Nasalhelm přes kůži" />
+    <string id="IJjrSbiV" text="Rekurzivní luk" />
+    <string id="IKhu13vZ" text="Lehký kulatý štít" />
+    <string id="ilLE877K" text="Sedlo ze stepní kožešiny" />
+    <string id="iNJr5HOM" text="Šídlo Štika" />
+    <string id="inquCxkd" text="Oštěp Aserai" />
+    <string id="inr9Mt1i" text="Khuzaitské kopí" />
+    <string id="INWSxn7C" text="Bronzová lamelová ramena" />
+    <string id="inYBaDwu" text="Zdobená železná pásková helma přes kroužkovou čapku" />
+    <string id="IOt4KTHs" text="Středozemní palfrey" />
+    <string id="iPfZpGHK" text="Těžký oválný štít" />
+    <string id="IPp2QGwE" text="Srp na seno" />
+    <string id="Is7j0Ir8" text="Battanský šlechtický obouruční meč" />
+    <string id="isuBaIqQ" text="Železný štít s drakem" />
+    <string id="it3sDnGw" text="Sturgiánský kulatý štít" />
+    <string id="ITKKkoXI" text="Nájezdnická těžká sekera" />
+    <string id="IWv37ncp" text="Lehký postroj Northlander" />
+    <string id="J4fgemze" text="Sturgiánské kopí" />
+    <string id="J4YgK18g" text="Dlouhý falx" />
+    <string id="ja2rER65" text="Zkušební kopí" />
+    <string id="JbTCDDb0" text="Šroub" />
+    <string id="jEHLd5gm" text="Kilij" />
+    <string id="JfPqJbK6" text="Rychlý Charger" />
+    <string id="jhgVsWKr" text="Tyalský kůň" />
+    <string id="jjHpXY4d" text="Kožešinová kapuce" />
+    <string id="JkLoAelJ" text="Poštovní ramena" />
+    <string id="jm9CnURw" text="Těžký bodný šíp" />
+    <string id="joroqAbR" text="Flyssa" />
+    <string id="Jt0Mcn4D" text="Divoká zbroj" />
+    <string id="JW1mE68R" text="Vrstvený pouštní plášť" />
+    <string id="jy1VQ7Yg" text="Khuzaitský jezdecký palcát" />
+    <string id="KD4pxN2C" text="Šlechtický meč Aserai" />
+    <string id="KIxX6dH2" text="Hrubá kožešina na řetězu" />
+    <string id="kOV5t7Yx" text="Danustický kůň" />
+    <string id="KpyTaAwL" text="Šlechtická přilba s horským pokovem" />
+    <string id="L0aYVd65" text="Tunika prostého člověka" />
+    <string id="l2j9CAQn" text="Bastardský meč" />
+    <string id="l2pEOHk6" text="Sekera Aserai" />
+    <string id="Ldqb9oAF" text="Pauldrony horalského válečníka" />
+    <string id="LI3rc6S2" text="Vrhací sekera Aserai" />
+    <string id="lPeLZge5" text="Pancéřové pytlovité kalhoty" />
+    <string id="lspv3mUE" text="Stepní plášť s hřeby" />
+    <string id="Lt8nT1hb" text="Lamelové nárameníky" />
+    <string id="LwxELoZL" text="Koňský postroj s polovinou šupin" />
+    <string id="lwxOPEPx" text="Gladius" />
+    <string id="lxDZyKbU" text="Těžké kopí Aserai" />
+    <string id="LyaWykYa" text="Šlechtická přilba s chráničem krku" />
+    <string id="Mbf8qAxs" text="Dlouhá obouruční sekera" />
+    <string id="mbT1uNPa" text="Dýka" />
+    <string id="mDHMOUdx" text="Pěší proutěný štít" />
+    <string id="mFM5jUuF" text="Dlouhé pěchotní kopí Khuzait" />
+    <string id="MS1gaKXk" text="Battanská vrhací sekera" />
+    <string id="ms4AKynl" text="Plátované boty" />
+    <string id="mStaaxFF" text="Pouštní kroužková zbroj na rameno" />
+    <string id="MUdwS6jH" text="Tvrdší tyalský kůň" />
+    <string id="mVAaWp5U" text="Císařský Charger" />
+    <string id="mXQsNAmZ" text="Bodkinský šíp" />
+    <string id="n21mBbbR" text="Účet" />
+    <string id="nbjUGjaZ" text="Štít sturgiánského jezdce" />
+    <string id="newiAaR9" text="Zdobená přilba s brýlemi" />
+    <string id="nhoDWrVf" text="MP test 2h meč" />
+    <string id="Nk7bQUWJ" text="Obouruční meč Aserai" />
+    <string id="NKZ0P4aU" text="Vlandiánské dlouhé kopí" />
+    <string id="nmLZEjYg" text="MP Test 2h palcát" />
+    <string id="Np2OoVNd" text="Sturgiánský lehký palcát" />
+    <string id="nPSYRs2Q" text="Test štika" />
+    <string id="NSo8tGhT" text="Battanské kopí" />
+    <string id="nTjEUF9z" text="Hrubý velký kulatý štít" />
+    <string id="NTPmtaaN" text="Červený plášť přes kroužkovou čapku" />
+    <string id="O4agNHhn" text="Hbitý kůň" />
+    <string id="OdsXaOjG" text="Khuzaitský šíp" />
+    <string id="OEbGMbG2" text="Koňský postroj s horskými šupinami" />
+    <string id="oeE1E3FJ" text="Vlandiánský bastardský meč" />
+    <string id="OeKwbpM7" text="Sedlo Stepního koně" />
+    <string id="OGqTKRVm" text="Bambusové kopí" />
+    <string id="OL1oJ9j5" text="Dale Pony" />
+    <string id="OnpIGPEG" text="Battánský velký bronzový štít" />
+    <string id="oppGd4nH" text="Kulatý chuzaitský štít" />
+    <string id="OuD7PfvY" text="Císařský zpětný luk" />
+    <string id="Oyeu738O" text="Přilba lorda ze Severní země" />
+    <string id="p2gPB04v" text="Stepní kožený pauldron" />
+    <string id="PF7sPCYq" text="Oštěpy" />
+    <string id="PPpvY6BZ" text="Khuzaitský jezdecký štít" />
+    <string id="pTtFr5Iw" text="Vlandiánský vojenský srp" />
+    <string id="PxVFJaEM" text="Korunovaná plátová přilba" />
+    <string id="pyupZxJK" text="Kontos" />
+    <string id="PZPphq6H" text="Stepní válečný kůň" />
+    <string id="Q2F2uqRE" text="Vlandiánský pauldronský plášť" />
+    <string id="QcCC59DA" text="Pruhovaná ramena" />
+    <string id="QCOWP3E9" text="Přilba stepního jezdce" />
+    <string id="qEcDWNci" text="Ostnatý šíp" />
+    <string id="qFV7uqVW" text="Krátké kopí" />
+    <string id="QtuZSbG9" text="Zdobená pásková helma přes čapku" />
+    <string id="QUGDr6Te" text="Scimitar" />
+    <string id="QVGL3eB0" text="Otevřená pouštní přilba" />
+    <string id="radJHwRW" text="Těžký jezdecký štít s drakem" />
+    <string id="RF7uVEGp" text="Bambusové kopí" />
+    <string id="RGwcnlmQ" text="Obouruční dřevorubecká sekera" />
+    <string id="RIswqnuJ" text="Přilba s brýlemi" />
+    <string id="RJ8CcdJn" text="Krátký stepní luk" />
+    <string id="rLFdje27" text="Khuzaitský krátký oštěp" />
+    <string id="RmUJJelp" text="Huberk z husarských kůží" />
+    <string id="rq5FMLVI" text="Kočovný krátký luk" />
+    <string id="RTIzskq1" text="Lendmanská přilba přes plnou poštu" />
+    <string id="RtlqkbZ9" text="Zkušební sekera MP" />
+    <string id="RVkS0Mt3" text="Battanský šlechtický meč" />
+    <string id="rysPCUOp" text="Přilba Northlandera" />
+    <string id="rzhIJ8Yh" text="Poutnická kápě" />
+    <string id="s03kaATW" text="Khuzaitské kopí" />
+    <string id="SGa04hNj" text="Vlandiánské těžké kopí" />
+    <string id="SIdCIRfG" text="Pauldrony z mosazných šupin" />
+    <string id="spcj3XIw" text="Zabalený keffiyeh" />
+    <string id="SRZzySbP" text="Horalské lesní boty" />
+    <string id="SUKemgo6" text="Battanské jezdecké kopí" />
+    <string id="SZmyhMO2" text="Štít battánského jezdectva" />
+    <string id="sZsOeSQ4" text="Jezdecký menavlion" />
+    <string id="t1HEYuSD" text="Vázaná adarga" />
+    <string id="t68bkisr" text="Kladivo" />
+    <string id="TB6NGI82" text="Kmenový štít Khuzait" />
+    <string id="TfDFlmpb" text="Odporná kožešinová zbroj" />
+    <string id="TGpFbISX" text="Kožená přilba s cvočky" />
+    <string id="tiSffNik" text="Zdobená železná pásková helma přes koženou čapku" />
+    <string id="Tj1Zb47Q" text="Stepní kožené boty" />
+    <string id="TjoKgbV6" text="Uzavřená přilba s brýlemi" />
+    <string id="tKODIU0F" text="Kožená lamelová ramena" />
+    <string id="TmJubG8W" text="Battania plášť na ramenou" />
+    <string id="TTWL7RLe" text="Kuše" />
+    <string id="TV02bZ4t" text="Nošený jezdecký drak Štít" />
+    <string id="TziEtAIK" text="Vlandia Řetězové brnění" />
+    <string id="u2QRZy2x" text="Mp Zkušební meč" />
+    <string id="UCvfcokJ" text="Lopata" />
+    <string id="uF4IqQIK" text="Kaskara" />
+    <string id="UG8aeEQH" text="Císařský válečný kůň" />
+    <string id="UHcXARc6" text="Ild" />
+    <string id="UHItyOQY" text="Stepní kůže s cvočky" />
+    <string id="ujB7Eq9S" text="Aserský palcát" />
+    <string id="UkR3F9lV" text="Vlandiánský vznešený meč" />
+    <string id="Ur3Q4U5x" text="Těžký tartanový plášť" />
+    <string id="uvmmBd41" text="Vázaný pouštní kulatý štít" />
+    <string id="uwkGsgxJ" text="Khuzaitské vrhací kopí" />
+    <string id="UxTD6XGA" text="Omotaný šátek" />
+    <string id="uxVG86DF" text="Khuzaitské dlouhé kopí" />
+    <string id="v1CIJWs1" text="Horský oštěp" />
+    <string id="v23z53yg" text="Nosní přilba" />
+    <string id="v3lIxLvX" text="Pila" />
+    <string id="vAQJvloo" text="Dlouhá spata" />
+    <string id="Vdi0vZV7" text="Horský plášť" />
+    <string id="veB9S1OI" text="Hbitý poník Dale" />
+    <string id="VEufDIXI" text="Západní kopí" />
+    <string id="vh1x8VWw" text="Císařský palcát" />
+    <string id="VIVfoHRj" text="Jasanové vrhací kopí" />
+    <string id="vmJLhccb" text="Zdobená přilba" />
+    <string id="VTMc9pMS" text="Battánský dlouhý meč" />
+    <string id="vw9qbiER" text="Stepní postroj" />
+    <string id="vwVFF1XJ" text="Horalské kožešinové boty" />
+    <string id="WbjNNE8Z" text="Horalská vyztužená fianská pošta" />
+    <string id="wD3Yuvfc" text="Stepní prošívaná kůže" />
+    <string id="wg8wXRLp" text="Battanský dlouhý pěchotní oštěp" />
+    <string id="WiPJqTXv" text="Uzavřená pouštní přilba" />
+    <string id="Wo5RbJia" text="Horalský lesní plášť" />
+    <string id="WOzcBg62" text="Vyztužená harpuna na severní ryby" />
+    <string id="wrM9Km0n" text="Horalský koňský postroj" />
+    <string id="WsUvpBwM" text="Rychlý krátký luk" />
+    <string id="wwAFqJE3" text="Zbrojní meč" />
+    <string id="WXjQNIJW" text="Pouštní přilba s volným zábalem" />
+    <string id="WyxIVvhe" text="Oválný štít Aserai" />
+    <string id="xb2tMFSz" text="Krátký luk" />
+    <string id="XcWJyWlF" text="Vlandiánský palcát" />
+    <string id="XiI81DUa" text="Kmenový dlouhý luk" />
+    <string id="xl5MgK49" text="Přilba sturgiánského těžkého jezdectva" />
+    <string id="xn5CfwON" text="Polstrovaná ramena válečníka" />
+    <string id="XOC81pVz" text="Uzavřená pouštní přilba s kroužkovou čapkou" />
+    <string id="xODbCO6k" text="Složený luk" />
+    <string id="xS7m37o7" text="Špičatá přilba přes kroužkovou čapku" />
+    <string id="xW2NPgay" text="Východní srp" />
+    <string id="xYC1bkr7" text="Sturgiánský dlouhý štít" />
+    <string id="XzoyPCvS" text="Khuzaitská štika" />
+    <string id="y3RNBGtv" text="Císařský jezdecký palcát" />
+    <string id="Y7wtGUKA" text="Sturgiánský těžký oštěp" />
+    <string id="y9uMjAKT" text="Zesílená semišová ramena" />
+    <string id="y9uZrJv2" text="Sturgiánská přilba válečníka" />
+    <string id="YAYhozbN" text="Stepní kůň" />
+    <string id="YEUFtX4G" text="Vlčí nárameník" />
+    <string id="yf3zokFF" text="Oštěp západního jezdectva" />
+    <string id="YHWqNIYu" text="Battánský oštěp" />
+    <string id="ykCJ3hDB" text="Nákrčník s bodcem" />
+    <string id="Yms2FQ7g" text="Poloviční řetězový plášť" />
+    <string id="yPeC0Vgs" text="Nahasan" />
+    <string id="yQqsd0bh" text="Císařský šroub" />
+    <string id="ys3kQM0R" text="Císařská lamelová zbroj" />
+    <string id="YUWhHQmz" text="Ironlame Feathered Spangenhelm" />
+    <string id="z8d2uyY1" text="Segmentovaný cevellier přes šněrovací čapku" />
+    <string id="ZFde57gC" text="Drsné horalské sedlo" />
+    <string id="ZJweh5Oh" text="Bastardská sekera" />
+    <string id="zKJtr0MV" text="Makebský kůň" />
+    <string id="zmEnxUpL" text="Císařský plášť" />
+    <string id="zNoDVcHg" text="Klusák" />
+    <string id="Zo7jJbQj" text="Pouštní přilba s kroužkovou čapkou" />
+    <string id="ZOa7p47T" text="Zakřivené boty se špičkou" />
+    <string id="ztgczd7L" text="Chuzaitské jezdecké kopí" />
+    <string id="ZvMcHde3" text="Sekera" />
+    <string id="ZzzUQjna" text="Vznešená sekera" />
+  </strings>
+</base>

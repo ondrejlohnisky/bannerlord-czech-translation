@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="01zQKaF3" text="Tvar očí" />
+    <string id="05loYcST" text="Zásah štítem na zádech" />
+    <string id="05w8Tl7n" text="Stepní" />
+    <string id="0cpbEvsG" text="Stará tvář" />
+    <string id="0DBQGaka" text="Udělená škoda kopím!" />
+    <string id="0ezfbORI" text="Předpřipravený typ hry" />
+    <string id="0HTNYQz2" text="Režim" />
+    <string id="0P89VyAQ" text="Asymetrie obličeje" />
+    <string id="0WHQKap4" text="Časový limit pro výběr vybavení (sekundy)" />
+    <string id="0xJ3qIlJ" text="Linie čelistí" />
+    <string id="180DfbQU" text="Důkazní materiál" />
+    <string id="1b2dfc0n" text="Žádost o připojení družiny zamítnuta." />
+    <string id="1fFnE9Vk" text="Evropa" />
+    <string id="1GFrsDRm" text="Prahová hodnota pro přijetí ankety" />
+    <string id="1gU5rDws" text="Povolit ankety pro zákaz hráčů" />
+    <string id="1kCkzrpc" text="Uzamknout pro zobrazení členů týmu" />
+    <string id="1Ndyb5I1" text="Doba odstranění příznaku (sekundy)" />
+    <string id="1r0tDsrR" text="Útok!" />
+    <string id="1siBGYlP" text="Šířka lícní kosti" />
+    <string id="1zveWQFg" text="Přejděte na kartu matchmaking a vyberte oblast, abyste se mohli zařadit do fronty na bitvu." />
+    <string id="21m0Bo08" text="Zrušit ztlumení hlasu" />
+    <string id="22MOa4Fc" text="Vnější výška oka" />
+    <string id="23INS6nf" text="Požadované heslo" />
+    <string id="26SJhCRD" text="Nahradit" />
+    <string id="2blpQ3OQ" text="Vady obličeje" />
+    <string id="2d0H47C8" text="Vzdálenost mezi očima" />
+    <string id="2G3QpSDk" text="Konkávní/konvexní rty" />
+    <string id="2KrDfHI8" text="Připojení k družině se nezdařilo kvůli nastavení oprávnění platformy." />
+    <string id="2QzgefNF" text="Hmotnost obličeje" />
+    <string id="2Rf2ChRD" text="Hloubka obočí" />
+    <string id="2uynGJbP" text="Přesun jednotek" />
+    <string id="3AInGztr" text="Torzo" />
+    <string id="3APdsKEi" text="Vrhací nůž" />
+    <string id="3aX5gXmJ" text="Barva kůže" />
+    <string id="3EbTklMi" text="Získal jsi nový odznak: {BADGE_NAME}." />
+    <string id="3Kkya96j" text="Noha" />
+    <string id="3kqFHkZz" text="Tloušťka rtů" />
+    <string id="3syV6ymi" text="Tupý" />
+    <string id="3ydKbDmI" text="{PLAY_TIME} minut" />
+    <string id="3ZzxddkE" text="Heslo hry" />
+    <string id="43L45sjx" text="Počet botů na formaci" />
+    <string id="4b2hRWiI" text="Hrad Domogtul" />
+    <string id="4daqsVWG" text="Pomocí spoluhráčům a zabíjením nepřátelských jednotek získávejte zlato, za které si můžete koupit respawny vyšší úrovně." />
+    <string id="4DcNDein" text="Časový limit na mapě (minuty)" />
+    <string id="4Dd2xgPm" text="Hmotnost" />
+    <string id="4jv2sW4U" text="Obchodní stanoviště" />
+    <string id="4NaOKslb" text="-" />
+    <string id="4ompPd8W" text="Váš klan sdílel nové oznámení." />
+    <string id="4SWcDUJC" text="Pevnost Ayzar" />
+    <string id="4wLU6s4S" text="Břicho" />
+    <string id="4yiB8CRO" text="Negativní!" />
+    <string id="52YN6m2B" text="Způsobeno poškození vztyčenou tyčovou zbraní!" />
+    <string id="5IR8g3YL" text="Statistiky kapitána" />
+    <string id="5LpufKs7" text="Následuj mě" />
+    <string id="5mSKBidd" text="Tvar nosu" />
+    <string id="5odwu8qB" text="Hodnost" />
+    <string id="5rj7xQE4" text="Luk" />
+    <string id="5tbWdY1j" text="Avatar" />
+    <string id="5vZW8IJ5" text="Výměna s {ITEM_NAME}" />
+    <string id="621DbiOw" text="Asymetrie nosu" />
+    <string id="64n3piBf" text="Celkem her" />
+    <string id="66aByatH" text="Zrušit vypnutí zvuku Text" />
+    <string id="6DBVzw9r" text="Sestavit" />
+    <string id="6usZYAVm" text="Zneužití komunikace" />
+    <string id="6yZnboe6" text="Velikost oční jamky" />
+    <string id="74tYdiOb" text="Vybírejte své vojáky moudře podle potřeb svého týmu. Počty oddílů se určují podle síly oddílu." />
+    <string id="77arWi0m" text="Vnitřní výška oka" />
+    <string id="7BlOJvyo" text="Šířka úst" />
+    <string id="7lvexPjZ" text="Obyčejné" />
+    <string id="7MkoLtWC" text="Sekera" />
+    <string id="7nLM1z2V" text="Minimální skóre pro vítězství v souboji" />
+    <string id="880uOrte" text="Terén" />
+    <string id="8bnYsGu6" text="Přístav Ovsk (zima)" />
+    <string id="8EsaVlSX" text="Ostrov Deriad" />
+    <string id="8K0DR83v" text="Spolupracujte se svými spoluhráči v tomto rychlém, taktickém herním režimu PvP. Získávejte zlato zabíjením nepřátel a zároveň se snažte zlomit morálku nepřátelského týmu nebo zcela zničit jeho síly." />
+    <string id="8o1lZcjR" text="Vnější výška obočí" />
+    <string id="8sG5bTtK" text="Období opětovného příchodu na scénu" />
+    <string id="8vXHhxPr" text="Přepínání umělé inteligence" />
+    <string id="9aboazgu" text="Linie" />
+    <string id="9kEUK9iY" text="- Vyberte si požadovanou třídu ze všech dostupných typů jednotek{newline}- Bojujte s protivníkem v boji jednotlivce{newline}- Poražte protivníka třikrát, abyste vyhráli souboj a získali jeho odměnu." />
+    <string id="9S7liri5" text="Tato možnost je vypnuta z důvodu dosažení limitu ukládání." />
+    <string id="9TGLirQf" text="Kruh" />
+    <string id="9Ts5zKIj" text="Oči" />
+    <string id="a2xfNmqa" text="V lobby" />
+    <string id="A38xbjqm" text="Aktivně bojovat" />
+    <string id="a8nb5HVc" text="Střední výška obočí" />
+    <string id="aAD1iOuH" text="Velikost horní části úst" />
+    <string id="aALNy4Es" text="Ulice Syllianonu" />
+    <string id="aDabgVpn" text="Přizpůsobení postavy" />
+    <string id="adyGICWc" text="Komora zablokována!" />
+    <string id="AEcTBnkz" text="Změna oblečení" />
+    <string id="aGTgzoqW" text="Povolit ankety pro kopání hráčů" />
+    <string id="AmbKQ7LT" text="Přenos" />
+    <string id="AoNh2ihL" text="Nepřítel spatřen!" />
+    <string id="auDOtbza" text="Kulturní tým 1" />
+    <string id="averageConnection" text="Průměrný" />
+    <string id="Ayrvf5yp" text="Zabít" />
+    <string id="aZVxHbwH" text="Zabit {TROOP_NAME}" />
+    <string id="b0L0jbIa" text="Pozice očí" />
+    <string id="b74zosgq" text="Velikost nosu" />
+    <string id="bAPQFzcW" text="Poškození projektilem" />
+    <string id="BBKp1Ajq" text="Povolit nahrávání mise" />
+    <string id="bbYwqrvo" text="Tvar čelisti" />
+    <string id="bdljU1ig" text="Statistiky týmového deathmatche" />
+    <string id="BFWD0pCE" text="Přátelská palba Poškození na dálku Přítel" />
+    <string id="bgwo3QpS" text="Útočný obsah" />
+    <string id="bH0wXnXr" text="Tato možnost je zakázána kvůli režimu Ironman." />
+    <string id="bjcixGIE" text="Tým" />
+    <string id="BJMPBcDn" text="Druhá asistence" />
+    <string id="bkysJj7F" text="Obléhací zbraň" />
+    <string id="BMPrnHpK" text="Velikost nosní dírky" />
+    <string id="bnfUdx3O" text="Výška středu" />
+    <string id="BQzP1ivS" text="Poměr obličeje" />
+    <string id="brk0f05B" text="Měřítko hlavy" />
+    <string id="bTpn4bZ8" text="Vnitřní výška obočí" />
+    <string id="BuLdsBpQ" text="Volný pro všechny" />
+    <string id="bwmlWKa2" text="Omezit na {LIMIT_VALUE}" />
+    <string id="bXIrqxKc" text="Minimální počet hráčů pro zahájení hry" />
+    <string id="bY9U7w1Q" text="Meč" />
+    <string id="bYCfMbYk" text="Změňte svůj tým" />
+    <string id="bzu60bhP" text="Omlouváme se!" />
+    <string id="c1zu1b3M" text="Byl jsi odstraněn z družiny." />
+    <string id="c2tGH5II" text="Časový limit na zahřátí (minuty)" />
+    <string id="captainasgame" text="Kapitán" />
+    <string id="cBZ6OlKW" text="Oštěp" />
+    <string id="ccROnOY3" text="Obdržel jsi poškození od kopiníků!" />
+    <string id="CFI2aDtg" text="Mount Armor" />
+    <string id="cJ5emwNF" text="Asistence" />
+    <string id="CjPiabbn" text="Střelba dle libosti" />
+    <string id="CJr1T7jh" text="Heslo správce" />
+    <string id="Cl3TziQE" text="Váš mount obdržel {DAMAGE} poškození pádem." />
+    <string id="CoxEyDa8" text="Rukavice" />
+    <string id="cSui4APH" text="Cíl zničen" />
+    <string id="d1ogH1v1" text="Hrad Tsagaan" />
+    <string id="d3RJm2zW" text="Výška čelisti" />
+    <string id="DHlVSaZW" text="Relativní rychlost pohybu: {SPEED} m/s" />
+    <string id="dojUqbv8" text="Délka nosu" />
+    <string id="dRlTmdKR" text="Systém" />
+    <string id="DU9SofaW" text="Seknutí" />
+    <string id="Dxmq32qW" text="Útok" />
+    <string id="dZ4xp6Lu" text="Šířka chrámu" />
+    <string id="e139gKZc" text="Návrat do hry" />
+    <string id="E3tCWX7w" text="Čtverec" />
+    <string id="eALf5d30" text="Děkujeme!" />
+    <string id="eEf7hE4r" text="Scatter" />
+    <string id="Ej6Gjmkc" text="Vypnuto" />
+    <string id="EmVbbIUc" text="Návrat" />
+    <string id="EUHaR98k" text="Nahlásit" />
+    <string id="EX4bKRbV" text="Počet úmrtí" />
+    <string id="EZRnvPJS" text="Tváří v tvář tomuto směru" />
+    <string id="f4ZeGAJi" text="Relativní rychlost střely: {SPEED} m/s" />
+    <string id="f5y9qyDb" text="Rameno" />
+    <string id="F6dUDgg3" text="Porazit" />
+    <string id="F6l8hFEA" text="Útesy Akkalat" />
+    <string id="F6WH1JaM" text="Zamknout na členy týmu" />
+    <string id="fFLBT9wb" text="Truhla" />
+    <string id="FFNJTsDL" text="Kopnout hráče" />
+    <string id="FgJpTBp1" text="Přátelská střelba Poškození na dálku Vlastní" />
+    <string id="fjD2tRXW" text="Brada dopředu" />
+    <string id="fJHsYtKu" text="Echerion" />
+    <string id="fJqJiJvl" text="Použití realistického blokování" />
+    <string id="fnJQO5Os" text="Výška špičky nosu" />
+    <string id="FoSTFipC" text="{PLAYER_NAME} je nyní odmlčen." />
+    <string id="FzJnNNam" text="Asymetrie nosu" />
+    <string id="G1HobbjU" text="Bitva kapitánů" />
+    <string id="g6cHDWJF" text="Hlava" />
+    <string id="GaF4CvmX" text="Ostrost obličeje" />
+    <string id="GcosVDAt" text="Počet asistencí" />
+    <string id="GnKCsV44" text="Délka brady" />
+    <string id="GoEo27il" text="Doba obnovení útoku" />
+    <string id="goodConnection" text="Dobrý" />
+    <string id="gQLDkSrf" text="Tato možnost je zakázána z důvodu probíhající konverzace." />
+    <string id="GQOS4d9g" text="Přepnout tváří v tvář" />
+    <string id="Gr994CTR" text="Zakázat zbraně na dálku" />
+    <string id="gUQI0PLa" text="Severní Amerika Západ" />
+    <string id="GY4NaieE" text="Čistý" />
+    <string id="GYc0Dcbn" text="Severní Amerika východ" />
+    <string id="H4PrQzvN" text="Tato možnost je zakázána z důvodu nedokončeného vzdělání člena klanu." />
+    <string id="h5OsTOFM" text="Konkávní/vypouklé rty" />
+    <string id="H7YWqwq6" text="Délka trvání počátečního kola spawnování" />
+    <string id="HgpdpYuK" text="Tělo" />
+    <string id="HL3EONMe" text="Vlastní hra" />
+    <string id="HLhT64IP" text="Soukromá" />
+    <string id="HyV2D9qZ" text="Blokáda Cypegosu" />
+    <string id="I4wnvBGd" text="Zažijte brutalitu středověkého obléhání jako obránce nebo útočník v tomto rozsáhlém herním režimu PvP. Použijte řadu obléhacích strojů k zahnání nepřátelských sil nebo k získání opěrného bodu v podhradí, když se pokusíte bránit nebo dobýt hradní pevnost." />
+    <string id="IaaVNwwb" text="Povolte funkci BattlEye" />
+    <string id="IBAaKSbp" text="Přístav v Omoru" />
+    <string id="iBk2wbn3" text="Vytvořte stránku" />
+    <string id="iDMBz55E" text="Ve hře pro více hráčů" />
+    <string id="ig0lsiwY" text="Vojáci" />
+    <string id="iJXH3841" text="Loose" />
+    <string id="IKn1YxU2" text="Procento zisku zlata Útočníci" />
+    <string id="ImWyFyld" text="Pozice úst" />
+    <string id="irGCyJaY" text="Počet zabití" />
+    <string id="ItmPmlWH" text="- Kup jeden spawn za zlato{newline}- Drž kontrolní body na mapě a vyčerpej morálku nepřítele{newline}- Zabij celý nepřátelský tým nebo vyčerpej jeho morálku k výhře." />
+    <string id="JCcbydcJ" text="{KEY} {ACTION}" />
+    <string id="JceqNdWx" text="Delegování velení vypnuto" />
+    <string id="jEh6EdF9" text="Nejlepší z {ROUND_COUNT}" />
+    <string id="JetpbYv9" text="Taint" />
+    <string id="jpeq1gF0" text="Severní město" />
+    <string id="JPimShCw" text="Typ hry" />
+    <string id="jsqyGWGu" text="Procento zisku zlata Obránci" />
+    <string id="jtLGvCac" text="Němý text" />
+    <string id="jukzZmBb" text="Získávejte zlato a body zabíjením nepřátel a pomáháním svým spoluhráčům při závodě s protihráči o vítězství." />
+    <string id="jUsEkEBt" text="Asymetrie čelistí" />
+    <string id="JW2nEe4X" text="Přátelská palba Poškození zblízka Přítel" />
+    <string id="JwnoxhKI" text="Hloubka obličeje" />
+    <string id="k4cMrbVf" text="První zabití zblízka" />
+    <string id="kCMGJl1W" text="Most" />
+    <string id="Ke7eAS5B" text="Bonus k perkům" />
+    <string id="KHx75GnA" text="Voda" />
+    <string id="Kl9aqIuX" text="Rasa" />
+    <string id="kQh0O7gn" text="Na začátku kola si vyberte požadovanou jednotku pomocí zlaťáků." />
+    <string id="KtRCqiVO" text="Pendaric" />
+    <string id="kVwwG63i" text="Povolit průzkumy pro změnu mapy" />
+    <string id="kW4c2liv" text="Použít blokování v závislosti na pokroku animace" />
+    <string id="L0lGQWt5" text="Počet botů Tým 2" />
+    <string id="L3tY2kTE" text="Přátelská palba!" />
+    <string id="L9xEQ5b2" text="Vyberte položku, kterou chcete nahradit" />
+    <string id="LaaA8U4W" text="Úhel nosu" />
+    <string id="laIfauZH" text="Eyebump" />
+    <string id="lauXoy6d" text="Počet botů ve formaci" />
+    <string id="lclQSt39" text="Časový limit kola (sekundy)" />
+    <string id="ldIXGrVi" text="Urikskalaar" />
+    <string id="lDPQa5gc" text="Prahová hodnota automatického vyvážení týmu" />
+    <string id="likop0am" text="Spustit anketu" />
+    <string id="LkiQDpi5" text="Velikost ucha" />
+    <string id="LmkYgWnF" text="Velikost oka" />
+    <string id="Lz6ggWch" text="Snížení poškození z perků a efektů: {MODIFIED_DAMAGE}" />
+    <string id="LZmOy39a" text="Statistiky obléhání" />
+    <string id="M1RCJ9DM" text="Třetí pomoc" />
+    <string id="m3zVR2UH" text="Zobrazit myš: [{KEY_NAME}]" />
+    <string id="m5UdbzHr" text="Není vybrán žádný region" />
+    <string id="M97xvRgO" text="Družina byla rozpuštěna." />
+    <string id="MciIqod6" text="Gaučové kopí" />
+    <string id="mjhOYJWg" text="Toulec je prázdný." />
+    <string id="MnM0L4AV" text="Není ve hře více hráčů" />
+    <string id="MnvK3eK2" text="Cíl je splněn" />
+    <string id="mountnoun" text="Hora" />
+    <string id="mountverb" text="Hora" />
+    <string id="mpparty" text="Družin " />
+    <string id="MS795wWa" text="První asistence" />
+    <string id="mtlNshCB" text="Zkušebna (Noc)" />
+    <string id="MW8rlyfL" text="Hozený" />
+    <string id="mwetB4R6" text="Neomezené množství zlata" />
+    <string id="MyrHcDkP" text="Ustoupil do pevnosti!" />
+    <string id="n6N21Shz" text="Získejte zlato na nákup respawnů vyšší úrovně tím, že budete pomáhat spoluhráčům, zabíjet nepřátelské jednotky a ničit obléhací stroje." />
+    <string id="NdQZWHIy" text="- Veď vlastní oddíl vojáků{newline}- Drž kontrolní body na mapě, abys vyčerpal morálku nepřítele{newline}- Zabij celý nepřátelský tým nebo vyčerpej jeho morálku, abys vyhrál." />
+    <string id="NE7PmH7n" text="Podmínky" />
+    <string id="NqarFr4P" text="Možnosti" />
+    <string id="nt5MOuwo" text="Duna" />
+    <string id="nUR7rs6y" text="Vrhněte se přímo do akce v tomto středověkém pojetí klasického herního režimu PvP." />
+    <string id="nx5W7jN0" text="Obdržíte poškození od vztyčené tyčové zbraně!" />
+    <string id="nXE6eV8W" text="Jezero" />
+    <string id="o5Ead68n" text="Ukončete hru bez uložení" />
+    <string id="O5uDFhwu" text="Hrad fen Altaj" />
+    <string id="O9F9q1zx" text="Hloubka lícní kosti" />
+    <string id="obB483C5" text="Zasažená část těla: {BODY_PART}" />
+    <string id="oBbiVeKE" text="Body zásahu" />
+    <string id="oGAzC0Ob" text="Herní režim" />
+    <string id="Ok03egKG" text="Přesun na pozici" />
+    <string id="Oud3W58w" text="Podržet {KEY} {ACTION}" />
+    <string id="ox8XcxfR" text="Tvar ucha" />
+    <string id="OZHFucP5" text="Mračení/úsměv" />
+    <string id="pa4yXyDa" text="{PLAYER_COUNT} vs {PLAYER_COUNT}" />
+    <string id="pagmdsCK" text="Výška očních víček" />
+    <string id="PbLuHcJg" text="Absorbované poškození: {ABSORBED_DAMAGE}" />
+    <string id="pCRwBpzd" text="Nos" />
+    <string id="PDdh1sBj" text="Název" />
+    <string id="Ph6PhUwX" text="Vzdálenost: {DISTANCE} m" />
+    <string id="pHaRIFa8" text="První zabití na dálku" />
+    <string id="PiHpR4QL" text="Jednoruční" />
+    <string id="PiLml6Nl" text="Útočníci drží vlajku držení po dobu 90 sekund, než vyprší morálka nebo čas. Uchopení vlajky zvýší morálku. {newline}Obránci brání hrad, dokud nevyprší morálka nepřítele." />
+    <string id="Pkw17hO0" text="Rychlost boje" />
+    <string id="pMmmfvkN" text="Nevhodná hra" />
+    <string id="pnUSAxzf" text="Přidat oficiální seznam herních serverů" />
+    <string id="poiKV9sJ" text="Potvrzuji!" />
+    <string id="poorConnection" text="Chudák" />
+    <string id="pQibMlbA" text="Nose Bump" />
+    <string id="psynaDsM" text="Tváří v tvář" />
+    <string id="PuX1G0h3" text="Dovednost jízdy na koni není dostatečná pro jízdu na koni" />
+    <string id="PY6VznGu" text="Šířka obličeje" />
+    <string id="Pzvtcbk6" text="Xauna" />
+    <string id="Q2EmU0TA" text="Bodový limit týmu" />
+    <string id="Q2yjFlC9" text="Zastavit palbu" />
+    <string id="q8lsn0U6" text="Veďte vlastní oddíl vojáků do bitvy v tomto týmovém herním režimu PvP. Ovládejte bojiště a demoralizujte nepřátelský tým nebo zničte jeho síly, abyste zvítězili." />
+    <string id="QDU03vOW" text="Způsobeno {DAMAGE} {DAMAGE_TYPE} poškození objektu." />
+    <string id="qeSbaPWi" text="Počet botů Tým 1" />
+    <string id="qF5pJt7e" text="Asymetrie očí" />
+    <string id="Qhl77Oki" text="Pomohl zabít {TROOP_NAME}" />
+    <string id="QIDj0u8w" text="Uzamknout libovolného hráče" />
+    <string id="qNga6uPw" text="Udělená škoda" />
+    <string id="qNRc3pXu" text="Vyplňte" />
+    <string id="QQX6oNbn" text="V družině" />
+    <string id="QTr6UDAa" text="Zastavit" />
+    <string id="R3BwLVmT" text="Uděleno {DAMAGE} {DAMAGE_TYPE} poškození." />
+    <string id="R9DiQfax" text="Bitva" />
+    <string id="rbYITcao" text="Ústa" />
+    <string id="rbz1Bwbv" text="Inventář" />
+    <string id="RDsOaEtS" text="Extra poškození způsobené dovednostmi, perky a efekty: {MODIFIED_DAMAGE}" />
+    <string id="Ri6KKhfy" text="Zendyar" />
+    <string id="RJEHDWmu" text="- Nakup si omezený počet respawnů za zlato{newline}- Drž kontrolní body na mapě, abys vyčerpal morálku nepřítele{newline}- Zabij celý nepřátelský tým nebo vyčerpej jeho morálku, abys vyhrál." />
+    <string id="RlDVtPpB" text="Hloubka očí" />
+    <string id="rLozutts" text="Žádost o přátelství" />
+    <string id="rTPnyeJ3" text="Štítová zeď" />
+    <string id="Rvr1bcu8" text="Další" />
+    <string id="Sbna6UGb" text="Dětská tvář" />
+    <string id="sBU9vyF1" text="Střela do hlavy!" />
+    <string id="scoreboardkick" text="Kick" />
+    <string id="SdxEH6b1" text="Tvar spodního rtu" />
+    <string id="siegemultiplayergametype" text="Obléhání" />
+    <string id="sisK3HPI" text="Jste ztlumeni." />
+    <string id="SN2ojCFr" text="Plná kůže" />
+    <string id="SNLShTzq" text="Skóre" />
+    <string id="SqR917CO" text="Zakázat kopání při nečinnosti" />
+    <string id="Suma3RVA" text="Jediný Spawn" />
+    <string id="SVAmzGRM" text="Zakázat hráče" />
+    <string id="SVeIOaab" text="Minimální skóre pro vítězství v zápase" />
+    <string id="SVnbZdJq" text="Skrýt uši" />
+    <string id="Svtb9MQv" text="Duel" />
+    <string id="sXAATSgd" text="Přístav Ovsk" />
+    <string id="sZxSeeXp" text="Počet hráčů pro ukončení rozcvičky" />
+    <string id="t1bNrw95" text="Statistiky bitvy" />
+    <string id="T1JTpYXL" text="Ztlumení hlasu" />
+    <string id="t78atYqH" text="Obouruční" />
+    <string id="t8lAbdCk" text="Ostrov Deriad (zima)" />
+    <string id="tAb8KAQb" text="Opustili jste družinu." />
+    <string id="tAeflOpj" text="Obdržel jsi {DAMAGE} {DAMAGE_TYPE} poškození." />
+    <string id="tAyw51tM" text="Povolení jednotlivých praporů" />
+    <string id="TDy1GZHv" text="Potyčka v bitvě" />
+    <string id="tE1VwKTZ" text="Vrhací sekera" />
+    <string id="tewykKdc" text="Ovládání směru bloku" />
+    <string id="tFLVZdBz" text="Tato možnost je zakázána z důvodu nedokončeného vytváření postavy." />
+    <string id="TGaU0hQi" text="Hora" />
+    <string id="TlP31w8l" text="Bricole" />
+    <string id="tnCNPJMO" text="Bažina" />
+    <string id="TOfBGa0Z" text="Vítězná série" />
+    <string id="tp6B2QGw" text="Východní Asie" />
+    <string id="tqESV37j" text="Braňte se!" />
+    <string id="TSoS5HJZ" text="Skolder Hideout" />
+    <string id="TTWL7RLe" text="Kuše" />
+    <string id="TuAP5xXV" text="Výška nosní dírky" />
+    <string id="tUETZiIp" text="Přilba" />
+    <string id="tvDuF1vU" text="Rychlost obléhací věže (v procentech)" />
+    <string id="tvHQcaC1" text="Výška lícní kosti" />
+    <string id="tYuSNFuD" text="Odznaky" />
+    <string id="U1em3vrJ" text="Rameno" />
+    <string id="U3LxBtL0" text="Zadejte heslo" />
+    <string id="U4xlUBHg" text="Šířka nosu" />
+    <string id="U6h8eatq" text="Týmový deathmatch" />
+    <string id="u8j8nN5U" text="Tváří v tvář nepříteli" />
+    <string id="UbMCCh8L" text="Nosní můstek" />
+    <string id="uCrIJ8D4" text="Sharis" />
+    <string id="uCyQNvq1" text="Skein" />
+    <string id="UEmw71kN" text="{REQUESTER} vám poslal žádost o přátelství." />
+    <string id="UHIZLFBn" text="Zabil {TROOP_NAME}" />
+    <string id="UJaQuEpD" text="Přepnout Mount" />
+    <string id="Umb8XsZH" text="Průnik" />
+    <string id="UPH3hI5P" text="Dohazování" />
+    <string id="UQabkhbG" text="Mount nabitý pro {DAMAGE} {DAMAGE_TYPE} poškození." />
+    <string id="uqzA4Q4a" text="Císařská vila" />
+    <string id="UrZvjCfE" text="Váš mount obdržel {DAMAGE} {DAMAGE_TYPE} poškození." />
+    <string id="UUKzc88q" text="Divácká kamera" />
+    <string id="UvIsHvrt" text="Řeka" />
+    <string id="V1kxYbRp" text="Přepínání ohně" />
+    <string id="V4iU0wRv" text="Zlato" />
+    <string id="v5dpjybs" text="Odměna" />
+    <string id="V6BAHTnv" text="Kulturní tým 2" />
+    <string id="VbeHEAsa" text="Ústup" />
+    <string id="VecPWliR" text="Nadměrné nahlašování hráče může vést k banu." />
+    <string id="VI4gQt8Q" text="Palcát" />
+    <string id="vkEzdL3k" text="Změna typu hry nebo scény" />
+    <string id="vM7CssWE" text="Ruiny Jawwali" />
+    <string id="vo5NpcUS" text="Tvar horního rtu" />
+    <string id="vqao3Z2N" text="Rychlost beranidla (v procentech)" />
+    <string id="VRdy76RQ" text="Skirmish" />
+    <string id="VwyBNTs3" text="Tvář" />
+    <string id="W1nzgCTY" text="Ústa dopředu" />
+    <string id="W3OXv9Tx" text="Síla Minimální pancíř" />
+    <string id="w9Jf0FeQ" text="Uzamčení na libovolného agenta" />
+    <string id="wBn6eVGS" text="Mělká řeka" />
+    <string id="WfwkVjTA" text="Spolupracujte se svými spoluhráči v tomto rychlém, taktickém herním režimu PvP. Moudře hospodařte se svými zlaťáky, abyste mohli nakupovat třídy a respawny, a zároveň se snažte zlomit morálku nepřátelského týmu nebo zcela zničit jeho síly." />
+    <string id="WhUoF9Mw" text="Stáhnout se" />
+    <string id="wIgbfqQR" text="Vlasy" />
+    <string id="wk4bgkCt" text="Sesedlat" />
+    <string id="Wl5xazIU" text="Rozšíření/zmenšení panelu mapy" />
+    <string id="WlVa7XwJ" text="Obdržel {DAMAGE} poškození při pádu." />
+    <string id="WLztEbPL" text="Výška" />
+    <string id="WnN8Ul7A" text="Počet kol" />
+    <string id="WsbShtMt" text="Desáté zabití" />
+    <string id="WsmZzaOq" text="Sloupec" />
+    <string id="WXAaWZVf" text="Předchozí" />
+    <string id="Wxlhg1f1" text="Boty" />
+    <string id="WxM16s2Y" text="Druimmorský les" />
+    <string id="wxzhtvZR" text="Období opětovného příchodu obránců" />
+    <string id="xgr9rlx3" text="Povstání v Osracu" />
+    <string id="xhnV76OL" text="Vylodění ve Skale" />
+    <string id="Xj2FCkQl" text="Seznam vlastních serverů" />
+    <string id="xoXWGYVI" text="- Použij různé obléhací stroje k útoku nebo obraně kontrolních bodů{newline}- Spawn pointy postupují podle toho, jak jsou kontrolní body obsazovány{newline}- Úspěšným útokem a udržením vlajky pevnosti nebo odražením nepřítele zvítězíš" />
+    <string id="xq9Vxpyc" text="&lt;a style=&quot;HeadshotTitle.Text&quot; &gt;&lt;b&gt;{TITLE}&lt;/b&gt;&lt;/a&gt;" />
+    <string id="XQndveFG" text="Poškození způsobené střelbou zblízka" />
+    <string id="XUKRrgOr" text="Uděleno {DAMAGE} {DAMAGE_TYPE} poškození koně." />
+    <string id="xuo8gmaL" text="- Nakupujte respawny za zlaťáky {newline}- Získávejte zlaťáky zabíjením nepřátel a pomáháním spoluhráčům {newline}- Překonejte nepřátelský tým a vyhrajte hru." />
+    <string id="xXQN7Go6" text="Monolid Eyes" />
+    <string id="ycCmfxhJ" text="Páté zabití" />
+    <string id="yClOSxT8" text="Definice nosu" />
+    <string id="yekjRMT1" text="Statistiky soubojů" />
+    <string id="YhDDXj0I" text="Kaňon" />
+    <string id="YNkPy4ta" text="Zápas klanů" />
+    <string id="YntJTd09" text="Hradiště Ebereth" />
+    <string id="YoNYyLba" text="Kopí" />
+    <string id="yQtzabbe" text="Blízko" />
+    <string id="yQu6aBw4" text="Přeskupte se!" />
+    <string id="YRabuUqx" text="Baravenos Encirclement" />
+    <string id="yRSjcxBv" text="Vydán nový update. Aktualizujte prosím svého klienta." />
+    <string id="YRymCbaa" text="Dostali jsme se skrz rozdrcené!" />
+    <string id="YSKoiyjt" text="MVP" />
+    <string id="YtSQB7rg" text="Na začátku kola si vyberte požadovanou třídu a pro další respawny použijte zlaťáky." />
+    <string id="Yvjap05b" text="Rychlost pohybu" />
+    <string id="YvK6gI6q" text="Předměstí města" />
+    <string id="yyJejJbO" text="Tvar brady" />
+    <string id="Z27nSqNt" text="Nápověda!" />
+    <string id="zatDiaEI" text="Delegování velení zapnuto" />
+    <string id="Zc2f5bhh" text="Zabijte všechny nepřátele nebo vyčerpejte morálku nepřátelského týmu nebo mějte nejvíce morálky po uplynutí času kola." />
+    <string id="zHKHwHMr" text="Venkovská oblast" />
+    <string id="zmlCRb1M" text="Maximální počet hráčů" />
+    <string id="ZMmrpMPk" text="Neck" />
+    <string id="ztGHtRNf" text="Podvádění" />
+    <string id="ZYChhMrO" text="Losování" />
+    <string id="ZZMbAjSU" text="Rozdrcený skrz!" />
+  </strings>
+</base>

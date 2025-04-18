@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="00fZGqbJ" text="Těžký den, který zabral {ENEMY_SETTLEMENT}. Ale stálo to za to." />
+    <string id="2AsFNABs" text="Pokaždé, když srazíme další skupinu těch banditů, pomyslím si, že jsem to mohl být já, kdyby se osud vydařil trochu jinak." />
+    <string id="2R19RV70" text="Slyšel jsem, že jsi zabral {SETTLEMENT_NAME}." />
+    <string id="2zjTq6N8" text="Slyšel jsem, že jsi porazil {DEFEATED_LEADER_RELATIONSHIP} v bitvě. Nebudu předstírat, že jsem příliš truchlil, když jsem to slyšel." />
+    <string id="3CKuk4Nj" text="Slyšel jsem, že ses zřekl věrnosti {TT_LIEGE.NAME}. Modleme se, abychom se nedostali do křížku." />
+    <string id="3Ksb1Hlu" text="No... Když vezmu {ENEMY_SETTLEMENT}... To nebylo tak zlé, jak jsem se obával." />
+    <string id="3vO2C8hO" text="Příteli, nikdy nezapomenu, jak jsme naše poslední bojiště zalévali krví mužů {DEFEATED_PARTY_LEADER}. Doufám, že máš žaludek na další." />
+    <string id="53MDeyby" text="No... Ti bandité vzadu nám nedělali velké potíže." />
+    <string id="5OKXtEW6" text="Bylo od tebe velmi šlechetné a ušlechtilé, že jsi mi zajistil svobodu." />
+    <string id="6KMf8lNE" text="Vzpomínám si na naše vítězství nad {DEFEATED_PARTY_LEADER}. Nezapomenu na tvou statečnost v té bitvě." />
+    <string id="7vcCSGEN" text="Slyšel jsem, že jsi porazil {DEFEATED_PARTY_LEADER}, i když měl proti tobě přesilu. Nejpůsobivější." />
+    <string id="8qkWFWTa" text="Když jsme se setkali naposledy, {PLAYER.LINK}, byl jsi lepší než já. Pokud se ještě někdy setkáme v bitvě, možná to dopadne jinak." />
+    <string id="952DmRsV" text="Slyšel jsem, že jsi slíbil věrnost {?TT_LIEGE.GENDER}paní {?}vládkyni {\?}. {TT_LIEGE.NAME}. No, nemohu říct, že bych ti věřil, ale možná si zasloužíš výhodu pochybností." />
+    <string id="9aS4em4L" text="Slyšel jsem, že jsi tu nedávno chytil nějaké bandity. Říkám dobrá práce a myslím, že ostatní obchodníci tady budou souhlasit. Vyčistěte cesty od té havěti, ať může obchod proudit." />
+    <string id="9DDmAvXD" text="Moje rodina se zřejmě domnívá, že bychom se k sobě mohli hodit." />
+    <string id="9HvWdW77" text="Slyšel jsem, že se snažíš získat zásluhy za naše vítězství nad {DEFEATED_PARTY_LEADER}. Možná si vzpomínáš, že jsem byl také na bitevním poli." />
+    <string id="9VBbSF33" text="Vzpomínám si na naši poslední bitvu. Měl bys vědět, že se se mnou nemáš znovu střetnout." />
+    <string id="A7iiTdng" text="Slyšel jsem, že tě {ENEMY_TERM} porazil, ale ty jsi tvrdě bojoval." />
+    <string id="A7nmHKBr" text="Slyšel jsem, že jsi dostal {SETTLEMENT_NAME}. Doufám, že cena za životy nebyla příliš vysoká..." />
+    <string id="ADCkcVUn" text="Slyšel jsem, že jsi slíbil věrnost {?TT_LIEGE.GENDER}paní {?}vládkyni {\?}. {TT_LIEGE.NAME}. Dobrá {?PLAYER.GENDER}žena {?}muž{\?}! Naše {?TT_LIEGE.GENDER}paní {?}vládkyně {\?} je ušlechtilá duše a odměňuje věrnost a statečnost laskavostí a štědrostí." />
+    <string id="AiamDgVH" text="Viděl jsem, jak váš lid přichází přes naše hradby... Myslím, že jsem jim vděčný, že ušetřili můj život." />
+    <string id="al0vHv5D" text="Urazil jsem {SIDE2TROOP}." />
+    <string id="ALIAwlgz" text="Slyšel jsem, že jsi bojoval a porazil {DEFEATED_PARTY_LEADER}. Přeji ti radost z tvého vítězství, příteli!" />
+    <string id="alO2F63A" text="Slyšel jsem, že jsi statečně bojoval proti {VICTORIOUS_PARTY_LEADER} a přinutil {ENEMY_TERM} za jejich vítězství tvrdě zaplatit. Vzdávám hold tvé odvaze a obětavosti tvých mužů." />
+    <string id="AtbVSdJi" text="Slyšel jsem, že jsi slíbil věrnost {?TT_LIEGE.GENDER}paní {?}vládkyni {\?}. {TT_LIEGE.NAME}. Bezpochyby ho brzy zradíte a já budu mít to potěšení sledovat, jak umíráte zrádcovskou smrtí." />
+    <string id="b55tdDVs" text="Takže jsi se přihlásil do boje po našem boku. Jsem rád, že jsi na naší straně." />
+    <string id="B8Kb89jk" text="Ta bitva proti {ENEMY_TERM}. Selhal jsi a oba jsme za to zaplatili." />
+    <string id="bb8AxGwc" text="Slyšel jsem, že jsi bojoval a porazil {DEFEATED_PARTY_LEADER}. Dobře zasazená rána!" />
+    <string id="BCNRS2ml" text="Slyšel jsem, že jsi v bitvě porazil {DEFEATED_LEADER_RELATIONSHIP}. Vždycky jsem věděl, že budeš nebezpečný nepřítel." />
+    <string id="bI2XZrAk" text="Slyšel jsem, že ses utkal s {VICTORIOUS_PARTY_LEADER} a on ti dal výprask, jaký sis zasloužil." />
+    <string id="bOKqn4dN" text="Příště ušetři mé karavany a najdi odvahu zaútočit přímo na mě." />
+    <string id="BYZXoAly" text="Vzpomínám si na naše vítězství nad {DEFEATED_PARTY_LEADER}. Jsem ti vděčný za pomoc. Ale jestli si myslíš, že se můžeš dovolávat této přízně, mýlíš se." />
+    <string id="C6iJs2Ih" text="Tak... vzal sis {FIRST_NAME}. Nepochybně budete oba velmi šťastní." />
+    <string id="CfYJZXok" text="Vzbouřil ses proti {TT_LIEGE.NAME}. Podívej, znám tě dobře. Jsem si jistý, že jsi měla své důvody. Ale neměla jsi to dělat." />
+    <string id="cQbIMImo" text="Nezapomenu na naše vítězství nad {DEFEATED_PARTY_LEADER}." />
+    <string id="cVgKHCqa" text="Vzpomínám si, jak jsme se s mými spojenci naposledy utkali s vámi. Byl to dobrý boj." />
+    <string id="CwJonOjV" text="Jsi rebel a zrádce, {PLAYER.LINK} ale nějak se stále nedokážu přinutit tě nenávidět." />
+    <string id="cWRudt73" text="Slyšel jsem, že jsi slíbil věrnost {?TT_LIEGE.GENDER}paní {?}vládkyni {\?}. {TT_LIEGE.NAME}. Bojuj proti našim nepřátelům statečně, ale také se ctí a soucitem. Dobré jméno je ve válečných záležitostech stejně cenné jako ostrý meč nebo rychlý kůň." />
+    <string id="CXbZjUzR" text="Byl jsem tady, když váš lid přišel a dobyl naše město... Nebylo to tak zlé, jak jsme se obávali. Pokud jsi jim přikázal, aby nás ušetřili, měl bych ti za tu milost poděkovat." />
+    <string id="DcRDdH6d" text="Slyšel jsem, že {VICTORIOUS_PARTY_LEADER} vás sjeli a dali vám výprask, jaký si zasloužíte." />
+    <string id="ddUxQwOX" text="Slyšel jsem, že jsi porazil {DEFEATED_PARTY_LEADER}, i když měl proti tobě přesilu. Zdravím tě, {?PLAYER.GENDER}paní{?}sire{\?}!" />
+    <string id="dJMfIABx" text="Slyšel jsem, že jsi v bitvě porazil našeho nepřítele {DEFEATED_PARTY_LEADER}." />
+    <string id="dkuhmSPi" text="Tak! Jaká svatba... Těším se na šťastný manželský život s vámi." />
+    <string id="dlfG8Bdx" text="{SIDE1TROOP} a {SIDE2TROOP} se pohádali kvůli své lásce k {SUBJECT}." />
+    <string id="dNNcebar" text="Takže teď možná lituješ, že ses zřekl své věrnosti {TT_LIEGE.NAME}?" />
+    <string id="dpaagbUb" text="Takže {DEFEATED_PARTY_LEADER} na tebe přišel s velkým hostitelem a ty jsi ho stejně zbičoval. Eh. Dobrá práce." />
+    <string id="dtaIcOa0" text="Když jsme spolu naposledy bojovali, vyhrál jsi. Těším se na příležitost vyrovnat skóre." />
+    <string id="DzpcTVWI" text="Slyšel jsem, že jsi slíbil věrnost {?TT_LIEGE.GENDER}paní {?}vládkyni {\?}. {TT_LIEGE.NAME}. Těším se, že budu bojovat po tvém boku proti našim nepřátelům." />
+    <string id="e0WSVhxu" text="Slyšel jsem, že se k nám přidáš ve službách {TT_LIEGE.NAME}. No... Udělej si laskavost a nepleť se mi do cesty." />
+    <string id="e5viS3jv" text="{SIDE1TROOP} mě urazil." />
+    <string id="e8Lec4g2" text="Slyšel jsem, že jsi slíbil věrnost {?TT_LIEGE.GENDER}paní {?}vládkyni {\?}. {TT_LIEGE.NAME}. Nepředstírám, že mě jeho rozhodnutí těší, ale možná je lepší mít tě uvnitř našeho stanu, který močí ven, než naopak." />
+    <string id="f0TZ7BRb" text="Slyšel jsem, že jsi porazil {DEFEATED_LEADER_RELATIONSHIP}v bitvě." />
+    <string id="FaQ02Yet" text="Nezapomenu na {ENEMY_SETTLEMENT}... Těžký boj, ale slavný." />
+    <string id="fjthM3fE" text="Slyšel jsem, že jsi slíbil věrnost {?TT_LIEGE.GENDER}paní {?}vládkyni {\?}. {TT_LIEGE.NAME}. Výborně... Jsem si jist, že se z nás stanou dobří přátelé. Ale pamatuj si - pokud nás zradíš, bude to ta největší chyba, kterou kdy uděláš." />
+    <string id="FxTlch69" text="Musíš si o mně myslet, že jsem opravdu poctivý člověk, když přepadáš mé karavany a očekáváš, že si toho nevšimnu. Budu předpokládat, že tvé jednání bylo myšleno jako kompliment a že si najdeš jiný způsob obživy." />
+    <string id="g3a9dmzu" text="Ti bandité nám nikdy nedělají velké potíže, ale je to asi dobrá praxe." />
+    <string id="gaHeS3qu" text="Na naše vítězství nad {DEFEATED_PARTY_LEADER} nezapomenu. Ještě jednou poděkujme nebesům a modleme se, abychom nebyli příliš pyšní." />
+    <string id="gQcyHNVT" text="Slyšel jsem, že jste dobyli pevnost {SETTLEMENT_NAME}. Nepochybně jste našli nějakého zrádce, který vás pustil branou." />
+    <string id="GXR9KGBn" text="Takové pronásledování banditů... Předpokládám, že se to musí udělat." />
+    <string id="H1t6YIMv" text="Navždy si budu vážit vzpomínky na naši bitvu proti {DEFEATED_PARTY_LEADER}. Ať jsou všechny naše bitvy stejně slavné." />
+    <string id="hjcjbEYn" text="Slyšel jsem, že jsi vzal {SETTLEMENT_NAME}. Doufám, že jsi je donutil krvácet za to, co nám udělali." />
+    <string id="hl1AFy3m" text="Slyšel jsem, že jste porazili {DEFEATED_LEADER_RELATIONSHIP}. Hah! Pobavilo by mě, kdybych viděl, jak se před tebou {?GENDER}jeho{?}jeho{\?} krčí." />
+    <string id="iEaXFpUF" text="Nevím, jakou zradou jsi porazil {DEFEATED_LEADER_RELATIONSHIP}, ale na mě to neplatí." />
+    <string id="ifNalTNK" text="Tak to je o jednu skupinu banditů, kteří loví pocestné, méně. Ale bude jich víc. Vždycky se jich najde víc." />
+    <string id="iNYL0cJ5" text="Slyšel jsem, že jsi vzal {SETTLEMENT_NAME}. Dobrá práce." />
+    <string id="Iz9jimvM" text="Nezapomenu na zajetí {ENEMY_SETTLEMENT}... Všechna obléhání jsou hrozná, dokonce i vítězství." />
+    <string id="j9CHWmr5" text="Děkuji, že jsi zaplatil mé výkupné." />
+    <string id="JCzju3in" text="Slyšel jsem, že tě {ENEMY_TERM} porazili, ale stálo je to hodně mužů. Dobře." />
+    <string id="jH77WXL2" text="Hodně se o tobě mluví - jak jsi porazil {DEFEATED_PARTY_LEADER}, i když jsi byl v přesile. Opravdu se to stalo? Nějak o tom pochybuji." />
+    <string id="jhnPucu3" text="Takže... oba se ucházíme o krásnou {FIRST_NAME}." />
+    <string id="JNub3xzU" text="Bylo těžké vrátit se tam proti {ENEMY_TERM}. Jsem rád, že jsme se z toho všichni dostali živí." />
+    <string id="jqOmOSQZ" text="Mezi válkou a smrtí drží tuto velkou zemi pohromadě jen obchod. Pokud trváš na přepadávání mých karavan a dalším podkopávání prosperity tohoto světa, musím tě porazit." />
+    <string id="k4MKDRJH" text="Vzali jste {SETTLEMENT_NAME}. Budiž. Na tvém místě bych udělal totéž. Ale vezmu si ji zpět." />
+    <string id="keJgUALH" text="No... Mohu odpustit mnoho věcí, ale je těžké odpustit zradu." />
+    <string id="Kf45xPSd" text="Možná jsi vyhrál, když jsme se setkali naposledy, ale to už se nestane." />
+    <string id="Kn0sd9dR" text="Byl jsem tady, když vaši lidé přišli přes naše hradby. Nevím, proč mě ušetřili. Tolik lidí takové štěstí nemělo." />
+    <string id="kWGF47Mc" text="V naší poslední bitvě jsi zvítězil. To už se nestane." />
+    <string id="LaBhR4Vm" text="Slyšel jsem, že tě {VICTORIOUS_PARTY_LEADER} porazil. Nebojte se, vrátíme jim dvojnásobek." />
+    <string id="LaPJJMCD" text="Slyšel jsem, že jste bojovali a porazili {DEFEATED_PARTY_LEADER}. Předpokládám, že každý pes má svůj den." />
+    <string id="lMFCQOJL" text="Vzbouřil ses a porušil jsi přísahu věrnosti mně, {PLAYER.LINK}. Nečekej slitování." />
+    <string id="lsgsuRva" text="Slyšel jsem, že jste se zřekli věrnosti {TT_LIEGE.NAME}. No, bez tebe nám bude líp." />
+    <string id="LXMcIObA" text="Moji sedláci mi řekli, že muž s tvým popisem uloupil jejich zboží a mince. Asi bych měl být vděčný, že jsi nevypálil domy do základů." />
+    <string id="LZlTOKIH" text="Slyšel jsem, že jsi tu nedávno chytil nějaké bandity. Jako obchodník oceňuji, že díky tomu budou cesty bezpečnější. Snad to další zoufalce odradí od zločineckého a darebáckého života." />
+    <string id="lzQYayR0" text="Vzpomínám si na naši poslední bitvu. Byl to dobrý boj. Přišel jsi pro další?" />
+    <string id="M43kLIaa" text="Možná jsme spolu bojovali proti {DEFEATED_PARTY_LEADER}, ale ani to nemůže vynahradit všechno ostatní, co jsi udělal." />
+    <string id="mabEK2R8" text="Slyšel jsem, že jsi nedávno chytil nějaké bandity. Mluvím-li jako obchodník, oceňujeme každou snahu o zvýšení bezpečnosti na cestách." />
+    <string id="mwF92doJ" text="Vzpomínám si na naši poslední bitvu. Byl to dobrý boj." />
+    <string id="n0SpScdp" text="Takže jsi zřejmě těžké sousto. Slyšel jsem, že {VICTORIOUS_PARTY_LEADER} za vaši porážku zaplatil krví." />
+    <string id="ndagvVPz" text="Slyšel jsem, že jsi {DEFEATED_LEADER_RELATIONSHIP} porazil v bitvě. Ale nemysli si, že tak snadno podlehnu tvým trikům." />
+    <string id="ndQo81VN" text="Slyšel jsem, že jsi slíbil věrnost {?TT_LIEGE.GENDER}paní {?}vládkyni {\?}. {TT_LIEGE.NAME}. To je dobře. Čím více zkušených bojovníků s námi v těchto neklidných časech bude, tím lépe. Budu sledovat tvé pokroky." />
+    <string id="Nnqgix3X" text="Jsem rád, že se o své muže dobře staráš." />
+    <string id="O0acjJR9" text="Slyšel jsem, že jsi slíbil věrnost {?TT_LIEGE.GENDER}paní {?}pánovi {\?}. {TT_LIEGE.NAME}. Bohužel, podle toho, co o tobě vím, se obávám, že nám uděláš ostudu, ale budu rád, když dokážeš, že se mýlím." />
+    <string id="obydBl7I" text="Slyšel jsem, že jsi porazil {DEFEATED_PARTY_LEADER}... To je dobře." />
+    <string id="Pf44U15I" text="Slyšel jsem, že jsi slíbil věrnost {?TT_LIEGE.GENDER}paní {?}pánovi {\?}. {TT_LIEGE.NAME}. Prosím, nedělej nám ostudu tím, že se budeš chovat zbaběle." />
+    <string id="pJtkSopk" text="Slyšel jsem, že jsi porazil {DEFEATED_LEADER_RELATIONSHIP}v bitvě. Jsem tu, abych vyrovnal skóre." />
+    <string id="pmw8vTs8" text="Uvidíme, jestli stojíš za to, co za tebe platíme." />
+    <string id="pT6QqtTB" text="Slyšel jsem, že jste obléhali a dobyli {SETTLEMENT_NAME}." />
+    <string id="pWQwULg1" text="Kolik jste museli zaplatit, abyste mě osvobodili? Nejde to z mého podílu na kořisti, co?" />
+    <string id="PzBfkDIF" text="Uloupili jste karavanu pod mou ochranou. Podívej, je válka, všichni děláme věci... Ale bylo to opravdu potřeba?" />
+    <string id="Q5eT72ba" text="Tvoje vzpoura proti {TT_LIEGE.NAME} z nás dělá nepřátele. Ale abych byl upřímný, mám to takhle raději. Lepší mít hada před stanem než uvnitř, nemyslíš?" />
+    <string id="q5SZRgUR" text="Slyšel jsem, že jste se s {VICTORIOUS_PARTY_LEADER}pohádali a byli jste vyhnáni z pole." />
+    <string id="QbXjHb7y" text="Když jsme se setkali naposledy, vyhrál jsi. Doufám, že sis své malé vítězství užil. Další už mít nebudeš. Tvoje triky dvakrát nezaberou." />
+    <string id="QD7wWIdW" text="Vzpomínáš si, jak jsme nechali pole rudá krví tvých mužů? Pamatuju." />
+    <string id="qdMJ3HN3" text="Takže jsme tě přijali jako žoldáka. Nejsem si jistý, jestli bych ti věřil." />
+    <string id="qEZR7adT" text="Nemohu nečinně přihlížet, jak narušujete mé obchodní cesty a přepadáte mé karavany, musíte být postaveni před soud." />
+    <string id="QXrxVZHJ" text="Slyšel jsem, že jsi porazil {DEFEATED_LEADER_RELATIONSHIP}. No, nebudu komentovat {?GENDER}její{?}jeho{\?} generálskou úroveň, ale nemohlo to být příliš těžké." />
+    <string id="r7yWwaY3" text="Slyšel jsem, že jsi statečně bojoval proti {VICTORIOUS_PARTY_LEADER}, dokud tě nakonec nepřemohla početní převaha." />
+    <string id="RGNIuSCM" text="Slyšel jsem, že jsi porazil {DEFEATED_LEADER_RELATIONSHIP}v bitvě. Vážím si důstojného protivníka." />
+    <string id="rINfrA70" text="Vzbouřil ses proti {TT_LIEGE.NAME}. Nyní očekávejte trest, který náleží zrádcům." />
+    <string id="rlLqbDCQ" text="Stál jsi mě velkou sumu peněz, když jsi přepadl mou karavanu. Zajímalo by mě, zda bych ji mohl získat zpět prodejem tvých orgánů." />
+    <string id="rUda85FW" text="Vzal jsi nám {SETTLEMENT_NAME}. Na to nezapomeneme." />
+    <string id="S28aK0oF" text="V zájmu vaší cti vás žádám, abyste už nenapadali mé karavany." />
+    <string id="SCvFN6Ap" text="Vaše vzpoura proti {TT_LIEGE.NAME} byla aktem zrady." />
+    <string id="SM16wIcc" text="Zkřížil jsi tedy meče s tím darebákem, kterému říkají {DEFEATED_PARTY_LEADER}, a vyšel jsi z toho jako vítěz. Dobrá práce." />
+    <string id="SoCaUHhH" text="Je tu něco, o čem nemohu mlčet... Porušil jsi své slovo dané {COMMENT_REFERENCE_HERO}. To je pro mě těžké přijmout." />
+    <string id="Sxga9UOp" text="Je dobře, že bojuješ po našem boku." />
+    <string id="tciR9VSr" text="Slyšel jsem, že jsi bojoval s {DEFEATED_LEADER} a vyhrál jsi. {?GENDER}Její {?}Jeho {\?}chyba nás stála životy mnoha statečných mužů." />
+    <string id="tMET9a0Q" text="Vidím, že jste si pomohli k jedné z mých karavan... Nejsem laskavý ke zlodějům. Možná si jako odškodnění vezmu tvé ruce a oči." />
+    <string id="TN5hbc7f" text="Je dobré dostat se ze zajetí." />
+    <string id="tUc0CIs4" text="Nikdy nezapomenu, jak jsme se dostali přes hradby {ENEMY_SETTLEMENT} a vydali jeho obránce na pospas meči." />
+    <string id="ucKrwFCj" text="Slyšel jsem, že ses zřekl věrnosti {TT_LIEGE.NAME}. To je tvé rozhodnutí." />
+    <string id="udMxMICB" text="Slyšel jsem, že jsi vyplenil karavanu pod mou ochranou. Předpokládám, že šlo o nedorozumění." />
+    <string id="UKTXefOD" text="Slyšel jsem, že jsi slíbil věrnost {?TT_LIEGE.GENDER}paní {?}vládkyni {\?}. {TT_LIEGE.NAME}. Bojuj tvrdě proti našim nepřátelům, respektuj své nadřízené a nezkřižuj mě, a budeme spolu dobře vycházet." />
+    <string id="VcXpFIrT" text="Vzpomínáš, jak jsme {DEFEATED_PARTY_LEADER} zbičovali a udělali z jeho mužů hostinu pro vrány? To je milá vzpomínka." />
+    <string id="VSyOVMge" text="Než abych tě označil za zrádce, budu raději předpokládat, že jsi byl příliš nízký a hloupý, než abys poznal, že jsi napadl MOJI karavanu, a ne nepřátele." />
+    <string id="vxkoCCuc" text="Slyšel jsem, že se k nám přidáš ve službách {TT_LIEGE.NAME}." />
+    <string id="W3F2HgTN" text="Slyšel jsem, že jste dobyli pevnost {SETTLEMENT_NAME}. Dobře zasazená rána!" />
+    <string id="WobMdST8" text="Vzpomínám si, když jsme se setkali naposledy. Tvá strana svedla dobrý boj." />
+    <string id="WROObSl4" text="{SIDE1TROOP} urazil {SIDE2TROOP}." />
+    <string id="WZ2K83Z4" text="Vzbouřili jste se a porušili přísahu věrnosti mně, {PLAYER.LINK} ale teď mi vás nebesa vydala." />
+    <string id="WzMjUSGv" text="Slyšel jsem, že jsi porazil {DEFEATED_LEADER_RELATIONSHIP}. Jsi lstivý nepřítel, ale já jsem tě zahnal do úzkých a nyní tě dorazím." />
+    <string id="x8WJb01D" text="Nezávidím ti tvé vítězství, když jsme se setkali naposledy. Jsem rád, že už nemusíme bojovat." />
+    <string id="XLqklKR5" text="Slyšel jsem, že tě {VICTORIOUS_PARTY_LEADER} srazil na kolena. Někteří mluví o hrdinských posledních bojích, ale já říkám, že porážka je porážka." />
+    <string id="Xt1V4D6X" text="Z našeho posledního souboje ve zbrani jsi vyšel vítězně. Gratuluji ti a těším se na příležitost vyrovnat skóre." />
+    <string id="YEoEaMRJ" text="Drž se dál od {FIRST_NAME}." />
+    <string id="yjDRCuQx" text="Jsem rád, že jsme s {COMMENT_REFERENCE_HERO} dodrželi slovo." />
+    <string id="YsUq0lPJ" text="Ať už přijde cokoli dalšího, nezapomenu, jak jsme kdysi společně bojovali proti {DEFEATED_PARTY_LEADER}." />
+    <string id="yzxJBMJd" text="Slyšel jsem, že jsi pod mou ochranou vyraboval karavanu. To se mi nelíbí." />
+    <string id="yZZx1WVQ" text="Slyšel jsem, že jste slíbili věrnost {?TT_LIEGE.GENDER}paní {?}vládkyni {\?}. {TT_LIEGE.NAME}. Bojuj statečně a budeš dobře odměněn. Zradíš-li nás, dáme ti příklad, na který se jen tak nezapomene." />
+    <string id="Z6XSaq8b" text="Když jsme se naposledy setkali, měl jsi nade mnou navrch. Ale ujišťuji vás, že se to už nestane!" />
+    <string id="z76zznAS" text="Gratuluji vám a {FIRST_NAME} k vašemu sňatku." />
+    <string id="zFfRLbxK" text="Nemysli si, že jsem zapomněl na naši malou bitvu. Teď už znám tvé triky. Jestli budeme někdy znovu ve válce, no, všechno půjde jinak." />
+    <string id="zTNNxMzz" text="Slyšel jsem, že jsi slíbil věrnost {?TT_LIEGE.GENDER}paní {?}pánovi {\?}. {TT_LIEGE.NAME}. Kdybych byl na jeho místě, nesvěřil bych ti ani úklid spíže." />
+  </strings>
+</base>

@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="02Qqpama" text="(ve směru hodinových ručiček)." />
+    <string id="03mPaWum" text="Království" />
+    <string id="08oulGov" text="Zahoď svou vybavenou zbraň." />
+    <string id="0BwwHF1s" text="Přesuňte kameru na mapě kampaně doleva." />
+    <string id="0EDGnl1C" text="Pouze na dálku" />
+    <string id="0fLpwDzk" text="Nastaví režim okna.{newline}V okně: Spustí hru v okně.{newline}Celá obrazovka: Spustí hru na celé obrazovce.{newline}Bez okrajů na celou obrazovku: Spustí hru v maximalizovaném okně bez okrajů." />
+    <string id="0ftxDUQU" text="Přepínání mapy Rychlý posun vpřed" />
+    <string id="0HNrwVGG" text="Pohybem" />
+    <string id="0MvDMsEl" text="Metoda okluze" />
+    <string id="0ot0eBzv" text="Otáčení kamery s koněm v režimu první osoby" />
+    <string id="0YV6wbsq" text="Pozastavení času v mapě kampaně." />
+    <string id="136P0uC5" text="Funkce snímače pohybu Citlivost na cíl" />
+    <string id="16EUzfcH" text="Upravte úroveň expozice podle svých preferencí pomocí posuvníku." />
+    <string id="1awQTVqN" text="Počet hadráků" />
+    <string id="1CLLOxAt" text="Zobrazení obecných jmen hráčů. Tím se nahradí jména všech hráčů obecnými jmény." />
+    <string id="1dQFNvhQ" text="Numpad +" />
+    <string id="1ebaa1Wf" text="Přepnutí režimu chůze/běhu" />
+    <string id="1uCaibsd" text="Úplný" />
+    <string id="1WsmBXkN" text="Omezovač snímků" />
+    <string id="22o7UHXL" text="Vyberte skupinu 1." />
+    <string id="23Tcbb4W" text="Strafe Right" />
+    <string id="25KihbcP" text="Nastavuje počet vln posil, které se v bojové misi objeví. Vyšší hodnota obecně znamená delší trvání mise. Při nastavení nižším než neomezené může dojít k vyřešení obléhání bez účasti všech jednotek v boji." />
+    <string id="2Ao5DCb6" text="Přesun družiny dolů" />
+    <string id="2AyPP3rw" text="Vysoká" />
+    <string id="2bPTx7So" text="Vaše postava přejde do stavu přikrčení." />
+    <string id="2cVkbPYO" text="Upřednostnění zakládání jednotek" />
+    <string id="2e8wI3EM" text="Vybavit zbraň 2" />
+    <string id="2EjZcRgF" text="F5" />
+    <string id="2EnLU2ZC" text="Změna měřítka uživatelského rozhraní" />
+    <string id="2h2148cq" text="Odeslat zprávu všem" />
+    <string id="2p3Llq2x" text="Povolit ikony síťových upozornění" />
+    <string id="2xO6VDCj" text="Tato možnost je zakázána, protože je zakázáno dynamické rozlišení." />
+    <string id="2ZJQylWo" text="Přepínání mezi režimy běhu a chůze." />
+    <string id="3awgWrma" text="Benchmark" />
+    <string id="3CN7LUCf" text="Přepnout viditelnost kurzoru." />
+    <string id="3CsACce8" text="Ukončit" />
+    <string id="3Dngsvya" text="Posunout se vpřed" />
+    <string id="3Gb7tKgJ" text="{LEFT} a {RIGHT}" />
+    <string id="3nTeojbI" text="=" />
+    <string id="3oUbmqJY" text="Synchronizuje hru s obnovovací frekvencí monitoru. Eliminuje artefakty trhání." />
+    <string id="3P7eDKEY" text="Položka vybavení 4" />
+    <string id="3sRdGQou" text="Opusťte stránku" />
+    <string id="3sULxlX1" text="Podržením odešlete svůj hlas." />
+    <string id="3y9Q1m1n" text="Váš upřednostňovaný jazyk hlasu." />
+    <string id="3YwMXbAT" text="Zrychlení času v mapě kampaně." />
+    <string id="44akzqlm" text="Šipka doprava" />
+    <string id="45yEpDdE" text="Měřítko rozlišení" />
+    <string id="46vWdakp" text="Y" />
+    <string id="48faf387" text="Přetočení kamery doleva" />
+    <string id="4aAvY4yO" text="Nízká" />
+    <string id="4e0ycN1Q" text="Všichni slyší" />
+    <string id="4Gdng2Tt" text="Podržte pro rychlejší posun kamery na mapě kampaně." />
+    <string id="4lZDJDb2" text="Nastavte, jak moc se změní citlivost při přiblížení kamery." />
+    <string id="4NaOKslb" text="-" />
+    <string id="4Nw1hF2R" text="Kopněte nepřátele, abyste prolomili jejich ostrahu, když neútočíte nebo se nebráníte. Bijte nepřátele svým vybavením, když se bráníte." />
+    <string id="4Q9pzbqM" text="Povolte efekt vibrací ovladače." />
+    <string id="4R4shVxp" text="Množství zaostření" />
+    <string id="4x1wGwW9" text="Vyberte pořadí 7" />
+    <string id="54c9cZO4" text="Přepínání znaků." />
+    <string id="5B3ptxje" text="Vývojář postav" />
+    <string id="5c7l7r31" text="Levé tlačítko myši" />
+    <string id="5JTMe54k" text="Vyberte skupinu 3." />
+    <string id="5jxcNYlU" text="Numpad 6" />
+    <string id="5mBbS0mb" text="Použití funkčního vstupu snímače pohybu pro směr útoku a blokování." />
+    <string id="5QfcrJ5r" text="Noční režim" />
+    <string id="5QpTaCa0" text="W" />
+    <string id="5siWUJPw" text="Na celou obrazovku" />
+    <string id="5TYDm7Vv" text="Režim sledování kamery" />
+    <string id="5WDQLWCk" text="Umělá inteligence kampaně" />
+    <string id="5Xoilj6r" text="Výkřik" />
+    <string id="6AnHiJGR" text="Vybraný monitor" />
+    <string id="6CeL6iOp" text="Vybrat skupinu 1" />
+    <string id="6d56kv7p" text="Vertikální měřítko pohybu pro směrová gesta" />
+    <string id="6g0y182U" text="Detail prostředí" />
+    <string id="6HJxnF3G" text="Uložit se nepodařilo!" />
+    <string id="6ibNX7Rr" text="Grafický režim" />
+    <string id="6Jcchu9g" text="Povolení kurzoru při otevřené výsledkové tabuli." />
+    <string id="6koNIQJi" text="Nelze vytvořit ukládací data. Dosažen limit pro ukládání." />
+    <string id="6nQR7yYF" text="Spusťte" />
+    <string id="6QiPm27r" text="Posuňte svou družinu na mapě kampaně směrem nahoru." />
+    <string id="6sIFj7K9" text="Rychlý posun času vpřed" />
+    <string id="6Uh76bYG" text="Zastavení času na mapě" />
+    <string id="6uNvJbdx" text="Vyberte skupinu 4" />
+    <string id="7fnNx8uP" text="Otočte kameru na mapě doprava." />
+    <string id="7hytmlkz" text="Povolit generické avatary" />
+    <string id="7MU008BT" text="F11" />
+    <string id="7phVPcDc" text="Nastaví kvalitu shaderů. Vyšší hodnota znamená lepší grafické efekty." />
+    <string id="7QKjVON8" text="Skok" />
+    <string id="7S1aCWFa" text="Skákání při chůzi nebo na koni." />
+    <string id="7SSytk7Z" text="U" />
+    <string id="7tYiV9Vw" text="Anizotropní 8X" />
+    <string id="7UqxMUHr" text="Tato možnost je vypnuta, protože je povolena funkce Použít funkci snímače pohybu pro směr útočného bloku." />
+    <string id="7vl1ebVZ" text="Levé ovládání" />
+    <string id="7X6fZ5kQ" text="Povoluje odrazy prostoru na obrazovce." />
+    <string id="7XmaJYuh" text="Přesunutí družiny na mapě kampaně doprava." />
+    <string id="7ZmtmleI" text="Nastaví měřítko rozlišení. Nižší hodnoty mohou zvýšit výkon. {newline}{newline}Používá FidelityFX Super Resolution 1.0společnosti AMD{newline}{newline}Nemá vliv na kvalitu uživatelského rozhraní." />
+    <string id="8AiDqTFB" text="Posun mapy dozadu" />
+    <string id="8b45xcyL" text="Nastavuje kvalitu stromů a trávy." />
+    <string id="8BdF6a4j" text="{LEFT} - {RIGHT}" />
+    <string id="8FbEybTx" text="Povolí ikony síťových upozornění.{newline}1. Zpoždění {newline}2. Ztráta paketů{newline}3. Špatný výkon serveru" />
+    <string id="8fYfD6Uw" text="Vyberte pořadí 8." />
+    <string id="8hArJQWf" text="Zobrazit zaměřovací terčík" />
+    <string id="8iwie5KL" text="SelectOrder5" />
+    <string id="8kO2jDVf" text="Ovlivňuje kvalitu textur." />
+    <string id="8t4KDZfU" text="E" />
+    <string id="8WrQ9fnb" text="C" />
+    <string id="929oYf3G" text="Zmenšit" />
+    <string id="92ZztgDd" text="Kvalita obtisku" />
+    <string id="9bHr3oNj" text="Křížek, který se zobrazí při použití zbraně na dálku." />
+    <string id="9F323ez4" text="Trilineární" />
+    <string id="9gAVbJAR" text="Doba obnovení" />
+    <string id="9HdllyAZ" text="Spuštění srovnávacího testu Bannerlord." />
+    <string id="9hRcH7kV" text="Sluneční oštěp" />
+    <string id="9N0zXegH" text="Povolení záznamu chatu." />
+    <string id="9OHGqgjH" text="Přiblížení, abyste mohli mířit na nepřátele nebo se podívat dál." />
+    <string id="9pEc15Sb" text="S" />
+    <string id="9qZw55vR" text="Hlavní úroveň hlasitosti." />
+    <string id="9scrSz4i" text="Nastaví grafický režim. {newline}Výkon: Spustí hru při 60 snímcích za sekundu s dynamickým rozlišením, nižším nastavením kvality a menším počtem jednotek v bitvách.{newline}Věrnost: Spustí hru při 30 snímcích za sekundu s nativním rozlišením, vyšším nastavením kvality a větším počtem jednotek v bitvách." />
+    <string id="9TrnHXRG" text="Věrnost" />
+    <string id="9xKCz9BE" text="Přepínání mezi pohledem první a třetí osoby." />
+    <string id="9zns14aF" text="Zvolte si způsob provádění bloků. Automaticky bude ve výchozím nastavení nastaveno Podle směru pohledu ve hře více hráčů." />
+    <string id="A0bqGRQc" text="F" />
+    <string id="a5l0tTLE" text="Povolit protokol událostí" />
+    <string id="a8MvWaSN" text="Vynutit VSync v nabídkách (tj. lobby, inventář, družina, postava, úkol atd.)." />
+    <string id="Aa2Yokz3" text="Numpad *" />
+    <string id="aAaF9FWC" text="Pravý ovládací prvek" />
+    <string id="aAAl11qM" text="Přepínání mezi uzamčením a odemčením pohledu na nepřítele, na kterého je aktuálně zaměřeno. Delším stisknutím zobrazíte detailní zobrazení." />
+    <string id="aAXqgbDv" text="Nelze vytvářet konfigurační data. Dosažen limit konfigurace." />
+    <string id="accbLVWL" text="Nastaví techniku vyhlazování." />
+    <string id="acqAYxhr" text="," />
+    <string id="aCVTu5AJ" text="Použít funkci snímače pohybu pro směr bloku útoku" />
+    <string id="AD4phxAT" text="Auto (pouze v SP)" />
+    <string id="aGb5H9Ni" text="Tlumí zdroje zvuku za překážkami. Vynuceně zapnuto ve hře více hráčů." />
+    <string id="AhrWBKx9" text="Vybavení položky 1" />
+    <string id="aIwUX5EF" text="Stiskněte {CONSOLE_KEY_NAME} pro pokračování" />
+    <string id="AJFpx99v" text="Nastavení expozice" />
+    <string id="ajKnHI1s" text="Pořízení snímku" />
+    <string id="aJxmDbur" text="Podržením opustíte oblast." />
+    <string id="aLAtopse" text="Použijte vstup funkce snímače pohybu pro pomoc při zaměřování na dálku." />
+    <string id="altgamekey" text="Alt" />
+    <string id="aMCChr97" text="Posunutí kamery na mapě kampaně směrem dolů." />
+    <string id="amdYLZ6o" text="Okno úkolů" />
+    <string id="an5aw1wc" text="Některé z možností, které jste změnili, se projeví až po opuštění a otevření nové mise." />
+    <string id="aombIn07" text="Nastavení množství expozice." />
+    <string id="ap1wEfdW" text="V" />
+    <string id="AP9bKYTb" text="Přepínání kurzoru" />
+    <string id="ar2Y8Xs9" text="{LEFT}:" />
+    <string id="asrbFBbn" text="Nabídka objednávek" />
+    <string id="asYEb2j7" text="Velmi vysoká (250)" />
+    <string id="au7tXcD1" text="Stereo" />
+    <string id="aufrcNmq" text="Detail částic" />
+    <string id="AuwOJ4Oz" text="Nutný restart mise" />
+    <string id="aVcBbuKJ" text="F22" />
+    <string id="avDb6Y66" text="Střední tlačítko myši" />
+    <string id="averageCampaignAI" text="Průměr" />
+    <string id="averageCombatAI" text="Průměr" />
+    <string id="aWDfG0RO" text="F3" />
+    <string id="AXnSAaoi" text="Povolení obecných názvů" />
+    <string id="aydCb7WA" text="Střední" />
+    <string id="ayYYRfPP" text="Nahlásit osobní poškození" />
+    <string id="Az084VJK" text="Defend" />
+    <string id="b00385oX" text="Otevřít mapu Encyklopedie" />
+    <string id="b1OtYhnF" text="Filtrování textur" />
+    <string id="b7cHW5DS" text="Zobrazí protokol chatu. Spustí psaní na All Chat in Multiplayer." />
+    <string id="B8aTbaQo" text="Vybere skupinu 4." />
+    <string id="b9rDOY21" text="Vybrat pořadí2" />
+    <string id="bbxpBzPr" text="Zasunutí zbraně do pochvy" />
+    <string id="bdJv9dcm" text="Přiblížení postavy" />
+    <string id="BDSEgN41" text="Nastaví celkovou předvolbu kvality grafiky." />
+    <string id="BDSLNk4Q" text="Otočení mapy doleva" />
+    <string id="bEJsGiBK" text="Kvalita listí" />
+    <string id="BfebVHWv" text="Zobrazit tabulku výsledků" />
+    <string id="bfis1Rqj" text="Povolí ukazatele místa smrti, které zobrazují, kde zemře váš spoluhráč." />
+    <string id="bfxMfZrk" text="Umožňuje snížit rozlišení vykreslování, aby byla zachována cílová snímková frekvence.{newline}{newline}Používá FidelityFX Super Resolution 1.0od AMD{newline}{newline}Nemá vliv na kvalitu uživatelského rozhraní." />
+    <string id="bGbIRSmD" text="." />
+    <string id="BgjaAUNf" text="Nastavuje kvalitu vody. Vyšší hodnota znamená detailnější simulaci vody." />
+    <string id="BGKHITSN" text="Zastaví hru při ztrátě zaměření na herní okno." />
+    <string id="bgwA4Pd8" text="2" />
+    <string id="bGZeJJAH" text="Natočení kamery doleva (proti směru hodinových ručiček)." />
+    <string id="bih4MD9a" text="Nabídka pozastavení" />
+    <string id="bIuDbdVB" text="Povolit {?IS_PLAYSTATION}Bezdrátové {?}{\?}Střídavé míření ovladače" />
+    <string id="BKeTUf9V" text="Přesun kamery" />
+    <string id="Bl8cKwhL" text="Kalibrace displeje" />
+    <string id="bmpagYCb" text="Vybavte štít nebo přejděte na další štít." />
+    <string id="BPiWCOco" text="Zvolte pořadí 7." />
+    <string id="bqb2K5b1" text="Přesun vpravo" />
+    <string id="bqUsNucg" text="Nastaví kvalitu vykreslování částic. Vyšší hodnota znamená ostřejší částice." />
+    <string id="BSdIYN9F" text="P" />
+    <string id="bT77aWti" text="Přepnout použití zbraně" />
+    <string id="bubp5ys1" text="Pořídit obrázek." />
+    <string id="bvJUmRBd" text="Vyberte skupinu 2" />
+    <string id="bW2urPqE" text="SelectOrder6" />
+    <string id="Bw6fZdOh" text="Tato možnost je zakázána, protože je povoleno dynamické rozlišení." />
+    <string id="byOZcjuE" text="Jazyk hlasu" />
+    <string id="bYwwY9qh" text="Numpad 5" />
+    <string id="c3I1AjcF" text="Povolit {?IS_PLAYSTATION}Bezdrátové {?}{\?}Vibrace ovladače" />
+    <string id="c49AY7yF" text="Nízká (128)" />
+    <string id="C7zwur4k" text="Escape" />
+    <string id="cAkgnVr5" text="Num Lock" />
+    <string id="CBwEl28t" text="Povolit indikátor polohy smrti" />
+    <string id="CbwmI1JY" text="Povolí zobrazení hloubky ostrosti." />
+    <string id="CfjTvLNl" text="Dokončit chat" />
+    <string id="CLpUemXL" text="Zastavit hru při ztrátě zaostření" />
+    <string id="CNjxn3eB" text="Reproduktory" />
+    <string id="Co9aqFIB" text="Přepnutí režimu sledování kamery" />
+    <string id="cOgmdp9e" text="Odmítnout" />
+    <string id="combatkick" text="Kopnout / Bash" />
+    <string id="controlgamekey" text="Control" />
+    <string id="cp80Mq2W" text=";" />
+    <string id="Crf6Z1S5" text="Page Up" />
+    <string id="cryvNnsO" text="Vizualizace rozkazů, které jsou viditelné při zadávání rozkazů v bitvách." />
+    <string id="CsEtp6Az" text="Skupina 3 Slyšet" />
+    <string id="ct0coyrR" text="A" />
+    <string id="CTiemsyh" text="Numpad 3" />
+    <string id="Cvdaadvs" text="Velmi vysoká" />
+    <string id="cvhQOE38" text="Zobrazit směr útoku" />
+    <string id="cWRA5VVr" text="Levý Alt" />
+    <string id="czYbd1vo" text="H" />
+    <string id="D008gyKC" text="Výběr pořadí 1" />
+    <string id="D0Ps9ddi" text="Skrýt uživatelské rozhraní" />
+    <string id="d5a3QdBR" text="Nelze přistupovat ke složce pro ukládání." />
+    <string id="d6DkPU2b" text="Celkově" />
+    <string id="d75b5uSL" text="Bilineární" />
+    <string id="d7YTtqlO" text="Posun mapy směrem dolů" />
+    <string id="dbkFMtJw" text="Přiblížení mapy" />
+    <string id="DbpgZxxK" text="Vzdálenost kamery třetí osoby" />
+    <string id="dC1MBjrO" text="Ovlivňuje velikost mezipaměti pro streamování textur. Vyšší hodnota vyžaduje více videopaměti, ale poskytuje plynulejší zážitek." />
+    <string id="deletekey" text="Odstranit" />
+    <string id="Dg0SKmCS" text="Rychlost boje DESC" />
+    <string id="dg6yQU6z" text="Odeslat zprávu týmu" />
+    <string id="DGRmXCg4" text="Pouze ikony (pouze v SP)" />
+    <string id="DiK2cKUi" text="Zvukové zařízení" />
+    <string id="dkLG4JC4" text="Enter" />
+    <string id="dkYmFAk2" text="Sledování napadených osad" />
+    <string id="DqFxOjTp" text="Rozlišení obrazovky" />
+    <string id="drbgOAqx" text="Povolit hlášení pro získání zkušeností." />
+    <string id="drG1OL8d" text="Kolečko myší nahoru" />
+    <string id="DTSHoHbu" text="Okno inventáře" />
+    <string id="dTyINo1B" text="Zamknout cíl" />
+    <string id="dV5ar9eP" text="Max (1000)" />
+    <string id="Dw58UUua" text="Podpovrchový rozptyl" />
+    <string id="DxgwxziA" text="Zahájení chatu (sekundární)" />
+    <string id="DYcLYL6E" text="Bar" />
+    <string id="dzR8cr1m" text="Předvolba zvuku" />
+    <string id="E5xbXlLB" text="Povoluje sluneční oštěpy." />
+    <string id="ea8kNj32" text="Vaše preferované výstupní zvukové zařízení." />
+    <string id="EaOcWkH3" text="Otevřít encyklopedii." />
+    <string id="eDRzvYz5" text="Povolí automatické sledování osad při útoku." />
+    <string id="eHb2U0dA" text="Zobrazí generické avatary hráčů. Nahradí všechny avatary hráčů generickými avatary." />
+    <string id="EkzORIiZ" text="Otevřete všechny chaty." />
+    <string id="EMzCDjIR" text="Vyberte skupinu 2." />
+    <string id="ETxm7IBL" text="F18" />
+    <string id="evc8yBIy" text="M" />
+    <string id="EvOLbiqM" text="Vyberte skupinu 3" />
+    <string id="evzb1cmP" text="Vybavte se předmětem ve čtvrtém slotu." />
+    <string id="eXa0p5uN" text="Nelze vytvořit konfigurační data." />
+    <string id="EyYqpm5b" text="Nastavte násobitel vertikálního pohybu pro směrová gesta ve srovnání s horizontálním pohybem. Nemá vliv na pohyb kamery." />
+    <string id="eZsVkuQD" text="8" />
+    <string id="F2yX5CXI" text="Nelze vytvořit konfigurační data. Uložená data jsou poškozená." />
+    <string id="fBXuMgdm" text="Kampaň AI DESC" />
+    <string id="FEDEsbCx" text="Přesun družiny na mapě kampaně směrem dolů." />
+    <string id="ffHX9L80" text="Numpad 0" />
+    <string id="FHBoO2sp" text="6" />
+    <string id="fJnqJx8m" text="Okno postavy" />
+    <string id="fldPHfP6" text="Nastavuje obnovovací frekvenci hry." />
+    <string id="FLLnblfP" text="Nahlásit ztráty" />
+    <string id="fM9E7frB" text="Výkon" />
+    <string id="fpYTcwqI" text="F24" />
+    <string id="FqvJUBRn" text="Velmi nízká" />
+    <string id="fsI2wuHa" text="Skupina 2 Slyšet" />
+    <string id="FwcM7taa" text="Změňte způsob zvukového výstupu na takový, který nejlépe odpovídá konfiguraci reproduktorů." />
+    <string id="G17kWzwi" text="Velmi vysoký (600)" />
+    <string id="G2e8xucc" text="Pokud nejsou kostkované vzory uvnitř rámečků viditelné, zkuste posunout posuvníky. {newline}Nastavte posuvníky tak, aby byly vzory sotva viditelné." />
+    <string id="g4Iq82iw" text="Otevřete týmový chat." />
+    <string id="g4VjAbMG" text="J" />
+    <string id="G8ug5Bwx" text="Chat" />
+    <string id="G9oAjFL7" text="Velmi nízká (200)" />
+    <string id="GaZ6W7MD" text="Vyberte pořadí 2." />
+    <string id="gCDjIGB6" text="Zobrazit krev" />
+    <string id="Gd2iUUHa" text="Nastaví kvalitu částic. Vyšší hodnota znamená detailnější částice." />
+    <string id="gIsqhwTs" text="Zorné pole první osoby" />
+    <string id="Gl2S6WEW" text="Nastavuje monitor, na kterém bude zobrazeno okno hry." />
+    <string id="Gl7wgtPQ" text="Přesunout družinu nahoru" />
+    <string id="gLlM7pQw" text="Povolit dotykovou podložku myši" />
+    <string id="goodCampaignAI" text="Good" />
+    <string id="goodCombatAI" text="Dobrý" />
+    <string id="grNuIieh" text="Citlivost kurzoru/kamery" />
+    <string id="gu2JU5zq" text="Typ zaměřovacího kříže" />
+    <string id="GxHV8b1b" text="Numpad 1" />
+    <string id="gxTsIPaS" text="Výběr pořadí 3." />
+    <string id="GzICf27a" text="Otáčení" />
+    <string id="gzMIzYTF" text="Okno herního protokolu" />
+    <string id="H1kB8qEb" text="Vyberte pořadí 6." />
+    <string id="h6wUbray" text="Počet mrtvol" />
+    <string id="haLX0kbG" text="Klikněte pro pokračování" />
+    <string id="haX0xRHa" text="Zrychlení kamery" />
+    <string id="HC2sdqca" text="Povolit nápovědy k výukovému programu" />
+    <string id="hdbb0Jjp" text="Okno encyklopedie" />
+    <string id="hdLs35aB" text="Nízká (25)" />
+    <string id="HDV63kra" text="4" />
+    <string id="HeCR9aex" text="Povolit textové zprávy pro výkřiky." />
+    <string id="HH7LDwlK" text="Přepnout rychlý posun vpřed" />
+    <string id="hHxSj7tY" text="SelectOrder3" />
+    <string id="Hiv0420V" text="Vybrat skupinu 6." />
+    <string id="Hj1bsSbW" text="Vynutit VSync v nabídkách" />
+    <string id="hjsLo4ri" text="Zobrazení objednávek." />
+    <string id="hkiuDcb6" text="Vyberte skupinu 5." />
+    <string id="HmgPBPeq" text="Rozlišení pracovní plochy" />
+    <string id="HNTCnUYY" text="Okno družiny" />
+    <string id="homekey" text="Domov" />
+    <string id="Hs1CYfbc" text="Vybavit další zbraň" />
+    <string id="hS4wYBa8" text="Skupina s opačným pořadím" />
+    <string id="HsljR1NL" text="Vybavit zbraň 1" />
+    <string id="hUyPaplJ" text="Bojová velikost" />
+    <string id="HVa0okoe" text="F9" />
+    <string id="hwzQGpYa" text="Utlumení zvuku" />
+    <string id="HxIqxjmk" text="Vybrat všechny" />
+    <string id="hZEAeoCk" text="Přesunutí družiny na mapě kampaně doleva." />
+    <string id="I3eooo5c" text="Nastaví kvalitu terénu." />
+    <string id="I3rTzBae" text="Detail postavy" />
+    <string id="i5xbEcE3" text="Obnovení nebo pozastavení času v mapě kampaně." />
+    <string id="I6OJtaMT" text="Nikdy" />
+    <string id="I9PN1qny" text="Numpad Enter" />
+    <string id="IahiWHHW" text="K" />
+    <string id="Iam02fhz" text="Nízká (300)" />
+    <string id="IaoVYeZi" text="Zapne teselaci." />
+    <string id="iazKqdH1" text="Hlášení výkřiků" />
+    <string id="iblHebbT" text="F1" />
+    <string id="IcEPmXxM" text="Nastaví techniku ambient occlusion." />
+    <string id="ICgda8Is" text="Dvojité stisknutí tlačítka nahoru: Nabít dopředu" />
+    <string id="ID9lG6xg" text="Zobrazení příkazů" />
+    <string id="igGLkaf6" text="Vybavení položky 2" />
+    <string id="iGi5HsGS" text="Stisknutí levého tlačítka" />
+    <string id="ihAadMd5" text="Otevření encyklopedie na mapě kampaně" />
+    <string id="IjhCSwNn" text="Přesuňte kameru dále od své postavy v pohledu třetí osoby." />
+    <string id="IjLcnwpz" text="Zvyšte zaostření kamery." />
+    <string id="IjRHUbbN" text="Teselace" />
+    <string id="ikbBAZtA" text="Exportovat vizualizace vyrovnávací paměti." />
+    <string id="IKjxVh2N" text="Rozmazání pohybu" />
+    <string id="ikoUJQyl" text="Povolí efekt rozmazání obrazu (bloom)." />
+    <string id="iljRgsvP" text="Typ rozvržení objednávky" />
+    <string id="invalidkey" text="-" />
+    <string id="IOZ4aWVp" text="Vyberte skupinu 8" />
+    <string id="iPx4jep6" text="Expozice" />
+    <string id="Irhxad7u" text="Kvalita vody" />
+    <string id="iUFgqwkA" text="Střední (256)" />
+    <string id="iuQk8map" text="Hlasitost hlasu" />
+    <string id="iwO3g6Rz" text="Vyberte, jak náročná bude bojová umělá inteligence." />
+    <string id="ixHHmobT" text="Povolte možnost zaměřit nepřátele při použití zbraně pro boj zblízka." />
+    <string id="ixTwtPt0" text="4 vlny" />
+    <string id="IxzTvJH9" text="Zvuk na pozadí" />
+    <string id="IyenJVb1" text="Ovlivňuje frekvenci vzorkování snímků animace. Vyšší hodnota vyžaduje více prostředků procesoru, ale poskytuje plynulejší animace." />
+    <string id="IYLn67Xm" text="X" />
+    <string id="Iz2vu6xM" text="Kolečko myší dolů" />
+    <string id="iZAwcZSV" text="Sleduj osadu" />
+    <string id="j2g8BSOF" text="Statické a dynamické" />
+    <string id="J2pcA6KR" text="Zobrazení postavy" />
+    <string id="j3k8PiPo" text="Zapne deformovatelnou trávu." />
+    <string id="j4F7tTzy" text="Klan" />
+    <string id="jA2D1Rgt" text="Tato možnost je vypnuta, protože je vypnuta funkce snímače pohybu." />
+    <string id="jaeLYPIG" text="Doba pozastavení" />
+    <string id="jafcz97A" text="Kvalita stínu" />
+    <string id="JAzv5xYY" text="Povolí textová hlášení o způsobeném poškození." />
+    <string id="jbLwdd6z" text="Sluchátka" />
+    <string id="jd9ZG2CI" text="R" />
+    <string id="JDDANRcS" text="Modifikátor citlivosti zoomu" />
+    <string id="jgCb0sga" text="Povolení zaměřovacího kříže pro zbraně na dálku." />
+    <string id="jIcGy6gI" text="{LEFT} : {RIGHT}" />
+    <string id="JKH8aiDE" text="Přepínání znaků" />
+    <string id="jkwgSmhl" text="Můžete přepínat mezi různými režimy mixu, které vám lépe vyhovují." />
+    <string id="JLqe3lrb" text="Obtížnost bojové umělé inteligence" />
+    <string id="JLtTANZg" text="Pohyb vlevo" />
+    <string id="JmvywkK6" text="Mapa Pohyb nahoru" />
+    <string id="jOGbGqOC" text="Povolit vertikální korekci míření" />
+    <string id="JP1y1i0A" text="Vybavit zbraň 4" />
+    <string id="Js1lhJkk" text="Jazyk" />
+    <string id="js6LONvV" text="Posunout dozadu" />
+    <string id="Ju6btXsv" text="Ovládání směru útoku" />
+    <string id="JXdwIX8Q" text="Nastavení tloušťky stop zbraní." />
+    <string id="jy9orOJz" text="Přehrát" />
+    <string id="JZFXI1LK" text="Měřítko uživatelského rozhraní" />
+    <string id="jZs8I1Uq" text="Zapne filmové zrno." />
+    <string id="JZYQGUF3" text="Dvojí stisknutí směrem dolů: Náhlé přerušení" />
+    <string id="k3LajvfJ" text="Editor bannerů" />
+    <string id="k4E1gylQ" text="Nastaví množství efektu doostření." />
+    <string id="k7gJYLLj" text="Numpad 8" />
+    <string id="K80z5onY" text="Určuje, jak daleko bude kamera ve třetí osobě." />
+    <string id="kak4GxOh" text="F6" />
+    <string id="kCXjabff" text="Zobrazí protokol chatu. Spustí psaní do týmového chatu ve hře více hráčů." />
+    <string id="ke34iiXU" text="Zpomalení při zadávání příkazů" />
+    <string id="kG4051e5" text="Vybrat rozkaz7" />
+    <string id="KGaaYZi1" text="Rychlost obnovování" />
+    <string id="Kh8qRccB" text="Obnoví změny." />
+    <string id="KHbdmIfF" text="Pouze statické" />
+    <string id="khHVSEiK" text="Posunutí kamery na mapě kampaně směrem nahoru." />
+    <string id="KiY5M2uk" text="Uložení dat úspěšně vytvořeno." />
+    <string id="KjZas5Xs" text="Nastaví zobrazovací adaptér, na kterém bude hra spuštěna." />
+    <string id="kKg8oyGu" text="F19" />
+    <string id="KKNmozPI" text="Šipka doleva" />
+    <string id="Kksv0KyL" text="Vybere skupinu 7." />
+    <string id="KL8cGTao" text="Radiální" />
+    <string id="kNpWwJcc" text="High (500)" />
+    <string id="KO5zuUvN" text="Akce" />
+    <string id="KONClayU" text="\" />
+    <string id="KShlkb9M" text="Otočení kamery mapy doleva." />
+    <string id="KtYtBnvP" text="Nastaví omezovač snímků." />
+    <string id="KUGomrhD" text="Nezobrazovat znovu" />
+    <string id="KwNTg7BT" text="Režim zobrazení" />
+    <string id="KxH4VVU3" text="Taunt" />
+    <string id="l4ex8t6l" text="5 vln" />
+    <string id="l5aKnGy3" text="Zahájení chatu" />
+    <string id="l7Rfaa8f" text="Vyberte skupinu 8." />
+    <string id="L992LXVF" text="Přepínání režimu sledování kamery. Přepínejte mezi možnostmi Zaměřit se na hráče nebo Volná kamera." />
+    <string id="lCucoVwJ" text="Odhadované využití paměti GPU" />
+    <string id="lG7AlfxK" text="Mapa Sledování osad" />
+    <string id="lgOBD6MF" text="Povolte značky pro směr útoku." />
+    <string id="lgzmPG6K" text="Přikrčení" />
+    <string id="LjNnWa7R" text="F10" />
+    <string id="LJZAvH8f" text="Kvalita textur" />
+    <string id="ll2iP8yo" text="Využití většího množství paměti, než máte k dispozici na grafickém procesoru, může vést k vážným poklesům výkonu a problémům se stabilitou. Postupujte opatrně." />
+    <string id="Lm5Wj9ty" text="Hlasitost hlasového chatu" />
+    <string id="Lo0bRwYO" text="Nelze vytvořit uložená data. Uložená data jsou poškozená." />
+    <string id="Lp0byzGQ" text="I" />
+    <string id="LroTz1rL" text="Povolení zpomalení hry při zadávání rozkazů hráčem." />
+    <string id="lsQ1kFLn" text="Nabídka přepínání vybavení" />
+    <string id="LsX8rTwl" text="Otevřete obrazovku vývoje postavy." />
+    <string id="lsxqkhy6" text="O" />
+    <string id="LTxU2AST" text="Nastaví časový interval mezi automatickými zálohami. Hodnota je uvedena v minutách." />
+    <string id="Lu1sjJKR" text="Dynamické škálování rozlišení" />
+    <string id="m0NJf3BU" text="Používá vstupní funkci snímače pohybu pro směr útoku a obrany při boji zblízka." />
+    <string id="m1PinhQd" text="Otevřít obrazovku družiny." />
+    <string id="M1ZFZR5I" text="Kvalita terénu" />
+    <string id="M3bY9bLu" text="Povolte informační zprávy." />
+    <string id="m4Lketfz" text="Invertovat osu Y pro ovládání kamery. (Nefunguje na mapě kampaně.)" />
+    <string id="m7B471Hw" text="Nastaví kvalitu osvětlení." />
+    <string id="m7IunCRL" text="Otevření obrazovky editoru bannerů." />
+    <string id="mAxXKaXp" text="Obnovit" />
+    <string id="mBYYRzog" text="Povolit hlasový chat" />
+    <string id="Mf5qVgAv" text="Vybavit položku 3" />
+    <string id="MFbBFDqx" text="Mapa Rychlý přesun" />
+    <string id="MfsNAPh6" text="Povolí podpovrchový rozptyl." />
+    <string id="MfunBOxF" text="Kalibruje úrovně kontrastu." />
+    <string id="mG4rCrfE" text="0" />
+    <string id="Mja6xKiX" text="Objednat typ vizualizace" />
+    <string id="MkKL3Y4P" text="Numpad 7" />
+    <string id="mkQiThTA" text="Úspěšně vytvořena konfigurační data." />
+    <string id="mLtHlKzD" text="Pravý Alt" />
+    <string id="MNsKxGzK" text="Rozpočet na streamování textur" />
+    <string id="mueocuFG" text="Zobrazit indikátory" />
+    <string id="mWnA4X5D" text="Vybrat objednávku 6" />
+    <string id="mWT9b9ZM" text="Střední (75)" />
+    <string id="MXHkvySm" text="F7" />
+    <string id="Mxnj08mB" text="Přesun družiny doprava" />
+    <string id="n23hFPye" text="Změna režimu kurzoru" />
+    <string id="N5fmlTza" text="{LEFT}, {RIGHT}" />
+    <string id="NbiZd9up" text="Povolit funkci snímače pohybu Asistované míření" />
+    <string id="nbXC9aIe" text="Režim 120 Hz" />
+    <string id="nD11hOsQ" text="Otevřít protokol úkolů." />
+    <string id="nDjFBDvE" text="Nastaví maximální počet jednotek v bitvách. Vyšší hodnota vyžaduje lepší CPU a GPU." />
+    <string id="nLhH8JhZ" text="Úroveň hlasitosti hlasového chatu." />
+    <string id="NMP6nR8C" text="Výkon DLSS" />
+    <string id="NN7DHB1A" text="Skupina 1 Slyšet" />
+    <string id="noYzJpKr" text="Přepínání zvětšení" />
+    <string id="NSSsxBHV" text="Náhodně" />
+    <string id="nwdlr4MI" text="Odmítnout aktuální probíhající anketu." />
+    <string id="o0QPZODk" text="Přesun družiny doleva" />
+    <string id="o2wElwi5" text="Homogenní" />
+    <string id="o8WjGqS4" text="Z" />
+    <string id="o9Bk7aLz" text="Výsměch po kliknutí. Otevřít kolečko Taunt na počkání." />
+    <string id="O9ed2AWr" text="Dokončení zprávy, pokud je aktivní chatovací pole. V opačném případě aktivujte chatovací okno." />
+    <string id="ocNVbyPJ" text="Celá obrazovka bez okrajů" />
+    <string id="oCtaP2tZ" text="Tato možnost je zakázána, protože je povolen DLSS." />
+    <string id="odsVjkbO" text="Otevřít inventář." />
+    <string id="oEdTBobd" text="Anizotropní 2X" />
+    <string id="OeJ53VmM" text="Cílová snímková frekvence, kterou má udržovat nastavení Dynamic Resolution Scaling.{newline}{newline}Doporučuje se nastavit na nejnižší snímkovou frekvenci, která vám při hraní vyhovuje. Nastavení příliš vysoké hodnoty způsobí zbytečné poklesy rozlišení." />
+    <string id="OgXnrvcA" text="Zapíná simulaci látky. Využívá prostředky grafického procesoru." />
+    <string id="oHaWR73d" text="Ok" />
+    <string id="oI1gktYa" text="Úroveň hlasitosti zvukových efektů." />
+    <string id="OiB50fga" text="Výběr mapy" />
+    <string id="oIuCX8KW" text="Vybavit/odhodit vybavení" />
+    <string id="OlajLkbl" text="F13" />
+    <string id="oMaTg568" text="Přiblížení kamery k mapě kampaně." />
+    <string id="Oo7wQbfG" text="Tlačítko myši X2" />
+    <string id="Op68a8dO" text="Klávesové zkratky v nabídce" />
+    <string id="opGK2hO0" text="Skryje prvky bojového uživatelského rozhraní, když je hráč v misi." />
+    <string id="otHjiYlN" text="Kvalita částic" />
+    <string id="OtS4DYD1" text="T" />
+    <string id="owS8kqZs" text="Určení prioritizace vytváření jednotek.{newline}Výchozí: Jednotky se vytvářejí podle své pozice v seznamu družiny.{newline}Vysoká Úroveň: Jednotky vyšší úrovně se objeví jako první.{newline}Nízká Úroveň: Jednotky nižší úrovně se objeví jako první.{newline}Homogenní: Jednotky se objevují homogenně podle jejich typů jednotek, spíše než podle jejich úrovní. Tato možnost se snaží vyplnit řady každým typem jednotek ve stejném poměru a ignoruje přitom jejich úrovně.{newline}Výše uvedená nastavení platí pouze pro počáteční sestavu hráče. Umělá inteligence není ovlivněna." />
+    <string id="OYaqdNAI" text="Vyberte pořadí 2" />
+    <string id="P4rblFQN" text="Zvětšení mapy" />
+    <string id="P5x1HU1u" text="Anti-aliasing" />
+    <string id="P7E3rS3m" text="Úroveň hlasitosti hudby." />
+    <string id="pa8A2VG3" text="Povolte červený rámeček kolem obrazovky, když hráč utrpí poškození." />
+    <string id="PACe9VHN" text="&lt;" />
+    <string id="PADeKaAu" text="Kontextová nabídka mapy" />
+    <string id="PBzbWfGF" text="Zamknout cíl" />
+    <string id="PC77pnRB" text="Pouze vůdce" />
+    <string id="pialOblr" text="Podržení příkazu" />
+    <string id="PksJtzwJ" text="Mezerník" />
+    <string id="Pkw17hO0" text="Rychlost boje" />
+    <string id="pnEeRPAk" text="Skupina 7 Slyšet" />
+    <string id="pNocZkrx" text="Povolit vizualizaci způsobeného poškození" />
+    <string id="poorCampaignAI" text="Špatný" />
+    <string id="poorCombatAI" text="Špatné" />
+    <string id="pQLVaBuN" text="Invertovat osu Y kamery" />
+    <string id="pQVSwtfn" text="Přiblíží kameru k vaší postavě v pohledu třetí osoby." />
+    <string id="PRsSB9B8" text="Interakce se zbraněmi, držáky, dveřmi, lidmi atd." />
+    <string id="ps103cxD" text="Proveďte útok pomocí zbraně." />
+    <string id="psCircleButton" text="Kruhové tlačítko" />
+    <string id="psDownDirectionButton" text="Tlačítko dolů" />
+    <string id="pshodFff" text="Viditelnost stopy zbraně" />
+    <string id="psL1Button" text="Tlačítko L1" />
+    <string id="psL2Button" text="Tlačítko L2" />
+    <string id="psLeftDirectionButton" text="levé tlačítko" />
+    <string id="psLeftStick" text="levá páčka" />
+    <string id="psLeftStickDown" text="levá páčka dolů" />
+    <string id="psLeftStickLeft" text="levá páčka vlevo" />
+    <string id="psLeftStickRight" text="levá páčka doprava" />
+    <string id="psLeftStickUp" text="levá páčka nahoru" />
+    <string id="psOptionsButton" text="Tlačítko OPTIONS" />
+    <string id="psR1Button" text="Tlačítko R1" />
+    <string id="psR2Button" text="Tlačítko R2" />
+    <string id="psRightDirectionButton" text="pravé tlačítko" />
+    <string id="psRightStick" text="pravá páčka" />
+    <string id="psRightStickDown" text="pravá páčka dolů" />
+    <string id="psRightStickLeft" text="pravá páčka vlevo" />
+    <string id="psRightStickRight" text="pravá páčka pravá" />
+    <string id="psRightStickUp" text="pravá páčka nahoru" />
+    <string id="psSquareButton" text="čtvercové tlačítko" />
+    <string id="psTouchpadButton" text="tlačítko dotykové plošky" />
+    <string id="psTriangleButton" text="trojúhelníkové tlačítko" />
+    <string id="psUpDirectionButton" text="tlačítko nahoru" />
+    <string id="psXButton" text="tlačítko křížku" />
+    <string id="PtI8voo3" text="F8" />
+    <string id="pvit1VDX" text="Povolení dotykové plošky pro ovládání kurzoru." />
+    <string id="PvNGaexX" text="Podržením zobrazíte značky důležitých osob, míst, jmenovek atd." />
+    <string id="pVrv5hnp" text="B" />
+    <string id="py0auN0A" text="{ESTIMATED} MB / {TOTAL} MB" />
+    <string id="Q1kAeH3b" text="F16" />
+    <string id="QaMie1KY" text="Pouze boj zblízka" />
+    <string id="Qbz9VJGw" text="{Modifier} + {KEY}" />
+    <string id="QBzjt1c4" text="Rozšířená klávesa 1" />
+    <string id="QcNaK9xX" text="Kvalita vzorkování animace" />
+    <string id="qDhDbZKh" text="Sledovat osadu aktuálně najetou na osadě" />
+    <string id="qDVoGsb9" text="Podržte pro zadávání příkazů pomocí gamepadu." />
+    <string id="QfsXhxOI" text="Ultra (800)" />
+    <string id="qggjceRq" text="Výstup zvuku" />
+    <string id="QiYy3Ja4" text="Vybrat vrácení příkazu" />
+    <string id="QKy9a176" text="Strafe doleva" />
+    <string id="qmplQd0Q" text="Tři části" />
+    <string id="qNPmVDmU" text="Nastaví metodu NVIDIA DLSS, pokud je použitelná." />
+    <string id="qnxJYAs7" text="Družina " />
+    <string id="QObLf5jh" text="Vybrat na mapě" />
+    <string id="qOcw1xap" text="Strana dolů" />
+    <string id="QoGjzEwI" text="Posunout zpět" />
+    <string id="Qp3i4PrW" text="TV" />
+    <string id="QpUkFQnj" text="Uzamkne snímkovou frekvenci na 40 Hz v režimu Věrnost a odemkne ji v režimu Výkon." />
+    <string id="qR4S6PeD" text="Kvalita DLSS" />
+    <string id="qS0z458V" text="~" />
+    <string id="QsdUafoH" text="Vyberte pořadí 5" />
+    <string id="qSJZyoro" text="F2" />
+    <string id="qsrqjK0B" text="Nastaví úroveň detailů rekvizit prostředí." />
+    <string id="qtgBKzY8" text="Nastavuje počet viditelných mrtvol." />
+    <string id="qvaJYO9c" text="Anizotropní 16X" />
+    <string id="qW1FWX0C" text="Šipka dolů" />
+    <string id="r4wEESkT" text="Povolí záznam událostí na mapě kampaně a v misích." />
+    <string id="r5onpWZW" text="Vždy" />
+    <string id="R9cQCadq" text="Zvolí způsob provádění útoků." />
+    <string id="r9tGsO4Z" text="Vyžaduje restart hry" />
+    <string id="RaijrIxP" text="Interakce" />
+    <string id="rbz1Bwbv" text="Inventář" />
+    <string id="Rh7aDJ3n" text="Okno s bannerem" />
+    <string id="rHeu8Ndg" text="Otevřete generování obličeje." />
+    <string id="Rhl5E2ut" text="Nastaví typ stínů." />
+    <string id="RhUd5Y2T" text="Přijmout aktuální probíhající anketu." />
+    <string id="rKvjSSri" text="F14" />
+    <string id="rNiESgEo" text="]" />
+    <string id="ro0NhUnJ" text="Nastavení zorného pole pro kameru první osoby." />
+    <string id="roJLc9oH" text="Polovina" />
+    <string id="rP058aIm" text="Vybavte předmět do prvního slotu." />
+    <string id="rs0wImmD" text="Nelze vytvořit uložená data." />
+    <string id="rS6nO0wb" text="Přepnout vinětu" />
+    <string id="RSmsn6mb" text="Obnovit/pozastavit čas" />
+    <string id="RX76Kfa8" text="Přepínání kamery" />
+    <string id="rXftSOjn" text="Otočení mapy doprava" />
+    <string id="rxTqpENB" text="F20" />
+    <string id="rYCYUZu5" text="Skupina 5 Slyšet" />
+    <string id="RZ1x41t2" text="Povolení příchozích zpráv v hlasovém chatu od hráčů vašeho týmu." />
+    <string id="s4r1xdg0" text="Skupina 6 Slyšet" />
+    <string id="s533kEjf" text="Hlasitost hudby" />
+    <string id="s7yWjpeB" text="Vybraný adaptér" />
+    <string id="sAoWNAwZ" text="Windowed" />
+    <string id="sbUBtOTb" text="Nahlásit poškození" />
+    <string id="sCjtEbTF" text="Tyto moduly byly ze hry odstraněny:" />
+    <string id="SEucYSln" text="Numpad 2" />
+    <string id="ShDZ4GgG" text="Vybavit zbraň 3" />
+    <string id="sPqkglTv" text="Skrýt uživatelské rozhraní bitvy" />
+    <string id="sQCP8t0U" text="Čekání na mapě" />
+    <string id="StaoHYba" text="Skupina 4 Slyšet" />
+    <string id="sTlHHQPs" text="Aby se toto nastavení projevilo, je třeba restartovat Bannerlorda." />
+    <string id="SuYh3GtG" text="Přepnutí režimu zbraně" />
+    <string id="SWDHaFCK" text="SelectOrder4" />
+    <string id="swdKFkfu" text="F21" />
+    <string id="SWk141EO" text="Schovejte svou vybavenou zbraň do pochvy." />
+    <string id="sxFsZAeC" text="1" />
+    <string id="sxIWNefq" text="Legacy" />
+    <string id="t0vgSn7D" text="Vyberte další skupinu" />
+    <string id="T3Ex0K1p" text="Konec" />
+    <string id="T6IJg6wq" text="Režim sledování kamery na mapě" />
+    <string id="TbCbHxeF" text="Přepnutí výběru skupiny" />
+    <string id="tbGol5PT" text="F4" />
+    <string id="tbwhjsqS" text="Pravé tlačítko myši" />
+    <string id="Tdf5AbRp" text="Otevření obrazovky klanu." />
+    <string id="TEuOMadV" text="Karta" />
+    <string id="tewykKdc" text="Ovládání směru bloku" />
+    <string id="tFZspabL" text="Přepnutí na předchozí kartu" />
+    <string id="TgIAHPHs" text="Vyberte pořadí 4" />
+    <string id="tifiQGTa" text="Otevřete obrazovku Království." />
+    <string id="TIYrYxpr" text="Vyberte skupinu 5" />
+    <string id="tkCbjgfx" text="Numpad -" />
+    <string id="TlpNyR2U" text="Nízká úroveň" />
+    <string id="tlR1jGNH" text="Přepínání nabídky Pauza" />
+    <string id="TOebahlA" text="Čas na mapě zrychleně dopředu" />
+    <string id="toHFqO2G" text="Vyberte pořadí 5." />
+    <string id="TRmaxjal" text="Povolení vertikální korekce míření v režimu třetí osoby." />
+    <string id="tsPjK1Ke" text="Povoleno" />
+    <string id="ttCcMbwO" text="Šipka nahoru" />
+    <string id="TtWjblNo" text="Přepnutí zobrazení" />
+    <string id="TUWeNFOv" text="Pořídit snímek obrazovky" />
+    <string id="TvGJqPGp" text="Povolit hlášení o úmrtích a vyřazení." />
+    <string id="tw5Wxv3b" text="Numpad ." />
+    <string id="TWbbfaUu" text="Přesunutí kamery na mapě kampaně doprava." />
+    <string id="TybJcG0A" text="Velmi nízká (64)" />
+    <string id="tZGftbOD" text="Push To Talk" />
+    <string id="TzpULeDH" text="Zvolte možnost Návrat rozkazu." />
+    <string id="u2dQaVY2" text="Vybavte se předmětem ve třetím slotu." />
+    <string id="U58amXO0" text="Podržením zobrazíte nabídku přepínání vybavení." />
+    <string id="U5xKAHGi" text="Rozkvět" />
+    <string id="u6QCWQvu" text="Čtvrtá část" />
+    <string id="u7FkCtRN" text="Skupina 0 Slyšet" />
+    <string id="U8NaF1bo" text="Zkalibrovat" />
+    <string id="Uaae1eBV" text="Dvojité stisknutí pravého tlačítka: Náhle vpravo" />
+    <string id="UboDNGJw" text="Vyberte skupinu 7" />
+    <string id="uBRn8Je8" text="3" />
+    <string id="Uc1n5MRj" text="NVIDIA DLSS" />
+    <string id="ucyy9Sc5" text="{LEFT} / {RIGHT}" />
+    <string id="UFHqkvah" text="Interaktivní tráva" />
+    <string id="uGEcLaqw" text="Přetočení kamery doprava" />
+    <string id="UItoMdHh" text="Nelze vytvořit konfigurační data. Není dostatek místa." />
+    <string id="UixNc11t" text="Bránit se útokům zbraní nebo štítem." />
+    <string id="ukw0Zi1X" text="[" />
+    <string id="UNmUcizM" text="Vyberte pořadí 3" />
+    <string id="Uojm77jP" text="Kvalita osvětlení" />
+    <string id="UoxjMhfJ" text="SelectOrder1" />
+    <string id="UqB9zKfE" text="Vybavit primární zbraň" />
+    <string id="uQfDuGem" text="Zvětšení postavy" />
+    <string id="urbLiiQJ" text="Konfigurace expozice" />
+    <string id="uRXlSUVh" text="N" />
+    <string id="uSGPBRFS" text="Zoom" />
+    <string id="UTU6yVsp" text="Obnovení času na mapě kampaně." />
+    <string id="uUHUfeQr" text="Vyberte skupinu 6" />
+    <string id="UwJIMaRi" text="Kvalita shaderu" />
+    <string id="UwuYCgIU" text="Opatrnost" />
+    <string id="v2me5eP1" text="Přepínání vinětace." />
+    <string id="V5ltCcw0" text="Vysoká (125)" />
+    <string id="v8GIxASM" text="V-Sync" />
+    <string id="vAnlshLW" text="9" />
+    <string id="VasVb9DK" text="Vybavte se zbraní nebo přejděte na další zbraň." />
+    <string id="VAtNIoKC" text="L" />
+    <string id="VdGuZAoK" text="Skryjte uživatelské rozhraní." />
+    <string id="Ve99pCSo" text="Simulace látky" />
+    <string id="VE9TavSl" text="Nastaví kvalitu obtisku." />
+    <string id="Vea6bRUO" text="Povolení prvků rozhraní, které hlásí poškození a ztráty hráčů ve středu dole." />
+    <string id="vJ41v8zh" text="Neprůhlednost banneru přátelských jednotek" />
+    <string id="vJDxgaOZ" text="Verze těchto modulů se liší:" />
+    <string id="VklN5Wm6" text="Režim fotografie" />
+    <string id="VLxclitg" text="Povolit protokol chatu" />
+    <string id="vOanWRQi" text="Vyberte pořadí 1." />
+    <string id="vOVdr24b" text="Vyberte Objednávka 4." />
+    <string id="vT3yIxmO" text="Numpad 4" />
+    <string id="vvKU6wTA" text="Úroveň hlasitosti hlasového přenosu." />
+    <string id="vXvmeGhm" text="Typ stínu" />
+    <string id="VzSerzva" text="Posun doprava" />
+    <string id="W3NRW1d4" text="Zvolte rozložení obrazu (tj. kategorie zakázek a tlačítka){newline}Výchozí: Výchozí rozložení.{newline}Legacy: Rozložení příkazů používané v dřívějších verzích hry." />
+    <string id="w4l8xA2Q" text="Posun mapy doleva" />
+    <string id="waNCurZY" text="Povoluje rozmazání pohybu." />
+    <string id="wb84GjZw" text="Filtrování stínů" />
+    <string id="WBVMg0bd" text="Nastaví techniku filtrování textur. Vyšší hodnota znamená detailnější a ostřejší textury." />
+    <string id="wg5YeO4k" text="Mapa kampaně" />
+    <string id="wGa1SUop" text="Vybaví položku ve druhém slotu." />
+    <string id="whn4v32E" text="Nastavuje rozlišení stínů." />
+    <string id="WiBlu6mE" text="SelectOrder9" />
+    <string id="wJWICbOg" text="Váš preferovaný herní jazyk." />
+    <string id="WldVAZhy" text="Nastavuje úroveň detailů modelů postav." />
+    <string id="wMe5p2HG" text="7" />
+    <string id="WMmGH9yp" text="Získat kameru dále z mapy kampaně." />
+    <string id="WOubRnjm" text="Nahlásit zkušenost" />
+    <string id="WP4bYHK2" text="Ankety" />
+    <string id="WP6GEbYa" text="Zachovat zvuky hry, když je hra rozostřená." />
+    <string id="Wr2DX9Go" text="F23" />
+    <string id="wubDWOlh" text="Vybrat profil" />
+    <string id="WVpVmbzC" text="Tyto moduly jsou ve hře nové:" />
+    <string id="wWDHH5FK" text="Hloubka ostrosti" />
+    <string id="wXuZKLkk" text="Mění způsob míření se zbraněmi na dálku. Pokud je tato funkce povolena, tlačítko {?IS_PLAYSTATION}L2{?}levá spoušť{\?} zamíří zbraň a pomocí tlačítka {?IS_PLAYSTATION}R2{?}pravá spoušť{\?} se ze zbraně vystřelí." />
+    <string id="wygub2sh" text="F15" />
+    <string id="wYicqUa9" text="Čas na mapě Normální" />
+    <string id="X1nFnomy" text="Střední (400)" />
+    <string id="X2CbgcZ9" text="Podle směru pohledu" />
+    <string id="X5cSNxHf" text="5" />
+    <string id="x7kYOUfi" text="Efekty Objem" />
+    <string id="x7qfk550" text="Q" />
+    <string id="xboxBackButton" text="Tlačítko zobrazení" />
+    <string id="xboxDpadDown" text="D-pad dolů" />
+    <string id="xboxDpadLeft" text="D-pad doleva" />
+    <string id="xboxDpadRight" text="D-pad doprava" />
+    <string id="xboxDpadUp" text="D-pad nahoru" />
+    <string id="xboxLeftBumper" text="Levý nárazník" />
+    <string id="xboxLeftStick" text="Levá páčka" />
+    <string id="xboxLeftStickDown" text="Levá páčka dolů" />
+    <string id="xboxLeftStickLeft" text="Levá páčka doleva" />
+    <string id="xboxLeftStickRight" text="Levá páčka Pravá páčka" />
+    <string id="xboxLeftStickUp" text="Levá páčka nahoru" />
+    <string id="xboxLeftTrigger" text="levá spoušť" />
+    <string id="xboxRightBumper" text="pravý nárazník" />
+    <string id="xboxRightStick" text="Pravá páčka" />
+    <string id="xboxRightStickDown" text="Pravá páčka Dolů" />
+    <string id="xboxRightStickLeft" text="Pravá páka Levá páka" />
+    <string id="xboxRightStickRight" text="Pravý Stick Pravý" />
+    <string id="xboxRightStickUp" text="Pravý Stick Up" />
+    <string id="xboxRightTrigger" text="pravá spoušť" />
+    <string id="xboxStartButton" text="Tlačítko nabídky" />
+    <string id="XCB1SGxZ" text="Spustit benchmark" />
+    <string id="xEquRfRF" text="10" />
+    <string id="xikMYwty" text="Výkon DLSS Ultra" />
+    <string id="xJpOH8DU" text="Otevřít encyklopedii" />
+    <string id="XldS0fkN" text="Změna režimu sledování kamery" />
+    <string id="xlxTJuJ9" text="Vyberte možnost Každý." />
+    <string id="xMoqTFkZ" text="Inverzním směrem pohledu" />
+    <string id="XnhBdHnS" text="Surround" />
+    <string id="xNprkuJl" text="Zahoď zbraň" />
+    <string id="xnulLUFX" text="Rychlé uložení hry pomocí zkratky." />
+    <string id="XrUGC7H4" text="Backspace" />
+    <string id="XtiGbj0W" text="Zobrazit kurzor" />
+    <string id="xuOz73hl" text="Zvolte, zda se má v bitvách zobrazovat krev." />
+    <string id="xZ84ujuu" text="Kolik zvuků lze přehrát najednou. Nižší hodnoty sníží využití procesoru, zatímco vyšší hodnoty přinášejí lepší atmosféru." />
+    <string id="y5FGfFdf" text="F17" />
+    <string id="y7dx24ih" text="Otáčení kamery při změně směru jízdy na koni v pohledu první osoby." />
+    <string id="Y94H6XnK" text="Přijmout" />
+    <string id="YAHs7wBa" text="Vybrat pořadí 8" />
+    <string id="YDccwh2x" text="Hlavní hlasitost" />
+    <string id="yDr2HCFR" text="Přepnutí do režimu pohledu 360 stupňů kolem vaší postavy." />
+    <string id="yfMN8wWN" text="Anizotropní 4X" />
+    <string id="Yg2jHH1M" text="Numpad /" />
+    <string id="YirOUaIV" text="Sníží zaostření kamery." />
+    <string id="yLCSTuBw" text="Nastaví rozlišení hry. Vyšší rozlišení vyžaduje výkonnější zobrazovací adaptér." />
+    <string id="Yn8bh0qT" text="Vybavení dalšího štítu" />
+    <string id="yruQv3th" text="3 vlny" />
+    <string id="YT6ljA5V" text="Posun mapy vpřed" />
+    <string id="YTXLLaEN" text="Vysoká úroveň" />
+    <string id="yV64UCaW" text="Přiblížení" />
+    <string id="YWIndpqk" text="Exportovat vizualizace vyrovnávací paměti" />
+    <string id="YZv1752W" text="D" />
+    <string id="yZvw7EQb" text="Odraz prostoru na obrazovce" />
+    <string id="z5Kbb4pC" text="Vyvážený DLSS" />
+    <string id="z6ezjlkX" text="Posun" />
+    <string id="z8XjxODK" text="Změna na alternativní použití zbraně. Zbraň pro boj zblízka nebo na dálku, jednoruční nebo obouruční." />
+    <string id="ZaaPPemL" text="SelectOrder8" />
+    <string id="ZeIsxhk4" text="Nastaví techniku filtrování stínů." />
+    <string id="ZewnkWoO" text="G" />
+    <string id="Zgs47DHB" text="Caps Lock" />
+    <string id="ZIKuUbUG" text="Nastavuje počet současných simulací ragdollů." />
+    <string id="ZKg3DqbQ" text="Určuje neprůhlednost praporků zobrazených na vrcholu přátelských jednotek." />
+    <string id="ZlcrmFvl" text="Přepnutí na další kartu" />
+    <string id="znSZmZvV" text="Posun mapy doprava" />
+    <string id="Zo2ngsUk" text="Generování obličejů" />
+    <string id="ZoDugJHP" text="Vybrat předchozí skupinu" />
+    <string id="zofULNb8" text="Vybavit sekundární zbraň" />
+    <string id="ZOUxmamu" text="Nastavení citlivosti pro pohyb kurzoru a ovládání kamery." />
+    <string id="ZP1tLaa1" text="Numpad 9" />
+    <string id="ZtDJrNz9" text="Zrnitost filmu" />
+    <string id="zTFbqJ6R" text="'" />
+    <string id="ZtxvyzjY" text="Zvukové kanály" />
+    <string id="ZUGXXsGj" text="Počet zesilovacích vln" />
+    <string id="zUXxshZK" text="F12" />
+    <string id="zvD48rVQ" text="Rychlé uložení" />
+    <string id="ZvjfAm7H" text="Nelze vytvořit uložená data. Není dostatek místa." />
+    <string id="ZVLr4CMO" text="X1 Tlačítko myši" />
+    <string id="ZvtKqPt3" text="Dvojité stisknutí levého tlačítka: Náhlé stisknutí levého tlačítka" />
+    <string id="zwL5NFAr" text="Vložit" />
+    <string id="ZX8TLWzd" text="DLSS není pro tento systém k dispozici." />
+    <string id="zxMOqlhs" text="Útok" />
+    <string id="zXUB15lX" text="Dynamické rozlišení FPS Cíl" />
+    <string id="zyR3jbj2" text="Rychlejší kamera" />
+    <string id="zZeDwVbv" text="Nastavení citlivosti funkce snímače pohybu při míření zbraněmi na dálku. Hodnota 0 znamená vypnuto." />
+    <string id="zzonsjpL" text="Vysoká (512)" />
+  </strings>
+</base>

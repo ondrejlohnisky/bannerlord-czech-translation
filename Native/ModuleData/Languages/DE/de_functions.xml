@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+   <functions>
+	<function functionName="genderCreator" functionBody="{?$0!.nnp}{.PCreator}{:?$0!.M}{.MCreator}{:?$0!.F}{.FCreator}{:?$0!.N}{.NCreator}{:}{\?}"/>	
+	<function functionName="PLURAL" functionBody="{?$0.Plural}{$0.Plural}{?}{$0}{\?}"/>
+	<function functionName="WEAK" functionBody="{?$0.Weak}{$0.Weak}{?}{$0}{\?}"/>
+	<function functionName="MIXED" functionBody="{?$0.Mixed}{$0.Mixed}{?}{$0}{\?}"/>
+	<function functionName="IS_CASTLE" functionBody="{?$0.IS_CASTLE == 1}1{:}0{\?}"/>
+	<function functionName="IS_HIDEOUT" functionBody="{?$0.IS_HIDEOUT == 1}1{:}0{\?}"/>
+	<function functionName="TYPE" functionBody="{?$0.Type}{?$0.Type == 1}0{:?$0.Type == 2}1{:}2{\?}{?}2{\?}"/>
+	<function functionName="STRONG" functionBody="{?$0.Strong}{$0.Strong}{?}{$0}{\?}"/>
+	<function functionName="nachPreposition" functionBody="{?$0!.P}k{:?$0!.M}k muži{:?$0!.F}k ženě{:?$0!.N}k dítěti{:}do{\?}"/>
+	<function functionName="ausPreposition" functionBody="{?$0!.P}od{:?$0!.M}od muže{:?$0!.F}od ženy{:?$0!.N}od dítěte{:}z{\?}"/>
+	<function functionName="IS_PLURAL" functionBody="{?$0!.P}1{:?$0.Plural}1{:?$0!.ajsp}1{:?$0!.ajmp}1{:?$0!.ajwp}1{:?$0!.pnpgroup}1{:?$0!.nnp}1{:?$0!.pdp}1{:?$0!.pgp}1{:?$0!.pap}1{:?$0!.pnp}1{:?$0!.dp}1{:?$0!.gp}1{:?$0!.ap}1{:?$0!.np}1{:}0{\?}"/>
+	<function functionName="f_art" functionBody="{?($0 == 0)}ta{:?($0 == 1)}té{:?($0 == 2)}té{:?($0 == 3)}tu{:}ta{\?}"/>
+	<function functionName="m_art" functionBody="{?($0 == 0)}ten{:?($0 == 1)}toho{:?($0 == 2)}tomu{:?($0 == 3)}toho{:}ten{\?}"/>
+	<function functionName="n_art" functionBody="{?($0 == 0)}to{:?($0 == 1)}toho{:?($0 == 2)}tomu{:?($0 == 3)}to{:}to{\?}"/>
+	<function functionName="p_art" functionBody="{?($0 == 0)}ti{:?($0 == 1)}těch{:?($0 == 2)}těm{:?($0 == 3)}ty{:}ti{\?}"/>
+	<function functionName="articleHelper" functionBody="{?$0.HAS_ARTICLE}{?$0!.[P,np,nnp]}{p_art($1)} {:?$0.Plural}{p_art($1)} {:?$0!.M}{m_art($1)} {:?$0!.F}{f_art($1)} {:?$0!.N}{n_art($1)} {:}{\?}{?}{\?}"/>
+  </functions>
+</base>

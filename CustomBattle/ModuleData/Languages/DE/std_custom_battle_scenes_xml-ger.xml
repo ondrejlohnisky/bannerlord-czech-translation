@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="0BPeUfA9" text="Dunglanys" />
+    <string id="0gGlpoDG" text="Ain baliq" />
+    <string id="0gkY50ld" text="Alision" />
+    <string id="0MbpibwT" text="Neurval Valley (Rovina)" />
+    <string id="0p1Xuz4D" text="Lower Dryatic Mountain (Rovina)" />
+    <string id="1hIKR8Sa" text="Ocs Hall" />
+    <string id="1nWa3qgb" text="Bog Beth Arch (Rovina)" />
+    <string id="1rG1qcKN" text="Pobřeží Medeni (Poušť)" />
+    <string id="2hIl3Pld" text="Car Banseth" />
+    <string id="2JJHMZa8" text="Řeka Ozu (Step)" />
+    <string id="2ritKG4l" text="Koryto řeky Tiagys (Step)" />
+    <string id="324mqAvm" text="Argoron" />
+    <string id="3cBdEWg4" text="Hrad Hakkun" />
+    <string id="3hffTbxP" text="Geunat Nal" />
+    <string id="3kni3h4a" text="Dyopalis" />
+    <string id="3oKJwsxm" text="Potok Temea (Rovina)" />
+    <string id="3pAMEPX3" text="Les Temea (Rovina)" />
+    <string id="3ujFSm58" text="Tepes" />
+    <string id="3Uvpavg7" text="Vladiv" />
+    <string id="45k7HhNO" text="Ov Rovina (Step)" />
+    <string id="4TNHQfwj" text="Erithrys Předhoří (Rovina)" />
+    <string id="68hY2ikn" text="Sibir" />
+    <string id="6eH3F48v" text="Esme" />
+    <string id="6Ra8Qamo" text="Skorin Roviny (Rovina)" />
+    <string id="6ZFSqsNv" text="Morihigské lesy (Rovina)" />
+    <string id="73f3hn4j" text="Hrad Simira" />
+    <string id="7b44joze" text="Halisvust" />
+    <string id="7hw1LcEO" text="Epirický horský průsmyk (Rovina)" />
+    <string id="7P8SuEYM" text="Glenlithrig" />
+    <string id="7RZaNy5N" text="Hoqqa" />
+    <string id="7t4rSHJF" text="Horní Thrand (Rovina)" />
+    <string id="7vn2VRP0" text="Mareiven" />
+    <string id="843GVedi" text="Korsyas" />
+    <string id="8nAcLLnQ" text="Pobřeží Vinela (Rovina)" />
+    <string id="8txiTiHl" text="Fregian" />
+    <string id="8vI0Twwn" text="Omor" />
+    <string id="990Fhxcw" text="Pen Cannoc" />
+    <string id="9on9e5m7" text="Hrad Thractorae" />
+    <string id="9v0dObmN" text="Tasheba" />
+    <string id="AC37qQMF" text="Hongard" />
+    <string id="AD2SK3nm" text="Usek" />
+    <string id="Ad995J9D" text="Pustiny Galcha (Rovina)" />
+    <string id="aIPzzKgq" text="Thorios" />
+    <string id="ajuEIe2m" text="Sethysské lesy (Rovina)" />
+    <string id="aRPxOOCW" text="Qasira" />
+    <string id="ArtPdp9q" text="Amprela" />
+    <string id="aTEsacqP" text="Phycaon" />
+    <string id="AtIlQijG" text="Thractorae" />
+    <string id="awebxthZ" text="Oritan River (Bažina)" />
+    <string id="b33aHvbC" text="Jaculan" />
+    <string id="B6EMyA1v" text="Marunath" />
+    <string id="b9maTDoe" text="Vealos Basin (Rovina)" />
+    <string id="bFXvvRDp" text="Pouštní průsmyk Bir Seif (Poušť)" />
+    <string id="bGvPtKc3" text="Zestea" />
+    <string id="bQVkbPpU" text="Jeracos" />
+    <string id="bskXLff6" text="Diathma" />
+    <string id="buD5S2YV" text="Les Canoros (Rovina)" />
+    <string id="bw647Ns0" text="Diathma Meadows (Rovina)" />
+    <string id="BWii0r6E" text="Syronea" />
+    <string id="c8A1uisA" text="Hrad Verecsand" />
+    <string id="CD2aFnTf" text="Aeoria" />
+    <string id="cNiWekai" text="Lochana" />
+    <string id="cprzAUO2" text="Dryatické horské pláně (Rovina)" />
+    <string id="czzagO4q" text="Yangutum" />
+    <string id="dah9IZxv" text="Rodobas" />
+    <string id="dAqn04iR" text="Avalyps" />
+    <string id="dBlbWtZR" text="Bir seif" />
+    <string id="DDzuJuFC" text="Pobřeží Nefritového moře (Poušť)" />
+    <string id="Dga5nleS" text="Údolí Samatha (Rovina)" />
+    <string id="diY4gxkG" text="Verecsand" />
+    <string id="eEqUBFb3" text="Epicrotea" />
+    <string id="eeSLHoF6" text="Hrad Llanoc Hen" />
+    <string id="EF64kAD9" text="Fenon Tryn" />
+    <string id="F4SBmZ83" text="Etirfurd" />
+    <string id="FhgEIFWb" text="Makeb" />
+    <string id="fHiAAOmo" text="Chertyg Horský průsmyk (Rovina)" />
+    <string id="fmjfc45Z" text="Drapand" />
+    <string id="fphSzBHI" text="Biskajský les (Rovina)" />
+    <string id="FQ0sIVLT" text="Primessos" />
+    <string id="fQhG6WJA" text="Ircara Edge Mountains (Rovina)" />
+    <string id="FtAQwVpt" text="Údolí Zestea (Rovina)" />
+    <string id="fXaZ3CG4" text="Pustiny Bars Dag (Step)" />
+    <string id="Fy68tN4M" text="Asmait" />
+    <string id="FY9WBGWk" text="Mazhadan" />
+    <string id="gdPguBbF" text="Jarjara Lowlands (Poušť)" />
+    <string id="gKHzk2U0" text="Ath Cafal" />
+    <string id="glewzQmU" text="Morenia" />
+    <string id="GnaHLFY1" text="Iltanské bažiny (Rovina)" />
+    <string id="gPiWhghv" text="Dryatický horský průsmyk (Rovina)" />
+    <string id="GZYmOqZK" text="Urikskala" />
+    <string id="HcX4VAOW" text="Popsia" />
+    <string id="HfHfODCq" text="Epinosa" />
+    <string id="hndY2L5P" text="Wadar" />
+    <string id="ho6w9wbi" text="Západní nefritové moře (Poušť)" />
+    <string id="HOSVm9Av" text="Povodí řeky Miron (Rovina)" />
+    <string id="HSanKfUO" text="Gaos" />
+    <string id="I7QRokP0" text="Crios" />
+    <string id="ihlDZZ9a" text="Vealos" />
+    <string id="ijKTVdiS" text="Řeka Gavys (Rovina)" />
+    <string id="IjRalhdI" text="Uchalionský les (Rovina)" />
+    <string id="IMqEmnPb" text="Mironský les (Rovina)" />
+    <string id="IPbMskbi" text="Hrad Ustokol" />
+    <string id="iRJx70Q7" text="Jižní pustiny (Poušť)" />
+    <string id="IvJd7Nbr" text="Bažina Beth" />
+    <string id="IyuoDcuP" text="Rhemtoil" />
+    <string id="IZ1b77Ma" text="Amitatys" />
+    <string id="j04TBG56" text="Akkalat" />
+    <string id="j3M2FUDQ" text="Jarjara Desert Pass (Poušť)" />
+    <string id="J5ofaQnM" text="Karahan" />
+    <string id="JbFXhMJB" text="Ophthys Forest (Rovina)" />
+    <string id="jFy1l9iu" text="Ostican" />
+    <string id="JGEWHtGL" text="Asalig" />
+    <string id="jHEGCQ8y" text="Charas" />
+    <string id="JnraGGd4" text="Myzeadský les (Rovina)" />
+    <string id="JNz2l5Xt" text="Hertogea" />
+    <string id="jpqT9axa" text="Syratos" />
+    <string id="JrgJjJtU" text="Hertogea Džungle (Rovina)" />
+    <string id="JRuVr22Q" text="Tor Leiad Forest (Rovina)" />
+    <string id="JwMfPrlm" text="Rovalt" />
+    <string id="Jwo98TB7" text="Forin" />
+    <string id="jZyyJMqF" text="Mot" />
+    <string id="K0JCdjQd" text="Poros" />
+    <string id="K2NeKiuO" text="Ortysia" />
+    <string id="K5RYhaN1" text="Melion" />
+    <string id="ka2XFasQ" text="Bukits" />
+    <string id="KfHLVdry" text="Iyakis" />
+    <string id="KirQzyQV" text="Hrad Kaleus" />
+    <string id="Ku2aoyjk" text="Bryn glas" />
+    <string id="kx9W7aUN" text="Náhorní plošina Ornion (Rovina)" />
+    <string id="kygtIpwm" text="Pendraic Prairie (Rovina)" />
+    <string id="Lac7Lb0P" text="Uqba" />
+    <string id="LACC0MNV" text="Aminys Bridges (Rovina)" />
+    <string id="lfGlDXu2" text="Goleryn" />
+    <string id="lmaUNOay" text="Poušť Jabal Ashab (Poušť)" />
+    <string id="Luj9oWEl" text="Lageta" />
+    <string id="LZPV5OV6" text="Damar River (Stepní)" />
+    <string id="mJV8DyC1" text="Nogrent" />
+    <string id="MQQy8Ufb" text="Záliv Tirby Lesy (Rovina)" />
+    <string id="mVnh3kqF" text="Devsegská náhorní plošina (Step)" />
+    <string id="MysnepcM" text="Ircarský les (Rovina)" />
+    <string id="n1pZuP9U" text="Tripotamské údolí (Rovina)" />
+    <string id="N7tngupZ" text="Swenrynské pláně (Rovina)" />
+    <string id="NlrfibI9" text="Remental" />
+    <string id="NQKWCA6m" text="Calsa Wastes (Rovina)" />
+    <string id="NWDzoBvg" text="Pobřeží Tasheby (Step)" />
+    <string id="nx8dPxlY" text="Chaikand" />
+    <string id="NzQVLsOH" text="Calsa River (Rovina)" />
+    <string id="O3GrNfIR" text="Vesinské pobřeží (Rovina)" />
+    <string id="O6hUb0PH" text="Laconis Shores (Rovina)" />
+    <string id="OcQDxfnH" text="Revyl" />
+    <string id="oifHnpLh" text="Gamardanský les (Rovina)" />
+    <string id="OLrhkKUo" text="Hrad Ain Baliq" />
+    <string id="OSv0n6Eq" text="Rhesos" />
+    <string id="ov9jrNqP" text="Ormanfard" />
+    <string id="oxSVeo6J" text="Seonon" />
+    <string id="p0tSofNV" text="Údolí Palisont (Rovina)" />
+    <string id="P6TPNvWz" text="Galend" />
+    <string id="p7X1aLIP" text="Samatha" />
+    <string id="PF1ohppa" text="Hrad Mazhadan" />
+    <string id="PMf8vgt1" text="Askar" />
+    <string id="PnfGEvfu" text="Canterion" />
+    <string id="PYggrg9m" text="Palisont" />
+    <string id="q0JVAZjz" text="Rhotae" />
+    <string id="Q1FSLwaw" text="Vargornis" />
+    <string id="q8eVTV1M" text="Ariská nížina (Rovina)" />
+    <string id="qaoM6HL6" text="Tyal" />
+    <string id="QRioHPAs" text="Bergum" />
+    <string id="Qtskr0Fg" text="Shapeshte" />
+    <string id="QuLrXJoP" text="Hrad Jogurys" />
+    <string id="qumw7GQb" text="Dinar" />
+    <string id="qxtk8aub" text="Imlaghský les (Rovina)" />
+    <string id="r2cvi5pi" text="Hrad Hongard" />
+    <string id="RdMsvNec" text="Tor Melina" />
+    <string id="RdWjsx6Y" text="Ismilkorgský les (Rovina)" />
+    <string id="RgO750Ca" text="Hrad Usanc" />
+    <string id="rk7xneq9" text="Razih" />
+    <string id="RKLVUpGR" text="Kvol Lesy (Rovina)" />
+    <string id="RQ37o2Yu" text="Baltakhand" />
+    <string id="rtiVr8Nm" text="Hrad Sestadaim" />
+    <string id="RY3L0QLA" text="Tismilská pustina (Step)" />
+    <string id="S9xlDnPL" text="Dalmengusské pobřeží (Rovina)" />
+    <string id="SdKNB1JO" text="Sargot" />
+    <string id="SDoABuDm" text="Hrad Ab Comer" />
+    <string id="ShP2XUV7" text="Varcheg" />
+    <string id="Sk1x6LZK" text="Hrad Barihal" />
+    <string id="Sm9T9Qwi" text="Myzea" />
+    <string id="snbaIFOU" text="Hrad Veron" />
+    <string id="sVurp04I" text="Potamský les (Rovina)" />
+    <string id="SxGXPdms" text="Tevea" />
+    <string id="SZ3fWeNn" text="Gamardan" />
+    <string id="t3t5XL2b" text="Chornobas" />
+    <string id="TapuitFC" text="Onira" />
+    <string id="tBZ507q1" text="Vladivský les (Rovina)" />
+    <string id="tFkhbulg" text="Akkanský průsmyk (Step)" />
+    <string id="TGPsNCI5" text="Varnovapol" />
+    <string id="TiUvsxPP" text="Abbská kotlina (Poušť)" />
+    <string id="tJtC25tG" text="Husn Fulq" />
+    <string id="tLLrL2po" text="Kvol" />
+    <string id="tPS2xGZN" text="Kuruluk" />
+    <string id="TufwCXsb" text="Východní Dunglanys (Rovina)" />
+    <string id="TWmYlcCZ" text="Quyaz" />
+    <string id="txX7q3OL" text="Hrad Talivel" />
+    <string id="uADa8Bmy" text="Lycaron" />
+    <string id="UBbTKSsa" text="Zeonica" />
+    <string id="UcwyFba8" text="Kiraz" />
+    <string id="udfsSBuj" text="Údolí Kachyar (Rovina)" />
+    <string id="UL5Ebxfq" text="Golerynská kotlina (Rovina)" />
+    <string id="umUUXGom" text="Poušť Jabal Tamar (Poušť)" />
+    <string id="ur24SWTb" text="Odokh" />
+    <string id="UYl1t6jl" text="Poušť Wadar (Poušť)" />
+    <string id="v8anZHEq" text="Erzenur" />
+    <string id="VA7hpaye" text="Mossom" />
+    <string id="varCZlso" text="Balgard" />
+    <string id="VARi169Z" text="Údolí řeky Trand (Rovina)" />
+    <string id="vITP9z1Z" text="Ortongard" />
+    <string id="vK8aRweu" text="Hrad Jamayeh" />
+    <string id="vN32HHek" text="Hubyar" />
+    <string id="vXqCDtR6" text="Vathea" />
+    <string id="VZJF1eXu" text="Hrad Takor" />
+    <string id="w7ImuzEs" text="Pravend" />
+    <string id="wj01G6Mw" text="Vesin" />
+    <string id="wKYM4OQY" text="Náhorní plošina Nahr Al-Kals (Step)" />
+    <string id="wL4VPMJY" text="Damarský most (Poušť)" />
+    <string id="wwITudGq" text="Agalmon" />
+    <string id="WxSfaOM1" text="Hrad Medeni" />
+    <string id="x4tYsDgI" text="Nutyuk" />
+    <string id="xDOAD5f6" text="Poušť Liwas (Poušť)" />
+    <string id="xdYXz0PY" text="Jogurys" />
+    <string id="XI0Tct5W" text="Tismil" />
+    <string id="XJAEaQHv" text="Sulun Dag Wastes (Step)" />
+    <string id="XOj46kua" text="Drapandské útesy (Rovina)" />
+    <string id="XOThK6JN" text="Záliv Západní Vlandie (Rovina)" />
+    <string id="XyYl7ito" text="Horní tok řeky Sethys (Rovina)" />
+    <string id="y0QUAVsw" text="Gersegos" />
+    <string id="Y3Ava3iD" text="Saneopa" />
+    <string id="y4pFeCFr" text="Morihig" />
+    <string id="YbKvMKr3" text="Leblenion" />
+    <string id="YeWZBSx8" text="Jalmarys" />
+    <string id="YgQ7rtND" text="Deir Hawa" />
+    <string id="YJpAgpco" text="Údolí Nevys (Step)" />
+    <string id="yKvr7MEB" text="West Llyn Tywal (Rovina)" />
+    <string id="ylK7UJp9" text="Carphenion" />
+    <string id="YqnN2sbr" text="Calsea Swamps (Rovina)" />
+    <string id="zRbhAwyr" text="Vostrum" />
+    <string id="zuYafrkj" text="Visibrot" />
+    <string id="ZY5hwSyO" text="Pohoří Takor (Step)" />
+  </strings>
+</base>

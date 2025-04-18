@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="1cnJtNTt" text="{KEY} Vytáhněte" />
+    <string id="1nKa4pQX" text="Zbytek obsahu hry byl stažen." />
+    <string id="3PP01vFv" text="Držte se dál od této zbraně." />
+    <string id="4Skg9QhO" text="Trebuchet" />
+    <string id="5oozsaIb" text="{KEY} Otevřít" />
+    <string id="5wx4BF5h" text="{KEY} Otáčení" />
+    <string id="6wZUG0ev" text="Brána" />
+    <string id="abbALYlp" text="Balista" />
+    <string id="aXjlMBiE" text="Obléhací věž" />
+    <string id="BFhMw4bl" text="Zbytek obsahu hry byl stažen. Chcete se vrátit do hlavní nabídky?" />
+    <string id="bNYm3K6b" text="{KEY} Vyzvednout" />
+    <string id="bWi4aMO9" text="Barel se šípy" />
+    <string id="CaSafuAH" text="Stažení obsahu dokončeno" />
+    <string id="DRNDtkP2" text="Dejte přednost jednotkám na vyšších úrovních" />
+    <string id="DWWa3aIb" text="Dejte přednost jednotkám s vrhacími zbraněmi" />
+    <string id="DzAkCzwd" text="Vysoká úroveň" />
+    <string id="Ea3K1PVR" text="Vrhací zbraně" />
+    <string id="f83FU4X6" text="Tyčové zbraně" />
+    <string id="F9AQxCax" text="Vidlice" />
+    <string id="FNLfNWH3" text="Jezdci a koňští lučištníci" />
+    <string id="G0AWk1rX" text="Žebřík" />
+    <string id="gAfbULHM" text="Kamera" />
+    <string id="gqQPSAQZ" text="{KEY} Opustit oblast" />
+    <string id="ibC4xPoo" text="{KEY} Nabít munici" />
+    <string id="jfcceEoE" text="{PILE_TYPE} Hromada" />
+    <string id="Jw0GMgzv" text="Těžká výzbroj" />
+    <string id="K3Cr70PY" text="Upřednostnit vojáky s tyčovými zbraněmi." />
+    <string id="kbNcm68J" text="{KEY} Postavit" />
+    <string id="L91XKoMD" text="{TEAM_LEADER}: {PLAYER_NAME}, {BEHAVIOR}" />
+    <string id="m9KoYCv5" text="Ovládání" />
+    <string id="MaBSSg7I" text="Beranidlo" />
+    <string id="mBDj5uG5" text="Pěchota a střelba na dálku" />
+    <string id="MdQJxiGz" text="{KEY} Tlačit" />
+    <string id="MVOPbhNj" text="Upřednostnit vojáky se štíty" />
+    <string id="Na81xuXn" text="{KEY} Rearm" />
+    <string id="NbpcDXtJ" text="Mangonel" />
+    <string id="PSN8IaIg" text="Štíty" />
+    <string id="Q1Ga032B" text="Nedávejte přednost žádnému typu vojska." />
+    <string id="qaPgbwZv" text="Nízká úroveň" />
+    <string id="rwZAZSvX" text="{KEY} Pohyb" />
+    <string id="sRTd3RI5" text="Grafika" />
+    <string id="TJj71hPO" text="{KEY} Zavřít" />
+    <string id="ush8OHIw" text="Upřednostnit vojáky s těžkou zbrojí" />
+    <string id="uZ6q4Qs2" text="Vizualizace" />
+    <string id="v5EqMSlD" text="Nelze změnit preferenci arény během souboje." />
+    <string id="vDMe8SCV" text="Škálování rozlišení" />
+    <string id="w7Yrbi5t" text="Zrušení nastavení" />
+    <string id="WRMyiiYJ" text="Uživatelské rozhraní" />
+    <string id="wY1qP2qj" text="{KEY} Vyberte" />
+    <string id="XvSRoOzM" text="Nedávno přehraní hráči" />
+    <string id="ys9baYiQ" text="Kampaň" />
+    <string id="zbpCRmuJ" text="Upřednostnit jednotky na nižších úrovních" />
+  </strings>
+</base>

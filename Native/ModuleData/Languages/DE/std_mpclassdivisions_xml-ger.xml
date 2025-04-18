@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="0o6o94sk" text="Jsi odborník na útoky na koni, abys prolomil obranné linie.{newline} {newline}+50% bonus k rychlosti poškození na koni." />
+    <string id="0TtCRwmr" text="Atletický" />
+    <string id="0yGhTKey" text="Uděluje extra šípy." />
+    <string id="10u6mqIX" text="Nahrazuje nomádský krátký luk lukem zahnutým, způsobuje větší poškození, ale je pomalejší." />
+    <string id="1MaVHrmf" text="Uděluje dlouhý oštěp Bomboo, který je delší a lehčí.{newline} {newline}Dává bambusové kopí." />
+    <string id="25f3yj3M" text="Delší meč" />
+    <string id="2BpUBMJS" text="Vylepšil sis zbroj o pevné kovové pláty.{newline} {newline}+10 brnění{newline}-20% snížení způsobeného poškození." />
+    <string id="2cNN7lem" text="Vedeš útok a nevadí ti nepřátelské zbraně na dálku. Uděluje těžký kontos. {newline} {newline}Dává těžký Kontos{newline} {newline}-35% poškození způsobeného střelnými zbraněmi {newline}-35% poškození způsobeného jezdcem z dalekonosných zbraní." />
+    <string id="2NofSpJ0" text="Zranění tě přivádí do zuřivosti, čím více jsi zraněn, tím menší poškození dostáváš a tím větší poškození způsobuješ v boji zblízka. {newline}Přináší ti to vztek, čím více jsi zraněn. {newline}+5% poškození za 20 ztracených zásahových bodů{newline}-5% poškození přijatého z útoků zblízka za 20 ztracených zásahových bodů." />
+    <string id="384xoQfD" text="Nahrazuje Falxe Rhomphaiem, je delší, ale způsobuje menší poškození a je pomalejší. Uděluje dodatečné poškození proti štítům." />
+    <string id="3eb3ZyiU" text="Vynikající luk" />
+    <string id="3hTJgq6V" text="Jsi odborník na boj na koni.{newline} {newline}Dává dlouhé kopí{newline} {newline}+33% bonus k rychlosti při bodných útocích z koně." />
+    <string id="3J2Py6eg" text="Obouruční meč, účinný v soubojích a úderech, obouruční.{newline} {newline}Dává obouruční meč{newline}+5% rychlosti pohybu." />
+    <string id="4bzbhbaP" text="Feller" />
+    <string id="4Gi8asWk" text="Nahradí Rekurzivní luk lukem kompozitním, rychleji natahuje a způsobuje větší poškození." />
+    <string id="4O4xjMMd" text="Nomádský lučištník" />
+    <string id="4t6A2jY8" text="Sekera a štít" />
+    <string id="5aZNQczb" text="Vymění koně za obratnějšího." />
+    <string id="5f6TSkM1" text="Jízda na koni" />
+    <string id="5FPhltaZ" text="Nahrazuje kuši arbalestem, který je nejlepší v Calradii. Má zesílené rameno luku, čímž se zvyšuje účinný dostřel." />
+    <string id="5JQFx3EW" text="Nahrazuje koně rychlejším a obratnějším koněm." />
+    <string id="68e7N73f" text="Víš, jak těžit z vybavení, které už mrtví nemají k dispozici. Za zabití a asistenci získáš zlato.{newline} {newline}+20 zlata za zabití" />
+    <string id="68oQg85B" text="Jsi expert na ochranu sebe a svého koně.{newline} {newline}Dává silnější štít{newline}-33% poškození způsobeného střelnými zbraněmi{newline}-33% poškození způsobeného jezdeckým koněm střelnými zbraněmi." />
+    <string id="6bdcoGI1" text="Nahradí koně rychlejším a obratnějším koněm." />
+    <string id="6CDEbd1S" text="Impaler" />
+    <string id="6M5TbvlU" text="Zbroj vyrobená z materiálů vyšší kvality.{newline} {newline}+ 13 brnění" />
+    <string id="6W3s9mVH" text="Bojovník" />
+    <string id="722U31od" text="Nahradí koně manévrovatelnějším, odolnějším, ale pomalejším koněm, který způsobuje větší poškození útokem." />
+    <string id="73DALTsR" text="Nahradí srp kladivem, které je účinné proti obrněným protivníkům." />
+    <string id="7cX6AQlT" text="Máš bezvadnou práci nohou, při pohybu míříš méně zasažen.{newline} {newline}+50% přesnost při pohybu{newline}+5% rychlost pohybu." />
+    <string id="7dQz83TL" text="Uděluje těžkou šavli, je delší a způsobuje větší poškození." />
+    <string id="7h6y99Mx" text="Uděluje meč a štít, usnadňuje blokování, díky čemuž jsi účinný v boji zblízka. {newline} {newline}Dává dlouhou šavli{newline}Dává kulatý štít {newline}Dává +5% rychlosti pohybu." />
+    <string id="7HVIIZ8M" text="Zranění tě přivádí k zuřivosti, čím více jsi zraněn, tím větší poškození způsobuješ v boji zblízka. {newline}Přináší ti další zranění. {newline}Dává sekeru {newline}Sekera {newline}+5% poškození za 20 ztracených zásahových bodů." />
+    <string id="7I7fd6OQ" text="Uděluje těžký meč, účinný proti obrněným protivníkům." />
+    <string id="7MkoLtWC" text="Sekera" />
+    <string id="7mssfSVp" text="Pod zbrojí máš další vrstvy polstrování.{newline} {newline}+10 brnění{newline}-33% tupého poškození." />
+    <string id="7qB0WKMW" text="Štědrý pán" />
+    <string id="7sWKjye0" text="Rychlejší kůň" />
+    <string id="7ZHPR7pJ" text="Uloupené štíty" />
+    <string id="8B7pGxj4" text="Tvůj štít má větší odolnost a dostáváš menší poškození od útoků na dálku.{newline} {newline}Dává silnější štít{newline}-30% poškození způsobeného střelnými zbraněmi." />
+    <string id="8Ca2z4HB" text="Jsi síla, se kterou se musí počítat, způsobuješ větší poškození pohyblivým cílům a štítům.{newline} {newline}+40% rychlostní bonus k poškození na pěší {newline}+25% bonusové poškození na štíty." />
+    <string id="8NHaOWIO" text="Jsi expert na boj {newline} {newline}+5% rychlosti pohybu {newline}+10% poškození zbraněmi pro boj zblízka." />
+    <string id="8nObGQqW" text="Rhomphaia" />
+    <string id="8pBro9eG" text="Tento luk, vyrobený z pružného dřeva, lze natáhnout mnohem rychleji." />
+    <string id="8wsIzdlM" text="Nahrazuje menavlion těžkým menavlionem, který je delší, ale pomalejší.{newline} {newline}Může prorazit při švihu nad hlavou." />
+    <string id="8zwWEfSs" text="Střední pěchota" />
+    <string id="98Uh0FjL" text="Dragoun" />
+    <string id="9EcreTkL" text="Nahrazuje Rekurve Bow kompozitním lukem, natahuje se rychleji, způsobuje větší poškození, ale je méně přesný." />
+    <string id="9MSG1p0W" text="Máš bezvadnou práci nohou, při pohybu míříš méně ovlivněn. {newline}Také máš bezvadnou práci nohou, míříš méně ovlivněn. {newline}+80% přesnost při pohybu{newline}+5% rychlost pohybu." />
+    <string id="9XtgLuAL" text="Specialista na sekery" />
+    <string id="a6HqLFC7" text="Jsi stepní bojovník, v boji zůstáváš pohyblivý a nebezpečný, abys otevřel nepřátelům záda.{newline} {newline}Dává krátké kopí{newline} {newline}+5% Poškození při boji zblízka" />
+    <string id="a8ycVmwU" text="Bardiche" />
+    <string id="AApw8sqj" text="Tvé zkušenosti hraničáře ti umožňují lépe bojovat v boji zblízka.{newline} {newline}Dává lepší obouruční meč{newline} {newline}+5% rychlost pohybu {newline}-60% postih za přesnost pohybu." />
+    <string id="aeWqECxF" text="Rychlejší dlouhý luk" />
+    <string id="aPnYFXVX" text="Jsi expert na útoky, kterými prolomíš obranné linie. Uděluje jezdecké kopí, které způsobuje větší poškození.{newline} {newline}Dává jezdecké kopí{newline} {newline}+50% bonus k rychlosti Poškození na koni" />
+    <string id="AW8XDIIP" text="Silná kůže" />
+    <string id="aZIG2v6p" text="Patříš k nejlepším mezi svými vojáky, házíš přesněji.{newline} {newline}+50% počáteční přesnost při střelbě {newline}+80% zvýšení přesnosti při střelbě." />
+    <string id="b1AcD5zT" text="Vedeš útok a nevadí ti nepřátelské zbraně na dálku. {newline} {newline}Přináší kontos{newline} {newline}-30% poškození způsobeného střelnými zbraněmi." />
+    <string id="b2w4dmy2" text="Strážce" />
+    <string id="b4CYRWEr" text="Patříš k nejlepším mezi svými vojáky, házíš přesněji. {newline}Přesnější hod. {newline}+60% počáteční přesnost střelby na dálku{newline}+70% rychlejší zvýšení přesnosti střelby na dálku." />
+    <string id="b6D2xgke" text="Uděluje meč a štít, usnadňuje blokování, díky čemuž jsi efektivní v boji zblízka. {newline} {newline}Dává severní meč{newline}Dává kulatý štít {newline}Dává +5% rychlosti pohybu." />
+    <string id="BbV2Pwzb" text="Zesílená zbroj" />
+    <string id="BHXqTA0N" text="Nahrazuje Flyssu Kaskarou, je delší a způsobuje větší poškození." />
+    <string id="bIRS8ZSU" text="Dokážeš mnohem rychleji a přesněji vrhat sekery, vrhací sekery také způsobují dodatečné poškození štítům. {newline} {newline} Uděluje vrhacím sekerám {newline} {newline}+30% poškození štítů" />
+    <string id="blqDgCtL" text="Lovec velké zvěře" />
+    <string id="bsabIdYm" text="Obouruční sekera" />
+    <string id="btoJTO9G" text="Nájezdnická sekera" />
+    <string id="bxUVwypQ" text="Víš, jak si poradit v boji zblízka, uděluje štít a palcát {newline} {newline}Dává malý kovový štít{newline}Dává těžký palcát{newline}+7% rychlost pohybu." />
+    <string id="bY9U7w1Q" text="Meč" />
+    <string id="bzr6vtXi" text="Těžký meč" />
+    <string id="bZyzMko7" text="Vymění koně za rychlejšího. Nahrazuje plný plášť polovičním pláštěm. Je rychlejší a obratnější.{newline} {newline}Dává poloviční barding {newline}Dává rychlejšího koně." />
+    <string id="C9ufRSsL" text="Meč a štít" />
+    <string id="CD8bLYRc" text="Zranění tě přivádí k zuřivosti, čím více jsi zraněn, tím větší poškození způsobuješ v boji zblízka.{newline} {newline}+10% poškození za 20 ztracených zásahových bodů." />
+    <string id="cfSgK0nk" text="Hbitý kůň" />
+    <string id="chvOaryz" text="Nahradí tvé kopí náhodným kopím libovolné kultury." />
+    <string id="CQBiJLgv" text="Velbloud" />
+    <string id="cQHeVV3V" text="Jsi odborník na zneškodňování velkých zvířat, zejména vrhacími zbraněmi.{newline} {newline}Dává vrhací oštěp{newline} {newline}+50% poškození na dálku pro koně" />
+    <string id="D1eUvgh1" text="Dokážeš rychleji házet oštěpy.{newline} {newline}Dává 5 dalších oštěpů{newline}  {newline} +10% Rychlost připravenosti" />
+    <string id="D36uGqf8" text="Kombinované zbraně" />
+    <string id="d3NMiZmW" text="Poskytuje +2 dodatečné jednotky." />
+    <string id="d7Z3ka1m" text="Lepší luk" />
+    <string id="DciUJ0pY" text="Jste expertem v boji na dálku při pohybu na koni.{newline} {newline}Dává oštěpy {newline}Uděluje oštěpům {newline}-25% postih za přesnost pohybu{newline}-25% postih za přesnost otáčení." />
+    <string id="dIbTJvfA" text="Dokážeš rychleji házet oštěpy.{newline} {newline}Dává 2 další oštěpy{newline} {newline} +10% Rychlost připravenosti" />
+    <string id="DlKYZgA3" text="Vylepšená zbroj" />
+    <string id="Do4Mmbs9" text="Plátová zbroj" />
+    <string id="drDLzIzS" text="Družina" />
+    <string id="DrWY4I8X" text="Specialista na palcáty" />
+    <string id="dTpTyUtb" text="Doplněno" />
+    <string id="du7l3z5b" text="Odolný" />
+    <string id="DYUfnBHb" text="Farmář" />
+    <string id="E0sUI9sm" text="Máš zkušenosti s lukem na koni, tvá přesnost je mnohem lepší.{newline} {newline}Dává krátký luk a šípy{newline}-50% postih za přesnost pohybu." />
+    <string id="E1bKcoaT" text="Zlomitel jezdectva" />
+    <string id="E7WWiQCf" text="Dosah Dlouhý luk" />
+    <string id="E8f6ngSe" text="Kvůli tobě mají nepřátelské oddíly problémy se spánkem, jsi nezastavitelný rozdavač smrti. {newline} {newline}+9 brnění{newline}+10% rychlost švihu na koni{newline}+10% poškození způsobené tupými zbraněmi." />
+    <string id="ebGVm8Ve" text="Uděluje náhodný štít různých stupňů." />
+    <string id="EcYwrKTf" text="Těžká sekera a štít" />
+    <string id="efYCG9u2" text="Obrněný oštěp" />
+    <string id="EjyFIpP6" text="Váš štít má větší odolnost a umožňuje vám pokrýt štítem větší plochu. Také dostáváš menší poškození od bodných zbraní.{newline} {newline}Dává silnější štít{newline}+20% plochy štítu proti dalekonosným zbraním{newline}-30% poškození způsobeného bodnými zbraněmi." />
+    <string id="eLoZTNYa" text="Jsi expert v boji při pohybu s lukem.{newline} {newline}+25% rychlejší pohyb při pohybu a míření{newline}-80% postih za přesnost otáčení{newline}-80% postih za přesnost pohybu." />
+    <string id="eMd39oQf" text="Jsi expert v boji proti pěšímu jezdectvu a umíš využít rychlost jezdectva proti němu samotnému.{newline} {newline}Dává dlouhé kopí {newline} {newline}+100% poškození jezdců zbraněmi pro boj zblízka {newline}+50% bonus k rychlosti poškození zbraněmi pro boj zblízka při bodných útocích." />
+    <string id="EqbLGvGF" text="Uvědomil sis, že velikost je v boji nejdůležitější výhodou.{newline} {newline}Dává delší kopí{newline} {newline}Dává větší štít {newline}Dává větší kopí {newline} !!CHYBA!!-25% poškození, které utrpěla hora od zbraní na dálku." />
+    <string id="eQLORdgE" text="Šípy navíc" />
+    <string id="eSBNJlzS" text="Nahrazuje kuši těžkou kuší, která se snadněji natahuje. Nabíjení je rychlejší." />
+    <string id="f2A3Mhpd" text="Rychlá kuše" />
+    <string id="F2J9upsv" text="Jsi expert v boji. {newline}Jsi expert v boji. {newline}+5% rychlost pohybu {newline}+5% poškození zbraněmi pro boj zblízka" />
+    <string id="f2OE1CBp" text="Jsi expert na boj {newline} {newline}+10% poškození zbraněmi pro boj zblízka" />
+    <string id="fAnbXffX" text="Jezdecké kopí" />
+    <string id="FK3jA1pT" text="Jsi síla, se kterou se musí počítat, způsobuješ větší poškození pohyblivým cílům a štítům.{newline} {newline}+33% rychlostní bonus k poškození pěších {newline}+100% bonusové poškození štítů." />
+    <string id="FLBYsvxp" text="Dlouhý meč" />
+    <string id="FLKxfaGn" text="Silná vrstva svalů tě chrání před pohmožděninami.{newline} {newline}-20% tupého poškození" />
+    <string id="FqHvkh44" text="Nahradí koně koněm, který způsobuje větší poškození útokem." />
+    <string id="fVaqYLsw" text="Zkušenosti střelce ti umožňují střílet těžší šípy s větší přesností.{newline} {newline}Dává silnější šípy{newline} {newline}+100% maximální doba trvání přesnosti" />
+    <string id="fzxdjq8G" text="Vynikající stepní luk" />
+    <string id="G4nZNi6t" text="Tvůj čas strávený v přírodě tě učinil nepřirozeně silným, tvé hody způsobují větší poškození. {newline}Tvůj luk je silnější než tvůj luk. {newline}Dává Vrhací oštěp{newline} {newline}+20% poškození při hodu" />
+    <string id="gcmyaxK9" text="Víš, kam zasáhnout své cíle, tvé hody způsobují další poškození, zejména zásahy do hlavy. {newline}Ty víš, kam se trefit, tvé hody způsobují další poškození. {newline}+5% poškození při střelách {newline}+5% dodatečného poškození při střelách do hlavy." />
+    <string id="gnb4493C" text="Nahrazuje meč palicí, účinná proti obrněným protivníkům." />
+    <string id="gQtU8qqy" text="Přidává sekeru, účinnou proti štítům." />
+    <string id="h5Oj84Wu" text="Zranění tě přivádí k zuřivosti, čím více jsi zraněn, tím menší poškození dostáváš a tím větší poškození způsobuješ při boji zblízka. {newline} {newline}+7% poškození za 20 ztracených zásahových bodů{newline}-7% poškození způsobeného útoky zblízka za 20 ztracených zásahových bodů." />
+    <string id="H6y5zvHY" text="Silná vrstva svalů tě chrání před pořezáním a pohmožděninami.{newline} {newline}+7 pancíř{newline}-30% tupých zranění." />
+    <string id="H8MYgA6i" text="Delší menavlion" />
+    <string id="ha2b1k4u" text="Tvé zkušenosti lovce ti umožňují zasáhnout úchyty na kritických místech a způsobit tak větší poškození.{newline} {newline}Dává ostnaté šípy{newline} {newline}+60% poškození na koních." />
+    <string id="Ha8HVTck" text="Dokážeš mnohem rychleji házet oštěpy.{newline} {newline}Dává další oštěpy{newline} {newline}+5% Rychlost vystřelení střely {newline} +10% Rychlost připravenosti" />
+    <string id="HbngeqNq" text="Oštěpař" />
+    <string id="HBqsJ7a5" text="Vzal sis do války náhodný nástroj ze své farmy. Jsi zvyklý zacházet se zvířaty. {newline}Jsi zvyklý zacházet se zvířaty. {newline}Dává náhodný zemědělský nástroj {newline}Podává náhodný zemědělský nástroj {newline} !!CHYBA!!+50% poškození pro koně" />
+    <string id="HgJetcmG" text="Uděluje kuši se zesíleným ramenem luku, čímž se zvyšuje účinný dostřel." />
+    <string id="Hm1Qo6iv" text="Dobře vybaven" />
+    <string id="HMbGb1V2" text="Vesnická domobrana" />
+    <string id="HoVaJ0BH" text="Obouruční maul" />
+    <string id="HQ20qb3g" text="Nahradí koně rychlejším, ale méně odolným koněm." />
+    <string id="hvINBQ1p" text="Poskytuje brnění pro koně a dodatečnou ochranu proti zbraním na dálku.{newline} {newline}+17 brnění pro koně{newline}-20% poškození, které jezdec utrpí od střelných zbraní." />
+    <string id="HYxbTcNS" text="Nahradí tabar mečem a štítem. Poskytuje více vojáků, všestrannost a ochranu.{newline} {newline}Dává těžký scimitar{newline}Dává štít{newline}+2 další vojáci." />
+    <string id="i6OSr5QM" text="Dosah Luk" />
+    <string id="IAhuOhEW" text="Jsi připraven k boji. Získáš štít a další šípy." />
+    <string id="iHljS6n5" text="Maskovaná noční můra" />
+    <string id="iISeUaCU" text="Tvůj válečnický kodex ti zakazuje zemřít. Jsi odolnější vůči utrpěnému poškození.{newline} {newline}Dává malý štít{newline} {newline}-10 % přijatého poškození" />
+    <string id="ILVb8Klx" text="Díky zkušenostem s vesnickou domobranou ses zocelil. Dostáváš méně poškození. {newline} {newline}Dary Házení kamenů{newline} {newline}-5% přijatého poškození" />
+    <string id="Isppj4D1" text="Uděluje lepší sekeru a větší štít." />
+    <string id="ITnsSkJr" text="Jsi zkušený ve všech disciplínách boje se sekerou a hluboce nenávidíš dřevo.{newline} {newline}Dává sekeru {newline}Dává sekeru {newline} !!CHYBA!!+20% poškození způsobeného štítem" />
+    <string id="IUsT27oV" text="Poskytuje +9 zbrojí." />
+    <string id="Ixwvwhg9" text="Jsi odborník na boj s lukem při pohybu.{newline} {newline}-25% postih za pohyb při míření dalekonosnými zbraněmi{newline}-80% postih za přesnost otáčení{newline}-80% postih za přesnost pohybu." />
+    <string id="JbWbiO6O" text="Luk a šípy" />
+    <string id="jf8luKVV" text="Brawny" />
+    <string id="jk3I7cqY" text="Léčená kožená zbroj" />
+    <string id="jKYWiUZA" text="Nahradí koně odolnějším, obratnějším, ale pomalejším koněm, který způsobuje větší poškození útokem." />
+    <string id="jpc34Myp" text="Jste dobře zásobeni a odborně s tím hospodaříte, nabíjíte rychleji.{newline} {newline}Uděluje více šípů{newline} {newline}+25% rychlosti nabíjení." />
+    <string id="jPX5Uhwn" text="Nahrazuje Rekurzivní luk kuší, způsobuje mnohem větší poškození, nízká rychlost střelby." />
+    <string id="Jstm1A5q" text="Víte, jak si vydělat nějaké zlato navíc na vedlejšák. {newline}Přidá se k lučištníkům. {newline}+20 zlatých za zabití" />
+    <string id="jTJa8tBY" text="Pod zbrojí nosíš další vrstvy polstrování.{newline} {newline}+10 brnění{newline}-20% tupého poškození." />
+    <string id="JxDrcvDO" text="Znáš slabá místa štítů, tvé útoky jsou proti štítům extra účinné.{newline} {newline}+100% poškození štítů." />
+    <string id="K5ab4UuF" text="Nahradí obouruční sekeru obouručním maurem. Je účinná proti obrněným protivníkům a dokáže sesadit jezdce švihovými útoky.{newline} {newline}Může prorazit skrz při švihu nad hlavou." />
+    <string id="k5wDzNqz" text="Lamač linií" />
+    <string id="KGYSP8Sn" text="Jízda jako vítr" />
+    <string id="ko852qPg" text="Zkušenosti lovce ti umožňují zasáhnout jezdce na kritických místech a způsobit mu tak větší poškození. {newline} {newline}Dává silné šípy {newline} {newline}+60% poškození na koních." />
+    <string id="KrEPteFM" text="Znáš slabá místa štítů, tvé útoky jsou proti štítům mimořádně účinné.{newline} {newline}+30% poškození štítů." />
+    <string id="Kt605dRo" text="Tvá silná ruka ti umožňuje házet rychleji a s mnohem větší smrtící silou.{newline} {newline}+5% Rychlost vypouštění střel{newline} {newline}+15% Poškození vrhací zbraní" />
+    <string id="KXwN1PW4" text="Velká sekera" />
+    <string id="l2Qy5kbg" text="Sekneš všechno a všechny, kdo se ti odváží postavit do cesty {newline} {newline}+17% poškození sečnými zbraněmi pro boj zblízka" />
+    <string id="LB32tvzS" text="Tvrdá smrt" />
+    <string id="LiRwNCZA" text="Jsi atletický, běháš rychleji {newline} {newline}+5% Maximální rychlost běhu" />
+    <string id="ljy7FbRB" text="Tvůj válečnický kodex ti zakazuje umírat. Jsi odolnější vůči utrpěnému poškození.{newline} {newline}Dává větší štít{newline} {newline}-10% přijatého poškození" />
+    <string id="lKdJbwYz" text="Jsi odborník na boj na koni. Uděluje těžké kopí, které způsobuje větší poškození.{newline} {newline}Dává těžké kopí {newline}Dává zranění, které způsobuje. {newline}+15% bonus k rychlosti při bodných útocích z koně." />
+    <string id="loPT6GUc" text="Uděluje pavézový štít, usnadňuje blokování, účinný proti jednotkám na dálku." />
+    <string id="lQTHNi5P" text="Náčelník" />
+    <string id="LSO3BsYq" text="Jsi atletický, běháš rychleji.{newline} {newline}+7% maximální rychlost běhu." />
+    <string id="lWl3W0do" text="Polstrovaná zbroj" />
+    <string id="M5BDshPv" text="Tvá vycpaná zbroj snižuje dopad tupých zbraní.{newline} {newline}-40% poškození způsobeného tupými zbraněmi." />
+    <string id="maaVSxDj" text="Jsi expert na vrhací zbraně na koni, máš lepší přesnost.{newline} {newline}Dává oštěpy {newline}Uděluje oštěpům {newline}-25% postih za přesnost pohybu {newline}-25% postih za přesnost otáčení." />
+    <string id="mbIhGIcV" text="Jsi expert na boj proti pěšímu jezdectvu a umíš využít rychlost jezdectva proti němu samotnému.{newline} {newline}+75% poškození jezdců zbraněmi pro boj zblízka{newline}+50% bonus k rychlosti poškození zbraněmi pro boj zblízka při bodných útocích." />
+    <string id="mDU16Bih" text="Necháš sedláky dělat špinavou práci a zaplatíš jim za jejich služby, zatímco ty získáš veškerou slávu za zabití.{newline} {newline}Spojenci dostanou +20 zlatých za asistenci při zabíjení." />
+    <string id="MW6PtdCh" text="Zkušenosti pytláka ti umožňují zasáhnout horaly na kritických místech a způsobit tak větší poškození.{newline} {newline}Dává ostnaté šípy{newline} {newline}+50% poškození horalům." />
+    <string id="n3q8k0lB" text="Bardování" />
+    <string id="n56qzZ6j" text="Nahradí sekeru obouruční sekerou, která je mimořádně účinná proti štítům a dokáže sesadit jezdce švihovými útoky. {newline} {newline}+5% rychlost pohybu" />
+    <string id="n5d7CnPo" text="Díky zkušenostem s vesnickou domobranou jsi zocelen. Dostáváš méně poškození. {newline} {newline}Dává možnost házet kameny {newline} {newline}-15% obdrženého poškození" />
+    <string id="nDxTYPmt" text="Vylepšuje tvou koženou zbroj. Chrání tě před údery a střelami.{newline} {newline}+4 brnění{newline}-20% obdrženého poškození při úderu." />
+    <string id="NezswS6S" text="Jsi expert s lukem na koni, tvá přesnost je mnohem lepší.{newline} {newline}-50% postih za přesnost pohybu{newline}-50% postih za přesnost otáčení." />
+    <string id="nGJvuvD3" text="Vrhač seker" />
+    <string id="NjXTLWSr" text="Jako elitní Družina jsi během let zdokonalil své jezdecké dovednosti. {newline} {newline}Dává delší kopí{newline} {newline}+15 Jezdecká dovednost" />
+    <string id="nVhc43US" text="Strážce" />
+    <string id="nzHUV2oZ" text="Víš, kam zasáhnout své cíle, tvé střely způsobují dodatečné poškození, zejména zásahy do hlavy.{newline} {newline}+15% poškození při střelách {newline}+5% dodatečného poškození při headshotech." />
+    <string id="O3vdRYyZ" text="Zkušenosti z pozice pikenýra ti umožňují efektivněji používat štiku a rychleji s ní bodat. {newline} {newline}Dává šipku{newline} {newline}+20% rychlost připravenosti k úderu" />
+    <string id="o9a3hgVH" text="Duelový meč" />
+    <string id="OAUd9UU8" text="Víš, kam zasáhnout cíl, tvé zásahy do hlavy způsobují dodatečné poškození.{newline} {newline}Dává silnější munici{newline} {newline}+10% poškození při střelách do hlavy." />
+    <string id="oBBE3ggU" text="Branec" />
+    <string id="OjaeHZVO" text="Vymění koně za rychlejšího." />
+    <string id="oZ9KbXPI" text="Narodil ses tvrdší než většina ostatních, je těžší tě zabít. {newline}Přináší ti více štěstí. {newline}-15% poškození při útocích zblízka." />
+    <string id="p06HSYkq" text="Specialista" />
+    <string id="P1VHoGL2" text="Kmeny" />
+    <string id="p4y5G7MD" text="Díky zkušenostem strážce můžeš lépe bojovat zblízka.{newline} {newline}Dává tyčovou zbraň {newline}+5% rychlosti pohybu." />
+    <string id="p9ygw8X7" text="Díky zkušenostem kopitníka jsi účinnější v boji proti jezdectvu.{newline} {newline}Dává oštěp{newline} {newline}+75% Poškození jezdců." />
+    <string id="pblXb1ae" text="Udílí drtivé poškození, účinné proti obrněným protivníkům." />
+    <string id="PFTzVdJg" text="Poskytuje +9 brnění." />
+    <string id="Pg0oCeeA" text="Nahrazuje Tabar za Bardiche, který je pomalejší, ale způsobuje větší poškození a dokáže sesadit jezdce švihovými útoky." />
+    <string id="Pg2BjZ7v" text="Jsi odborníkem na pěší boj proti jízdě a zvládáš využívat rychlost jízdy proti ní samotné. Uděluje dlouhé kopí, které způsobuje větší poškození. {newline} {newline}Dává dlouhé kopí.{newline} {newline}+100% poškození jezdců zbraněmi pro boj zblízka {newline}+50% bonus k rychlosti poškození zbraněmi pro boj zblízka při bodných útocích." />
+    <string id="PhvYB5Jh" text="Nahradí vašeho koně náhodným koněm." />
+    <string id="pI8Ak491" text="Čas strávený v přírodě tě učinil nepřirozeně silným, tvé hody způsobují větší poškození.{newline} {newline}Dává pilum{newline} {newline}+20% poškození při hodu." />
+    <string id="pJGFNLOz" text="Žízeň po krvi" />
+    <string id="pjgUeOSa" text="Jsi odborník na zneškodňování velkých zvířat, zejména vrhacími zbraněmi.{newline} {newline}Dává vrhací oštěp{newline} {newline}+50% poškození na dálku pro koně" />
+    <string id="pjq5Nkn4" text="Nahradí sekeru delší a těžší sekerou. Mimořádně účinná proti štítům a schopná sesadit jezdce švihovými útoky." />
+    <string id="pn9OIMbK" text="Jsi stepní bojovník, v boji zůstáváš pohyblivý a nebezpečný, abys otevřel nepřátelům záda. {newline} {newline}Dává krátké kopí{newline} {newline}+7% rychlost pohybu{newline}+5% poškození při boji zblízka." />
+    <string id="Pnzm9fvH" text="Polstrování zbroje" />
+    <string id="PNZmPprx" text="Obouruční meč" />
+    <string id="pqaYbQBy" text="Znáš slabá místa štítů, tvé útoky jsou proti štítům mimořádně účinné. {newline}Přináší ti to výhodu. {newline}+20% Poškození na štíty." />
+    <string id="ptxHd7K1" text="Hrot kopí" />
+    <string id="PzgDEcZ5" text="Střelec na koni" />
+    <string id="q5G5Hxbi" text="Nahradí meč za Glaive, khuzaitskou tyčovou zbraň, která dokáže švihovými útoky sesadit jezdce. V boji zblízka se s vámi musí počítat{newline} {newline}Přináší Odznak{newline}Přináší +5 % rychlosti pohybu" />
+    <string id="QDxixJH9" text="Pomocné" />
+    <string id="QFu6m9aA" text="Jsi expert na ochranu sebe sama. {newline} {newline}Dává silnější štít{newline}-15% poškození způsobeného zbraněmi na dálku{newline}-15% poškození způsobeného zbraněmi na blízko." />
+    <string id="QJo0xake" text="Uděluje Dlouhý luk, vyrobený ze silného dřeva, díky němuž tento luk střílí obzvlášť rychle a daleko." />
+    <string id="QXF6TpBp" text="Uděluje delší kopí, které způsobuje větší poškození.{newline} {newline}Dává jezdecké kopí." />
+    <string id="qZctRzJS" text="Pohyblivost" />
+    <string id="qzm0fL63" text="Uděluje Dlouhý luk, vyrobený z pružného dřeva, tento luk lze natáhnout mnohem rychleji." />
+    <string id="R2X605jB" text="Jsi dobře zásoben a odborníkem na jeho dobré utrácení, rychleji nabíjíš.{newline} {newline}Dává 10 extra šroubů {newline}Podává lučiště. {newline}+25% rychlost dobíjení" />
+    <string id="rc3a4QFp" text="Uděluje dlouhý luk, vyrobený z pružného dřeva, tento luk lze natáhnout mnohem rychleji." />
+    <string id="RF7uVEGp" text="Bambusové kopí" />
+    <string id="RhNKYZZk" text="Jsi odborník na boj na koni. {newline}Jsi expert na boj na koni. {newline}Propůjčuje bastardí sekeru, která dokáže švihovými útoky sesadit jezdce.{newline}Propůjčuje bastardí sekeru, která dokáže sesadit jezdce švihovými útoky.{newline} {newline}+10% rychlost švihu na koni!!CHYBA!!+10% poškození způsobené sečnými zbraněmi na koni." />
+    <string id="RI9hmnDu" text="Vylepšuje koňskou zbroj a přidává další ochranu proti dalekonosným zbraním. {newline} {newline}+11 brnění pro koně{newline}-25% poškození, které koněm způsobují střelné zbraně." />
+    <string id="rJFGyaBS" text="Moloch" />
+    <string id="Rl0GV742" text="Uděluje obouruční meč pro souboje." />
+    <string id="rnO8lCtE" text="Jsi odborník na boj na koni. Uděluje těžké kopí, které způsobuje větší poškození.{newline} {newline}Dává těžké kopí {newline}Přináší zranění. {newline}+33% bonus k rychlosti při bodných útocích z koně." />
+    <string id="rTPnyeJ3" text="Štítová zeď" />
+    <string id="RW2X4CgM" text="Propůjčuje sekeru, která je účinná při sekání masa a ničení štítů." />
+    <string id="s5qRvBOp" text="Střelec" />
+    <string id="sFJfF1Gb" text="Nahradí gladius za spathu, je delší a způsobuje větší poškození." />
+    <string id="sfK8Dkso" text="Narodil ses odolnější než většina ostatních, je těžší tě zabít.{newline} {newline}-20 % poškození způsobeného útoky zblízka." />
+    <string id="SjiFP0za" text="Nahrazuje kyj mečem, účinný v soubojích a úderech." />
+    <string id="skPA7s3Q" text="Uděluje dlouhý meč a větší štít." />
+    <string id="sOARp3Dc" text="Uděluje štít, usnadňuje blokování, účinný proti jednotkám na dálku." />
+    <string id="sQCpO6sp" text="Expert na boj zblízka" />
+    <string id="t68bkisr" text="Kladivo" />
+    <string id="tbDajRvE" text="Krátká sekera podobná tyčové zbrani. Proráží brnění, maso a morálku." />
+    <string id="tbQZitYG" text="Nahrazuje krátký meč, je delší a způsobuje větší poškození." />
+    <string id="TcaKHUUK" text="Poskytuje kuši, která se snadněji natahuje. Nabíjení je rychlejší." />
+    <string id="Tci07nbZ" text="Stepní luk na dálku" />
+    <string id="tFWBFpji" text="Nahrazuje jezdce na velbloudu, způsobuje větší poškození při nabíjení, je obratnější a odolnější, ale pomalejší a nemůže skákat." />
+    <string id="TGcbxiOD" text="Střílelo se na tebe tolikrát, že ses naučil zmírňovat poškození způsobené dalekonosnými zbraněmi sám sobě. {newline} {newline}-35% poškození způsobeného střelnými zbraněmi." />
+    <string id="THpbhFDV" text="Léta strávená u nájezdníků ti dala silnou ruku, házíš mnohem rychleji. {newline} {newline}Dává silnější oštěpy {newline} {newline}+10% Rychlost vystřelení střely {newline}+10% Rychlost připravenosti." />
+    <string id="tiw9b4f6" text="Máš zkušenosti s lukem na koni, tvoje přesnost je mnohem lepší. {newline} {newline}Dává lovecký luk a šípy{newline}-40% postih za přesnost pohybu." />
+    <string id="TK0GvrJR" text="Nahrazuje meč horalským dlouhým mečem, způsobuje větší poškození, je delší, ale pomalejší." />
+    <string id="tN6LRGbm" text="Uloupený kůň" />
+    <string id="tpbjS8J8" text="Naučil ses bojovat proti obrněným protivníkům. {newline}Dává těžký meč {newline}+ 4 brnění" />
+    <string id="trR3odix" text="Nahrazuje Voulge kombinací meče, štítu a kopí. Poskytuje všestrannost a ochranu.{newline} {newline}Dává meč {newline}Dává štít {newline}Dává kopí." />
+    <string id="TTWL7RLe" text="Kuše" />
+    <string id="tUEn8Si4" text="Léta bojových zkušeností tě naučila využívat rychlost zbraní a nohou ve svůj prospěch.{newline} {newline}+35% bonus k rychlosti poškození zbraněmi pro boj zblízka{newline} {newline}+5% rychlost pohybu" />
+    <string id="Ty7PjLFt" text="Frontliner" />
+    <string id="tZgHdSOX" text="Poloviční plášť" />
+    <string id="TzlcYzfg" text="Víš, jak si poradit v boji zblízka, máš k dispozici štít a palcát. {newline} {newline}Dává malý štít {newline}Dává palcát {newline} {newline}Dává těžký palcát{newline} !!CHYBA!!-25% postih za pohyb při míření dalekonosnými zbraněmi." />
+    <string id="uaY0BfoI" text="Dosah Kuše" />
+    <string id="uCJlbbVD" text="Nahrazuje Voulge mečem a štítem. Poskytuje více vojáků, všestrannost a ochranu {newline} {newline}Dává dlouhý meč{newline}Dává štít{newline}+2 další vojáci." />
+    <string id="UkukckV4" text="Víš, jak těžit z vybavení, které už mrtví nepotřebují. Za zabití a pomoc získáš zlato.{newline} {newline}+10 zlata za zabití" />
+    <string id="urTZJjZK" text="Nahrazuje Menavlion dlouhým Menavlionem, který je delší, ale pomalejší. Uštědřuje větší úder, menší poškození švihem a dokáže sesadit jezdce údernými útoky." />
+    <string id="uTBqXeKJ" text="Uděluje Billhook, účinný při podpoře pěchoty na velkou vzdálenost, obouruční a schopný sesadit jezdectvo švihovými útoky." />
+    <string id="uTfm0blH" text="Uděluje krátký luk, umožňuje střílet z koňského hřbetu." />
+    <string id="uxSlnb7y" text="Tento luk je vyroben z nejkvalitnějšího dřeva a je výjimečně přesný." />
+    <string id="V2SKzX1e" text="Kůň Charger" />
+    <string id="v2WKbNZo" text="Rychlé vrhy" />
+    <string id="v3TAosde" text="Královský lučištník" />
+    <string id="v4w8KeMQ" text="Nahrazuje krátký meč dlouhým mečem, který je delší a způsobuje větší poškození." />
+    <string id="vBvDZCtw" text="Nahrazuje Tabar obouručním mečem, účinný v soubojích a úderech." />
+    <string id="Vf4mofBO" text="Krvavé peníze" />
+    <string id="vHIIkFQF" text="Krvavý hněv" />
+    <string id="vhyTjeAR" text="Vaše silná ruka vám umožňuje vrhat rychleji a s mnohem větší smrtící silou. {newline} {newline}+5% Rychlost vystřelení střely{newline} {newline}+20% Poškození vrhací zbraní" />
+    <string id="VI4gQt8Q" text="Palcát" />
+    <string id="VmoAFrzI" text="Jsi odborník na pěší boj proti jezdectvu a zvládl jsi využít rychlost jezdectva proti němu samotnému. Uděluje dlouhé kopí, které způsobuje větší poškození. {newline}Podává dlouhé kopí, které způsobuje větší poškození. {newline}Dává dlouhé kopí.{newline} {newline}+100% poškození jezdců zbraněmi pro boj zblízka {newline}+50% bonusové poškození rychlosti zbraněmi pro boj zblízka při bodných útocích." />
+    <string id="vn2uYMOj" text="Víš, kam zasáhnout cíl, tvé zásahy do hlavy způsobují dodatečné poškození.{newline} {newline}Dává silnější munici{newline} {newline}+10% poškození při střelách do hlavy" />
+    <string id="VPmy8IN2" text="Silná vrstva svalů tě chrání před pohmožděninami.{newline} {newline}-30% tupého poškození." />
+    <string id="VR2SwarS" text="Houževnatější kůň" />
+    <string id="vyI2KVKM" text="Bullseye" />
+    <string id="W4GfVIbC" text="Díky zkušenostem s vesnickou domobranou jsi zocelen. Utrpíš menší zranění. {newline} {newline}Dává krátké kopí{newline}Dává malý štít." />
+    <string id="W4iKIM2s" text="Malý štít" />
+    <string id="WapSyVbv" text="Plný plášť" />
+    <string id="wHWD8N3u" text="Dlouhý luk ze silného dřeva, střílí dál, pomaleji a tvrději." />
+    <string id="wiBmTEGi" text="Vymění koně za odolnějšího." />
+    <string id="wjQCNHTO" text="Nahradí koně obratnějším. Nahrazuje plný barding polovičním bardingem. Rychlejší a ovladatelnější.{newline} {newline}Dává poloviční barding {newline}Dává hbitého koně." />
+    <string id="WkPDOnyD" text="Díky zkušenostem kopitníka jsi účinnější v boji proti jízdě.{newline} {newline}Granty Dlouhé kopí {newline}Dlouhý oštěp {newline}+75% poškození pro jezdce." />
+    <string id="WqJdn2ET" text="Kůže berserkra" />
+    <string id="wv6Jpubk" text="Přijímáš v boji roli pomocníka a za každou pomoc získáváš zlato jako odměnu.{newline} {newline}+20 zlatých za každou asistenci" />
+    <string id="wv9g9Kyr" text="Rychlejší luk" />
+    <string id="WxMGCqPw" text="Nahrazuje srp krumpáčem, účinný proti štítům." />
+    <string id="X4Hvkakc" text="Nahradí meč obouručním kladivem, účinným proti obrněným protivníkům. {newline} Nahradí meč obouručním kladivem, účinným proti obrněným protivníkům. {newline}Může prorazit při švihu nad hlavou." />
+    <string id="x6MdhTmR" text="Poskytuje brnění pro tvého koně.{newline} {newline}+20 brnění pro koně" />
+    <string id="X8hLXbIc" text="Váš štít má větší odolnost a dostáváte menší poškození od útoků na dálku. {newline} {newline}Dává silnější štít{newline} {newline}-15% poškození způsobeného dalekonosnými zbraněmi." />
+    <string id="XavOmQlX" text="Goliáš" />
+    <string id="xbfjF5Xz" text="Díky zkušenostem s manipulací se zvířaty víš, kde to nejvíc bolí, a způsobuješ tak větší poškození koním. {newline}Díky svým zkušenostem s manipulací se zvířaty víš, kde to nejvíc bolí. {newline}Přiděluje štiku{newline} {newline}+75% poškození způsobeného jezdci." />
+    <string id="XgH6b7LY" text="Uděluje sekeru a silnější štít. Účinné v boji zblízka proti těžkým vojskům." />
+    <string id="xODbCO6k" text="Složený luk" />
+    <string id="xRK4nurx" text="Jsi dobře zásoben a odborník na dobré utrácení, rychleji nabíjíš. {newline}Dobře se zásobuješ a rychleji nabíjíš. {newline}Dává 20 šroubů navíc{newline} {newline}+25% rychlost dobíjení." />
+    <string id="xSz6m21N" text="Klub" />
+    <string id="xuad1OP3" text="Vymění koně za nejodolnějšího koně ve stepi." />
+    <string id="XUo9YBoQ" text="Kolíkový polštář" />
+    <string id="XXj8htD5" text="Přidává dodatečnou vrstvu kroužkové zbroje pod vaši zbroj. Chrání vás před bodavými údery a střelami.{newline} {newline}+4 brnění{newline}-20 % snížení poškození bodnutím" />
+    <string id="XyrRqfb6" text="Uděluje dlouhý luk vyrobený ze silného dřeva, díky němuž tento luk střílí obzvlášť rychle a daleko." />
+    <string id="Y0btl1Dx" text="Nahrazuje krátký meč sekerou, která je těžší a účinnější proti štítům." />
+    <string id="Y30Y1Ywt" text="Uděluje silný meč spolu se štítem." />
+    <string id="ydALXo9b" text="Posily" />
+    <string id="YeRH0SUc" text="Stepní pěchota" />
+    <string id="Yh1C24vG" text="Uděluje Meč a Štít, usnadňuje blokování, čímž se stává efektivním v boji zblízka. Zvyšuje také rychlost pohybu {newline} {newline}Dává dlouhý meč {newline}Dává dračí štít {newline}Dává +5 % rychlosti pohybu." />
+    <string id="YjmSNwpY" text="Vylepšili jste si zbroj o pevné kovové pláty. {newline} {newline}+10 brnění{newline}-10% snížení obdrženého poškození." />
+    <string id="Yjs1ySjJ" text="Štít a kopí" />
+    <string id="YnnrpaFO" text="Řetězové brnění navíc" />
+    <string id="yRTNfCfm" text="Rychlejší kuše" />
+    <string id="ytSKeWyX" text="Nahrazuje kyj sekerou, účinnou proti štítům." />
+    <string id="YUauBtTT" text="Rameno luku ze silného dřeva, díky němuž tento luk střílí obzvlášť rychle a daleko." />
+    <string id="YVwl3BgB" text="Zkušenosti střelce ti umožňují střílet těžší šípy s větší přesností.{newline} {newline}Dává silnější šípy{newline} {newline}+100% trvání maximální přesnosti" />
+    <string id="YYt0iLC7" text="Uděluje oštěp, účinný proti jezdectvu.{newline} Uděluje silnější štít." />
+    <string id="ZATaNNCu" text="Nahradí koně odolnějším koněm, který způsobuje větší poškození útokem." />
+    <string id="ZBEwVayp" text="Uděluje Glaive, khuzaitskou tyčovou zbraň, která je na koni smrtelně nebezpečná a dokáže sesadit jezdce švihovými útoky." />
+    <string id="ZE9TaGQ7" text="Nezlomný" />
+    <string id="ZEdfJJP2" text="Flanker" />
+    <string id="zNe4nkar" text="Nahrazuje krátké meče sekerami, meči a některými palcáty." />
+    <string id="ZvMcHde3" text="Sekera" />
+    <string id="ZxqXs36U" text="Silná paže" />
+    <string id="zzGL0N0t" text="Jsi odborníkem na boj na dálku při pohybu na koni. {newline}Jsi expert na boj na dálku při pohybu na koni. {newline}Dává oštěpy{newline} {newline}-50% postih za přesnost pohybu{newline}-50% postih za přesnost otáčení." />
+  </strings>
+</base>

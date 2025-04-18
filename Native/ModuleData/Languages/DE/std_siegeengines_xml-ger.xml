@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="0bPqoNk9" text="Brikoly jsou silné obléhací zbraně, které lze umístit na věže." />
+    <string id="1bbdz9iS" text="Katapulty jsou účinné proti nepřátelským obléhacím strojům i hradbám." />
+    <string id="4lS8cX6c" text="Ohnivé balisty jsou podobné běžným balistám, ale střílejí hořící projektily, které jsou účinnější proti obléhacím strojům." />
+    <string id="4Skg9QhO" text="Trebuchet" />
+    <string id="6UPgDokE" text="Pokročilá obléhací věž" />
+    <string id="8VUZPA6Q" text="Silnější verze běžného beranidla." />
+    <string id="9dKklwiv" text="Žebříky jsou jednoduché a rychle vyrobitelné, ale neposkytují útočníkům žádnou ochranu." />
+    <string id="abbALYlp" text="Balista" />
+    <string id="atA20r4C" text="Balisty jsou účinné proti nepřátelským zbraním na dálku. Mohou také na dálku sbírat jednotlivé nepřátele." />
+    <string id="aXjlMBiE" text="Obléhací věž" />
+    <string id="CbnswkEa" text="Onagery jsou účinné proti nepřátelským obléhacím strojům i hradbám." />
+    <string id="Ew11a1Tx" text="Katapult" />
+    <string id="G0AWk1rX" text="Žebřík" />
+    <string id="GPESFoWD" text="Onager" />
+    <string id="hhHcHGrO" text="Obléhací věž, která je pevnější a má plošinu pro lučištníky." />
+    <string id="iLD5Lkto" text="Ohnivý onager" />
+    <string id="jWjnpW52" text="Obléhací věže umožňují přiblížení k hradbám, aniž by byly vystaveny střelám, a snižují výškovou převahu obránce." />
+    <string id="lFl5Ai1a" text="Ohnivý trebuchet" />
+    <string id="MaBSSg7I" text="Beranidlo" />
+    <string id="NeWvHjCw" text="Ohnivá balista" />
+    <string id="nM3ENTEW" text="Ohnivé katapulty jsou podobné běžným katapultům, ale střílejí zápalné střely, které jsou účinnější proti obléhacím strojům" />
+    <string id="pa3E7810" text="Přípravy na obléhání" />
+    <string id="S6odGUh9" text="Ohnivé onagery jsou účinné proti nepřátelským obléhacím strojům i hradbám a vrhají zápalné projektily." />
+    <string id="TlP31w8l" text="Bricole" />
+    <string id="U9MJaX7f" text="K proražení brány a otevření přístupu na vnitřní nádvoří lze použít beranidlo." />
+    <string id="UP0EKlfK" text="Trebuchety vyžadují čas na sestavení a nastavení, ale při dostatku času promění nepřátelskou obranu v trosky." />
+    <string id="uvUHbHoW" text="Ohnivé trebuchety vrhají místo běžných kamenů zápalné projektily, které jsou účinnější proti nepřátelským obléhacím zbraním a personálu." />
+    <string id="Wg2P3acK" text="Ohnivý katapult" />
+    <string id="xBygO7kH" text="Vyplňte příkopy, srovnejte terén a rozestavte pozice útočníků v rámci příprav na útok." />
+    <string id="zt0bVSsU" text="Vylepšené beranidlo" />
+  </strings>
+</base>

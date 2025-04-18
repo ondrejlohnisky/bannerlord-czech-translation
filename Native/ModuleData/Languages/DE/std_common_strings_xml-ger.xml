@@ -1,0 +1,1223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="028iCb8B" text="Jythea" />
+    <string id="02c5bQSM" text="Zahodit" />
+    <string id="09gOOa0h" text="Strážce" />
+    <string id="09z8Q08f" text="Tvá rodina byla drobnými zemědělci, kteří měli jen tolik půdy, aby se uživili a měli malý zisk. Lidé jako oni byli pilíři císařského venkovského hospodářství a také páteří poplatnictva." />
+    <string id="0a6Vz7wi" text="Kožený tabard" />
+    <string id="0B27RrYJ" text="Battania" />
+    <string id="0CQgia2a" text="Culharn" />
+    <string id="0e17RZrZ" text="Arbalest" />
+    <string id="0oGz5rVx" text="Čest" />
+    <string id="0rBsbw1T" text="Bez účinku" />
+    <string id="0SpLcthg" text="Highland Spiked Club" />
+    <string id="0SsLGsXk" text="Dlouhý polstrovaný plášť" />
+    <string id="0Suu1Q9q" text="Tvůj otec byl zřízencem místního feudálního magnáta. Staral se o panství svého leníka, řešil spory ve vesnici a pomáhal cvičit vesnickou berni. Jezdil s panskou jízdou a bojoval jako obrněný rytíř." />
+    <string id="0XEaaoah" text="Rosazia" />
+    <string id="11KckWau" text="Mitara" />
+    <string id="18NtjryL" text="Zatím ne, ale brzy se stane." />
+    <string id="1bdDdwub" text="Nasalhelm ke kroužkové zbroji" />
+    <string id="1Bm1Wk1v" text="Pěchota" />
+    <string id="1BXuUR3s" text="Pěšák Dlouhý Gambeson" />
+    <string id="1cKxsHSh" text="Penton" />
+    <string id="1CPdu9K0" text="Kámen" />
+    <string id="1cYka5tR" text="Kožešinový plášť bez rukávů" />
+    <string id="1EkEElZd" text="Městské jednotky tráví většinu času střežením městských hradeb. Většinu svého výcviku absolvovali ve střelných zbraních." />
+    <string id="1GpTOIqU" text="Hrncová přilba přes polstrovanou čapku " />
+    <string id="1IEroJKs" text="Ne každý, kdo narukuje k odvodu, pochoduje do války a ne každý, kdo se vydá na tažení, se dočká akce. Ty jsi udělal obojí a také jsi skolil nepřátelského bojovníka v přímém souboji jeden na jednoho, před zraky svých spolubojovníků." />
+    <string id="1JlzQIXE" text="Postižení" />
+    <string id="1jqxlEkT" text="Koření{@Plural}pytle koření{\@}" />
+    <string id="1jX7yxSW" text="Husarská kroužková košile" />
+    <string id="1r0tDsrR" text="Útok!" />
+    <string id="1sbJQR4H" text="Lupiči" />
+    <string id="1SUTcF0J" text="Vůdci gangů, kteří dohlíželi na chudinské čtvrti kalradských měst, vždy potřebovali chudou mládež, která by jim vyřizovala vzkazy a podporovala je ve válkách o území, zatímco synové a dcery obchodníků toužících po vzrušení se někdy také potloukali v jejich společnosti." />
+    <string id="1zFYpSSY" text="Ocelová čepice s třásněmi a chrániči tváří" />
+    <string id="1zXrlaav" text="Tvá rodina byla váženými obchodníky v oázovém městě. Vedli karavany přes poušť a byli odborníky na vyjednávání o průchodu územím pouštních kmenů." />
+    <string id="20moIxs1" text="Hrncová přilba přes šněrovací čapku" />
+    <string id="22a9fyiQ" text="Otec" />
+    <string id="275LD0Gh" text="Pracovník obchodu" />
+    <string id="2AcfBbCR" text="Vojenská tunika" />
+    <string id="2awf1tei" text="Daňový úřad" />
+    <string id="2Bh8DS8S" text="Siga" />
+    <string id="2cSOn9qb" text="Gambeson na kroužkovou zbroj" />
+    <string id="2fYYfHUI" text="Martira" />
+    <string id="2I2uKJlw" text="Milosrdenství" />
+    <string id="2iDtlgM0" text="Uzavřená přilba válečníka" />
+    <string id="2m1kWsao" text="Kožená přilba s hroty" />
+    <string id="2MdVVkVL" text="Hrncová čapka přes polstrovanou čapku " />
+    <string id="2N0ZP2GB" text="Přilba s turbanem a čapkou" />
+    <string id="2OJEyP0d" text="Dasys" />
+    <string id="2OqAomZy" text="Oragur" />
+    <string id="2oy7atk6" text="Lundana" />
+    <string id="2qisE5ys" text="Hrncová přilba přes polstrovanou čepici" />
+    <string id="2SDWhGmQ" text="Tvá rodina patřila k chudým přistěhovalcům žijícím ve slumech, které vyrůstají za hradbami říčních měst, a vydělávala si na nejrůznější příležitostné práce. Někdy vykonávali služby pro některý z mnoha zločineckých gangů v regionu." />
+    <string id="2TptWc4m" text="Podkoního barona" />
+    <string id="2XEbqNQz" text="Zdobené císařské rukavice" />
+    <string id="2YYRyrOO" text="Odejít..." />
+    <string id="2ZarUUbw" text="{KILLERPLAYERNAME} zabil {KILLEDPLAYERNAME}!" />
+    <string id="2zcrC0h1" text="Hra" />
+    <string id="3bqwOJ8z" text="Obrácená kožešinová čepice" />
+    <string id="3CpNUnVl" text="Zrušit" />
+    <string id="3CsACce8" text="Ukončit" />
+    <string id="3DV3GoHb" text="Špičatá přilba s kroužkovou čapkou" />
+    <string id="3iq3rOh8" text="Hrncová přilba přes zbrojní plášť" />
+    <string id="3lauB1HH" text="Bronzová lamelová vesta přes gambason" />
+    <string id="3o6FDRsq" text="Zajatá města" />
+    <string id="3PzgpFGq" text="Neutrální" />
+    <string id="3RBVn5yi" text="Zoros" />
+    <string id="3sRdGQou" text="Opustit" />
+    <string id="3UxfT9Bu" text="Omotaná kožená čepice" />
+    <string id="3VosbFR0" text="Vlandiánský šampion" />
+    <string id="3Z91Nxbf" text="Pásková helma s kůží" />
+    <string id="45kZUyjh" text="Olivy{@Plural}sudy oliv{\@}" />
+    <string id="46orXtt0" text="Lesní oděv" />
+    <string id="4AfHO0BA" text="Kožešinová zbroj bez rukávů s cvočky" />
+    <string id="4B2i8oxo" text="Plášť se zrcadlovým opaskem" />
+    <string id="4BfbPgkY" text="Nosní cervelír přes polstrovanou čepici" />
+    <string id="4C4WiTb2" text="Varyag" />
+    <string id="4cHMe6H2" text="Zdobený hauberk" />
+    <string id="4cU98rkg" text="Tavení" />
+    <string id="4Dd2xgPm" text="Závaží" />
+    <string id="4eOHPops" text="Robustní šupinová zbroj" />
+    <string id="4f5xwzX0" text="Když vaše komunita potřebovala zorganizovat oddíl k pronásledování zlodějů koní, byli jste jasnou volbou. Lovil jsi nájezdníky, obklíčil jsi je, donutil ke kapitulaci a vzal sis zpět ukradený majetek." />
+    <string id="4gOGGbeQ" text="Vlastní bitva" />
+    <string id="4HcrY0S2" text="Kožené rukavice s kožešinovým lemem" />
+    <string id="4IuXGSdc" text="Nástěnné zásahové body" />
+    <string id="4kvKQuXM" text="Kožešina{@Plural}spousta kožešiny{\@}" />
+    <string id="4KYF5iCd" text="Vrstvená kožená tunika" />
+    <string id="4lEEqyCg" text="Jacorios" />
+    <string id="4MwHbMFs" text="Carfyd" />
+    <string id="4n6n3KL7" text="Pouštní čelenka" />
+    <string id="4NaOKslb" text="-" />
+    <string id="4pqIsPhp" text="Krátký vycpaný kabát" />
+    <string id="4PrfimcK" text="Odznak" />
+    <string id="4wdgiTta" text="Srp" />
+    <string id="4WYY0X59" text="Než ses vydal na dobrodružnou cestu, tvým největším úspěchem bylo..." />
+    <string id="4YfjgtO2" text="Darovat vojáky" />
+    <string id="4YTJJaTG" text="Těžká šavle" />
+    <string id="4YxbZlbi" text="Omotané boty" />
+    <string id="51EcVnzd" text="Přilba s kšiltem přes šněrovací čapku" />
+    <string id="564PHXk3" text="Zdobený kožený postroj" />
+    <string id="5c4cHL9Z" text="Khuzaitská bojová koruna" />
+    <string id="5DSafcSC" text="Konane" />
+    <string id="5EiKEdi5" text="Dorion" />
+    <string id="5eTb2xr7" text="Sanion" />
+    <string id="5HXS8HEY" text="odvahou." />
+    <string id="5k4dxUEJ" text="Vojáci" />
+    <string id="5kbeAC7k" text="Ve válkou zmítané Kalradii, zejména v pohraničních nebo kmenových oblastech, se některé ženy i muži učí bojovat již od útlého věku. Ty..." />
+    <string id="5n4rWI9T" text="Špičatá přilba s obličejovou maskou" />
+    <string id="5nEh20ju" text="Vasylops" />
+    <string id="5P0KqBAw" text="Tvá rodina obdělávala půdu v jedné z oáz Nahasy a starala se o palmové sady, které produkovaly proslulé pouštní datle. Tvůj otec byl členem hlavní pěší jednotky svého kmene a bojoval se svými příbuznými pod emírovým praporem." />
+    <string id="5QSGoRFj" text="Tvá rodina po celé generace obdělávala jeden z malých kousků orné půdy ve stepi. Když přišli Chuzejci, přestali platit daně císaři a poskytovat mu brance do armády a místo toho sloužili chánovi." />
+    <string id="5rj7xQE4" text="Luk" />
+    <string id="5siAbi69" text="Mu Torere" />
+    <string id="5sMBbn7y" text="Vypočítavost" />
+    <string id="5tbWdY1j" text="Avatar" />
+    <string id="5Unqsx3N" text="Potvrdit" />
+    <string id="5VzWRMTn" text="Artimendros" />
+    <string id="5yFy4U4i" text="Morynon" />
+    <string id="63TAYbkx" text="Městské oddíly tráví většinu času střežením městských hradeb. Většinu svého výcviku absolvovali ve střelných zbraních, které se hodí zejména při obléhání." />
+    <string id="64rWqBLN" text="Vyhnul ses službě u jedné z hlavních sil armády tvého království, ale místo toho jsi sledoval ve vleku - manželky, milenky a služebnictvo vojáků a ty, kteří se živí tím, že se o vojáky starají, baví je nebo je podvádějí." />
+    <string id="651FhzdR" text="Městských obchodníků" />
+    <string id="6bUSbsKC" text="Tvůj otec pracoval pro fitiwiho, jednoho ze siláků, kteří udržují pořádek v chudších čtvrtích oázových měst. Řešil spory o půdu, kostky a urážky a vnucoval svou autoritu pomocí tradiční hole fitiwiho." />
+    <string id="6bx9IhpD" text="Vylepšení" />
+    <string id="6Db7aDbF" text="Šípy s balistou" />
+    <string id="6Dk7LClc" text="Luxusní turban přes přilbu" />
+    <string id="6fA31IxF" text="Vesta s těžkým pojištěním" />
+    <string id="6GSXsdeX" text="Rychlost" />
+    <string id="6hwZwODh" text="Glaive" />
+    <string id="6LFj919J" text="Pomáhal jsi kopat studny, opravovat střechy domů a opravovat rozbité pluhy. Naučil ses základy stavebnictví i to, co je potřeba k tomu, aby zemědělská komunita prosperovala." />
+    <string id="6LMiTKZz" text="Lamenon" />
+    <string id="6n44BIll" text="Špičatá přilba přes šněrovací čapku" />
+    <string id="6P1ruzsC" text="Možná..." />
+    <string id="6pNrNj93" text="Zeď" />
+    <string id="6vtmYjTW" text="Jolanna" />
+    <string id="6XxiMU52" text="Kožený tabard přes kroužkovou čapku" />
+    <string id="79ElOr2x" text="Obchodník s koňmi" />
+    <string id="7AFlpaem" text="{STR1} {STR2}" />
+    <string id="7AYJ3SjK" text="Vaše rodina vám zařídila doprovod náčelníka vašeho lidu. Neměl jsi žádné velké povinnosti - většinou jsi mu nosil zprávy a staral se o koně - ale měl jsi možnost vidět, jak se plánují tažení a jak se muži nasazují v bitvě." />
+    <string id="7b8Cwogx" text="Aketon" />
+    <string id="7cHsIMLP" text="Sám by sis nikdy nemohl koupit vybavení, ale byl jsi dostatečně dobrý jezdec, takže ti místní pán půjčil koně a vybavení. Připojil ses k obrněné jízdě a trénoval jsi s kopím." />
+    <string id="7D3jvAfS" text="Krytá čepice" />
+    <string id="7dAy51ln" text="Cervelliere nad zbrojním pláštěm" />
+    <string id="7EAEIUIY" text="Těžká kroužková pošta" />
+    <string id="7eWmU2mF" text="Lesníků" />
+    <string id="7h6cXdW7" text="Inženýr" />
+    <string id="7HbspP6x" text="Zdobená legionářská šupinová pošta" />
+    <string id="7Hv984Sf" text="v docích a na stavbách." />
+    <string id="7jBroUUQ" text="Vaše rodina měla jen málo vlastní půdy, a tak se živila lovem a odchytem v lesích. Od útlého věku tě učili, že dovednosti, jako je vyhledávání stop zvěře a zabití zvířete jednou ranou, mohou znamenat rozdíl mezi jídlem a hladem." />
+    <string id="7LmUe8fQ" text="Menavlion" />
+    <string id="7qySRF2T" text="Ping" />
+    <string id="7UkzXWTQ" text="Osarios" />
+    <string id="7Xynf4IA" text="Ruční zbroj" />
+    <string id="888lmJqs" text="Všechna kalradská království si uvědomují hodnotu dobré lehké jízdy a jízdních lučištníků a určitě rekrutují kočovníky a hraničáře s dovednostmi, které tyto povinnosti splňují. Byl jsi natolik dobrým jezdcem, že ti sousedé přispěli na malého poníka a dobrý luk, abys mohl plnit jejich poplatkové povinnosti." />
+    <string id="8a6dnLd2" text="s pouličními tlupami." />
+    <string id="8ba4tpRU" text="Jawwal " />
+    <string id="8bwpVpgy" text="vítěztvím nad nepřítelem v bitvě." />
+    <string id="8hDoWBIa" text="Košile prostého člověka" />
+    <string id="8HMyTKF6" text="Vlandiané" />
+    <string id="8nNLS96w" text="Vyztužený oválný štít" />
+    <string id="8OkPHu4f" text="Ne" />
+    <string id="8SNS2wF9" text="Turban" />
+    <string id="8tHbqjmB" text="Vrcholová kožešinová kapuce" />
+    <string id="8uBew3nD" text="Nárameníky s hřeby" />
+    <string id="8UBfIenN" text="Normální" />
+    <string id="8Yiwt1z6" text="Rané dětství" />
+    <string id="8ZNOgT8Z" text="{BONUS_AMOUNT}% poškození při boji zblízka vojákům ve vaší formaci." />
+    <string id="915frsPd" text="Corena" />
+    <string id="927d3urB" text="Dřevěný oválný štít" />
+    <string id="92M0Pb5T" text="Zvěd" />
+    <string id="9ACJsI6S" text="Blokováno" />
+    <string id="9aehD627" text="Luxusní tunika" />
+    <string id="9aoQYpZs" text="Klan tvé rodiny nikdy neslíbil věrnost chánovi a nikdy se neusadil, raději žil v hluboké stepi daleko od jeho moci. Zůstávají jedněmi z nejlepších stopařů a zvědů na pastvinách, protože schopnost zpozorovat blížícího se nepřítele a rychle se přesunout je často to jediné, co chrání jejich stáda před dravostí sousedů." />
+    <string id="9BENgwRK" text="Kruhová hrncová přilba přes tkaný čepec" />
+    <string id="9cDw6vPF" text="Cadomenos" />
+    <string id="9cHyHQ7a" text="Boty z lamelového plátu" />
+    <string id="9CnRKZOb" text="{KILLEDPLAYERNAME} zemřel!" />
+    <string id="9Eyd2qGo" text="Vyztužené semišové boty" />
+    <string id="9FgxK9se" text="Vysoká přilba" />
+    <string id="9ks4u5cH" text="Vesnický léčitel tě poslal do kopců hledat užitečné léčivé rostliny. Dozvěděl ses, které byliny hojí rány nebo srážejí horečku a jak je najít." />
+    <string id="9pgOGq7X" text="Kláda" />
+    <string id="9sokmYMZ" text="Padmos" />
+    <string id="9xyXdX4I" text="Tharos" />
+    <string id="9y0zpKUF" text="Musíš být majitelem této osady!" />
+    <string id="9ZyXl25X" text=" druhý" />
+    <string id="a1BGHdaU" text="Střežená zbrojnice" />
+    <string id="A1zFbFta" text="Zesílený plochý štít draka" />
+    <string id="a2ajWcI3" text="Viria" />
+    <string id="a3Vc59WV" text="Snížené přijaté poškození při útoku zblízka" />
+    <string id="A6llHL9s" text="Nížinný dlouhý luk" />
+    <string id="a6qaFH7L" text="Herena" />
+    <string id="a8arFSra" text="cvičil s pěchotou." />
+    <string id="A8MJWbhf" text="Přilba s hledím přes prošívaný čepec" />
+    <string id="AAqB4QxB" text="Bortu" />
+    <string id="AB1mV5Pg" text="Hrncová přilba přes šněrovací čapku" />
+    <string id="abCBBVaU" text="Romund" />
+    <string id="AbEh2y8o" text="Uložit a odejít" />
+    <string id="AccBcEIt" text="Zoana" />
+    <string id="acp2IcMs" text="Crotor" />
+    <string id="AdafHtud" text="Vrcholová přilba přes kroužkovou čapku" />
+    <string id="ADJBbfbQ" text="Kožešina{@Plural}balíky kožešin{\@}" />
+    <string id="AdK4Ilzw" text="Chalia" />
+    <string id="AeBzTj6w" text="Léčitelů" />
+    <string id="aEke8dSb" text="Městských tuláků" />
+    <string id="aeLgc0cU" text="Acthon" />
+    <string id="aeouhelq" text="Ano" />
+    <string id="aezwJGvY" text="Chenon" />
+    <string id="afH90aNs" text="Levi ozbrojení kopím a štítem, pocházející z drobných zemědělců, vždy tvořili páteř většiny kalradských armád." />
+    <string id="aGbTPme1" text="Kosa" />
+    <string id="agn93v7y" text="Yorig" />
+    <string id="agqzAXa9" text="Přilba s kuklou přes polstrovanou čapku " />
+    <string id="ahiBhAqU" text="Brnění" />
+    <string id="Ai7qIb9I" text="Malý ohřívací štít" />
+    <string id="aIkffnN6" text="Postavy" />
+    <string id="AK0lNDmN" text="Šperkovaná opeřená bojová koruna" />
+    <string id="alMmQrhK" text="Morálka družiny" />
+    <string id="ALWqXMiP" text="Ano, jsem si jistý." />
+    <string id="AmBEgOyq" text="Chápu..." />
+    <string id="aN85Kfnq" text="{SETTLEMENT} byl přepaden. Vaše dohoda s {QUEST_GIVER.LINK} je zrušena." />
+    <string id="AobNdBBU" text="Levné polstrování" />
+    <string id="aoPbMKwB" text="Zdobená pásková helma přes kroužkovou čapku" />
+    <string id="aOwcs7Un" text="Kruhová hrncová přilba nad kůží" />
+    <string id="aQeOcLX4" text="Bronzová koruna se dvěma hroty" />
+    <string id="aQN4Dlx2" text="Těžký aketon" />
+    <string id="ArbBALwc" text="Rytířská přilba s bronzovým chráničem obličeje" />
+    <string id="arCGUuR5" text="Osada je obléhaná." />
+    <string id="ArPvuBYK" text="Tkaný turban" />
+    <string id="aseraifaction" text="Aserani" />
+    <string id="aseraimembers" text="Aserani" />
+    <string id="aSNUtnbH" text="Temun" />
+    <string id="at4MdVBJ" text="Fathid" />
+    <string id="aTncHUfL" text="stál na stráži s posádkou." />
+    <string id="aVGSZhCN" text="Štít Pavise" />
+    <string id="AVoWvlue" text="{RANK} ({NUMBER})" />
+    <string id="aVzcyhhy" text="Tvůj otec byl bard, který se potuloval od náčelnické síně k náčelnické síni a vydělával si na živobytí tím, že zpíval chválu na jednoho battanského šlechtice a vysmíval se jeho nepřátelům, pak šel do síně svého nepřítele a dělal pravý opak. Naučil ses od něj, že chytrý jazyk tě může ušetřit od života na poli, pokud si zachováš zdravý rozum." />
+    <string id="Awc23bFS" text="Marauder" />
+    <string id="awQrcrt2" text="Keramika{@Plural}desky s keramikou{\@}" />
+    <string id="axaK9y6E" text="Uzavřená rytířská přilba" />
+    <string id="Axe5FkET" text="Talison" />
+    <string id="Ay0G3f7I" text="Tvá rodina ti zařídila, abys byl součástí štábu císařského stratéga. Nebyly ti svěřeny žádné velké povinnosti - většinou jsi nosil zprávy a staral se o jeho koně -, ale měl jsi možnost poznat, jak se plánují tažení a jak jsou muži nasazováni v bitvě." />
+    <string id="aYoIrpe0" text="Přivázané poštovní řetězy" />
+    <string id="aZxHIra4" text="Pověst" />
+    <string id="b1pqUQju" text="Segmentová přilba přes prošívaný čepec" />
+    <string id="b2aRoXsb" text="Tessa" />
+    <string id="b2d9BYxT" text="Svana" />
+    <string id="b2EDkbhD" text="Ovinuté pancíře" />
+    <string id="b4lDDcli" text="Rodina" />
+    <string id="BAaS5Dkc" text="Použít" />
+    <string id="bAidg8fV" text="Zdobená poštovní košile Huscarl" />
+    <string id="BavVxSoC" text="Levné barevné oblečení" />
+    <string id="BbhGL8XT" text="Brigádnická vesta" />
+    <string id="bC5aMfG0" text="Vesnice" />
+    <string id="BCU6RezA" text="Kováře" />
+    <string id="BCy1KpvR" text="Lacalion" />
+    <string id="bDMmX9YI" text="Luichan" />
+    <string id="bdpjqoGe" text="Segmentová cervelliere přes kroužkovou čapku" />
+    <string id="beMSPAOG" text="Kožená přilba s cvočky přes pokrývku hlavy" />
+    <string id="bF7HmNGQ" text="Khuzait Khanate" />
+    <string id="bfQLwMUp" text="Klany" />
+    <string id="bgjiFSHZ" text="Battanians" />
+    <string id="bGyrPe8c" text="Výroba" />
+    <string id="bHbR5Mgy" text="Losys" />
+    <string id="bhdkegZ4" text="Všechna města měla svůj podíl na projektech, které neustále potřebovaly kvalifikovanou i nekvalifikovanou pracovní sílu. Naučili jste se, jak se staví kladkostroje a lešení, jak se tesají a montují prkna a kameny, a další dovednosti." />
+    <string id="bhE2i6OU" text="Sloužil jsi jako baronův podkoní." />
+    <string id="bHTdXTwC" text="Alary" />
+    <string id="bHx8jaeI" text="Válečník" />
+    <string id="bIiBytSB" text="Lučištníci" />
+    <string id="billionabbr" text="b" />
+    <string id="bjJkW9dO" text="Zobrazit profil" />
+    <string id="bjVMtW3W" text="Tvá rodina byla obchodníky, kteří žili v jednom z velkých říčních přístavů Sturgie a organizovali přepravu severní štědrosti v podobě kožešin, medu a dalšího zboží do vzdálených zemí." />
+    <string id="bKBa7ahF" text="Dlouhý jednoduchý plášť" />
+    <string id="Bl72Ribb" text="Kožená vycpaná ramena" />
+    <string id="BlidMNGT" text="Vztah" />
+    <string id="BLZ4mdhb" text="Tvá rodina byli drobní zemědělci, kteří měli jen tolik půdy, aby se uživili a měli malý zisk. Lidé jako oni byli pilíři ekonomiky království a také páteří poplatnictva." />
+    <string id="bmHAYBwX" text="Catila" />
+    <string id="BNnLbOkN" text="Adinea" />
+    <string id="bNnQt4jN" text="Kovář" />
+    <string id="BNuZ6nvd" text="Daniria" />
+    <string id="bqeWVVEE" text="Vaše činy rozpoutaly válku s frakcí {QUEST_GIVER.LINK}. {?QUEST_GIVER.GENDER}Ona{?}On{\?} ruší vaši dohodu a úkol je neúspěšný." />
+    <string id="bQKbW8Tx" text="Thasyna" />
+    <string id="BrjpmaJH" text="Ztracené hry" />
+    <string id="BryUh6yQ" text="Ocelová čepice" />
+    <string id="bSo9hKwr" text="{PERSUASION_OPTION_LINE} {SUCCESS_CHANCE}" />
+    <string id="bTKiN0hr" text="pracoval ve vesnické kovárně." />
+    <string id="btsMpRcA" text="Vaše rodina vlastnila kovárnu ve městě. Tvůj otec hrál aktivní, i když menší roli v městské radě a také sloužil v domobraně." />
+    <string id="bTUGfbH5" text="Odolný plášť" />
+    <string id="bubcrmTC" text="Nosní přilba přes prošívaný čepec" />
+    <string id="bV75iwKa" text="Uložit" />
+    <string id="bVzkrtUc" text="Pugio" />
+    <string id="bWb245zO" text="Voleos" />
+    <string id="bWlmGDf3" text="Když náhlá bouře způsobila prudké zvýšení hladiny místního potoka, potřebovali vaši sousedé rychle uvažující vůdce. Poskytl jsi jim ho ty, když jsi je nasměroval ke stavbě hrází, aby zachránili své domovy." />
+    <string id="bxa4JHlU" text="Kožené náramky s cvočky" />
+    <string id="bXAg5w19" text="K šarvátkám se obvykle přidávají mladší rekruti nebo ti, kteří jsou štíhlejší postavy, případně ti, kteří jsou příliš chudí na to, aby si koupili štít a zbroj. Bojují lukem a oštěpem a snaží se držet mimo dosah hlavních nepřátelských sil." />
+    <string id="ByxdPJzA" text="Kožešinová čepice s klapkami na uši" />
+    <string id="bz5lXkHS" text="Krátký vycpaný plášť bez rukávů" />
+    <string id="bz7Glmsm" text="Dovednosti" />
+    <string id="c2pdihCB" text="Karavany" />
+    <string id="C4n1rgBC" text="Seega" />
+    <string id="C4qjBqLO" text="Sturgiáni" />
+    <string id="c7UNJSNi" text="Tkaná kožená ramena" />
+    <string id="C8bVbM65" text="Tunika s koženou vestou" />
+    <string id="CAO0bycV" text="Těžká tunika" />
+    <string id="captainasleader" text="Kapitán" />
+    <string id="cbF9jdQo" text="Rodiče ti nedali moc peněz, ale nechali ti dost na to, aby sis mohl koupit pozemek na okraji vesnice. Vyčistil jsi ho od kamení, vykopal zavlažovací příkop, několik sezón pěstoval plodiny a pak ho se značným ziskem prodal." />
+    <string id="cbnvgVhH" text="Nájezdník" />
+    <string id="CBUdkmIw" text="Barevný kaftan" />
+    <string id="CbxLZdVg" text="Lycos" />
+    <string id="CcWpkREW" text="Kovová košile se širokým opaskem" />
+    <string id="cDetN1Ao" text="Provizorní dračí štít pro boj s drakem" />
+    <string id="cdmrCQfC" text="Hurunag" />
+    <string id="cDWbwBwI" text="se připojil ke kernu." />
+    <string id="CDXUehf0" text="Dobře, dobře." />
+    <string id="cEhDJAQp" text="Pěchotní halena se suknicemi" />
+    <string id="CePmep0z" text="Pytlák" />
+    <string id="Ch5NpCd0" text="Zvýšené poškození na dálku" />
+    <string id="CH7b5LaX" text="Rozmyslel jsem si to." />
+    <string id="character_creation_content_16" text="V dětství jsi byl známý..." />
+    <string id="CIDdPt1I" text="Bronzový lamelový plášť přes kroužkovou čapku" />
+    <string id="CITG915d" text="se připojil k velitelské hůlce." />
+    <string id="cjH1WFwy" text="Čepice s kožešinovým lemem" />
+    <string id="cjhhuTZD" text="Léčená kožená lamelová zbroj" />
+    <string id="cK5DE88I" text="NEPOUŽIJE SE" />
+    <string id="cKz1cyuM" text="Tvůj klan je nyní ve válce s {QUEST_GIVER_SETTLEMENT_FACTION}. Úkol je zrušen." />
+    <string id="cL1lO5iP" text="Ergeon" />
+    <string id="CLTk2CMs" text="Pěchotní gambitka s řemeny" />
+    <string id="CLYcnUra" text="Kožený kyrys s opaskem" />
+    <string id="cMdtLfGB" text="Plášť se střapci" />
+    <string id="cOgmdp9e" text="Odmítnutí" />
+    <string id="Cp7dI87a" text="Předvoj" />
+    <string id="cPbHqGrI" text="Hráč s kopem" />
+    <string id="CPI0wkaZ" text="Hickory kuše" />
+    <string id="CsjtWt1g" text="Krčmář" />
+    <string id="csUq1RCC" text="Byl jsi zaměstnán jako nádeník v městské stáji. Dozorci poznali, že máš talent na koně, a bylo ti dovoleno je cvičit a někdy i zapřahat nové oře." />
+    <string id="CtJPuRDa" text="Vycpaný kožený plášť" />
+    <string id="CTtjSwRb" text="Polední" />
+    <string id="CvVJyKYA" text="Thelea" />
+    <string id="cZIhxH9e" text="Pacarios" />
+    <string id="D0xDRqvm" text="{PERSUASION_REACTION}" />
+    <string id="D33fIGQe" text="Něco jiného." />
+    <string id="D358wBWJ" text="Těžký lamelár nad hauberkem" />
+    <string id="D6sMSANW" text="Amalgun" />
+    <string id="d8D98oFG" text="Melidir" />
+    <string id="d8DrtmwP" text="Přilba s hledím přes kroužkovou čapku" />
+    <string id="D9JrTpwU" text="Zakřivené boty" />
+    <string id="dacwWKE2" text="Nošený štít s drakem" />
+    <string id="DaE0N37L" text="Významné osobnosti" />
+    <string id="dB6cFDmz" text="/" />
+    <string id="DbavaIis" text="Železná nosní přilba přes kroužkovou čapku" />
+    <string id="Dc4ia4m9" text="Vycpaná čepice" />
+    <string id="ddEu5IFQ" text="Doufám, že ano." />
+    <string id="dDmcqTzb" text="Tvoje pověst nebyla zrovna z těch, o kterých se vyprávějí místní legendy, ale byla z těch, které ti získají respekt mezi lidmi v tvém okolí. Ve svých obchodních jednáních jsi byl důsledně spravedlivý a čestný a nápomocný těm, kteří se ocitli v nesnázích. Přitom jsi měl smysl pro to, co lidi zajímá." />
+    <string id="DeWp2GjP" text="Rozbíječ štítů" />
+    <string id="DFidSjIf" text="Většina dětí kolem tebe měla jen to nejzákladnější vzdělání, ale ty ses po vyučování zdržoval studiem písmen a matematiky. Fascinoval tě trh - váhy a míry, počty a účty, tlachání o ziscích a ztrátách." />
+    <string id="DIgsfYfz" text="Se zbožím své rodiny jsi chodil do nejbližšího města prodávat své produkty a nakupovat zásoby. Byla to těžká práce, ale bavil tě ruch tržiště." />
+    <string id="Dj64aJKQ" text="Billhook" />
+    <string id="DjeAJtix" text="Možná to byl milostný románek, možná jsi podváděl v kostkách, nebo jsi jen špatně volil slova, když jsi popíjel s nebezpečnou partou. Každopádně ses při jedné ze svých cest do města dostal do takových potíží, ze kterých tě živý dostane jen rychlý jazyk nebo rychlé nohy." />
+    <string id="DKqLY1aJ" text="Vybavení" />
+    <string id="dlBFVkDj" text="Co se týče úkolu, který jsi mi zadal..." />
+    <string id="DM6luo3c" text="Pokračovat" />
+    <string id="DoiwC1Qa" text="Mail Chausses" />
+    <string id="DOYS7dmq" text="Kožené nárameníky s řemínky" />
+    <string id="dPQGxmJ7" text="Vyztužené poštovní rukavice" />
+    <string id="dQBArrqh" text="Správa cechu" />
+    <string id="ds294zxi" text="Ještě něco?" />
+    <string id="dS4zm0UT" text="Kůže s cvočky nad aketonem" />
+    <string id="DsCkf6Pb" text="Když jsi vyrůstal, trávil jsi většinu času..." />
+    <string id="dVekhkIU" text="Kožich přes tuniku" />
+    <string id="DvGueBrU" text="Plátno{@Plural}role plátna{\@}" />
+    <string id="dwFZFQ6V" text="Lysica" />
+    <string id="dWr3nuBq" text="Vyztužený štít s železnými obroučkami na draka" />
+    <string id="DwzrsJxS" text="Jamanys" />
+    <string id="DXczLzml" text="Stav" />
+    <string id="dxlkHhw5" text="Vyhrané hry" />
+    <string id="dzXaXKaC" text="Velmi dobře." />
+    <string id="e0KdfaNe" text="Uložit jako" />
+    <string id="e139gKZc" text="Návrat do hry" />
+    <string id="E1OwmQFb" text="Zpět" />
+    <string id="E31IJyqs" text="Nábor vojáků" />
+    <string id="e4lKZhgv" text="Drsné kožené nárameníky" />
+    <string id="E4WhEvu7" text="Sotherys" />
+    <string id="e6csp4ha" text="Stepní bandité" />
+    <string id="eALf5d30" text="Díky!" />
+    <string id="ebbyLN2i" text="Města" />
+    <string id="ebHdQfbX" text="Pásková helma s prošívaným plátnem" />
+    <string id="ecUwABe2" text="Pouštní" />
+    <string id="EEedqolz" text="Beduínů" />
+    <string id="EezWSI6v" text="Opevněná žoldnéřská zbroj" />
+    <string id="efW2XbK8" text="Emirská přilba" />
+    <string id="EGatdCLg" text="Alena" />
+    <string id="egCbjHDT" text="Semnon" />
+    <string id="EHalkcEU" text="Morcon" />
+    <string id="eIws123Z" text="Brnění nohou" />
+    <string id="ekcBrNN1" text="Eren" />
+    <string id="elQnygal" text="Tvá rodina sehnala peníze na základní školní vzdělání a ty jsi toho plně využil, pilně jsi četl dějiny, matematiku a filozofii a diskutoval o přečteném se svým učitelem a spolužáky." />
+    <string id="ELsDFwAD" text="Víno{@Plural}amfory vína{\@}" />
+    <string id="empirefaction" text="Říše" />
+    <string id="eN1eFdhF" text="Zdobený kožený postroj přes šupiny" />
+    <string id="EOplBvKz" text="Císařská opeřená přilba" />
+    <string id="erlrhK2a" text="Šupinová zbroj válečníka" />
+    <string id="ErnykQEH" text="Výstupy" />
+    <string id="es0Y3Bxc" text="Přidej se" />
+    <string id="etG87fB7" text="se svým učitelem." />
+    <string id="eTw2aNV5" text="+" />
+    <string id="Ew69yN84" text="Juthys" />
+    <string id="eWf7bFGo" text="Kožešinové brnění s řemínkem" />
+    <string id="EWR2MNeM" text="Nosní přilba s kroužkovou čapkou" />
+    <string id="ewSpZ10R" text="Hrubá čepice s polstrováním" />
+    <string id="ExjMoUiT" text="Tvrdé dřevo{@Plural}dřevěné klády{\@}" />
+    <string id="EXLY9mEb" text="Vyztužený velký kulatý štít" />
+    <string id="EZ19JOGj" text="{MENTOR.NAME} Dům" />
+    <string id="F13aYbuk" text="Lavalios" />
+    <string id="F2bgujPo" text="byli náčelníkovým sluhou." />
+    <string id="f3hTGKIP" text="Garitops" />
+    <string id="F4xD8gjJ" text="Francesca" />
+    <string id="F7OO5SAa" text="Když jsi jako mladík vyrůstal v Kalradii, válka nebyla nikdy příliš daleko. Ty jsi..." />
+    <string id="f7vOVQb7" text="Léto" />
+    <string id="F9HQABfN" text="Zesílený proutěný čtvercový štít" />
+    <string id="Fa2nKXxI" text="Guvernér" />
+    <string id="FAPHmzxQ" text="Thawb" />
+    <string id="fAxjyMt5" text="Noc" />
+    <string id="Fb7PrJuc" text="Boty s dlahou" />
+    <string id="fBAf3OWb" text="Zdobená pouštní bojová koruna" />
+    <string id="FClEZIkT" text="Sovos" />
+    <string id="FDEIHpIN" text="Zrcadlová brigadýrka" />
+    <string id="femalechild" text="Dítě" />
+    <string id="fEQAPJ2e" text="{KEY} Použij" />
+    <string id="FF3dQKc1" text="Nethor" />
+    <string id="FfNwXtii" text="Pokud měla parta vlčích štěňat tvého raného dětství nějakého alfa, pak jsi to byl určitě ty. Všechny ostatní děti tě následovaly, když jsi rozhodoval, co a kde si budou hrát, a vedl jsi je ke hrám a lumpárnám." />
+    <string id="fGFMqlGz" text="Pohlaví" />
+    <string id="fGmpS0Dr" text="Gandarina" />
+    <string id="FhZPjhli" text="Vaše rodné město bylo krátce obléháno a vy jste byli povoláni k obraně hradeb. Všichni se zasloužili o odražení nepřátelského útoku a všichni jsou právem hrdí na to, co vydrželi." />
+    <string id="FjwRsf1C" text="Vlandia" />
+    <string id="fk42FxCE" text="Vrstvený plášť" />
+    <string id="FkhJz0po" text="Umístění" />
+    <string id="FKpLEamz" text="péčí o koně." />
+    <string id="FktkkUMK" text="Ocelový kulatý štít" />
+    <string id="FLa5OuyK" text="Poutník" />
+    <string id="FLrdHzSf" text="Anat" />
+    <string id="fMSYE6Ii" text="Výchozí" />
+    <string id="FOx5vZSJ" text="Pancéřová medvědí kůže" />
+    <string id="Fp68NbYO" text="Království" />
+    <string id="fpdXZ0fl" text="Nábor" />
+    <string id="fptsl0Qn" text="Kilt přes pokovenou kůži" />
+    <string id="FQntPChs" text="Tvá rodina byla obchodníky v jednom z hlavních měst říše. Občas organizovali karavany do okolních měst a projednávali záležitosti v městské radě." />
+    <string id="frBQ9mbP" text="Jižní říše" />
+    <string id="frwBm3Oh" text="Látková čelenka" />
+    <string id="FsDZC8Yl" text="Plná přilba přes kroužkovou čapku" />
+    <string id="fUmehyHq" text="Tkané kožené nárameníky" />
+    <string id="FUT6eXfw" text="Phaea" />
+    <string id="FVaRDe2a" text="Příbuzných Noyana" />
+    <string id="FWFDkjBk" text="Nosní přilba přes šněrovací čapku" />
+    <string id="fwxHsC1h" text="Krátká gambitka přes tuniku" />
+    <string id="FxnFBhrF" text="Jezdecký štít s drakem" />
+    <string id="g0l7W5xQ" text="{BONUS_AMOUNT}% rychlost pohybu pro koně ve vaší formaci." />
+    <string id="g31pXuqi" text="Farmářů v oáze" />
+    <string id="g51zVsKU" text="Poštovní rukavice" />
+    <string id="g5BPd0Oc" text="Lněná čapka" />
+    <string id="G7AEWZ6c" text="Zdobený oválný štít" />
+    <string id="G8FQ2exX" text="Rukavice vyztužené plátem" />
+    <string id="g8qb3Ame" text="Děkujeme." />
+    <string id="g9VIbA9s" text="Seržant" />
+    <string id="GD4aQgl7" text="Ovce{@Plural}ovce{\@}" />
+    <string id="GeJobcre" text="Sinor" />
+    <string id="gENb9SSW" text="Večer" />
+    <string id="GeNKQlHR" text="Členů náčelníkovy stráže" />
+    <string id="GEYzLuwb" text="tvým způsobem jednání s lidmi." />
+    <string id="gFtu0j4T" text="Šípy" />
+    <string id="GFUggps8" text="pochodoval s táborovými stoupenci." />
+    <string id="GghHAbIT" text="Sekera" />
+    <string id="ggpRTQQl" text="Vůdce družiny" />
+    <string id="gHnfFi1s" text="Vysloužilci" />
+    <string id="Ghz90npw" text="Tvá rodina vlastnila několik koní v městských stájích a ty jsi převzal péči o ně. Mnoho večerů jsi s nimi vyjížděl za hradby a cválal jsi po polích a závodil s ostatními mladíky." />
+    <string id="gJG0xmAq" text="Osada {QUEST_GIVER.LINK} {QUEST_SETTLEMENT} byla přepadena. Tvá dohoda s {QUEST_GIVER.LINK} byla zrušena." />
+    <string id="GM3tAYMr" text="Podnikni nepřátelskou akci" />
+    <string id="GmcgoiGy" text="Obchodování" />
+    <string id="GmU1to3Y" text="Statistiky" />
+    <string id="GNdVXMue" text="Šátek" />
+    <string id="gQ2tAvCz" text="Farmářů" />
+    <string id="GsPC2MgU" text="Tvůj otec byl členem jedné z otrockých ochranek, které si vydržovali aserští emírové. Bojoval po boku svého pána s kmenovou obrněnou jízdou a byl osvobozen - možná za statečný čin, nebo možná za svou svobodu zaplatil podílem z bitevní kořisti. Poté se oženil s tvou matkou." />
+    <string id="gsVtO9A7" text="Domobrana" />
+    <string id="gT8WENO3" text="Figurína Vyšší průměr" />
+    <string id="GTaxqBcv" text="Pomocná zbroj" />
+    <string id="guardnoun" text="Stráž" />
+    <string id="gUTqDROO" text="Uzavřený šátek na hlavě" />
+    <string id="GWaJ7Ksq" text="Joculos" />
+    <string id="GXmDq2KR" text="Medvědí hlava" />
+    <string id="gYATKZJp" text="{NUMBER}%" />
+    <string id="gYit4RTe" text="Euchor" />
+    <string id="GzgUzrFY" text="Poštovní košile" />
+    <string id="h2KnarLL" text="cvičil s jezdectvem." />
+    <string id="H5tiRTya" text="Cvičení" />
+    <string id="h60wQVVX" text="Štika" />
+    <string id="h6UXvU3B" text="Nosní cervélie přes šněrovací čapku" />
+    <string id="h9PP7EWc" text="Čepice s klopou na krku" />
+    <string id="hab2DsOW" text="Highland Kilt přes tartanové kalhoty" />
+    <string id="HBaSQlSJ" text="Bronzová čepice s třásněmi a chrániči tváří" />
+    <string id="HcAV8x7p" text="Člen družiny" />
+    <string id="hCavIm4G" text="Zaplatíte {AMOUNT}{GOLD_ICON} dinárů." />
+    <string id="hchDYAKL" text="Kopitník" />
+    <string id="HCXHcBzT" text="Mattis" />
+    <string id="hE8s9bpP" text="Zakřivený kulatý štít" />
+    <string id="hELN8VXv" text="Roztrhané roucho" />
+    <string id="HfuAdGQX" text="Destor" />
+    <string id="HiSzYWeh" text="Pivo{@Plural}sudy piv{\@}" />
+    <string id="HjqcmY6X" text="Ban" />
+    <string id="HkfY3Ds5" text="Tělesná zbroj" />
+    <string id="HKRGEXqy" text="Strážcovská pošta" />
+    <string id="HkwJao2z" text="Ocelová čepice s třásněmi a chrániči tváří" />
+    <string id="ho5EndaV" text="Rozhodnutí" />
+    <string id="hob3WVkU" text="Tvůj otec byl členem bojarské družiny, společníků, kteří tvoří jeho družinu. Seděl u stolu svého pána ve velké síni, dohlížel na bojarův majetek a v bitvě stál po jeho boku uprostřed štítové hradby." />
+    <string id="hometab" text="Domov" />
+    <string id="HqzVBfpl" text="Městských obchodnků" />
+    <string id="hRHPPQQP" text="Ovinutá pokrývka hlavy" />
+    <string id="hrhvEWP8" text="{PLAYER_MOTHER.NAME} byla matkou {PLAYER.LINK}. Byla zabita, když nájezdníci zaútočili na hostinec, v němž rodina pobývala." />
+    <string id="HSlPLC4m" text="Ira" />
+    <string id="hunterhorse" text="Lovec" />
+    <string id="HVJ9ax8Z" text="Stepní roucho" />
+    <string id="HvjviTTW" text="Ocelová čepice s chrániči tváří" />
+    <string id="hVZo7xdk" text="Hrady" />
+    <string id="hXB6gvD2" text="Kožená košile s lamelami z tvrzené kůže" />
+    <string id="hXijcZyp" text="Krátký plášť z hrubého sukna" />
+    <string id="hXl25avg" text="Rodina ti zajistila soukromého učitele a ty jsi toho plně využil, pilně jsi četl dějiny, matematiku a filozofii a o přečteném jsi diskutoval se svým učitelem a spolužáky." />
+    <string id="HXNb6Cqz" text="Luxusní kaftan s opaskem" />
+    <string id="hy7mIh48" text="Vidar" />
+    <string id="hYgmzZJX" text="Dináry" />
+    <string id="I0vRCZ7U" text="Šupinové válečnické nárameníky" />
+    <string id="I3PcdaaL" text="Vlci, medvědi jsou stálou hrozbou pro stáda na severu Kalradie, zatímco hyeny a levharti trápí jih. Vydal ses se skupinou svých vesničanů a vypálil jsi střelu, která šelmu skolila." />
+    <string id="I8raOMRH" text="Omlouvám se. Zatím žádný pokrok." />
+    <string id="IagYTD5O" text="Prosperita" />
+    <string id="iaUQ9lt9" text="Ingalther" />
+    <string id="iAWzr8Q0" text="Opásaná kůže přes kroužkovou čapku" />
+    <string id="IcgVKFxZ" text="Vládce" />
+    <string id="ICsecuVv" text="Léčené kožené nárameníky" />
+    <string id="iD0ePqi7" text="Knoflíkové kožené nárameníky" />
+    <string id="iDxygnVF" text="Gerotheon" />
+    <string id="IFqtwpb0" text="Pikeman" />
+    <string id="IGazuB9B" text="Kroužková nosní přilba" />
+    <string id="IHKXNP9H" text="Turnajový mistr" />
+    <string id="IK2IPJi1" text="Sůl{@Plural}pytle soli{\@}" />
+    <string id="iLcfZ71B" text="Přesvědčování" />
+    <string id="InGwtrWt" text="Přestat" />
+    <string id="inKr3PbA" text="Armády" />
+    <string id="InN5ZZt3" text="Poddaných" />
+    <string id="iOYRpw24" text="Ratagost" />
+    <string id="ipQP6aVi" text="Žoldnéřů" />
+    <string id="ISQ0cdOc" text="Těžká nosní přilba přes kroužkovou čapku" />
+    <string id="Ita1lG33" text="Kožený štít vázaný na draka" />
+    <string id="Itv3fgJm" text="Zrno{@Plural}spousta obilí{\@}" />
+    <string id="IU63oxWD" text="Jemynon" />
+    <string id="IuD9SaQM" text="Šaty z pytloviny" />
+    <string id="IuWu5Bu7" text="Štědrost" />
+    <string id="iVataLxL" text="Kožené pruhy přes vycpaný plášť" />
+    <string id="ivKl4mV2" text="Tvůj otec byl důvěryhodným poručíkem místního zemanského šlechtice. Jezdil s panskou jízdou a bojoval jako obrněný kopiník." />
+    <string id="iW9iKbb8" text="Nic." />
+    <string id="IX3kafcb" text="Železná hrncová přilba s hrotem přes kroužkovou čapku" />
+    <string id="ixqTFMVA" text="Jezdecký válečník" />
+    <string id="IXwOaa98" text="Velikost družiny" />
+    <string id="iYCR3xuQ" text="Sturgiánské knížectví" />
+    <string id="iZKtGI6Y" text="Tvá rodina ti zařídila doprovod menšího barona Vlandiánského království. Nebyly ti svěřeny žádné velké povinnosti - většinou jsi mu nosil zprávy a staral se o koně -, ale měl jsi díky tomu možnost vidět, jak se plánují tažení a nasazují muži v bitvě." />
+    <string id="J00AF9Qv" text="Tkané kožené boty" />
+    <string id="J1nh9YiN" text="Atilon" />
+    <string id="j1pFE61w" text="Lesní plátová zbroj" />
+    <string id="J2gvnexb" text="Odpoledne" />
+    <string id="j2IVY6G6" text="Zbroj ze surové kůže" />
+    <string id="J3YHMkL3" text="Vycpané palčáky" />
+    <string id="j4F7tTzy" text="Klan" />
+    <string id="j6py5Rv5" text="Tvoji rodiče byli léčitelé, kteří sbírali byliny a léčili nemocné. Jako živá zásobárna battanských tradic byli také požádáni, aby rozhodovali mnohé spory mezi klany." />
+    <string id="j9Weia10" text="Snadno" />
+    <string id="jaaQijQs" text="Věk" />
+    <string id="jakLnIQv" text="Přilba z hrubé šupiny" />
+    <string id="jAs3kDXh" text="Tvá rodina byla důvěrným příbuzenstvem khuzaitského noyana a sdílela s ním jídlo v náčelníkově jurtě. Tvůj otec pomáhal svému náčelníkovi při řízení záležitostí klanu a bojoval v jádru obrněných kopiníků ve středu khuzaitské bojové linie." />
+    <string id="JbV0WoO7" text="Mistrovsky vyrobená pošta z jižních šupin" />
+    <string id="JBVAeXx3" text="Vidle" />
+    <string id="JCdVJYnQ" text="Lehká tunika" />
+    <string id="Jd0Kq9lD" text="Štít" />
+    <string id="JFVseSa3" text="Oros" />
+    <string id="JhLPgr5x" text="Jinda" />
+    <string id="Jhshwa48" text="Záplatovaný plášť" />
+    <string id="Jif1C3X3" text="Laria" />
+    <string id="jimBaHvz" text="Vyztužená kožená zbroj" />
+    <string id="jIwjYOVj" text="Otrhané opánky na ruce" />
+    <string id="JJiKk4ow" text="Vyberte své rodové jméno:" />
+    <string id="JjLQ2VdT" text="Nosní Cervelliere přilba přes polstrovanou čapku " />
+    <string id="JKRQ8RDA" text="Prošívané roucho s proužky" />
+    <string id="jlgjLDo7" text="Posádka" />
+    <string id="Jm3AiUo3" text="Jednoduchý plášť" />
+    <string id="joRHKCkm" text="Vaše rodina potřebovala někoho důvěryhodného, kdo by odvezl karavanu do sousedního města. Zorganizoval jsi zásoby, zajistil jsi neustálé hlídání, abys zabránil banditům, a bezpečně jsi ji dovedl na místo určení." />
+    <string id="jpBpwgAs" text="Osady" />
+    <string id="JPimShCw" text="Typ hry" />
+    <string id="JUSHAPnu" text="Byl jsi rychlý na nohou a dával jsi pozor na to, co se děje kolem tebe. Obvykle jsi dokázal před problémy utéct, i když jsi o sobě dokázal dát v boji s ostatními dětmi pořádně vědět, pokud jsi byl zahnán do kouta." />
+    <string id="Jvf6K7TZ" text="Tvá rodina patřila k mnoha chudým přistěhovalcům žijícím ve slumech, které vyrůstají za hradbami císařských měst, a vydělávala si na nejrůznější příležitostné práce. Někdy sloužili pro některý z mnoha zločineckých gangů v Impériu, a tak jsi brzy poznal temnou stránku života." />
+    <string id="JvhvtKsT" text="Vrcholová přilba přes kroužkovou čapku" />
+    <string id="jvOYgHOe" text="Vlastní" />
+    <string id="jx8ohENz" text="Zbrojíř" />
+    <string id="JXyxj1J5" text="Moduly" />
+    <string id="jZYUdkXF" text="Hladovějící" />
+    <string id="k0nSlwe9" text="Interval automatického ukládání" />
+    <string id="k1E9DuKi" text="Vybrat vše" />
+    <string id="K1UFTirG" text="Lehká kuše" />
+    <string id="k1Xr4rKn" text="Družiník" />
+    <string id="K2xGw3Oo" text="Atrapa nižšího průměru" />
+    <string id="K6GYskvJ" text="Kultura:" />
+    <string id="k71X3WNK" text="Róba přes kroužkovou halenu" />
+    <string id="k7ebznzr" text="Ano?" />
+    <string id="kaR27kWL" text="Horalský dlouhý tartan" />
+    <string id="katzUyMI" text="Joron" />
+    <string id="kbcwb5TH" text="na trzích a s karavanami." />
+    <string id="KBq7aQRa" text="Lek" />
+    <string id="KdbHrcQx" text="Krátká tunika" />
+    <string id="keqS2dGa" text="???" />
+    <string id="KfaqPpbK" text="Chodil jsi s dalšími prchlivými mladíky odvádět vesnické ovce, kozy nebo dobytek na pastviny poblíž vesnice. Měl jsi na starosti nahánění zatoulaných zvířat a vždy jsi měl po ruce velký kámen, který jsi v případě potřeby mohl hodit po číhajících dravcích." />
+    <string id="kfNW01y5" text="Tynops" />
+    <string id="kftE5nvv" text="Brnění koně" />
+    <string id="kg9YtrOg" text="Tvá rodina byla kovářem, což je mezi Battánci vážené povolání. Vyráběli vše od jemných filigránových šperků s geometrickými vzory až po dobře vyvážené dlouhé meče, které si oblíbila battanská šlechta." />
+    <string id="Kgnm0FkE" text="Kožené boty" />
+    <string id="KiJd6Xik" text="Pohyb" />
+    <string id="KjzJjj5n" text="Eronys" />
+    <string id="kkUQObZn" text="Pouštní bandité" />
+    <string id="KKWEkA4P" text="Drsná medvědí kůže" />
+    <string id="klGEDUmw" text="{BONUS_AMOUNT}% poškození štítů vojáků ve vaší formaci." />
+    <string id="kmdjRAoG" text="Tkaný čepec" />
+    <string id="kmM68Qx4" text="schopnostmi vůdce." />
+    <string id="kNXet6Um" text="slavná eskapáda." />
+    <string id="koX9okuG" text="Žádné" />
+    <string id="KoyU5yeY" text="Bronzová čepice s třásněmi a chrániči tváří" />
+    <string id="Kqt8RHh7" text="Kovárna" />
+    <string id="Kr8b1bxY" text="Pěchotní poštovní vesta" />
+    <string id="KsBoNHW5" text="Calatild" />
+    <string id="KTegaNPW" text="Dlouhý luk" />
+    <string id="KUEHAD4U" text="Úkoly" />
+    <string id="KVG0Tzaa" text="Zesílená zrcadlová zbroj" />
+    <string id="KwbnODoT" text="Brigantina přes hauberk" />
+    <string id="kx7q8ybD" text="Brnění paží" />
+    <string id="l5JDrvbW" text="Tartanová tunika" />
+    <string id="l5PPS5lG" text="Pěchotní pošta přes kůži" />
+    <string id="l69aXkKH" text="Tlačná vidlice" />
+    <string id="L7wn49Uz" text="Diplomacie" />
+    <string id="l91l1TJo" text="Barevný turban" />
+    <string id="L9weGfoX" text="Salea" />
+    <string id="labbKop6" text="{BONUS_AMOUNT}% poškození na dálku vojákům ve vaší formaci." />
+    <string id="lAWwcO6b" text="Království Vlandie" />
+    <string id="lB4UF1GT" text="Dlouhá tunika" />
+    <string id="Lbm7asY3" text="Vysoký hřebenový štít" />
+    <string id="lBn2pSBL" text="Členové" />
+    <string id="LBNzsqyb" text="Léna" />
+    <string id="lbVB6KPl" text="Kapuce" />
+    <string id="lC5xsoSh" text="Neomezený" />
+    <string id="lD1sl2XC" text="Camnon" />
+    <string id="lD5Ob3R4" text="Možná to byl milostný románek, možná jsi podváděl v kostkách, nebo jsi jen špatně volil slova při popíjení s nebezpečnou partou. Každopádně ses dostal do takových potíží, ze kterých tě dostane živý jen rychlý jazyk nebo rychlé nohy." />
+    <string id="LE9mRhSs" text="Hespedia" />
+    <string id="lEHjxPTs" text="Spojenec" />
+    <string id="lEHtUGed" text="Diocosos" />
+    <string id="LgftnHPs" text="Tkaná kožená vesta" />
+    <string id="lgvtLEDA" text="Melchea" />
+    <string id="lIJ1EVBh" text="Kožené rukavice" />
+    <string id="lLJh7WAT" text="Pracoval jsi na tržišti, kde jsi prodával drobnosti a nápoje zaneprázdněným kupujícím." />
+    <string id="LMo6MaQS" text="Cataphract Lamelární zbroj" />
+    <string id="LmwhFv5p" text="Maso{@Plural}spousta masa {\@}" />
+    <string id="LMWiJi6V" text="Phirentos" />
+    <string id="LOPavWRp" text="Obuv s řemínky" />
+    <string id="LP7yYoGQ" text="Caribos" />
+    <string id="LpH8SYFL" text="Tvá rodina byla důvěrným příbuzenstvem battanského náčelníka a seděla u jeho stolu v jeho velké síni. Tvůj otec pomáhal svému náčelníkovi řídit záležitosti klanu a cvičil se v tradičních zbraních battanské elity, obouručním meči neboli falxu a luku." />
+    <string id="LqA9uBH9" text="Špičatá přilba přes látkovou pokrývku hlavy" />
+    <string id="LRbGXEw2" text="Zdobená nosní přilba" />
+    <string id="LsZEdD2z" text="Hradby" />
+    <string id="lULBZ714" text="Olej{@Plural}amfory z oleje {\@}" />
+    <string id="luoXhz19" text="Těžká lamelová vesta" />
+    <string id="lVtoBMhp" text="Tartanový plášť" />
+    <string id="lZ93DOrn" text="Vycpaný plášť bez rukávů" />
+    <string id="lZZOQsxc" text="Hrubé jezdecké sedlo" />
+    <string id="M0n609ut" text="Poštovní nárameníky" />
+    <string id="M2wvaObX" text="Spatha" />
+    <string id="m3Nv9rt2" text="Kočovná přilba s opeřením" />
+    <string id="m6uSOtE4" text="Nemáš dost peněz." />
+    <string id="m9ZgghCo" text="Abagai" />
+    <string id="MafIe9yI" text="Mladá dospělost" />
+    <string id="malechild" text="Dítě" />
+    <string id="malethug" text="Thug" />
+    <string id="MamotK0a" text="Vycpané náramky" />
+    <string id="mBVCyRY5" text="Zdobená legionářská pošta" />
+    <string id="mc78FEbA" text="Bojarova společníka" />
+    <string id="Mcd3ZyKq" text="Tvoje rodina měla jen tolik půdy, aby se uživila a měla malý zisk. Lidé jako oni byli pilíři ekonomiky království a také páteří poplatnictva." />
+    <string id="MChutiV6" text="Kruhová hrncová přilba nad plátnem" />
+    <string id="MEgLE2kj" text="tvými dovednostmi s koňmi." />
+    <string id="mfeM775z" text="Štěpnice" />
+    <string id="mfRbx5KE" text="Čtení a studium." />
+    <string id="MFrIHJZM" text="Tvá rodina pocházela z menší odnože emírova kmene. Půda tvého otce mu poskytovala dostatečný příjem, aby si mohl dovolit koně, ale nebyl dost bohatý na to, aby si mohl koupit zbroj potřebnou pro vstup do těžšího jezdectva. Bojoval jako jeden z lehkých jezdců, kterými je poušť proslulá." />
+    <string id="millionabbr" text="m" />
+    <string id="MkBPRCuF" text="Snížení postihu za přesnost při střelbě na dálku" />
+    <string id="mkoMUmLh" text="Vesta z pytloviny" />
+    <string id="MKT5IzWm" text="Plášť s tlustými rukávy" />
+    <string id="mlJKNbbn" text="Kožená čapka" />
+    <string id="MnmUBlbL" text="Targe" />
+    <string id="mOa9CX13" text="Horští bandité" />
+    <string id="mP3uFbcq" text="vedení úspěšného honu na muže." />
+    <string id="MQ8LCvCE" text="Vázaná plátěná tunika" />
+    <string id="MqCH7R4A" text="Bezpečnost" />
+    <string id="mRGIxvYh" text="Helma s výstupkem přes kroužkovou čapku" />
+    <string id="MRktqZwu" text="Zaměření na dovednosti" />
+    <string id="MT4b8H9h" text="Neznámý" />
+    <string id="MTB2BunA" text="Vysokohorská vyztužená pošta přes tartan" />
+    <string id="mTsEaNKb" text="Kožešinový plášť" />
+    <string id="mU5CY4bz" text="Uzavřená helma Huscarl" />
+    <string id="mvTueU1y" text="Plátované kožené nárameníky" />
+    <string id="MxmOWsHj" text="Encyklopedie" />
+    <string id="n1A47HcZ" text="Přilba vznešeného kopiníka" />
+    <string id="n2FdWOtE" text="Adram" />
+    <string id="n3cjEB0X" text="Nářadí{@Plural}spousta nástrojů{\@}" />
+    <string id="n4UUrd1p" text="Již se používá" />
+    <string id="N6QTvjMf" text="Vězni" />
+    <string id="n7c7tnx9" text="Přilba válečníka s chráničem nosu" />
+    <string id="NBAGX54b" text="Avigos" />
+    <string id="NbgeKwVr" text="Dílny" />
+    <string id="ndfDy5B8" text="Svázaná omotávka hlavy" />
+    <string id="NF627oiX" text="Severní říše" />
+    <string id="ngazFofr" text="Vždycky tě přitahovala zvířata a trávil jsi co nejvíce času ve vesnických stájích. Uměl jsi uklidnit koně a někdy jsi byl povolán, abys zapřáhl nová hříbata. Naučil ses základy veterinárního umění, z nichž mnohé se dá použít i na lidi." />
+    <string id="ngFVgwDD" text="Válečných otroků" />
+    <string id="NiBDR9ld" text="Zdobená bronzová přilba s chrániči tváří" />
+    <string id="NLKmdNbt" text="Vyhledávání" />
+    <string id="NM5f1Q6I" text="Ariada" />
+    <string id="nMfxbc0Y" text="Zvýšená rychlost pohybu koně" />
+    <string id="NOchnEwX" text="Ghuzid" />
+    <string id="nOfSqRnI" text="na cvičišti městské hlídky." />
+    <string id="nOMT0Cw6" text="Snížení morálního šoku" />
+    <string id="NqarFr4P" text="Možnosti" />
+    <string id="nqWulUTP" text="Rychlost pohybu pěchoty ve vaší formaci o {BONUS_AMOUNT}%." />
+    <string id="nSoJkeBI" text="Sittacea" />
+    <string id="NTaol1uQ" text="Prstenová pošta" />
+    <string id="NUHzapSv" text="Dlouhá konopná tunika" />
+    <string id="NUmDuEqI" text="Císařský jezdecký postroj" />
+    <string id="Nv0eZmGL" text="Ocelová nosní čepice" />
+    <string id="nWbp3o3H" text="Jaro" />
+    <string id="nwqUFaU8" text="Zima" />
+    <string id="NXOOJs2X" text="Patrys" />
+    <string id="O2oBC9sH" text="Zvýšené poškození při nabíjení" />
+    <string id="O37kzdXO" text="Lehký postroj" />
+    <string id="O3dhjtOS" text="Brnění hlavy" />
+    <string id="O75XlydW" text="Arcor" />
+    <string id="O8TpGSDA" text="Samet{@Plural}role sametu{\@}" />
+    <string id="oAoTaAWg" text="první" />
+    <string id="oBbiVeKE" text="Body zásahu" />
+    <string id="oEJnxsQ1" text="Oblečení na ruce" />
+    <string id="oEvhhNNR" text="Kožené jezdecké boty" />
+    <string id="oH8iFEv7" text="Skládané městské boty" />
+    <string id="oHaWR73d" text="Ok" />
+    <string id="OhEQUMk0" text="Široký ohřívací štít" />
+    <string id="oibdTnXP" text="Manipulace" />
+    <string id="OJIRIm4j" text="Jednoduchá látková tunika" />
+    <string id="oJKXjRJ3" text="Horalská šupinová zbroj přes látku" />
+    <string id="ok8lSW6M" text="Mládež" />
+    <string id="OKUTPdaa" text="Úroveň" />
+    <string id="ol0rBSrb" text="{STR1}{newline}{STR2}" />
+    <string id="olamAwhb" text="Nosní přilba přes látkovou pokrývku hlavy" />
+    <string id="OlOhuO7X" text="Ne, děkuji. Přeji vám hezký den." />
+    <string id="OM9achAa" text="Zesílený štít z dubového draka" />
+    <string id="oMbOIPc9" text="se přidal ke střelcům." />
+    <string id="omLMiX89" text="Prošívaná kůže přes kroužkovou čapku" />
+    <string id="ONaWEKSy" text="Nasalhelm přes kůži" />
+    <string id="Oo0baNaq" text="Hrubé vázané boty" />
+    <string id="OpYdqPWs" text="Otevřená kroužková čapka" />
+    <string id="oQSZ0XgP" text="Zdobená silná tunika" />
+    <string id="OrEgjXZ1" text="Hrubá kefíja" />
+    <string id="ORFrCYSn" text="{BONUS_AMOUNT}% poškození útoky zblízka vojákům ve vaší formaci." />
+    <string id="OVcoYxj1" text="Název serveru" />
+    <string id="OvlG2Vu1" text="Drsná brigadýrka" />
+    <string id="OwqFpPwa" text="Filtry" />
+    <string id="Oy5dH7gZ" text="Elea" />
+    <string id="oZrVNUOk" text="Chyba" />
+    <string id="p0hcyZdp" text="Zenon" />
+    <string id="p0JFbL7G" text="Snížení přijatého poškození při útoku na dálku" />
+    <string id="p2KIhGbE" text="Městského kováře" />
+    <string id="p6NIgRpk" text="Hrubá čepice" />
+    <string id="P7iNhhPl" text="Turiados" />
+    <string id="P8GrNSkF" text="Segmentová přilba přes kroužkovou čapku" />
+    <string id="p9cQARqf" text="Vysokorodé brnění" />
+    <string id="PbJAOKKZ" text="Zvýšená rychlost pohybu vojáků" />
+    <string id="pbp0GQdO" text="Zákaz hráče" />
+    <string id="pBUc2pL8" text="Námořní jezdci" />
+    <string id="pCBkH35Q" text="Danos" />
+    <string id="PDdh1sBj" text="Jméno" />
+    <string id="pdqi2qz1" text="Tuto akci nemůžete provést, pokud je vaše ulička pod útokem." />
+    <string id="pEaYQqG9" text="Štít z proutěného čtverce" />
+    <string id="PeozdF9h" text="Sešitý plášť z vydělané kůže" />
+    <string id="pgbC8UkU" text="Rebelie" />
+    <string id="pgw7LMRo" text="Překročení kapacity serveru." />
+    <string id="PiHpR4QL" text="Jednoruční" />
+    <string id="PjO7oY16" text="Sturgia" />
+    <string id="pKf56MdS" text="Bagai" />
+    <string id="PKhcPbBX" text="Tvá rodina patřila ke kočovnému klanu, který křižoval pustiny mezi koryty vádí a studnami, aby nakrmil svá stáda koz a velbloudů na zarostlých křovinách Nahasy." />
+    <string id="PL5SG9hI" text="Kožená šupinová zbroj" />
+    <string id="playgame" text="Přehrát" />
+    <string id="PLtQdf23" text="Vyztužené vycpané rukavice" />
+    <string id="plx8kkxa" text="Pelicos" />
+    <string id="ppi6eVos" text="Jak si přeješ." />
+    <string id="pq0w8kry" text="Orachos" />
+    <string id="pqfz386V" text="Vůdce klanu" />
+    <string id="PR4IqkTW" text="Temeon" />
+    <string id="pRbKbPK3" text="Vadrios" />
+    <string id="PtfbqMeg" text="Brigandine přes kroužkovou čapku" />
+    <string id="PTKyNh2O" text="Legionářská pošta" />
+    <string id="PUjDWe5j" text="Kultura" />
+    <string id="PuRfbiW3" text="Erdurand" />
+    <string id="PVgSGCYK" text="Nosní přilba přes kroužkovou čapku" />
+    <string id="pVkchhqX" text="{VICTIM.NAME} byla ztracena." />
+    <string id="Pya9aCTd" text="Elthild" />
+    <string id="PyeZ22FL" text="Bronzová čepice s chrániči tváří" />
+    <string id="PyVqDLBu" text="Rodiče ti nedali mnoho peněz, ale nechali ti dost na to, aby sis mohl zajistit půjčku na větší částku na stavbu malé dílny. Splatil jsi, co sis půjčil, a svůj podnik jsi se ziskem prodal." />
+    <string id="pzfbPbWW" text="Boulder" />
+    <string id="q186AQHt" text="Phadon" />
+    <string id="q1z4FQub" text="Velbloudí sedlo" />
+    <string id="q2Y2DHiA" text="Koňští lučištníci" />
+    <string id="Q50hfNjW" text="Tenká kožená čapka" />
+    <string id="qAbMagWq" text="prodával na trhu." />
+    <string id="qaDIU0XC" text="Vysoké království Battanů" />
+    <string id="qaKGuHSt" text="Zdobený kožený postroj s polstrováním" />
+    <string id="QaysED62" text="Tunika s rolovanou látkou" />
+    <string id="QbfOXJas" text="Plášť pro pěší s vycpávkou" />
+    <string id="QBPrRdQJ" text="Chirurg" />
+    <string id="qc0P0b2r" text="Přilba s brýlemi přes kroužkovou čapku" />
+    <string id="Qd0tQLpA" text="Kožená zbroj s cvočky" />
+    <string id="qdMP2qWG" text="Poštovní ramenní výztuhy" />
+    <string id="qeKskdiY" text="Tablut" />
+    <string id="qFL0VxZX" text="Šněrovaný plášť" />
+    <string id="qfzkMuLj" text="Řemeslnický" />
+    <string id="QGaIYQpg" text="Ryba{@Plural}sudy s rybami{\@}" />
+    <string id="QGIAbglw" text="Obron" />
+    <string id="qH5VV8In" text="Vesničan Kožená tunika" />
+    <string id="qILO0HdK" text="Oblečení bez rukávů s vycpávkami" />
+    <string id="qiTtJyHE" text="Gala" />
+    <string id="QjJAbaoT" text="Apys" />
+    <string id="QJq4VAU7" text="Mesui" />
+    <string id="QLcP8bIs" text="Falx" />
+    <string id="qlOuiKXj" text="slavná eskapáda." />
+    <string id="QlvnKQbc" text="Highland Scale Armor přes kroužkovou zbroj" />
+    <string id="QndVFTbx" text="Vyzbrojte se" />
+    <string id="qnqdEJOv" text="Sledoval jsi, jak městská stráž cvičí střelbu a zdokonaluje své plány na obranu hradeb v případě obléhání." />
+    <string id="qNZFkxJb" text="Tvá rodina byla obchodníky v jednom z hlavních měst království. Organizovali karavany do okolních měst a působili v místním kupeckém cechu." />
+    <string id="qo8hwDNU" text="Hrubá kožešinová zbroj" />
+    <string id="QOWyEJrm" text="Nemáš dostatek dinárů." />
+    <string id="qPg3IDiq" text="Tvá rodina pocházela z jednoho z kupeckých klanů, které ovládaly města ve východní Kalradii před dobytím Khuzaitů. Rychle se přizpůsobili novým pánům, udržovali v chodu karavanní cesty a zajišťovali, aby příjmy z cel, které dříve plynuly do císařské pokladny, nyní plynuly do chanátu." />
+    <string id="QPoA6vvx" text="Příjmy" />
+    <string id="qqW5n5Ox" text="Miloš" />
+    <string id="qRqnrtdX" text="Majitel" />
+    <string id="QrYjPUEf" text="tvým smyslem pro detail." />
+    <string id="qSi4DlT4" text="Potraviny" />
+    <string id="qsVRoGUv" text="Otevřený šátek na hlavu" />
+    <string id="qT6jIu3v" text="Kožešinová sukně s tunikou" />
+    <string id="qtII2HbK" text="Bohatství" />
+    <string id="qtwYBHIn" text="Thomund" />
+    <string id="QvfUqzpF" text="Mina" />
+    <string id="qVj5NqrL" text="Plná přilba přes polstrovanou čepici" />
+    <string id="QWqvGa1P" text="Kráva{@Plural}hlava z dobytka{\@}" />
+    <string id="QxzcuhmA" text="Leopardí kožešina" />
+    <string id="Qywm0F8B" text="Kroužková čapka s polstrováním přilby" />
+    <string id="QyXwJXIV" text="Andrasa" />
+    <string id="QzAvlan7" text="Krátký vycpaný plášť" />
+    <string id="r07M9xbT" text="Těžká kuše" />
+    <string id="R45H8quo" text="Toga" />
+    <string id="R4Gqskgq" text="Vítězství" />
+    <string id="rA3KybBX" text="Ethirea" />
+    <string id="RamV6yLM" text="Hlavní nabídka" />
+    <string id="rcoueCmk" text="Dospívání" />
+    <string id="RDbqA36B" text="Hřebenová zdobená bronzová čepice s chrániči tváří" />
+    <string id="RddFH0BA" text="Velký kulatý štít s železným okrajem" />
+    <string id="RDfXuVxT" text="Svobodných" />
+    <string id="redwEIlW" text="Provianťák" />
+    <string id="rF7Xm7C0" text="Těžký topičský štít" />
+    <string id="rFbAjSWM" text="Gorigos" />
+    <string id="rg7OuWS2" text="Manévry" />
+    <string id="rGuYLmez" text="Ascyron" />
+    <string id="Rhfp7ath" text="Vrcholová přilba přes šněrovací čapku" />
+    <string id="RHXdqjQY" text="Ilina" />
+    <string id="RKVNvimC" text="pásl ovce." />
+    <string id="RmbWW6Bm" text="Byl jsi dostatečně velký a impozantní mladík, aby ti náčelníkova stráž dovolila trénovat po jejich boku a připravovat se na to, že se k nim jednou přidáš." />
+    <string id="rmMcwSn8" text="Pomáhal jsi rodině vyřizovat obchodní záležitosti, chodil jsi na tržiště nakupovat a dohlížet na příjezd karavan." />
+    <string id="RN6zHak0" text="Hráč" />
+    <string id="RoKwj5XN" text="Chagun" />
+    <string id="rSEXAMUx" text="Legionářská přilba" />
+    <string id="RssJTUpL" text="Berserker" />
+    <string id="rTFaZCdY" text="Lesní" />
+    <string id="rUvnbDi2" text="Encurion" />
+    <string id="RuvSk3QT" text="Doprovázel jsi místního lovce, když se vydal do divočiny, pomáhal jsi mu nastražovat pasti a chytat drobnou zvěř." />
+    <string id="RvKwdXWs" text="Velitel" />
+    <string id="RVPidk5a" text="Vliv" />
+    <string id="Rvr1bcu8" text="Další" />
+    <string id="rVUhYuvE" text="Suterios" />
+    <string id="RXDyumYz" text="Kožený postroj s pláštěm" />
+    <string id="RyorjCXF" text="Galon" />
+    <string id="S1SUK8zk" text="Hrncová přilba přes kroužkovou čapku" />
+    <string id="S1XL4KJh" text="Luxusní tlustý kabát" />
+    <string id="s31DnnAf" text="Poškození" />
+    <string id="s8PNllPN" text="Zachránil jsi svou městskou čtvrť před požárem." />
+    <string id="S9htzkbe" text="Kupecký klobouk" />
+    <string id="s9oED1IR" text="Skirmisher" />
+    <string id="sAbjtZbB" text="Lesní bandité" />
+    <string id="sAml91Z3" text="Luxusní brigadýrka" />
+    <string id="sb4gg8Ak" text="Svobodných majitelů" />
+    <string id="sbbNL1qF" text="Vyztužené šupinové pauldrony" />
+    <string id="sDFb1PRI" text="Nortos" />
+    <string id="Settlements.Settlement.name.castle_EN6" text="Hrad Ataconia" />
+    <string id="Settlements.Settlement.name.castle_EN9" text="Hrad Mecalovea" />
+    <string id="Settlements.Settlement.name.town_A6" text="Sanala" />
+    <string id="SFybYZNK" text="Mengus" />
+    <string id="shL0WElC" text="Družina {TROOP.NAME}" />
+    <string id="SHZ0P7Iu" text="Kožený polstrovaný plášť" />
+    <string id="siegeevent" text="Obléhání" />
+    <string id="sJ1R62Tn" text="Přilba s opeřenci" />
+    <string id="smHA8Apa" text="Zdobená nomádská čepice" />
+    <string id="smKogclC" text="Tunika z pytloviny" />
+    <string id="sO8Zh3ZH" text="Úspěchy jsou zakázány z důvodu používání cheatů." />
+    <string id="SoTUisL3" text="Deltisos" />
+    <string id="SpJqhEEh" text="Trubadůra" />
+    <string id="sPmQz21k" text="Nepřítel" />
+    <string id="SrfYbg3x" text="Vůdce" />
+    <string id="SRncaw79" text="Urios" />
+    <string id="SvYpE52J" text="Tunika s kožešinovým lemováním" />
+    <string id="SW3lkPHe" text="Barevný bišon" />
+    <string id="Sw8OxnNr" text="Příbuzných emíra" />
+    <string id="SyklU5aP" text="Informace" />
+    <string id="sYuN6hPD" text="Všechna kalradská království si uvědomují hodnotu dobré lehké jízdy a jistě najímají kočovníky a hraničáře s dovednostmi, kteří by tyto povinnosti mohli plnit. Byl jsi natolik dobrým jezdcem, že ti sousedé přispěli na malého poníka a snop oštěpů, abys mohl plnit jejich poplatkové povinnosti." />
+    <string id="SYvBTD0p" text="Plná přilba přes plátovou pokrývku hlavy" />
+    <string id="sZLd6VHi" text="Khuzaitové" />
+    <string id="Szuxa9Bs" text="Otrhané boty" />
+    <string id="t1OpnZph" text="Jeremos" />
+    <string id="t2Oh6uty" text="Uvítací zpráva" />
+    <string id="T2POVRtg" text="Pomocná zbroj s řemeny" />
+    <string id="t3tq0eoW" text="Družiny" />
+    <string id="t78atYqH" text="Obouruční" />
+    <string id="T79exjaP" text="Snížené poškození štítem" />
+    <string id="T7m7ReTq" text="lovil drobnou zvěř." />
+    <string id="TAnabTdy" text="Přesnost" />
+    <string id="TbNRtUjb" text="ulovení nebezpečného zvíře." />
+    <string id="TCQQRQgI" text="Bojový řád" />
+    <string id="tCTzsaIu" text="Muinser" />
+    <string id="TeIcf3Cd" text="Těžké lamelové brnění přes kroužkovou zbroj" />
+    <string id="tEimkEsU" text="Severský krátký luk" />
+    <string id="TFT2Xapz" text="Vrcholová přilba přes prošívaný čepec" />
+    <string id="tG1Q8r2u" text="Lamelová zbroj kopiníka" />
+    <string id="tGEStbxb" text="Lidí kmene" />
+    <string id="Th8q8wC2" text="Kořist" />
+    <string id="thousandabbr" text="k" />
+    <string id="tHtt3HCn" text="Pryndor" />
+    <string id="tI8ZLtoA" text="opravoval projekty." />
+    <string id="TiJOjUi5" text="Valaos" />
+    <string id="tiTTWhpW" text="Kožená košile s vycpávkami" />
+    <string id="TkgLEDRM" text="Kupců" />
+    <string id="tMLH04n4" text="Hrncová čapka přes kroužkovou čapku" />
+    <string id="tMwsE9IR" text="Kožené boty s řemínky" />
+    <string id="Toj0vayQ" text="Monchug" />
+    <string id="toQLHG6x" text="Statečnost" />
+    <string id="Tp7zXWGa" text="Nosní přilba přes polstrovanou čapku" />
+    <string id="TPoK3GSj" text="Vagabundů" />
+    <string id="tpQLvMSM" text="Nosní přilba přes kroužkovou čapku" />
+    <string id="tQOPRBFg" text="Hledat..." />
+    <string id="tRIrbTvv" text="Městských zločinců z temných uliček" />
+    <string id="TRwgSLD2" text="sbíral byliny v divočině." />
+    <string id="tTb28jyU" text="Mnoho Battanů bojovalo jako kernové, všestranní vojáci, kteří mohli jak obtěžovat nepřátelskou linii svými oštěpy, tak se zapojit do závěrečného křiklavého útoku, jakmile oslabila." />
+    <string id="tTLvo8sM" text="Klanová úroveň" />
+    <string id="tTuaiLS6" text="Meritor" />
+    <string id="TTWL7RLe" text="Kuše" />
+    <string id="tVyuxl8e" text="Otrhané roucho" />
+    <string id="tWDyWroN" text="Amnon" />
+    <string id="tWfAPrPa" text="Poštovní jezdecké boty" />
+    <string id="TwuAVsCn" text="Kožešinová čepice" />
+    <string id="TxAYmCjr" text="Nosní přilba s kůží" />
+    <string id="tXbRb3QO" text="Kožešinová zbroj s cvočky" />
+    <string id="tYmOCuuQ" text="Kruhová hrncová přilba přes kroužkovou čapku" />
+    <string id="u12ocP9f" text="Pro více informací podržte {EXTEND_KEY}." />
+    <string id="u1lTJoPO" text="Nemos" />
+    <string id="u1Pkt4HC" text="Nájezdníci" />
+    <string id="U4n0uSlg" text="Těsný šátek na hlavu" />
+    <string id="U7er3V9s" text="Předměty" />
+    <string id="U8QfF3Gw" text="Dlouhá vlněná tunika" />
+    <string id="Ua6CNLBZ" text="Vesnice" />
+    <string id="UaN2lfwi" text="Zbrojíř" />
+    <string id="UB4sqrWx" text="Matka" />
+    <string id="UC2XfY7V" text="Látková kapuce" />
+    <string id="uCyAnus4" text="Zostios" />
+    <string id="ud6rhXbn" text="Mostiros" />
+    <string id="uDlnsFIF" text="Urik" />
+    <string id="uducgNbf" text="Chaghan" />
+    <string id="uEcbnd5D" text="Kulatý štít" />
+    <string id="ueCm5y1C" text="Vaše rodina vlastnila ve městě vlastní dílnu, kde vyráběla zboží ze surovin dovážených z venkova. Tvůj otec hrál aktivní, i když nevelkou roli v městské radě a také sloužil v domobraně." />
+    <string id="uEPRE33m" text="Hrubé vázané nárameníky" />
+    <string id="ufnnUxKb" text="Kůže{@Plural}brašny z kůže{\@}" />
+    <string id="ugJfuabA" text="Koňský lučištník" />
+    <string id="uGM8DWrm" text="Jízda na koni" />
+    <string id="Uh057UUb" text="Puluc" />
+    <string id="UI0q8rWw" text="Dobytek" />
+    <string id="UjL7jVYF" text="Morálka" />
+    <string id="uLjRHv9p" text="Nadea" />
+    <string id="uLpnmNkZ" text="Kožená čepice" />
+    <string id="un7poy9x" text="Náhled" />
+    <string id="unaWKloT" text="Zvýšené poškození při boji zblízka" />
+    <string id="UoHZGyZa" text="Přilba s chráničem obličeje" />
+    <string id="UPaP0B2L" text="Alchyla" />
+    <string id="uQgNPJnc" text="Správa jednotek" />
+    <string id="uqO6e6vN" text="Štít draka" />
+    <string id="URgZ4ai4" text="Vaše rodina byla středně postaveným členem jednoho z klanů Khuzaitů. Měl několik vlastních stád, ale nebyl bohatý. Když byla horda Khuzaitů povolána do bitvy, bojoval s koňskými lučištníky, střílel, kroužil a vyčerpával nepřítele, než mu kopiníci zasadili poslední úder." />
+    <string id="urUwa4bf" text="Lupič" />
+    <string id="uTFjknE2" text="Andros" />
+    <string id="uUGAMReu" text="Jemné městské boty" />
+    <string id="uvjOVy5P" text="Mrtvých" />
+    <string id="UvOa4elc" text="Zelená kápě" />
+    <string id="uW38UtSH" text="Eupitor" />
+    <string id="UxAl9iyi" text="Osobní" />
+    <string id="uYjEknNX" text="Poprava {VICTIM.NAME} ze strany {EXECUTER.NAME}" />
+    <string id="uZhHh7pm" text="Vyrobeno {CURR_TEMPLATE_NAME}" />
+    <string id="V1QLbhRl" text="Sora" />
+    <string id="v48N6h1t" text="Městských řemeslníků" />
+    <string id="v4THTk5O" text="Kaftan s koženým páskem" />
+    <string id="V8BXjyYq" text="Vyřazeno z provozu během instalace." />
+    <string id="vAKB54zO" text="Arwa" />
+    <string id="VaqBBaQu" text="Krátká tunika s kožešinovým lemem" />
+    <string id="vaUlAZba" text="Váš klan je nyní ve válce s {QUEST_GIVER.LINK}. Vaše dohoda s {QUEST_GIVER.LINK} byla zrušena." />
+    <string id="VbAHQ1BS" text="Dlouhý kožešinový kabát" />
+    <string id="vBkrw5VV" text="Náhodný" />
+    <string id="VbL6GFmy" text="Máslo{@Plural}hroudy másla{\@}" />
+    <string id="vbPBXiPC" text="Bohatá tunika" />
+    <string id="VcbEaV7T" text="Hrncová přilba přes prošívaný čepec" />
+    <string id="vCywYDmp" text="Lehká vycpaná zbroj" />
+    <string id="VDMkVMxt" text="Kovové rukavice" />
+    <string id="vEsKYrFR" text="Aldric" />
+    <string id="vfhVveLW" text="Šamanů" />
+    <string id="VG9ng2n2" text="Chandion" />
+    <string id="vgBRa2BE" text="Poraclys" />
+    <string id="vGF5S2hE" text="Žebříček" />
+    <string id="vH7GtuuK" text="práce ve stájích." />
+    <string id="VhbasI9J" text="Castor" />
+    <string id="vimhFdZp" text="Těžká nosní přilba přes kůži" />
+    <string id="ViYdZUbQ" text="Rozpustit armádu" />
+    <string id="vJOWy1QF" text="Khuzaitové" />
+    <string id="VkRIefyW" text="Luxusní šupinová zbroj" />
+    <string id="vl2tgsKa" text="Urkhun" />
+    <string id="vLjgcdgB" text="Sníh" />
+    <string id="VlXOgIX6" text="jel se zvědy." />
+    <string id="vmMqs3Ck" text="Vznešený" />
+    <string id="VN4ctHIU" text="Koupit produkty" />
+    <string id="vOgACpuD" text="Společníci" />
+    <string id="VQSdhQE3" text="Těžká šupinová zbroj na kroužkovou  halenu" />
+    <string id="Vqu67a3b" text="Surové hedvábí{@Plural}šrouby z hedvábí{\@}" />
+    <string id="vsavMoLZ" text="Segmentový Cervelliere přes prošívaný čepec" />
+    <string id="VSMpadvq" text="Kožešinová zbroj" />
+    <string id="vvabqi2w" text="Karavana" />
+    <string id="vW6kBki9" text="Tvůj klan je nyní ve válce s říší {QUEST_GIVER.LINK}. Vaše dohoda s {QUEST_GIVER.LINK} je zrušena." />
+    <string id="Vxt0xTvV" text="Mavea" />
+    <string id="VylHwqVq" text="Segmentovaná přilba přes šněrovací čapku" />
+    <string id="VzhbUL60" text="Vendelia" />
+    <string id="W0agPHes" text="Snížení morálky o {BONUS_AMOUNT}% v důsledku ztrát vojáků ve vaší formaci." />
+    <string id="W1uwgvAQ" text="Arion" />
+    <string id="w2TEQq26" text="Vždy jsi byl pozorný k ostatním lidem, dobře jsi odhadoval jejich motivace. Studoval jsi, jak se jednotlivci nechají ovlivnit, a to, co ses naučil od dospělých, jsi zkoušel na svých přátelích." />
+    <string id="W2WXkiAh" text="Zprostředkovatel výkupného" />
+    <string id="w4RuDABQ" text="Plášť z destiček" />
+    <string id="W58TN2g5" text="Varyagova tunika" />
+    <string id="W73My5KO" text="Smrt" />
+    <string id="w9m11T1y" text="Mapa" />
+    <string id="WahziEXA" text="Kožené boty s omotávkou" />
+    <string id="wBfGpcCO" text="Hrncová čapka přes prošívaný čepec" />
+    <string id="WbHfGCbd" text="přežití obléhání." />
+    <string id="wbJzSg3X" text="Ulbesos" />
+    <string id="wbLqHvjE" text="Zerosica" />
+    <string id="WchH8bS2" text="Tvá rodina byla středně postaveným členem battanského klanu, který obdělával vlastní půdu. Tvůj otec bojoval s kernem, hlavním oddílem bojovníků svého lidu, a přidával se ke křiklavým výpadům, jimiž byli Battánci proslulí." />
+    <string id="wE7RWmIF" text="Kožený plášť z kančí kůže" />
+    <string id="wEfZyccm" text="Plná přilba přes šněrovací čapku" />
+    <string id="wErSpkjy" text="Stále na tom pracuji." />
+    <string id="WEUSMkCp" text="Jezdecká lukostřelba" />
+    <string id="WfAuSpJq" text="Eutos" />
+    <string id="wfbtS71d" text="vedení karavany." />
+    <string id="wG582fzT" text="Cervelliere přes polstrovanou čepici" />
+    <string id="whvMZZba" text="Chráněné polstrované nárameníky" />
+    <string id="WiNRdfsm" text="Hotovo" />
+    <string id="wKucIANJ" text="Kožený plášť přes plátěný" />
+    <string id="WLJOnehi" text="Vyztužená silná tunika" />
+    <string id="wlKtDR2z" text="Děkuji, {?PLAYER.GENDER}moje paní{?}sire{\?}." />
+    <string id="wltdyF2j" text="Lovecký luk" />
+    <string id="WMqHlEvb" text="Segmentovaný cervelliere přes kroužkovou čapku" />
+    <string id="wNUcqcJP" text="Jméno klanu" />
+    <string id="WOKNhaG2" text="Tvůj rod byl strážcem posvátných tradic Khuzaitů, kteří usměrňovali duchy divočiny a předků. Ošetřovali nemocné a rozdávali moudrost, řešili spory a poskytovali praktické rady." />
+    <string id="wQY1oqdK" text="Hřebenová zdobená ocelová čepice s chrániči tváří" />
+    <string id="WrAMfIG1" text="Phenoria" />
+    <string id="wrbea2oa" text="Šípy" />
+    <string id="WrwO8xsN" text="Prošívaná kožená ramena" />
+    <string id="WSk5Sibs" text="Sýr{@Plural}sudy se sýrem{\@}" />
+    <string id="wSUN0Dmo" text="Atrapa Max Armor" />
+    <string id="WTCIOhvV" text="Nuqar" />
+    <string id="WtEoXblx" text="Rytíř" />
+    <string id="WTePYMNF" text="Zaraclys" />
+    <string id="WUArer5A" text="Otevřený polstrovaný plášť" />
+    <string id="WvDZMmaj" text="Nomádská přilba" />
+    <string id="WVqaRKUm" text="Vlna{@Plural}spousta vlny{\@}" />
+    <string id="wWqavjat" text="Lehká dlouhá polstrovaná zbroj" />
+    <string id="WXAaWZVf" text="Předchozí" />
+    <string id="WYFDXE82" text="Velký kulatý štít" />
+    <string id="WYvnWcXQ" text="Jako všechny vesnické děti jsi pomáhal na poli. Také jsi..." />
+    <string id="WYytQbvS" text="Plná přilba přes zbrojní plášť" />
+    <string id="WyZ2UtFF" text="Tvá rodina neměla v oblibě autoritu bojarů. Živili se hluboko v lesích, kosili a vypalovali pole, o která se rok nebo dva starali, než se přestěhovali. Lovili a chytali lišky, zajíce, hraboše a další kožešinová zvířata." />
+    <string id="x1HTX5hq" text="záchrana tvé vesnice před povodní." />
+    <string id="x1kf94SW" text="Hřebenová přilba" />
+    <string id="X1Wn0sBa" text="Kožená přilba s cvočky přes hrubou šupinu" />
+    <string id="X21PahQn" text="Menaclys" />
+    <string id="X3gcUz7C" text="Ráno" />
+    <string id="x3lcf2Do" text="Luxusní lamelová vesta přes kůži" />
+    <string id="xa7KRSCy" text="Prošívaná kožená vesta" />
+    <string id="xC3kCGte" text="Dhiyul" />
+    <string id="XCz81XYm" text="Vstupy" />
+    <string id="XDAQgjpH" text="Simir" />
+    <string id="xebFLnH2" text="Zvuk" />
+    <string id="XgFU1pCx" text="Narodili jste se do rodiny..." />
+    <string id="xgO3cCgR" text="Přetížený" />
+    <string id="XGX6DbFL" text="Rukavice z lamelových destiček" />
+    <string id="XGytILlt" text="Střelivo Grapeshot " />
+    <string id="XH9f3yOX" text="Kožešinová vesta přes tuniku" />
+    <string id="xILeUbY3" text="Panel správce" />
+    <string id="XiwTesky" text="Hedvábný kaftan" />
+    <string id="xj0MgUO0" text="Zločin" />
+    <string id="XjMsnpgS" text="Tulag" />
+    <string id="XjT8S4ng" text="V blízkosti {SETTLEMENT_NAME}" />
+    <string id="XkL1Re8b" text="Kožený kabát s cvočky" />
+    <string id="xKXcqRJI" text="investice peněz do pozemků." />
+    <string id="XKxeaF0I" text="Dalidos" />
+    <string id="XMTD2clw" text="Rhoe" />
+    <string id="XmvaRfLM" text="{PLAYER_FATHER.NAME} byl otcem {PLAYER.LINK}. Byl zabit, když nájezdníci přepadli hostinec, ve kterém jeho rodina přebývala." />
+    <string id="xnDWqYKW" text="Lovec" />
+    <string id="Xnngcfg9" text="Sein" />
+    <string id="xnoAJwoy" text="Plná přilba přes prošívaný čepec" />
+    <string id="XNQPPIaA" text="Pěchotní plášť přes koženou bundu" />
+    <string id="xORjDTal" text="investice peněz do dílny." />
+    <string id="Xqba1Obq" text="Nomádů" />
+    <string id="XqcD0WEu" text="Asta" />
+    <string id="xQUi0F0k" text="Pruhovaný plášť" />
+    <string id="Xrb43Fv4" text="Bronzové nárameníky" />
+    <string id="XseYJYka" text="Správa" />
+    <string id="xsu6bPTv" text="Len{@Plural}pytle lnu{\@}" />
+    <string id="XU9WgcIO" text="Vyztužená semišová zbroj" />
+    <string id="XuwQvSDo" text="Kruhová železná hrncová přilba přes kroužkovou čapku" />
+    <string id="xVSOKf0p" text="Chara" />
+    <string id="xXSFaGW8" text="Rozpusťte" />
+    <string id="XZxIpCQH" text="Phorys" />
+    <string id="y1YTxkmn" text="Ramenní postroj" />
+    <string id="y3CwqUDR" text="Košile z horské pošty" />
+    <string id="y3oIzUEp" text="Tunika s ramenními vycpávkami" />
+    <string id="Y3UcaX74" text="tvým nadáním pro čísla." />
+    <string id="Y4LhmAdi" text="Jistě, šéfe. Jen do toho." />
+    <string id="y6j1bJTH" text="Vyučil ses u místního kováře. Učil ses, jak rozžhavit a ukovat kov, hodiny jsi tloukl kladivem, až tě bolely svaly." />
+    <string id="Y94H6XnK" text="Přijměte" />
+    <string id="Y9egTJg0" text="Denní změna" />
+    <string id="yAZC6F7P" text="Ecsorios" />
+    <string id="YBGCXSEx" text="Debana" />
+    <string id="yCEMiKjB" text="Vyber {SELECTION}" />
+    <string id="YcnK0Thk" text="Lovců" />
+    <string id="YDibTDob" text="Vysokohorská korunovaná přilba" />
+    <string id="yDykmlS7" text="Tartanová tóga" />
+    <string id="YDYnuBmC" text="Více hráčů" />
+    <string id="yfa7tpbK" text="Vše" />
+    <string id="yG3YUySN" text="Západní říše" />
+    <string id="ygfhbfr0" text="Špičatá přilba s hroty" />
+    <string id="YGQ6UXCo" text="Horský lovecký luk" />
+    <string id="Yh7Dorsr" text="Pruhovaný kožený postroj" />
+    <string id="YifFZaG7" text="Majitel družiny" />
+    <string id="YJaNtktT" text="Rekrutovat všechny" />
+    <string id="YKzuGc54" text="Byl jsi velký a ostatní děti se dívaly, aby tě měly po ruce při každém šrotu s dětmi ze sousední vesnice. Tlačil jsi pluh a házel sekerou jako dospělý." />
+    <string id="yMi4ijgI" text="Kočovná vycpaná kapuce" />
+    <string id="YNkPy4ta" text="Klanová shoda" />
+    <string id="yNMrF2QF" text="Jsi zraněný" />
+    <string id="yNSLGTYc" text="Erta" />
+    <string id="YO0x7ZAo" text="Věrnost" />
+    <string id="YQd9C8u2" text="Hrncová přilba přes polstrovanou čapku " />
+    <string id="YqhOxb1Z" text="Přilba s lamelovým opeřením" />
+    <string id="Yqm0Dics" text="dobré chováním k lidem." />
+    <string id="yQTBY9ie" text="Šperk{@Plural}šperky{\@}" />
+    <string id="yQtzabbe" text="Zavřít" />
+    <string id="yRFSzSDZ" text="Vaše rodina žila ve vesnici, ale nevlastnila vlastní půdu. Místo toho si tvůj otec doplňoval placenou práci dlouhými výpravami do lesů, lovem a odchytem, přičemž se vždy měl na pozoru před panskými strážci zvěře." />
+    <string id="yS7PvrTD" text="OK" />
+    <string id="yTWOMSmv" text="Konopná tunika" />
+    <string id="YuLLsAUb" text="Nemáš {GOLD_AMOUNT}{GOLD_ICON}." />
+    <string id="YUoydtNS" text="Yana" />
+    <string id="YVGtcLHF" text="Kavalerie" />
+    <string id="Yvk8a2tb" text="Práce nohou" />
+    <string id="YxglkaXU" text="Bílý tabard na kroužkovou  halenu" />
+    <string id="yYhX6JQC" text="Tvůj otec se přidal k jedné z mnoha vlandijských žoldnéřských společností, složených z mužů, kteří ve službách svého pána dostali takovou chuť do války, že nikdy nepřijali mír. Jejich střelci z kuší byli v celé Kalrádii velmi ceněni. Tvá matka byla stoupenkyní tábora a brala tě s sebou na krvavá tažení." />
+    <string id="Z2xgnrDa" text="{BONUS_AMOUNT}% poškození útokem jízdy ve tvé formaci." />
+    <string id="Z6Ak3H6G" text="Jereed" />
+    <string id="z6eTba5h" text="Těžká nosní přilba přes tkaný čepec" />
+    <string id="z7oMeRl3" text="Silná brigadýrka" />
+    <string id="Z9RlnXrD" text="Kožešinová sukně" />
+    <string id="ZAGR6PYc" text="Když v zadní uličce vypukl náhlý požár, potřebovali tvoji sousedé rychle uvažující vedení a ty jsi jim ho poskytl. Zorganizoval jsi vedení s vědry k nejbližší studni a uhasil požár dřív, než přišly o střechu nad hlavou nějaké domy." />
+    <string id="zAvb7WKe" text="Segmentová přilba přes polstrovanou čapku " />
+    <string id="zBRB0P5M" text="Uzavřená zdobená přilba s brýlemi" />
+    <string id="zbsajPMp" text="Voulge" />
+    <string id="ZbsGBv10" text="Vepř" />
+    <string id="zCQaPTOK" text="Žoldák" />
+    <string id="zEoHYEUS" text="Počkej nějaký čas" />
+    <string id="ZeU1fvdz" text="Hromada grapeshotů" />
+    <string id="zfCoeglY" text="Hudebník" />
+    <string id="ZFETxZKP" text="Keffiyeh s hedvábnou kapelou" />
+    <string id="ZFlIT1tH" text="Ganimynos" />
+    <string id="zfUhnG7y" text="Themestios" />
+    <string id="ZFwKlHIJ" text="Lesní dlouhý luk" />
+    <string id="zGXZJFOb" text="Lamelář se šupinovou sukní" />
+    <string id="zInIqBD0" text="Arenicos" />
+    <string id="ZkaaXxeB" text="Isvan" />
+    <string id="zLdXCpne" text="Tržiště" />
+    <string id="Zm4a2xsf" text="Salusios" />
+    <string id="zMMqgxb1" text="Typ" />
+    <string id="ZmQx4gT3" text="Olichor" />
+    <string id="zpqP5LsC" text="Půjdu hned." />
+    <string id="ZqTFQeai" text="Kožená tunika" />
+    <string id="zQv3w264" text="Vycpaný poloplášť" />
+    <string id="ZRDoABz9" text="Přilba s kožešinovou podšívkou" />
+    <string id="zrpqSWSh" text="Svobodných farmářů" />
+    <string id="zsC2t5Hb" text="cvičil s královskou gardou." />
+    <string id="ZV1bKLUn" text="Hrncová přilba s kůží" />
+    <string id="Zwb65ufG" text="Hlína{@Plural}spousta hlíny{\@}" />
+    <string id="zWoj91XY" text="BaghChal" />
+    <string id="Zx4h7jDy" text="Atrapa minské zbroje" />
+    <string id="zxMOqlhs" text="Útok" />
+    <string id="zxZH2WbD" text="Zimena" />
+    <string id="zZ2G7uIO" text="Hrncová přilba přes kroužkovou čapku" />
+  </strings>
+</base>

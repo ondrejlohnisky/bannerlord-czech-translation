@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="2NR2E663" text="Palmový sad" />
+    <string id="3aOIY6wl" text="Solný důl" />
+    <string id="6WbkldyD" text="Dřevorubec" />
+    <string id="7dW5m6Xa" text="Ranč s dobytkem" />
+    <string id="BPPG2XF7" text="Pšeničná farma" />
+    <string id="dIBuwAhe" text="Továrna na koření" />
+    <string id="EBO1FIC9" text="Ovčí farma" />
+    <string id="ewrkbwI9" text="Olivovníky" />
+    <string id="hopZmzBi" text="Stepní stáj" />
+    <string id="hPq4vD4Z" text="Zastávka projektu" />
+    <string id="NWUTYDQ0" text="Chrám" />
+    <string id="OSron4OZ" text="Rybářství" />
+    <string id="pYY1UNgS" text="Hliněná jáma" />
+    <string id="rHcVKSbA" text="Železný důl" />
+    <string id="vPt1OF30" text="Pouštní stáj" />
+    <string id="Xj8gsFrW" text="Továrna na hedvábí" />
+    <string id="Z8ntYx0Y" text="Lněné pole" />
+    <string id="ZtxWTS9V" text="Vinice" />
+    <string id="zzQdNpXw" text="Stáj" />
+  </strings>
+</base>

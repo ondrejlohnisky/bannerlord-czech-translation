@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="0cZmKO76" text="Město známé dnes jako Charas je tradičně považováno za první kalradskou kolonii na pobřeží jejich nového kontinentu. V době největšího rozkvětu říše, kdy se hlavní město přestěhovalo na sever do Paravenosu, zůstala Charasea klíčovým centrem námořního obchodu, zatímco císařští aristokraté si stavěli letní sídla na teplých březích nedalekého zálivu a na svých výletních lodích se plavili po jeho ostrovech. Když přišli Vlandiané, Charasea padla do rukou bezohledného rodu dey Cortainů a její bohatství financovalo jejich ambice." />
+    <string id="1ImuW3My" text="Quyaz byl kdysi obchodní republikou, která dominovala obchodu mezi Západním oceánem a Perským mořem a mluvila dnes již téměř vymizelým jazykem kannic, příbuzným nahasavštině. Císařská hegemonie však její obchod pomalu utlumila a vlády se ujali žoldnéři z Nahasie. S přestávkami se dostávalo do císařského područí, ale dnes je ceněným panstvím Banu Hulyan, předního klanu aserského sultanátu." />
+    <string id="1SnAH5K8" text="Rovalatys v horách poloostrova Ebor nikdy nebyl plně císařským městem. Severští přistěhovalci, které do oblasti přilákaly zvěsti o bohatství, jež se dalo získat při hledání stříbra nebo lovu kožešin, dlouho převyšovali počet Kalradianů, a to i před invazí Vlandianů. I Vlandiané si uvědomili jeho potenciál a navzdory krutým zimám patří tato země k nejlidnatějším oblastem království, kde úrodná pole v údolích hor živí neustálý příliv osadníků z jihu, které sem přitahuje touha po bohatství." />
+    <string id="4ENGzVaC" text="Příběh Sarpea z Oniry je jednou z epických básní o východní hranici. Stejně jako mnohé jiné se zdá, že byla napsána, aby ospravedlnila dobytí říše. Sarpea, dcera senátora, byla zajata palackým náčelníkem a odvedena do jeho citadely. Když se před jejími hradbami po letech objevila císařská vojska, aby ji zachránila, prosila je, aby ustoupili kvůli jejímu malému synovi, kterému její strašlivý manžel hrozil, že ho shodí z hradeb, místo aby ho nechal zajmout a vychovat lidem jeho matky. Legie se stáhly, jak praví příběh, ale z chlapce vyrostl bojovník, který se přidal k císařství a zabil svého otce. Nyní je centrem chovu koní na východních pláních." />
+    <string id="4OAz8urz" text="Pen Cannoc leží na ostrohu s výhledem na řeku Trand, která se z Uchalionské plošiny noří do Vlandianské nížiny. Legendy vyprávějí o vodních nymfách, které žijí v temných tůních pod skálou a lákají pocestné a útočníky na smrt, s výjimkou vzácných případů, kdy se zamilují do hrdiny a darují mu vítězství a požehnání. Zdejší rybáři se jistě naučili respektovat nebezpečí horního Trandu, kde stačí malý chybný krok na kluzkém kameni a člověk může spadnout ze srázu do vod pod sebou." />
+    <string id="4UNOQQRa" text="Město, které Khuzaité znají jako Akkalat, Bílou pevnost, postavil obávaný pádišáh Hoštar při jednom ze svých pravidelných pokusů o dobytí Devsegu. Posvátný plamen, který po celá desetiletí hořel z vrcholu citadely, symbolizoval jeho svrchovanost nad zdejšími kmeny. Pádišáhova říše je však stejně jako říše v defenzivě a stáhla se na východ. Dnes na jejím místě vlají chánovy přesličkové prapory." />
+    <string id="5SpYVtie" text="Rhotae je bývalé palácové hradiště ve stínu čedičové desky hory Erithrys, kdysi známé jako Rotash. Říši připadlo krátce po Lagetě. Zdejší palaistický náčelník, když se dozvěděl, co se stalo jeho sousedovi, povraždil tucet císařských občanů pod svou ochranou. Excentrický dlouhovlasý generál Sarapios vedl trestnou kolonu, která Rotaš dobyla a vypálila. Lagetu jsme dobyli zrádně, ale s malým krveprolitím. Rotaš jsme dobyli čestně, ale s velkým krveprolitím, řekl údajně později. Obojí si budeme pamatovat jako skvrnu na našem jménu. Vítěz vždycky nese vinu, ale zlato si nechává." />
+    <string id="66Mzk0NZ" text="Thicket" />
+    <string id="79R6gi4l" text="Galend má výhled na vlnami bičované biskajské pobřeží. Přijímá úlovky neohrožených biscanských rybářů, kteří se vydávají daleko do západního oceánu, stejně jako vlnu ovcí ze zelených mlhou zahalených kopců. Současná linie vlandiánských králů pochází z klanů, které se v tomto kraji usadily během invaze Osrica Železné ruky." />
+    <string id="8dDNWHR4" text="Ústup" />
+    <string id="8UJ3cPrZ" text="Myzea dává jméno Myzeiadu, bohaté pahorkatině ve východní části centrální říše. Tato oblast je starým působištěm senátora Lita, který sem relativně mírumilovně přivedl palaistické kmeny do říše tím, že jim nabídl ochranu před nájezdníky ze stepí. Když se však dostal do křížku se svými rivaly v senátu, pokusil se je zorganizovat do konkurenční barbarské republiky po vzoru starověké kalradské verze. Císařství ji zlikvidovalo, ale zdejší lidé, nyní již důkladně kalradicizovaní, stále chovají náklonnost ke starému republikánskému systému a jeho partyzánům." />
+    <string id="a0MVffcN" text="Backstreet" />
+    <string id="aOn6pa0D" text="Sargot je běžné označení pro kopce, výběžky, ostrovy a další obranyschopné pozice v západní Kalradii. Označuje opevněný tábor Massa, kmene spojeného s Vlandiány, který se připojil k jejich invazi.  Ačkoli se Massaové přesunuli dál, jejich pobyt byl pro oblast často tak traumatizující, že název zůstal dlouho po jejich odchodu. Tento Sargot byl ve skutečnosti založen na troskách císařského města, které přesídlili Vlandiáni a které vytěsnilo vzpomínku na komunitu, jež tu byla před ním." />
+    <string id="aTMypBiY" text="Varnovapol, který leží pod pohořím Chertyg u křišťálových vod jezera Laconis, má tu pochybnou čest, že je snad nejčastěji dobývaným městem v Kalradii. Původně bylo kolonií císařství, nechvalně proslulo jako místo vyhnanství disidentských senátorů, než se ho zmocnili Nordové jako základny pro rozšíření svého vlivu na sturgiánský obchod s kožešinami. Z východních stepí se ho zmocnil kmen Alkitů a krátce sloužilo jako hlavní město malého chanátu, než nakonec připadlo nelítostnému klanu Ormidovingů." />
+    <string id="bnl7Va4c" text="Husn Fulq leží na jihovýchodním okraji Caldey, sítě řek a brakických lagun spojujících říši s aserskými zeměmi. Fulq, známý také jako Phalcos, byl náčelník žoldnéřů s temnou tváří, který přišel ze zemí daleko na jihu. Založil zde pevnost, jejíž strategickou polohu pak proměnil v bohatství a bral úplatky od Říše a pak od Aserů, aby změnil stranu. Po dvaceti letech hraní na obě strany tam a zpět odplul domů na lodi obtěžkané zlatem, ale mnoho aserských klanů se hrdě hlásí k jeho původu a Fulqovy triky jsou základem repertoáru mnoha bazarových vypravěčů." />
+    <string id="bPDqyqkb" text="Makeb leží na severním cípu jezera Tanaesis, stepním jazykem Tanaz. Střeží zde katarakt, přes který se do jezera vlévá řeka Karakaz. Město je odedávna pod vládou drobných chánů a šáhů, kteří vybírají mýtné od obchodníků, kteří jsou nuceni táhnout své čluny kolem peřejí. Poslední z těchto vládců byl sťat samotným Urchunem poté, co odmítl požadovat daň, načež se města zmocnil vládnoucí rod Chuzaitů." />
+    <string id="Dxnj5JQE" text="Ortongard leží v suchém středu náhorní plošiny Devseg, která je po většinu roku suchá, ale na jaře nabízí bohatou pastvu. Založili ho daršijsky mluvící obchodníci, kteří zbohatli na nákupu koní, ovcí a dobytka z okolních pasteveckých vesnic a posílali je na západ na trhy říše v obrovských vozech, doprovázených strážemi, aby odradili nájezdníky ze stepí. Ani jeho hradby, ani žoldnéřské armády však nedokázaly odolat příchodu chána Urchuna, kterého udělil klanu Khergitů jako uznání za jejich statečnost." />
+    <string id="Eb7Lgq10" text="Ostican byl menší císařský přístav, který se stal útočištěm mořeplavců ze severních oceánů. Mnozí z nich byli nadaní korzáři, které císařské frakce zaměstnávaly, aby sužovali jejich nepřátele během občasných občanských válek v říši. Někteří z prvních Vlandianů, kteří připluli ke kalradským břehům, se skutečně usadili v zadních uličkách tohoto města a nepochybně poslali svým příbuzným zprávu o bohatství, které se zde dá získat, kdyby někdo vážně zaútočil." />
+    <string id="EJZLzhJk" text="Saneopa leží v nízkém průsmyku vedoucím z údolí Nevys na sever k tůni Ophthys. Starověké palaistické národy této oblasti, stejně jako Battaniané, považovaly jezera za posvátná místa a zejména o Ophthys se říkalo, že je to brána do jiného světa. Hluk a ruch Saneopy, jednoho z hlavních obchodních center vnitrozemské Kalradie, ostře kontrastuje s temnými a tichými vodami pod nimi." />
+    <string id="F5HlQdgf" text="Tyal leží na západním úpatí hory Iltan, na východních hranicích sturgiánských zemí. Tento region stál dlouho stranou mocenských bojů ostatních sturgiánských knížectví. Jeho obyvatelé jsou známí jako poutníci, obchodníci, chovatelé koní a lovci kožešin. Místní šlechta si občas vyměňuje princezny se stepními kmeny na východě, aby upevnila příměří nebo obchodní dohodu, a na seznamu svých předků hrdě uvádí jména několika velkých chánů." />
+    <string id="fOUsLdZR" text="Pastviny" />
+    <string id="GChIoZdd" text="Askar dominuje středním úsekům řeky Damar, která se proplétá mezi srázy Džardžarského úvalu. Tato oblast je hustě osídlena již tisíce let, ale řeka je neklidná a každých několik století vyrazí ze svých břehů a vymaže, co bylo předtím. Toto poslední regionální hlavní město bylo císařským táborem během jejich nejzazšího pronikání do Nahasy před několika staletími, které po odchodu legií převzaly aserské kmeny." />
+    <string id="i2VkRLBg" text="Bývalá severská kolonie Varcheg leží na větrem ošlehaném mořském útesu na úpatí poloostrova Kachyar v místě, které kdysi bývalo battánskou zemí. Jarl, který tuto pobřežní výspu založil v naději, že bude moci obchodovat s vnitrozemím, se zavázal věrností battanskému velekráli Dernmachadovi, ale pak se začal angažovat v battanské politice. Dernmachad byl naštvaný a najal si sturgiánskou armádu, aby jeho nespolehlivého vazala rozdrtila. Sturgiani mu vyhověli a seveřany porazili, ale pak požadovali nově dobyté město jako odměnu. Město nazvali Varcheg, což je zkomolený severský výraz pro přísežného společníka, aby se vysmáli oběma soupeřům, jejichž hádky jim vynesly kořist." />
+    <string id="IIMWPVhU" text="Říká se, že vnitrozemské město Hubyar bylo postaveno na troskách přepychového loveckého zámečku, který vybudoval dekadentní a krutý král Thuran, jehož patriarcha Asera zabil z pomsty za zotročení své rodiny. Tato vzpomínka může vysvětlovat světonázor krutých a přísných Banu Qildů, kteří dnes hrad drží a kteří nesnášejí jakoukoli lehkomyslnost. Vůně jasmínu, která je zde cítit v nočním vánku, však v sobě nese spodní proud pokušení. Právě tady přišel k zármutku hrdina Nimr, který byl chycen v komnatě dívky Banu Qild a nechán viset v kleci na trhu, dokud nezahynul." />
+    <string id="iXA5SttU" text="Bažina" />
+    <string id="J4bgNT0r" text="Legendární královna Eshora prý potrestala džinisty, kteří obtěžovali její lid, tím, že je uvěznila v jedné z jeskyní nad Qasirou a vytesala do skály mystickou osmicípou hvězdu, aby je tam uzavřela. Odsoudila je k tomu, aby z hlubin země tahali vodu a napájeli prameny, které tryskají ze skal a po staletí zavlažují datlové zahrady v Qasíře a okolních vesnicích." />
+    <string id="JhBSnWAe" text="Ortysia, pojmenovaná podle křepelek, které obývají nedaleké pobřežní bažiny, byla první kalradskou kolonií na březích Perského moře. V prvních staletích svého vzniku spadala pod správu kannského městského státu Kváz, ale expanze říše brzy spojila kolonii s mateřskou republikou. Po staletí námořníci připlouvající z piráty zamořených ostrovů v Charaském zálivu děkovali, když spatřili jeho věže rýsující se v oparu západního Perasu a signalizující návrat do bezpečných, císařem hlídaných vod." />
+    <string id="Jm2uZiwV" text="Marunath, Brodský kůň, není nikde poblíž řeky. Battanští bardi však nemají nic raději než nesourodé místní jméno, kolem něhož se dá utkat legenda. V tomto případě se hrdina Ochlaigan, kterému bylo předpovězeno, že porazí sedm synů Glanysových v sedmi soubojích u sedmi brodů, střetl s posledním ze svých nepřátel právě zde. Podřízl svému koni hrdlo a přejel přes potok krve, který vytryskl, porazil posledního nepřítele a naplnil proroctví." />
+    <string id="jXBnf2hQ" text="Říká se, že Razih je základnou, odkud se ve staletích před příchodem říše vydali kanničtí průzkumníci kolonizovat břehy Perského moře, přičemž přídě jejich lodí zdobily propletené vinné listy kannické bohyně bohatství, vína, lásky a války. Dnes je kanský jazyk nahrazen nahasavským nářečím a jejich náboženství je téměř zapomenuto, ale symbol žije dál a prý chrání ty, kdo riskují vše pro zisk nebo slávu." />
+    <string id="kghCLS9q" text="Zeonica leží u moře na úpatí iltarských kopců, v zemi vína, obilí a koní. Jméno dostala po paní Zeoně, jedné z mála žen, které vládly říši - ovšem spíše jako regentka svého syna než jako císařovna regnantka. Je známá pro Zeonin vítr, vichřici, která každé léto vane na sever přes Perské moře a přenáší spalující horko z pouště Nahasa na císařský jih. V ostatních ročních obdobích je zde mírné počasí, které poskytlo nejednomu básníkovi metaforu pro pomíjivost vášně." />
+    <string id="LqPJY4s9" text="Město Argoron leží v místě, kde se chladná, pomalu tekoucí řeka Nevys stéká s jezerem Laconis. Kdysi to byla země Laconiánů, kteří v říši viděli ochránce před bojovnějšími palaistickými národy. Vítali a mísili se s císařskými osadníky, jejich náčelníci vstoupili do senátu a jejich starý jazyk a zvyky zanikly." />
+    <string id="LWHIVshb" text="Vyčištění" />
+    <string id="n9WMUuSp" text="Epicrotea, Vševládce, byl pojmenován po výstředním dlouhovlasém vojenském géniovi Sarapiovi, který rozdrtil battanské vojsko a zajistil Impériu území na západ od jezera Laconis. Její věže s výhledem na řeku Miron byly často prvním pohledem seveřanů na úžasnou a strašlivou sílu na jihu." />
+    <string id="NFIYqaab" text="Iyakis leží v rozsedlině v Jarjarském srázu, kde lze zachycovat vody prudkých, ale krátkých pouštních dešťů a využívat je k zavlažování. Před několika generacemi to byla autonomní výspa říše známé jako Yachios, kterou ovládal klan Carasios. Před padesáti lety však viděli, že císařská nadvláda v jižních zemích je na zdi, a začali se mísit s kmeny Nahasů. Dnes, známí jako Qarazové, zaujímají svá místa v radách sultanátu jako kterýkoli jiný aserský rod." />
+    <string id="nhmBQIC4" text="Ocs Hall je jedno z mála měst ve Vlandiánském království, které bylo založeno po zabrání země Říši. Toto údolí bylo kdysi izolovaným útočištěm Battanů, jehož centrem byl Llyn Modris, jezero v sopečné kaldeře, o němž se říkalo, že je sídlem obra. Tuto zemi dobyl vlandiánský vojevůdce Oca, který také dal jméno nedalekému jezeru Ocspool. Battanské kmeny byly vyhnány do vnitrozemí a své legendy si vzaly s sebou." />
+    <string id="Nx0qK2g6" text="Paravenos byl druhou velkou kolonií založenou Calradiosem Velikým a brzy vystřídal Charaseu jako hlavní město Calradianů. Nakonec se těžiště říše přesunulo na východ, ale Paravenos si udržel prvenství jako hospodářské centrum Západu. Když Osric Železná paže napadl Vlandianské království, poznal, že Paravenos bude mnohem cennější jako sídlo moci než jen jako zdroj kořisti, a vyjednal s místními senátory jeho kapitulaci. Přešlo na kadetskou větev Osricova rodu, klan dey Tihr, a dnes je známé jako Pravend." />
+    <string id="pbHXtJ82" text="Omor leží na východním břehu jezera Laconis. Dlouho předtím, než se Sturgiani zformovali do knížectví, byl posvátným místem lesních kmenů, které uctívaly své bohy a předky v posvátných dubových hájích v blízkém lese. Dnes je obchodním centrem lovců kožešin a lesních dělníků, kteří se potulují irkarskou divočinou na východě, a prastarý klid lesů přehlušují zvuky směnného obchodu, pil a vykládání lodí u jezera." />
+    <string id="PPadNxa6" text="Sibir byl založen v temném údolí uprostřed pohoří Chertyg severskými obchodníky, kteří si přáli mít základnu pro nákup kožešin od místních vakkensky mluvících lesníků. Jak se ze sturgiánských kmenů stávala knížectví a volení náčelníci se měnili v bojary, kteří požadovali daně a práci, jak se patří, stal se tento region magnetem pro Sturgiany, kteří si příliš nepotrpěli na úctu. Dnes tomuto kraji vládne ambiciózní rod Isyarovingů, který však musí neustále vyvažovat svůj hlad po bohatství a mužích do válek s neochotou poddaných jim je poskytnout." />
+    <string id="QD3oaaNK" text="Car Banseth leží vysoko na útesech Ailty Druin. Když se za jasného dne podíváte na sever, přes území, které kdysi patřilo Battanům, ale nyní je v držení Sturgianů a Vlandianů, můžete vidět vody Varchegského zálivu. Říká se, že ti, kdo si zachovají víru, budou jednoho dne z této vyvýšeniny svědky lodí zmizelého velekrále Mona, který se vrátí, aby vysvobodil svůj lid od nepřátel. Dnes je však mnohem pravděpodobnější, že spatříme plachty severských dobrodruhů a žoldnéřů, kteří přicházejí na pomoc cizincům v jejich neúnavném tažení do battanské země." />
+    <string id="R6YJsK89" text="Jaculan leží v teplejších jižních končinách biskajského pobřeží, ve zvlněných kopcích známých svými olivovníky. Kdysi to bylo oblíbené letovisko císařské šlechty, která uprostřed dubových lesů lovila divočáky. Nezávislí rolníci tohoto regionu jsou známí svými heterodoxními názory. Lesní bratrstvo je jen posledním z řady povstání, která zde vypukla, někdy za pomoci aristokracie, která je považuje za nástroj, který může použít proti konkurenčním vlandianským rodům." />
+    <string id="rGXdJybe" text="Město Poros leží nedaleko severního pobřeží Perského moře. Teplé kopce v těchto končinách jsou vhodné pro chov ovcí a koní. Pastevci mají pověst pyšných a násilnických lidí, ale šlechtici z klanu Leonipardes, kteří vládnou této zemi, se snaží respektovat jejich autonomii. Šustění dobytka a krevní msta jsou zde běžné a říká se, že Leonipardové nikdy nezasáhnou, pokud je obě strany nevyzvou, ale když už se tak stane, jejich rozhodnutí se všichni podřídí." />
+    <string id="RL2vacqv" text="Phycaon leží v čele údolí Sethys, jedné z hlavních obilnářských oblastí centrální části říše. Kdysi bylo největším z palácových měst a jeho vůdci vedli ligu kmenů proti císařskému pronikání do regionu. Když se však vítězství císařství zdálo nevyhnutelné, uzavřeli mír. Obyvatelé, nyní důkladně kalradikalizovaní, mají pověst seriózních, vážených a obchodně smýšlejících lidí, spolehlivých, i když trochu bez humoru." />
+    <string id="Rr1cy5Sk" text="Nábřeží" />
+    <string id="rX8oGVvV" text="Pálijský náčelník Amitatys měl obzvlášť pochmurnou pověst, byl to tyran, který zabíjel nevinné, aby usmířil bohy podsvětí v naději, že mu udělí nesmrtelnost. Nevyhnutelně se dostal do konfliktu s císařstvím a během obléhání se při zemětřesení rozpadly jeho hradby a do města se dostaly císařské oddíly. Při následném plenění zemřelo více lidí, než kolik jich kdy tyran zabil, ale byla to válka a její výsledek - připisovaný hněvu nebes - se stal základem císařské propagandy při rozšiřování jejich pozice v regionu." />
+    <string id="Settlements.Settlement.name.castle_A1" text="Hrad Tubilis" />
+    <string id="Settlements.Settlement.name.castle_A2" text="Hrad Sahel" />
+    <string id="Settlements.Settlement.name.castle_A3" text="Hrad Ain Baliq" />
+    <string id="Settlements.Settlement.name.castle_A4" text="Hrad Medeni" />
+    <string id="Settlements.Settlement.name.castle_A5" text="Hrad Jamayeh" />
+    <string id="Settlements.Settlement.name.castle_A6" text="Hrad Shibal Zumr" />
+    <string id="Settlements.Settlement.name.castle_A7" text="Hrad Uqba" />
+    <string id="Settlements.Settlement.name.castle_A8" text="Hrad Tamnuh" />
+    <string id="Settlements.Settlement.name.castle_A9" text="Hrad Barihal" />
+    <string id="Settlements.Settlement.name.castle_B1" text="Hrad Ab Comer" />
+    <string id="Settlements.Settlement.name.castle_B2" text="Hrad Llanoc Hen" />
+    <string id="Settlements.Settlement.name.castle_B3" text="Hrad Druimmor" />
+    <string id="Settlements.Settlement.name.castle_B4" text="Hrad Pendraic" />
+    <string id="Settlements.Settlement.name.castle_B5" text="Hrad Rhemtoil" />
+    <string id="Settlements.Settlement.name.castle_B6" text="Hrad Flintolg" />
+    <string id="Settlements.Settlement.name.castle_B7" text="Hrad Aster" />
+    <string id="Settlements.Settlement.name.castle_B8" text="Hrad Uthelaim" />
+    <string id="Settlements.Settlement.name.castle_EN1" text="Hrad Varagos" />
+    <string id="Settlements.Settlement.name.castle_EN2" text="Hrad Lochana" />
+    <string id="Settlements.Settlement.name.castle_EN3" text="Hrad Rhesos" />
+    <string id="Settlements.Settlement.name.castle_EN4" text="Hrad Gaos" />
+    <string id="Settlements.Settlement.name.castle_EN5" text="Hrad Atrion" />
+    <string id="Settlements.Settlement.name.castle_EN7" text="Hrad Epinosa" />
+    <string id="Settlements.Settlement.name.castle_EN8" text="Hrad Syratos" />
+    <string id="Settlements.Settlement.name.castle_ES1" text="Hrad Odrysa" />
+    <string id="Settlements.Settlement.name.castle_ES2" text="Hrad Corenia" />
+    <string id="Settlements.Settlement.name.castle_ES3" text="Hrad Melion" />
+    <string id="Settlements.Settlement.name.castle_ES4" text="Hrad Lavenia" />
+    <string id="Settlements.Settlement.name.castle_ES5" text="Hrad Morenia" />
+    <string id="Settlements.Settlement.name.castle_ES6" text="Hrad Sestadaim" />
+    <string id="Settlements.Settlement.name.castle_ES7" text="Hrad Jogurys" />
+    <string id="Settlements.Settlement.name.castle_ES8" text="Hrad Chanopsis" />
+    <string id="Settlements.Settlement.name.castle_EW1" text="Hrad Garontor" />
+    <string id="Settlements.Settlement.name.castle_EW2" text="Hrad Thorios" />
+    <string id="Settlements.Settlement.name.castle_EW3" text="Hrad Onica" />
+    <string id="Settlements.Settlement.name.castle_EW4" text="Hrad Thractorae" />
+    <string id="Settlements.Settlement.name.castle_EW5" text="Hrad Veron" />
+    <string id="Settlements.Settlement.name.castle_EW6" text="Hrad Hertogea" />
+    <string id="Settlements.Settlement.name.castle_EW7" text="Hrad Oristocorys" />
+    <string id="Settlements.Settlement.name.castle_EW8" text="Hrad Gersegos" />
+    <string id="Settlements.Settlement.name.castle_K1" text="Hrad Usek" />
+    <string id="Settlements.Settlement.name.castle_K2" text="Hrad Akiser" />
+    <string id="Settlements.Settlement.name.castle_K3" text="Hrad Hakkun" />
+    <string id="Settlements.Settlement.name.castle_K4" text="Hrad Tepes" />
+    <string id="Settlements.Settlement.name.castle_K5" text="Hrad Khimli" />
+    <string id="Settlements.Settlement.name.castle_K6" text="Hrad Dinar" />
+    <string id="Settlements.Settlement.name.castle_K7" text="Hrad Simira" />
+    <string id="Settlements.Settlement.name.castle_K8" text="Hrad Erzenur" />
+    <string id="Settlements.Settlement.name.castle_K9" text="Hrad Kaysar" />
+    <string id="Settlements.Settlement.name.castle_S1" text="Hrad Ustokol" />
+    <string id="Settlements.Settlement.name.castle_S2" text="Hrad Mazhadan" />
+    <string id="Settlements.Settlement.name.castle_S3" text="Hrad Něvjansk" />
+    <string id="Settlements.Settlement.name.castle_S4" text="Hrad Kranirog" />
+    <string id="Settlements.Settlement.name.castle_S5" text="Hrad Ov" />
+    <string id="Settlements.Settlement.name.castle_S6" text="Hrad Takor" />
+    <string id="Settlements.Settlement.name.castle_S7" text="Hrad Urikskala" />
+    <string id="Settlements.Settlement.name.castle_S8" text="Hrad Vladiv" />
+    <string id="Settlements.Settlement.name.castle_V1" text="Hrad Usanc" />
+    <string id="Settlements.Settlement.name.castle_V2" text="Hrad Hongard" />
+    <string id="Settlements.Settlement.name.castle_V3" text="Hrad Drapand" />
+    <string id="Settlements.Settlement.name.castle_V4" text="Hrad Ormanfard" />
+    <string id="Settlements.Settlement.name.castle_V5" text="Hrad Tirby" />
+    <string id="Settlements.Settlement.name.castle_V6" text="Hrad Caleus" />
+    <string id="Settlements.Settlement.name.castle_V7" text="Hrad Talivel" />
+    <string id="Settlements.Settlement.name.castle_V8" text="Hrad Verecsand" />
+    <string id="Settlements.Settlement.name.castle_village_A1_1" text="Tubilis" />
+    <string id="Settlements.Settlement.name.castle_village_A1_2" text="Fanab" />
+    <string id="Settlements.Settlement.name.castle_village_A2_1" text="Sahel" />
+    <string id="Settlements.Settlement.name.castle_village_A2_2" text="Asmait" />
+    <string id="Settlements.Settlement.name.castle_village_A3_1" text="Ain Baliq" />
+    <string id="Settlements.Settlement.name.castle_village_A3_2" text="Deir Hawa" />
+    <string id="Settlements.Settlement.name.castle_village_A4_1" text="Medeni" />
+    <string id="Settlements.Settlement.name.castle_village_A4_2" text="Qidnar" />
+    <string id="Settlements.Settlement.name.castle_village_A5_1" text="Jamayeh" />
+    <string id="Settlements.Settlement.name.castle_village_A5_2" text="Hunab" />
+    <string id="Settlements.Settlement.name.castle_village_A6_1" text="Šibal Zumr" />
+    <string id="Settlements.Settlement.name.castle_village_A6_2" text="Lamesa" />
+    <string id="Settlements.Settlement.name.castle_village_A7_1" text="Uqba" />
+    <string id="Settlements.Settlement.name.castle_village_A7_2" text="Bunqaz" />
+    <string id="Settlements.Settlement.name.castle_village_A8_1" text="Tamnuh" />
+    <string id="Settlements.Settlement.name.castle_village_A8_2" text="Kuqa" />
+    <string id="Settlements.Settlement.name.castle_village_A9_1" text="Barihal" />
+    <string id="Settlements.Settlement.name.castle_village_A9_2" text="Wadar" />
+    <string id="Settlements.Settlement.name.castle_village_B1_1" text="Ab Comer" />
+    <string id="Settlements.Settlement.name.castle_village_B1_2" text="Inveth" />
+    <string id="Settlements.Settlement.name.castle_village_B2_1" text="Llanoc Hen" />
+    <string id="Settlements.Settlement.name.castle_village_B2_2" text="Cantrec" />
+    <string id="Settlements.Settlement.name.castle_village_B3_1" text="Druimmor" />
+    <string id="Settlements.Settlement.name.castle_village_B3_2" text="Tor Melina" />
+    <string id="Settlements.Settlement.name.castle_village_B4_1" text="Pendraic" />
+    <string id="Settlements.Settlement.name.castle_village_B4_2" text="Lindorn" />
+    <string id="Settlements.Settlement.name.castle_village_B5_1" text="Rhemtoil" />
+    <string id="Settlements.Settlement.name.castle_village_B5_2" text="Claig Ban" />
+    <string id="Settlements.Settlement.name.castle_village_B6_1" text="Flintolg" />
+    <string id="Settlements.Settlement.name.castle_village_B6_2" text="Glintor" />
+    <string id="Settlements.Settlement.name.castle_village_B7_1" text="Aster" />
+    <string id="Settlements.Settlement.name.castle_village_B7_2" text="Imlagh" />
+    <string id="Settlements.Settlement.name.castle_village_B8_1" text="Uthelaim" />
+    <string id="Settlements.Settlement.name.castle_village_B8_2" text="Seordas" />
+    <string id="Settlements.Settlement.name.castle_village_EN1_1" text="Varagos" />
+    <string id="Settlements.Settlement.name.castle_village_EN1_2" text="Aeoria" />
+    <string id="Settlements.Settlement.name.castle_village_EN2_1" text="Lochana" />
+    <string id="Settlements.Settlement.name.castle_village_EN2_2" text="Nortanisa" />
+    <string id="Settlements.Settlement.name.castle_village_EN3_1" text="Rhesos" />
+    <string id="Settlements.Settlement.name.castle_village_EN3_2" text="Dyopalis" />
+    <string id="Settlements.Settlement.name.castle_village_EN4_1" text="Gaos" />
+    <string id="Settlements.Settlement.name.castle_village_EN4_2" text="Themys" />
+    <string id="Settlements.Settlement.name.castle_village_EN5_1" text="Atrion" />
+    <string id="Settlements.Settlement.name.castle_village_EN5_2" text="Masangara" />
+    <string id="Settlements.Settlement.name.castle_village_EN6_1" text="Ataconia" />
+    <string id="Settlements.Settlement.name.castle_village_EN6_2" text="Potamis" />
+    <string id="Settlements.Settlement.name.castle_village_EN7_1" text="Epinosa" />
+    <string id="Settlements.Settlement.name.castle_village_EN7_2" text="Pons" />
+    <string id="Settlements.Settlement.name.castle_village_EN8_1" text="Syratos" />
+    <string id="Settlements.Settlement.name.castle_village_EN8_2" text="Tememos" />
+    <string id="Settlements.Settlement.name.castle_village_EN9_1" text="Mecalovea" />
+    <string id="Settlements.Settlement.name.castle_village_EN9_2" text="Agalmon" />
+    <string id="Settlements.Settlement.name.castle_village_ES1_1" text="Odrysa" />
+    <string id="Settlements.Settlement.name.castle_village_ES1_2" text="Caira" />
+    <string id="Settlements.Settlement.name.castle_village_ES2_1" text="Corenia" />
+    <string id="Settlements.Settlement.name.castle_village_ES2_2" text="Metachia" />
+    <string id="Settlements.Settlement.name.castle_village_ES3_1" text="Melion" />
+    <string id="Settlements.Settlement.name.castle_village_ES3_2" text="Sagolina" />
+    <string id="Settlements.Settlement.name.castle_village_ES4_1" text="Lavenia" />
+    <string id="Settlements.Settlement.name.castle_village_ES4_2" text="Ethemisa" />
+    <string id="Settlements.Settlement.name.castle_village_ES5_1" text="Morenia" />
+    <string id="Settlements.Settlement.name.castle_village_ES5_2" text="Atphynia" />
+    <string id="Settlements.Settlement.name.castle_village_ES6_1" text="Sestadaim" />
+    <string id="Settlements.Settlement.name.castle_village_ES6_2" text="Amycon" />
+    <string id="Settlements.Settlement.name.castle_village_ES7_1" text="Jogurys" />
+    <string id="Settlements.Settlement.name.castle_village_ES7_2" text="Eunalica" />
+    <string id="Settlements.Settlement.name.castle_village_ES8_1" text="Chanopsis" />
+    <string id="Settlements.Settlement.name.castle_village_ES8_2" text="Popsia" />
+    <string id="Settlements.Settlement.name.castle_village_EW1_1" text="Garontor" />
+    <string id="Settlements.Settlement.name.castle_village_EW1_2" text="Lysia" />
+    <string id="Settlements.Settlement.name.castle_village_EW2_1" text="Thorios" />
+    <string id="Settlements.Settlement.name.castle_village_EW2_2" text="Bergum" />
+    <string id="Settlements.Settlement.name.castle_village_EW3_1" text="Onica" />
+    <string id="Settlements.Settlement.name.castle_village_EW3_2" text="Tarcutis" />
+    <string id="Settlements.Settlement.name.castle_village_EW4_1" text="Thractorae" />
+    <string id="Settlements.Settlement.name.castle_village_EW4_2" text="Gamardan" />
+    <string id="Settlements.Settlement.name.castle_village_EW5_1" text="Veron" />
+    <string id="Settlements.Settlement.name.castle_village_EW5_2" text="Goleryn" />
+    <string id="Settlements.Settlement.name.castle_village_EW6_1" text="Hertogea" />
+    <string id="Settlements.Settlement.name.castle_village_EW6_2" text="Nideon" />
+    <string id="Settlements.Settlement.name.castle_village_EW7_1" text="Oristocorys" />
+    <string id="Settlements.Settlement.name.castle_village_EW7_2" text="Elvania" />
+    <string id="Settlements.Settlement.name.castle_village_EW8_1" text="Gersegos" />
+    <string id="Settlements.Settlement.name.castle_village_EW8_2" text="Vathea" />
+    <string id="Settlements.Settlement.name.castle_village_K1_1" text="Usek" />
+    <string id="Settlements.Settlement.name.castle_village_K1_2" text="Esme" />
+    <string id="Settlements.Settlement.name.castle_village_K2_1" text="Akiser" />
+    <string id="Settlements.Settlement.name.castle_village_K2_2" text="Kamshar" />
+    <string id="Settlements.Settlement.name.castle_village_K3_1" text="Hakkun" />
+    <string id="Settlements.Settlement.name.castle_village_K3_2" text="Kiraz" />
+    <string id="Settlements.Settlement.name.castle_village_K4_1" text="Tepes" />
+    <string id="Settlements.Settlement.name.castle_village_K4_2" text="Kuruluk" />
+    <string id="Settlements.Settlement.name.castle_village_K5_1" text="Khimli" />
+    <string id="Settlements.Settlement.name.castle_village_K5_2" text="Omrotok" />
+    <string id="Settlements.Settlement.name.castle_village_K6_1" text="Dinar" />
+    <string id="Settlements.Settlement.name.castle_village_K6_2" text="Karahalli" />
+    <string id="Settlements.Settlement.name.castle_village_K7_1" text="Simira" />
+    <string id="Settlements.Settlement.name.castle_village_K7_2" text="Kohi Ajik" />
+    <string id="Settlements.Settlement.name.castle_village_K8_1" text="Erzenur" />
+    <string id="Settlements.Settlement.name.castle_village_K8_2" text="Gereden" />
+    <string id="Settlements.Settlement.name.castle_village_K9_1" text="Kaysar" />
+    <string id="Settlements.Settlement.name.castle_village_K9_2" text="Payam" />
+    <string id="Settlements.Settlement.name.castle_village_S1_1" text="Ustokol" />
+    <string id="Settlements.Settlement.name.castle_village_S1_2" text="Zhemyan" />
+    <string id="Settlements.Settlement.name.castle_village_S2_1" text="Mazhadan" />
+    <string id="Settlements.Settlement.name.castle_village_S2_2" text="Forin" />
+    <string id="Settlements.Settlement.name.castle_village_S3_1" text="Něvjansk" />
+    <string id="Settlements.Settlement.name.castle_village_S3_2" text="Dnin" />
+    <string id="Settlements.Settlement.name.castle_village_S4_1" text="Kranirog" />
+    <string id="Settlements.Settlement.name.castle_village_S4_2" text="Ismilkorg" />
+    <string id="Settlements.Settlement.name.castle_village_S5_1" text="Ov" />
+    <string id="Settlements.Settlement.name.castle_village_S5_2" text="Ferch" />
+    <string id="Settlements.Settlement.name.castle_village_S6_1" text="Takor" />
+    <string id="Settlements.Settlement.name.castle_village_S6_2" text="Dvorusta" />
+    <string id="Settlements.Settlement.name.castle_village_S7_1" text="Urikskala" />
+    <string id="Settlements.Settlement.name.castle_village_S7_2" text="Alov" />
+    <string id="Settlements.Settlement.name.castle_village_S8_1" text="Vladiv" />
+    <string id="Settlements.Settlement.name.castle_village_S8_2" text="Glavstrom" />
+    <string id="Settlements.Settlement.name.castle_village_V1_1" text="Usanc" />
+    <string id="Settlements.Settlement.name.castle_village_V2_1" text="Hongard" />
+    <string id="Settlements.Settlement.name.castle_village_V2_2" text="Ferton" />
+    <string id="Settlements.Settlement.name.castle_village_V3_1" text="Drapand" />
+    <string id="Settlements.Settlement.name.castle_village_V3_2" text="Valanby" />
+    <string id="Settlements.Settlement.name.castle_village_V4_1" text="Ormanfard" />
+    <string id="Settlements.Settlement.name.castle_village_V5_1" text="Tirby" />
+    <string id="Settlements.Settlement.name.castle_village_V5_2" text="Sirindac" />
+    <string id="Settlements.Settlement.name.castle_village_V6_1" text="Caleus" />
+    <string id="Settlements.Settlement.name.castle_village_V6_2" text="Deriat" />
+    <string id="Settlements.Settlement.name.castle_village_V7_1" text="Talivel" />
+    <string id="Settlements.Settlement.name.castle_village_V7_2" text="Rodetan" />
+    <string id="Settlements.Settlement.name.castle_village_V8_1" text="Verecsand" />
+    <string id="Settlements.Settlement.name.castle_village_V8_2" text="Marin" />
+    <string id="Settlements.Settlement.name.hideout_desert_1" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_desert_10" text="Hideout" />
+    <string id="Settlements.Settlement.name.hideout_desert_11" text="Hideout" />
+    <string id="Settlements.Settlement.name.hideout_desert_12" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_desert_13" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_desert_14" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_desert_15" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_desert_16" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_desert_17" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_desert_18" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_desert_19" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_desert_2" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_desert_20" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_desert_3" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_desert_4" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_desert_5" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_desert_6" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_desert_7" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_desert_8" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_desert_9" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_forest_1" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_forest_10" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_forest_11" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_forest_12" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_forest_13" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_forest_14" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_forest_15" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_forest_16" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_forest_17" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_forest_18" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_forest_19" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_forest_2" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_forest_3" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_forest_4" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_forest_5" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_forest_6" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_forest_7" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_forest_8" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_forest_9" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_mountain_1" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_mountain_10" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_mountain_11" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_mountain_12" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_mountain_13" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_mountain_14" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_mountain_15" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_mountain_16" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_mountain_17" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_mountain_18" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_mountain_19" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_mountain_2" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_mountain_20" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_mountain_3" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_mountain_4" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_mountain_5" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_mountain_6" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_mountain_7" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_mountain_8" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_mountain_9" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_seaside_1" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_seaside_10" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_seaside_11" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_seaside_12" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_seaside_13" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_seaside_14" text="Úkryt u moře" />
+    <string id="Settlements.Settlement.name.hideout_seaside_15" text="Hideout" />
+    <string id="Settlements.Settlement.name.hideout_seaside_16" text="Hideout" />
+    <string id="Settlements.Settlement.name.hideout_seaside_17" text="Hideout" />
+    <string id="Settlements.Settlement.name.hideout_seaside_18" text="Hideout" />
+    <string id="Settlements.Settlement.name.hideout_seaside_19" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_seaside_2" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_seaside_20" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_seaside_3" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_seaside_4" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_seaside_5" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_seaside_6" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_seaside_7" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_seaside_8" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_seaside_9" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_steppe_1" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_steppe_10" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_steppe_11" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_steppe_12" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_steppe_13" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_steppe_14" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_steppe_15" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_steppe_16" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_steppe_17" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_steppe_18" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_steppe_19" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_steppe_2" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_steppe_20" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_steppe_3" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_steppe_4" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_steppe_5" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_steppe_6" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_steppe_7" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_steppe_8" text="Úkryt" />
+    <string id="Settlements.Settlement.name.hideout_steppe_9" text="Úkryt" />
+    <string id="Settlements.Settlement.name.town_A1" text="Quyaz" />
+    <string id="Settlements.Settlement.name.town_A2" text="Husn Fulq" />
+    <string id="Settlements.Settlement.name.town_A3" text="Iyakis" />
+    <string id="Settlements.Settlement.name.town_A4" text="Razih" />
+    <string id="Settlements.Settlement.name.town_A5" text="Hubyar" />
+    <string id="Settlements.Settlement.name.town_A7" text="Askar" />
+    <string id="Settlements.Settlement.name.town_A8" text="Qasira" />
+    <string id="Settlements.Settlement.name.town_B1" text="Marunath" />
+    <string id="Settlements.Settlement.name.town_B2" text="Dunglanys" />
+    <string id="Settlements.Settlement.name.town_B3" text="Car Banseth" />
+    <string id="Settlements.Settlement.name.town_B4" text="Seonon" />
+    <string id="Settlements.Settlement.name.town_B5" text="Pen Cannoc" />
+    <string id="Settlements.Settlement.name.town_EN1" text="Epicrotea" />
+    <string id="Settlements.Settlement.name.town_EN2" text="Diathma" />
+    <string id="Settlements.Settlement.name.town_EN3" text="Saneopa" />
+    <string id="Settlements.Settlement.name.town_EN4" text="Argoron" />
+    <string id="Settlements.Settlement.name.town_EN5" text="Myzea" />
+    <string id="Settlements.Settlement.name.town_EN6" text="Amprela" />
+    <string id="Settlements.Settlement.name.town_ES1" text="Danustica" />
+    <string id="Settlements.Settlement.name.town_ES2" text="Vostrum" />
+    <string id="Settlements.Settlement.name.town_ES3" text="Poros" />
+    <string id="Settlements.Settlement.name.town_ES4" text="Lycaron" />
+    <string id="Settlements.Settlement.name.town_ES5" text="Onira" />
+    <string id="Settlements.Settlement.name.town_ES6" text="Phycaon" />
+    <string id="Settlements.Settlement.name.town_ES7" text="Syronea" />
+    <string id="Settlements.Settlement.name.town_EW1" text="Lageta" />
+    <string id="Settlements.Settlement.name.town_EW2" text="Zeonica" />
+    <string id="Settlements.Settlement.name.town_EW3" text="Jalmarys" />
+    <string id="Settlements.Settlement.name.town_EW4" text="Ortysia" />
+    <string id="Settlements.Settlement.name.town_EW5" text="Amitatys" />
+    <string id="Settlements.Settlement.name.town_EW6" text="Rhotae" />
+    <string id="Settlements.Settlement.name.town_K1" text="Baltakhand" />
+    <string id="Settlements.Settlement.name.town_K2" text="Akkalat" />
+    <string id="Settlements.Settlement.name.town_K3" text="Makeb" />
+    <string id="Settlements.Settlement.name.town_K4" text="Ortongard" />
+    <string id="Settlements.Settlement.name.town_K5" text="Chaikand" />
+    <string id="Settlements.Settlement.name.town_K6" text="Odokh" />
+    <string id="Settlements.Settlement.name.town_S1" text="Varcheg" />
+    <string id="Settlements.Settlement.name.town_S2" text="Balgard" />
+    <string id="Settlements.Settlement.name.town_S3" text="Omor" />
+    <string id="Settlements.Settlement.name.town_S4" text="Varnovapol" />
+    <string id="Settlements.Settlement.name.town_S5" text="Tyal" />
+    <string id="Settlements.Settlement.name.town_S6" text="Sibir" />
+    <string id="Settlements.Settlement.name.town_S7" text="Revyl" />
+    <string id="Settlements.Settlement.name.town_V1" text="Sargot" />
+    <string id="Settlements.Settlement.name.town_V2" text="Ocs Hall" />
+    <string id="Settlements.Settlement.name.town_V3" text="Pravend" />
+    <string id="Settlements.Settlement.name.town_V5" text="Galend" />
+    <string id="Settlements.Settlement.name.town_V6" text="Jaculan" />
+    <string id="Settlements.Settlement.name.town_V7" text="Charas" />
+    <string id="Settlements.Settlement.name.town_V8" text="Ostican" />
+    <string id="Settlements.Settlement.name.town_V9" text="Rovalt" />
+    <string id="Settlements.Settlement.name.village_A1_1" text="Tasheba" />
+    <string id="Settlements.Settlement.name.village_A1_2" text="Baq" />
+    <string id="Settlements.Settlement.name.village_A1_4" text="Hiblet" />
+    <string id="Settlements.Settlement.name.village_A2_2" text="Abu Khih" />
+    <string id="Settlements.Settlement.name.village_A2_3" text="Hoqqa" />
+    <string id="Settlements.Settlement.name.village_A3_1" text="Abba" />
+    <string id="Settlements.Settlement.name.village_A3_3" text="Bir Seif" />
+    <string id="Settlements.Settlement.name.village_A4_1" text="Qablab" />
+    <string id="Settlements.Settlement.name.village_A4_2" text="Mussum" />
+    <string id="Settlements.Settlement.name.village_A4_4" text="Doqa" />
+    <string id="Settlements.Settlement.name.village_A5_1" text="Mahloul" />
+    <string id="Settlements.Settlement.name.village_A5_2" text="Liwas" />
+    <string id="Settlements.Settlement.name.village_A5_3" text="Waltas" />
+    <string id="Settlements.Settlement.name.village_A6_1" text="Mijayit" />
+    <string id="Settlements.Settlement.name.village_A6_2" text="Hamoshawat" />
+    <string id="Settlements.Settlement.name.village_A6_3" text="Jahasim" />
+    <string id="Settlements.Settlement.name.village_A6_4" text="Nahlan" />
+    <string id="Settlements.Settlement.name.village_A7_2" text="Bait Hatif" />
+    <string id="Settlements.Settlement.name.village_A7_3" text="Mabwaz" />
+    <string id="Settlements.Settlement.name.village_A7_4" text="Zalm" />
+    <string id="Settlements.Settlement.name.village_A8_1" text="Ezbet Nahul" />
+    <string id="Settlements.Settlement.name.village_A8_2" text="Abghan" />
+    <string id="Settlements.Settlement.name.village_B1_1" text="Dalmengus" />
+    <string id="Settlements.Settlement.name.village_B1_2" text="Ebereth" />
+    <string id="Settlements.Settlement.name.village_B1_3" text="Beglomuar" />
+    <string id="Settlements.Settlement.name.village_B1_4" text="Ath Cafal" />
+    <string id="Settlements.Settlement.name.village_B2_1" text="Diantogmail" />
+    <string id="Settlements.Settlement.name.village_B2_2" text="Glenlithrig" />
+    <string id="Settlements.Settlement.name.village_B2_3" text="Morihig" />
+    <string id="Settlements.Settlement.name.village_B3_1" text="Bog Beth" />
+    <string id="Settlements.Settlement.name.village_B3_2" text="Geunat Nal" />
+    <string id="Settlements.Settlement.name.village_B3_3" text="Tor Leiad" />
+    <string id="Settlements.Settlement.name.village_B4_1" text="Bryn Glas" />
+    <string id="Settlements.Settlement.name.village_B4_2" text="Andurn" />
+    <string id="Settlements.Settlement.name.village_B4_3" text="Mag Arba" />
+    <string id="Settlements.Settlement.name.village_B4_4" text="Swenryn" />
+    <string id="Settlements.Settlement.name.village_B5_1" text="Durn" />
+    <string id="Settlements.Settlement.name.village_B5_2" text="Gainseth" />
+    <string id="Settlements.Settlement.name.village_B5_3" text="Fenon Etir" />
+    <string id="Settlements.Settlement.name.village_EN1_1" text="Marathea" />
+    <string id="Settlements.Settlement.name.village_EN1_2" text="Stathymos" />
+    <string id="Settlements.Settlement.name.village_EN1_3" text="Gymos" />
+    <string id="Settlements.Settlement.name.village_EN2_1" text="Alosea" />
+    <string id="Settlements.Settlement.name.village_EN2_2" text="Jeracos" />
+    <string id="Settlements.Settlement.name.village_EN3_1" text="Enoisa" />
+    <string id="Settlements.Settlement.name.village_EN3_3" text="Crios" />
+    <string id="Settlements.Settlement.name.village_EN4_2" text="Alatys" />
+    <string id="Settlements.Settlement.name.village_EN4_4" text="Hetania" />
+    <string id="Settlements.Settlement.name.village_EN5_1" text="Vealos" />
+    <string id="Settlements.Settlement.name.village_EN5_2" text="Orthra" />
+    <string id="Settlements.Settlement.name.village_EN5_4" text="Samatha" />
+    <string id="Settlements.Settlement.name.village_EN6_1" text="Avasinton" />
+    <string id="Settlements.Settlement.name.village_EN6_2" text="Boreagora" />
+    <string id="Settlements.Settlement.name.village_ES1_2" text="Polisia" />
+    <string id="Settlements.Settlement.name.village_ES1_3" text="Tegresos" />
+    <string id="Settlements.Settlement.name.village_ES1_4" text="Erebulos" />
+    <string id="Settlements.Settlement.name.village_ES2_2" text="Gorcorys" />
+    <string id="Settlements.Settlement.name.village_ES2_3" text="Avalyps" />
+    <string id="Settlements.Settlement.name.village_ES2_4" text="Alision" />
+    <string id="Settlements.Settlement.name.village_ES3_1" text="Canoros" />
+    <string id="Settlements.Settlement.name.village_ES3_2" text="Tevea" />
+    <string id="Settlements.Settlement.name.village_ES3_3" text="Zestea" />
+    <string id="Settlements.Settlement.name.village_ES4_1" text="Sagora" />
+    <string id="Settlements.Settlement.name.village_ES4_3" text="Canterion" />
+    <string id="Settlements.Settlement.name.village_ES5_1" text="Lanthas" />
+    <string id="Settlements.Settlement.name.village_ES5_2" text="Lartusys" />
+    <string id="Settlements.Settlement.name.village_ES5_3" text="Parasemnos" />
+    <string id="Settlements.Settlement.name.village_ES6_1" text="Saldannis" />
+    <string id="Settlements.Settlement.name.village_ES6_2" text="Spotia" />
+    <string id="Settlements.Settlement.name.village_ES7_1" text="Psotai" />
+    <string id="Settlements.Settlement.name.village_ES7_2" text="Vargornis" />
+    <string id="Settlements.Settlement.name.village_EW1_1" text="Primessos" />
+    <string id="Settlements.Settlement.name.village_EW1_2" text="Montos" />
+    <string id="Settlements.Settlement.name.village_EW2_2" text="Neocorys" />
+    <string id="Settlements.Settlement.name.village_EW2_3" text="Alsasos" />
+    <string id="Settlements.Settlement.name.village_EW2_4" text="Zeocorys" />
+    <string id="Settlements.Settlement.name.village_EW3_2" text="Aegosca" />
+    <string id="Settlements.Settlement.name.village_EW3_3" text="Dradios" />
+    <string id="Settlements.Settlement.name.village_EW4_1" text="Arpotis" />
+    <string id="Settlements.Settlement.name.village_EW4_3" text="Vinela" />
+    <string id="Settlements.Settlement.name.village_EW4_4" text="Garengolia" />
+    <string id="Settlements.Settlement.name.village_EW5_1" text="Elipa" />
+    <string id="Settlements.Settlement.name.village_EW5_2" text="Phasos" />
+    <string id="Settlements.Settlement.name.village_EW6_1" text="Carphenion" />
+    <string id="Settlements.Settlement.name.village_EW6_3" text="Thersenion" />
+    <string id="Settlements.Settlement.name.village_EW6_4" text="Leblenion" />
+    <string id="Settlements.Settlement.name.village_K1_1" text="Fisnar" />
+    <string id="Settlements.Settlement.name.village_K1_2" text="Ulaan" />
+    <string id="Settlements.Settlement.name.village_K1_4" text="Asalig" />
+    <string id="Settlements.Settlement.name.village_K2_1" text="Karakalat" />
+    <string id="Settlements.Settlement.name.village_K2_2" text="Tismil" />
+    <string id="Settlements.Settlement.name.village_K3_1" text="Shapeshte" />
+    <string id="Settlements.Settlement.name.village_K3_2" text="Hanekhy" />
+    <string id="Settlements.Settlement.name.village_K3_3" text="Mazen" />
+    <string id="Settlements.Settlement.name.village_K4_2" text="Ransam" />
+    <string id="Settlements.Settlement.name.village_K4_3" text="Mivanjan" />
+    <string id="Settlements.Settlement.name.village_K4_4" text="Urunjan" />
+    <string id="Settlements.Settlement.name.village_K5_2" text="Okhutan" />
+    <string id="Settlements.Settlement.name.village_K5_3" text="Ispantar" />
+    <string id="Settlements.Settlement.name.village_K5_4" text="Pabastan" />
+    <string id="Settlements.Settlement.name.village_K6_1" text="Karahan" />
+    <string id="Settlements.Settlement.name.village_K6_2" text="Nutyuk" />
+    <string id="Settlements.Settlement.name.village_K6_3" text="Danara" />
+    <string id="Settlements.Settlement.name.village_S1_1" text="Rodobas" />
+    <string id="Settlements.Settlement.name.village_S1_3" text="Kargrev" />
+    <string id="Settlements.Settlement.name.village_S2_1" text="Safna" />
+    <string id="Settlements.Settlement.name.village_S2_2" text="Marabrot" />
+    <string id="Settlements.Settlement.name.village_S3_1" text="Chornobas" />
+    <string id="Settlements.Settlement.name.village_S3_2" text="Skorin" />
+    <string id="Settlements.Settlement.name.village_S4_1" text="Borchovagorka" />
+    <string id="Settlements.Settlement.name.village_S4_3" text="Omkany" />
+    <string id="Settlements.Settlement.name.village_S4_4" text="Yangutum" />
+    <string id="Settlements.Settlement.name.village_S5_1" text="Visibrot" />
+    <string id="Settlements.Settlement.name.village_S5_2" text="Bukits" />
+    <string id="Settlements.Settlement.name.village_S6_1" text="Kvol" />
+    <string id="Settlements.Settlement.name.village_S6_2" text="Radakmed" />
+    <string id="Settlements.Settlement.name.village_S6_3" text="Alebat" />
+    <string id="Settlements.Settlement.name.village_S7_1" text="Korsyas" />
+    <string id="Settlements.Settlement.name.village_S7_2" text="Karbur" />
+    <string id="Settlements.Settlement.name.village_V1_1" text="Calioc" />
+    <string id="Settlements.Settlement.name.village_V1_2" text="Etirfurd" />
+    <string id="Settlements.Settlement.name.village_V2_1" text="Mareiven" />
+    <string id="Settlements.Settlement.name.village_V2_2" text="Oritan" />
+    <string id="Settlements.Settlement.name.village_V2_3" text="Fregian" />
+    <string id="Settlements.Settlement.name.village_V3_2" text="Rulund" />
+    <string id="Settlements.Settlement.name.village_V3_3" text="Larnac" />
+    <string id="Settlements.Settlement.name.village_V3_4" text="Palisont" />
+    <string id="Settlements.Settlement.name.village_V5_1" text="Furbec" />
+    <string id="Settlements.Settlement.name.village_V5_2" text="Meroc" />
+    <string id="Settlements.Settlement.name.village_V5_3" text="Nogrent" />
+    <string id="Settlements.Settlement.name.village_V6_1" text="Arromanc" />
+    <string id="Settlements.Settlement.name.village_V6_2" text="Mot" />
+    <string id="Settlements.Settlement.name.village_V6_3" text="Alorstan" />
+    <string id="Settlements.Settlement.name.village_V6_4" text="Chornad" />
+    <string id="Settlements.Settlement.name.village_V7_1" text="Savinth" />
+    <string id="Settlements.Settlement.name.village_V7_2" text="Vesin" />
+    <string id="Settlements.Settlement.name.village_V8_1" text="Horsger" />
+    <string id="Settlements.Settlement.name.village_V8_2" text="Cananc" />
+    <string id="Settlements.Settlement.name.village_V8_3" text="Remental" />
+    <string id="Settlements.Settlement.name.village_V9_1" text="Alantas" />
+    <string id="Settlements.Settlement.name.village_V9_2" text="Halisvust" />
+    <string id="Settlements.Settlement.text.castle_village_A1_1" text="Tubilis leží v zátoce Charas, kterou Aserové nazývají Šariz. Vesničané zde loví ryby mezi pobřežními ostrovy a hledají tuňáky, sardinky a žraloky." />
+    <string id="Settlements.Settlement.text.castle_village_A2_1" text="Sahel na nejzazším okraji aserájské země, v nízko položeném pohoří Džabal Ašabí. Tento hřeben zachycuje dešťové mraky přicházející od moře Bahr al-Ješm a jsou omývány monzuny z jihovýchodu, což umožňuje cisternami zavlažovat pole s prosem a pšenicí." />
+    <string id="Settlements.Settlement.text.castle_village_A2_2" text="Asmait leží v zákoutí pohoří Džabal Ašabí, které je na jihu ohraničeno hlubokou pouští. Vesničané zachycují záplavy stékající z kopců během vzácných dešťů a využívají vodu k pěstování datlových palem a dalších plodin." />
+    <string id="Settlements.Settlement.text.castle_village_A3_1" text="Ain Baliq se shlukuje kolem studny v širokém údolí, které odděluje sráz Džardžára od pohoří Džabal Tamar na západě. Okolní půda je sice suchá, ale na jaře poskytuje dostatek trávy pro chov koní." />
+    <string id="Settlements.Settlement.text.castle_village_A3_2" text="Deir Hawa leží na větrem ošlehaném jižním břehu moře, kterému Aserové říkají Bahr al-Ješm. Vesničané zde zachycují vodu stékající z kopců a v nížinách pěstují len." />
+    <string id="Settlements.Settlement.text.castle_village_A4_1" text="Medeni leží v nížině mezi mořem Bahr al-Ješm a Džardžárským srázem. Vesničané pěstují datle na pobřeží v zahradách, které jsou zavlažovány studnami a malými přehradami ve vádí, které zachycují odtok z útesů během krátkého období dešťů." />
+    <string id="Settlements.Settlement.text.castle_village_A4_2" text="Qidnar leží v záplavové oblasti řeky Damar, nejhustěji osídlené části aserských zemí, kde protéká Džardžárským výběžkem. Zemědělci zde pěstují obilí na bohatém bahně, které přináší každoroční záplavy řeky." />
+    <string id="Settlements.Settlement.text.castle_village_A5_1" text="Jamayeh leží na jižním břehu moře, kterému Aserové říkají Bahr al Yeshm, Nefritové moře. Zdejší klima je vhodné pro pěstování olivovníků, kterým se zde daří i přes krátké období dešťů." />
+    <string id="Settlements.Settlement.text.castle_village_A6_1" text="Šibal Zumr leží na řece Nahr al-Kals, řece vápna. Voda je zde čistá a půda úrodná, pěstuje se zde obilí. Kousek na jih se však půda stává neúrodnou a zásaditou a přežívají zde jen ty nejodolnější plodiny." />
+    <string id="Settlements.Settlement.text.castle_village_A7_1" text="Uqba leží podél Perského moře. Vesničané zachycují dešťovou vodu a splachy z kopců, aby mohli zalévat svá pole a zahrady s datlovými palmami." />
+    <string id="Settlements.Settlement.text.castle_village_A7_2" text="Bunqaz leží u ústí velkého vádí, které odděluje Džardžárský sráz od kopců Džabal Tamar. Vesničané zde hloubí studny, aby využívali podzemní vodu z vádí a zavlažovali jimi své olivové háje." />
+    <string id="Settlements.Settlement.text.castle_village_A8_1" text="Tamnuh leží poblíž velké laguny, která je od Perského moře odříznuta písečnou přesypkou. Vesničané z mělkých vod vyškrabávají hlínu, kterou prodávají hrnčířům v regionu." />
+    <string id="Settlements.Settlement.text.castle_village_A9_1" text="Vesnice Barihal leží v oáze uprostřed mezihorského útesu Džardžara. Kraj je známý především díky koním, kteří se pasou na pouštních krátkověkých, ale bohatých jarních travinách." />
+    <string id="Settlements.Settlement.text.castle_village_B1_1" text="Ab Comer leží na strmém průsmyku protékaném horním tokem řeky Trand, který stoupá na náhorní plošinu Uchalion. Kmeny v této oblasti pěstují na svazích vinnou révu, z níž se vyrábí bílé víno oblíbené u císařské a vlandianské aristokracie." />
+    <string id="Settlements.Settlement.text.castle_village_B2_1" text="Llanoc Hen leží na hřebeni ve výšinách masivu Uchalion. Obyvatelé vesnice, známí jako zkušení chovatelé prasat, shlížejí na dva průsmyky, západní vedoucí z vlandianských zemí a východní z císařství." />
+    <string id="Settlements.Settlement.text.castle_village_B2_2" text="Cantrec leží ve skalnatém Balasogském úvalu, který se z Císařských zemí zvedá do náhorní plošiny Uchafionu. Půda zde není nijak zvlášť úrodná, ale v křovinách a houštinách na výšinách se daří prasatům." />
+    <string id="Settlements.Settlement.text.castle_village_B3_1" text="Druimmor leží v Morcombu, zlomovém údolí, které odděluje náhorní plošinu Uchalion od hor poloostrova Ebor. Horníci zde našli stříbro v rozsedlinách ve svazích." />
+    <string id="Settlements.Settlement.text.castle_village_B4_1" text="Pendraic leží na strmém severním svahu Uchalionu, naproti Varchegskému zálivu. Je to země studených větrů a neustálých bojů na nízké úrovni, kterou křižují vlandianské, battanské a sturgiánské nájezdnické družiny. Vesničané zde chovají vepře a stále naslouchají varovným rohům, které jim říkají, aby svá stáda zahnali do úkrytů v kopcích." />
+    <string id="Settlements.Settlement.text.castle_village_B5_1" text="Rhemtoil leží pod rozsedlinou ve východním srázu Uchalionské plošiny, nedaleko pramene řeky Miron, kterou Battaniané nazývají Myr. Patří k nejúrodnějším battanským zemím a dává dobrou úrodu pšenice." />
+    <string id="Settlements.Settlement.text.castle_village_B5_2" text="Claig Ban leží na úpatí strmé rozsedliny, která stoupá na masiv Uchalionu. Vesničané zde sbírají hlínu z nedaleké řeky Myr, kterou prodávají hrnčířům v battanských městech." />
+    <string id="Settlements.Settlement.text.castle_village_B6_1" text="Flintolg leží na vysokém hřebeni na východní straně masivu Uchalion. Půda je zde chudá, ale rostou zde husté lesy, díky nimž se zde získává většina dřeva používaného v battanských zemích." />
+    <string id="Settlements.Settlement.text.castle_village_B6_2" text="Glintor leží nad peřejemi řeky Fiur, kde vody Llyn Tywal klesají a vlévají se do Varchegského zálivu. Na údolích se chovají koně, kteří jsou velmi ceněni nájezdníky i obchodníky ze sturgiánských zemí na severu." />
+    <string id="Settlements.Settlement.text.castle_village_B7_1" text="Aster leží v mělkém údolí mezi kopci severovýchodního Uchalionu a skálou Glanys. Obyvatelé tohoto kraje mají pověst lidí zaměřených spíše na obchod než na válčení a kmenoví stařešinové podporují pěstování morušových keřů, které udržují malý hedvábnický průmysl." />
+    <string id="Settlements.Settlement.text.castle_village_B8_1" text="Uthelaim leží na východní hranici battanských zemí na hřebeni s výhledem na přítok Myru. Lidé v těchto končinách se živí lesnictvím, kácejí duby, tisy a borovice z lesů na prodej stavitelům a loďařům." />
+    <string id="Settlements.Settlement.text.castle_village_EN1_1" text="Varagos leží na řece Aris, malém horském potoce, který se vlévá do hluboké tůně zvané Ophthys. Půda zde není nijak zvlášť bohatá, ale pro chov ovcí je dostačující." />
+    <string id="Settlements.Settlement.text.castle_village_EN2_1" text="Lochana leží na východním břehu jezera Laconis. Bahnitá, nízko položená půda je zde vhodná pro pěstování lnu." />
+    <string id="Settlements.Settlement.text.castle_village_EN3_1" text="Rhesos leží na náhorní plošině v Dryatických horách. Vysokohorskému skotu se zde daří na travnatých porostech ve výšinách." />
+    <string id="Settlements.Settlement.text.castle_village_EN4_1" text="Gaos leží v širokém údolí v Myzeadu, pahorkatině na východě říše. Kdysi tuto zemi obývali kočovní pastevci a název vesnice je odvozen od jejich slova pro dobytek." />
+    <string id="Settlements.Settlement.text.castle_village_EN5_1" text="Atrion v údolí řeky Nevys, studené, pomalu tekoucí řeky, která se vlévá do jezera Laconis. Rovinatá, vlhká půda je zde vhodná pro pěstování lnu." />
+    <string id="Settlements.Settlement.text.castle_village_EN6_1" text="Ataconia leží na náhorní plošině v podhůří Dryatických hor. Obyvatelé této oblasti jsou zkušení v hledání ložisek stříbrné rudy, kterou odhalují potoky stékající z hor." />
+    <string id="Settlements.Settlement.text.castle_village_EN7_1" text="Epinosa leží na dalekém severu říše, jižně od ledovcových jezer známých jako Iltanské přístavy, kde se převáží lodě mezi jezery Laconis a Tanaesis. Oblast je poměrně řídce osídlená, ale na zelených stráních se pasou velká stáda dobytka." />
+    <string id="Settlements.Settlement.text.castle_village_EN7_2" text="Pons je jednou z nejsevernějších osad říše. Je pojmenováno podle křižovatky Iltanských portálů, sítě ledovcových jezer, která umožňuje přepravu lodí mezi jezery Laconis a Tanaesis. Oblast je poměrně řídce osídlená, ale na zelených stráních se pasou velká stáda dobytka." />
+    <string id="Settlements.Settlement.text.castle_village_EN8_1" text="Syratos na úpatí srázu severně od jezera Tanaesis. Vesničané těží v kopcích nad nimi, kde chladné zimy rozpraskávají kámen a odhalují jemné sloje železné rudy." />
+    <string id="Settlements.Settlement.text.castle_village_EN8_2" text="Tememos leží v hustě zalesněné pahorkatině na severním konci jezera Tanaesis. Mnoho vesničanů pracuje jako lesníci, kteří těží duby, buky a borovice na prodej do jezerních měst." />
+    <string id="Settlements.Settlement.text.castle_village_EN9_1" text="Mecalovea leží nad Galchasskými katarakty, řadou peřejí a vodopádů, kterými se řeka Miron vlévá do jezera Laconis. Vesnice, která se nachází na útesu, aby byla v této pohraniční oblasti chráněna před nájezdníky, prosperuje díky ložiskům rudy, která se objevují v místech, kde katarakt protíná údolí." />
+    <string id="Settlements.Settlement.text.castle_village_EN9_2" text="Agalmon leží poblíž soutoku Galchy a Mironu, dvou malých, ale rychle tekoucích severních řek. Tato lesnatá vesnice má díky desítkám let vzájemných sňatků většinou dobré vztahy se svými sturgiánskými sousedy, i když v poslední době se po vypuknutí války vyostřily." />
+    <string id="Settlements.Settlement.text.castle_village_ES1_1" text="Odrysa leží na nejvýchodnějších hranicích říše, jen kousek za řekou Tiagys od zemí, které jsou nyní chanátem Khuzait. Ačkoli je tato oblast suchá, v soutěskách řeky Tiagys a v dalších zákoutích kopců rostou duby a další stromy, které udržují malý dřevařský průmysl." />
+    <string id="Settlements.Settlement.text.castle_village_ES2_1" text="Corenia je jednou z nejvzdálenějších vesnic říše, kde se mluví kalradským jazykem. Leží v rovinách jihovýchodně od jezera Tanaesis ve stínu Akkanských vrchů, za nimiž se mluví pouze daršijsky a jazyky stepí. Vesničané zde pěstují obilí a hlídají nájezdníky zpoza hranic." />
+    <string id="Settlements.Settlement.text.castle_village_ES2_2" text="Metachie leží na jižním břehu jezera Tanaesis v pohraničních zemích za řekou Tiagys. Tato císařská kolonie, založená v mírumilovnějších dobách, je centrem pěstování morušových keřů používaných při výrobě hedvábí." />
+    <string id="Settlements.Settlement.text.castle_village_ES3_1" text="Melion v úzkém údolí poblíž středu Myzeadu, členité náhorní plošiny na východě říše. Vesničané zde pěstují morušové keře. Listy se sbírají a dávají do hedvábnických dílen, kde se z nich vyrábí nit, kterou si velmi cení jak kultivovaní císařští šlechtici pro své dvorní oděvy, tak i těžce jezdící kočovníci a hraničáři, kteří ji nosí pod zbrojí jako další vrstvu ochrany proti šípům." />
+    <string id="Settlements.Settlement.text.castle_village_ES3_2" text="Sagolina leží na úpatí úzkého údolí v Myzeadu, drsné náhorní plošině ve východní Kalrádii. Stříbro těžené z okolních kopců pomáhá vysvětlit úsilí a náklady, které Říše v minulých staletích vynaložila na dobytí a obranu těchto zemí." />
+    <string id="Settlements.Settlement.text.castle_village_ES4_1" text="Lavenia je rybářská vesnice na severovýchodním pobřeží Perského moře. Nedaleký hrad střeží jeden z hlavních průchodů přes síť jezer a slaných lagun známých jako Calsea, jednu z bran do aserských zemí." />
+    <string id="Settlements.Settlement.text.castle_village_ES4_2" text="Ethemisa leží na řece, kterou Aserové nazývají Nahr al-Kals, Hořká řeka, a kterou císařští občané nazývají Calsa. Řeka zde právě sestupuje z pobřežních kopců a ještě nedosáhla alkalických rovin na jihovýchodě. Na okolních pozemcích se rodí dobrá úroda obilí." />
+    <string id="Settlements.Settlement.text.castle_village_ES5_1" text="Morenia leží nad řekou Sethys, v nízkém průsmyku vedoucím přes kopce do údolí řeky Lycarea. Vesničané sbírají na březích řeky hlínu pro pece v císařských jižních zemích." />
+    <string id="Settlements.Settlement.text.castle_village_ES6_1" text="Sestadaim leží na západní straně velké Ornianské skály, výběžku uprostřed údolí Lycarea. Někteří říkají, že se zde kdysi shromažďovali supi, po nichž je skála pojmenována, aby hodovali na tělech těch, kteří zemřeli při práci v místních stříbrných dolech." />
+    <string id="Settlements.Settlement.text.castle_village_ES7_1" text="Jogurys leží na plochém západním břehu jezera Tanaesis. Tato země byla původně osídlena kočovnými kmeny a teprve nedávno se začala kultivovat. Císařští kolonisté se zde intenzivně snažili pěstovat keře bource morušového, aby zde mohli chovat bource morušového, který je v této oblasti lukrativním produktem." />
+    <string id="Settlements.Settlement.text.castle_village_ES8_1" text="Chanopsis leží poblíž pramenů řeky Sethys v náhorní plošině zvané Myzead. Na sluncem rozpálených pláních se dobře daří pšenici." />
+    <string id="Settlements.Settlement.text.castle_village_EW1_1" text="Garontor dal jméno výběžku mezi Charaským zálivem a vnitrozemským Perským mořem. Na pobřežních loukách, kde se daří vysokým travinám odolným vůči slaným mořským postřikům, se daří chovu ušlechtilých koní." />
+    <string id="Settlements.Settlement.text.castle_village_EW2_1" text="Thorios leží v údolí Aris v srdci Kalradie. Zavlažování řekou a relativně teplé vnitrozemské podnebí zajišťují, že obilná pole tohoto kraje spolu se sousedním Bergumem živí velkou část centrální říše." />
+    <string id="Settlements.Settlement.text.castle_village_EW2_2" text="Bergum leží v údolí Aris v srdci Kalradie. Zavlažování řekou a relativně teplé vnitrozemské klima zajišťují, že obilná pole tohoto okresu spolu se sousedním Thoriem živí velkou část centrální říše." />
+    <string id="Settlements.Settlement.text.castle_village_EW3_1" text="Onica leží na severním pobřeží Perského moře. Kopce tohoto okresu jsou terasovitě porostlé olivovými háji, kterými je jižní část říše proslulá a které produkují lehký, voňavý olej." />
+    <string id="Settlements.Settlement.text.castle_village_EW4_1" text="Thractorae leží v malém zálivu, který se vlévá do většího Charaského zálivu. Tyto pozemky, rozvířené horkými větry z jihu a zavlažované prameny na svazích, využívali císařští statkáři k experimentálnímu pěstování datlových palem." />
+    <string id="Settlements.Settlement.text.castle_village_EW5_1" text="Veron na úpatí masivu Uchalion, poblíž pramenů řeky Garys. Za letních nocí jsou kopce nad vesnicí posety ohni pastýřů, kteří odvádějí svá zvířata na pastviny na náhorní planinu." />
+    <string id="Settlements.Settlement.text.castle_village_EW5_2" text="Goleryn leží v teplých, duby porostlých epirských kopcích, nedaleko vlandianských i battanských hranic. Chov ovcí je v těchto končinách běžným způsobem života, stejně jako ovčáctví." />
+    <string id="Settlements.Settlement.text.castle_village_EW6_1" text="Hertogea leží ve stínu hory Erithrys, obrovské čedičové desky, která vystupuje z hlubin země. Na svazích vedoucích na horu pěstují vesničané olivy." />
+    <string id="Settlements.Settlement.text.castle_village_EW7_1" text="Oristokorys leží v Ortysijském zálivu, který je součástí mořské cesty mezi západním oceánem a Perským mořem. Ranní mořské mlhy ze západu a horké polední slunce umožňují pěstování vinné révy." />
+    <string id="Settlements.Settlement.text.castle_village_EW7_2" text="Elvania leží v Ortysijském zálivu, který je součástí mořské cesty mezi západním oceánem a Perským mořem. Na svazích okolních kopců rostou olivovníky, které hřeje jižní slunce." />
+    <string id="Settlements.Settlement.text.castle_village_EW8_1" text="Gersegos leží v soutěskách řeky Miron, která se zařezává mezi útesy Kurského srázu a Dryatické hory. Do ostrohu, který se tyčí nad vesnicí, vesničané zahloubili doly, v nichž se těží stříbro a další drahé kovy." />
+    <string id="Settlements.Settlement.text.castle_village_K1_1" text="Usek leží na úpatí Akkanských kopců na východním břehu jezera Tanaesis, které Khuzaité nazývají Tanazské moře. Obyvatelé vesnice, kteří byli donedávna kočovníky, chovají ovce známé dlouhou a jemnou vlnou." />
+    <string id="Settlements.Settlement.text.castle_village_K1_2" text="Vesnice Esme a okolní vesnice leží na pevninské straně Akkanských kopců na náhorní plošině Devseg, která je hlavní pastvinou pro stáda Khuzaitů a jejich souvěrců." />
+    <string id="Settlements.Settlement.text.castle_village_K2_1" text="Akiser leží na jižním okraji Akkanských vrchů. Zdejší půda je výjimečně členitá a zvětralá, ve stěnách roklí a strží jsou patrné železné švy." />
+    <string id="Settlements.Settlement.text.castle_village_K3_1" text="Vesnice Hakkun se nachází na vrcholu srázu Akkanských kopců. Lidé v těchto končinách odedávna těžili v horách stříbro, což bylo řemeslo, které chuzaitští chánové rádi podporovali, když si tento kraj podmanili." />
+    <string id="Settlements.Settlement.text.castle_village_K4_1" text="Tepes leží nad přítokem Karakaze, řeky, která se ze severu vlévá do jezera Tanaz, kterému říše říká Tanaesis. Tento okres se specializuje na těžbu dřeva, které se splavuje po řece a prodává do jezerních měst." />
+    <string id="Settlements.Settlement.text.castle_village_K5_1" text="Chimli leží v kotlině Devsegské náhorní plošiny. Ačkoli je tato země po většinu roku suchá, v zimě se zde vyskytují sněhové srážky a bahnitá prameniště. Z kaluží, které zde zůstaly po tání sněhu a deštích, lze sbírat jemnou hlínu." />
+    <string id="Settlements.Settlement.text.castle_village_K6_1" text="Dinar leží na úplném severu konfederace Chuzaitů, podél řeky Karakaz. Po většinu roku zde leží sníh, přesto zde jarní trávy živí početná stáda ovcí, jejichž hustá vlna je chrání před ledovými větry." />
+    <string id="Settlements.Settlement.text.castle_village_K6_2" text="Karahalli leží na dalekém severu chuzaitské konfederace, nedaleko ledového Byalského moře. Po většinu roku zde leží sníh, přesto zde jarní trávy živí početná stáda ovcí, jejichž hustá vlna je chrání před ledovými větry vanoucími z vod." />
+    <string id="Settlements.Settlement.text.castle_village_K7_1" text="Simira leží poblíž východní části Devsegské náhorní plošiny, která se začíná svažovat do velkého travnatého moře na východě. Vesničané zde chovají dobytek vyšlechtěný tak, aby vydržel chladné zimy i horké léto." />
+    <string id="Settlements.Settlement.text.castle_village_K8_1" text="Erzenur podél řeky Tiagys, v místním dialektu známé jako Teyagh. Zdejší vody mají výrazný načervenalý odstín díky železu obsaženému v půdě, které vesničané těží z říčních výchozů." />
+    <string id="Settlements.Settlement.text.castle_village_K9_1" text="Kaysar leží na severu a východě zemí ovládaných Chuzaity, v údolí řeky Karakaz. Tento okres je po většinu roku zavátý sněhem, ale vesničané stále chovají stáda dobytka, která jsou vyšlechtěna tak, aby odolávala ledovým větrům přicházejícím ze severu po řece." />
+    <string id="Settlements.Settlement.text.castle_village_K9_2" text="Payam leží podél řeky Karakaz na chladném severu chuzaitského území. Ačkoli je země po většinu roku zavátá sněhem, vesničané zasejí pšenici a ječmen, jakmile začne tát, a do podzimu sklidí dobrou úrodu." />
+    <string id="Settlements.Settlement.text.castle_village_S1_1" text="Ustokol leží na větrném poloostrově Kachyar mezi Varchegským zálivem a Bjalským mořem. Otužilý severský dobytek byl vyšlechtěn tak, aby se živil krátkými travinami, které rostou mezi skalami, a v těžkých dobách je doplňoval mořskými řasami." />
+    <string id="Settlements.Settlement.text.castle_village_S2_1" text="Mazhadan leží poblíž pramene řeky Galchy, západně od jezera Laconis. Vesničané v tomto chladném a deštivém kraji pěstují len v bahnitých údolích mezi kopci." />
+    <string id="Settlements.Settlement.text.castle_village_S3_1" text="Nevyansk leží na plochém šelfu země s výhledem na Varchegský záliv. Země je chladná, ale splachy z kopců přinášejí bohatou půdu a vesničané zde pěstují odolné plodiny, jako je žito a ječmen." />
+    <string id="Settlements.Settlement.text.castle_village_S3_2" text="Dnin leží na pastvinách s výhledem na nejužší část Varchegského zálivu. Na výšinách se pasou koně, kteří občas pohlédnou dolů na obchodní lodě a rybářské čluny proplouvající pod nimi." />
+    <string id="Settlements.Settlement.text.castle_village_S4_1" text="Kranirog leží v širokém zalesněném údolí a shlíží dolů na řeku Galchu. Vesničané v těchto končinách jsou zkušení lovci, kteří loví kuny, lišky a králíky pro bohaté kůže, po nichž je na jihu velká poptávka." />
+    <string id="Settlements.Settlement.text.castle_village_S4_2" text="Ismilkorg leží na travnatých údolích mezi řekami Galcha a Vastra, dvěma malými přítoky Mironu. Zdejší obyvatelé se živí převážně chovem dobytka a také dobytkářstvím a odedávna obchodují s nájezdy s císařskými pohraničními vesnicemi na východě a Battany na západě." />
+    <string id="Settlements.Settlement.text.castle_village_S5_1" text="Ov je nedávná Sturgiánská kolonie v irkarské divočině, v lese severozápadně od jezera Laconis. Obyvatelé vesnice statečně bojují se zimou, vlky a někdy nepřátelskými, jindy přátelskými lesními národy v honbě za kožešinami, odměnou severních krajů." />
+    <string id="Settlements.Settlement.text.castle_village_S5_2" text="Ferkh leží na severním okraji irkarské divočiny, v lese severozápadně od jezera Laconis. Slouží jako základna pro obchodníky, kteří se vydávají hlouběji do lesů a statečně čelí mrazu, vlkům a někdy nepřátelským, jindy přátelským obyvatelům lesů v honbě za kožešinami, odměnou severních krajů." />
+    <string id="Settlements.Settlement.text.castle_village_S6_1" text="Takor je dobytkářská vesnice v průsmyku, kterému Battaniané říkají Mynad Rhyfel, Hora války, a jejich císařští a sturgianští sousedé Minador. Je to jedna z hlavních obchodních a nájezdnických cest mezi divokým severem a osídlenějšími císařskými zeměmi." />
+    <string id="Settlements.Settlement.text.castle_village_S7_1" text="Urikskala leží v Iltanských přístavištích, síti ledovcových jezer, přes které se dají táhnout dlouhé lodě a plout mezi jezery Laconis a Tanaesis. Vesničané loví v mělkých vodách malé ostroretky a raky a suší je na prodej pocestným." />
+    <string id="Settlements.Settlement.text.castle_village_S8_1" text="Vladiv leží na úpatí hory Iltan v chladném, temném zalesněném údolí. Odolný dobytek v této oblasti se naučil prohrabávat se hustým zimním sněhem a hledat trávu, která by ho uživila až do jara." />
+    <string id="Settlements.Settlement.text.castle_village_V1_1" text="Usanc leží u malého zálivu, který se vlévá do většího zálivu Charas. Tato teplá jižní země podporuje pěstování olivovníků." />
+    <string id="Settlements.Settlement.text.castle_village_V2_1" text="Hongard leží v teplých lesnatých krajích poblíž meandrující řeky Trand. Tato země, bohatá na pšenici a kdysi srdce říše, je nyní centrem Vlandianského království." />
+    <string id="Settlements.Settlement.text.castle_village_V2_2" text="Ferton poblíž zákrutu meandrující řeky Trand, nedaleko průsmyku vedoucího k moři přes Biskajské vrchy. Vesničané pěstují olivy na teplé a suché straně kopců směrem k pevnině." />
+    <string id="Settlements.Settlement.text.castle_village_V3_1" text="Drapand leží poblíž cípu mysu Fal, výběžku jižně od ústí řeky Trand. Vesničané se vydávají daleko do moře k břehům bohatým na tresky, které omývá studený proud ze severu." />
+    <string id="Settlements.Settlement.text.castle_village_V4_1" text="Ormanfard leží u malé, rychle tekoucí řeky, která stéká z hor Rhennodu a plní jezero zvané Ocspool. Deště jsou vydatné a na svazích se dobře daří pšenici a ječmeni." />
+    <string id="Settlements.Settlement.text.castle_village_V5_1" text="Tirby leží v chladných mlžných vodách, které se rozprostírají u poloostrova Ebor. Nízko položené pozemky na severní straně Eboru jsou vhodné pro pěstování lnu." />
+    <string id="Settlements.Settlement.text.castle_village_V5_2" text="Sirindac leží pod vysokými hřebeny poloostrova Ebor, poněkud chráněn před prudkými větry vanoucími ze severozápadu. Přicházejí sem přistěhovalci z celé Vlandie, aby hledali stříbro v horských potocích." />
+    <string id="Settlements.Settlement.text.castle_village_V6_1" text="Caleus leží na mlhavé pobřežní rovině jižně od Varchegského zálivu. Vesničané mluví směsicí vlandianských, sturgiánských a battanských jazyků. V nížinách se zde pěstuje len." />
+    <string id="Settlements.Settlement.text.castle_village_V6_2" text="Deriat leží mezi Varchegským zálivem a hřebeny poloostrova Ebor. Vesničané zde na kopcích loví bobra a norka a ve vodách zálivu občas pronásledují tuleně." />
+    <string id="Settlements.Settlement.text.castle_village_V7_1" text="Talivel uprostřed údolí Trand v srdci Kalradie. Vesničané zde na svazích pěstují olivy." />
+    <string id="Settlements.Settlement.text.castle_village_V8_1" text="Verecsand leží u vod Ocspool, malého, ale hlubokého vnitrozemského jezera. Vesničané zde pěstují pšenici v mírných sníženinách na břehu jezera." />
+    <string id="Settlements.Settlement.text.village_A1_1" text="Tasheba leží na západním okraji Bahr al-Yeshm. Rybáři se vydávají do chráněných vod, které jsou po většinu roku mírné a klidné, lovit tuňáky a sardinky." />
+    <string id="Settlements.Settlement.text.village_A1_2" text="Baq se nachází mírně ve vnitrozemí od moře Bahr al-Ješm, pod velkým žulovým výběžkem Džabal Tamar. Mořský vítr přináší na zdejší vyvýšeniny dostatek deště, aby se zde daly pěstovat olivovníky." />
+    <string id="Settlements.Settlement.text.village_A1_3" text="Fanab leží na nízkém výběžku mezi zálivem, který Aserové nazývají Šarízský záliv, a vnitřním mořem Bahr al-Ješm.  Mořský vítr přináší dostatek deště pro pěstování olivovníků." />
+    <string id="Settlements.Settlement.text.village_A1_4" text="Hiblet leží na úpatí žulového výběžku známého jako Džabal Tamar. Dešťová voda zachycená v puklinách ve skále je odváděna do vesnických zahrad s datlovými palmami." />
+    <string id="Settlements.Settlement.text.village_A2_1" text="Lamesa leží uprostřed otevřených plání a suchých akáciových lesů na východním břehu Bahr al-Ješm. V této oblasti se na trávě pasou jedni z nejcennějších aserských koní." />
+    <string id="Settlements.Settlement.text.village_A2_2" text="Abu Khih leží podél řeky Nahr al-Kals na cestě k jejímu neúrodnému jižnímu toku. Okolní půda, starobylé jezerní dno, již začíná být neúrodná a zásaditá, ačkoli datlovým palmám se zde stále daří." />
+    <string id="Settlements.Settlement.text.village_A2_3" text="Hoqqa leží na samém východě Aserské země, na řece Tiyagis. Země je z větší části pouštní stepí. Po většinu roku je neúrodná, kromě křovin, na jaře je pokryta trávou a květinami a je vhodnou pastvinou pro koně." />
+    <string id="Settlements.Settlement.text.village_A3_1" text="Abba leží na okraji hluboké pouště, na úpatí pevninské strany Džardžárského srázu. Splachy z kopců se zde zachycují pod zemí a vytvářejí prameny, které udržují oázu. Na polích a zahradách se daří pšenici." />
+    <string id="Settlements.Settlement.text.village_A3_2" text="Hunab leží v jedné z vádí, která se zařezávají pod zvětralé mezery srázu Džardžára. Vesničané zde chovají koně a využívají krátkou, ale bujnou úrodu trávy, která na jaře pokrývá svahy." />
+    <string id="Settlements.Settlement.text.village_A3_3" text="Bir Seif se soustřeďuje kolem skupiny studní a tůní ve srázu Jarjara. Vesničané zde kopou do mělké vrstvy podzemní vody, aby získali hlínu, kterou prodávají hrnčířům z Nahasy." />
+    <string id="Settlements.Settlement.text.village_A4_1" text="Qablab leží poblíž širokého zálivu na jižním pobřeží Perského moře. Nízko položené pobřeží je vhodné pro stavbu solných pánví." />
+    <string id="Settlements.Settlement.text.village_A4_2" text="Mussum leží u východního pobřeží moře Bahr al-Ješm, kde aserské pouště ustupují pouštní stepi s roztroušenými akáciemi a křovinami. Vesničané zde hloubí studny, aby zavlažovali své háje datlových palem." />
+    <string id="Settlements.Settlement.text.village_A4_3" text="Kuqa leží na úpatí nízkých kopců východně od moře Bahr al-Yeshm, kde pouště Aserai přecházejí v pouštní stepi s roztroušenými akáciemi a křovinami. Vesničané zde hloubí studny, aby mohli zalévat své háje datlových palem." />
+    <string id="Settlements.Settlement.text.village_A4_4" text="Doqa je rybářská vesnice u moře Bahr al-Yeshm. Vesničané vyplouvají na felukách, aby ulovili okouny, kteří někdy dorůstají délky člověka, a dávají si pozor na slanovodní krokodýly, kteří žijí v místních zátokách a bažinách a kteří s nimi soupeří o úlovek." />
+    <string id="Settlements.Settlement.text.village_A5_1" text="Mahloul leží v širokém údolí mezi úbočím Džardžáry a kopci Džabal Ašab v pouštní stepi jihovýchodně od Bahr al-Ješm. Podzemní voda poskytuje dostatek vody pro pěstování plodin pro vlastní obživu, zatímco vesnice vydělává na chovu koní na bohaté trávě, která roste v Džabal Ašabí po jarních deštích." />
+    <string id="Settlements.Settlement.text.village_A5_2" text="Liwas leží v širokém údolí jižně od Bahr al-Yeshm. Zemědělská půda je zde omezená a země je známá především chovem koní, kteří se pasou na krátce trvající, ale bohaté jarní trávě v poušti." />
+    <string id="Settlements.Settlement.text.village_A5_3" text="Waltas leží u Bahr al-Yeshm, Nefritového moře, v nížině vhodné pro pěstování lnu." />
+    <string id="Settlements.Settlement.text.village_A6_1" text="Mijayit leží u ústí řeky Damar do moře Bahr al-Yeshm. Díky bohatým nánosům bahna, které zde řeka zanechala, je to jedna z nejúrodnějších oblastí aserských zemí." />
+    <string id="Settlements.Settlement.text.village_A6_2" text="Hamoshawat leží na dolním toku řeky Damar, těsně před jejím ústím do moře Bahr al-Yeshm. Díky bohatým nánosům bahna, které řeka zanechává, je to jedna z nejúrodnějších oblastí aserských zemí." />
+    <string id="Settlements.Settlement.text.village_A6_3" text="Džahasim leží na jižním břehu moře, kterému Aserové říkají Bahr al-Ješm. Teplé vody jsou bohaté na tuňáky, bonity, sardinky a další ryby." />
+    <string id="Settlements.Settlement.text.village_A6_4" text="Nahlan leží v záplavové oblasti řeky Damar, která protíná Džardžarský sráz. Tato půda, každoročně osvěžovaná naplaveninami z rozvodněné řeky, poskytuje bohatou úrodu pšenice." />
+    <string id="Settlements.Settlement.text.village_A7_1" text="Wadar leží ve skalnatých vádí na vnitrozemském okraji Džardžárského úvalu, než přejde v pusté štěrkové pláně a duny. Mraky z Bahr al-Ješmu sem na jaře a v zimě vypouštějí poslední zásoby vody a dávají zemi dostatek trávy pro chov koní." />
+    <string id="Settlements.Settlement.text.village_A7_2" text="Bait Hatif leží v záplavové oblasti řeky Damar, která protíná Džardžárský sráz. Skalnatá půda v této oblasti omezuje zavlažování, ale koním se na jarní trávě v kopcích daří dobře." />
+    <string id="Settlements.Settlement.text.village_A7_3" text="Z Mabwazu je výhled na řeku Damar, která se proplétá mezi horskými masivy ve výběžku Jarjara. Vesničané pěstují pšenici a další plodiny v naplaveninách říční nivy." />
+    <string id="Settlements.Settlement.text.village_A7_4" text="Zalm leží u Spálené brány, kde řeka Damar sestupuje z pouště Nahasa a začíná svou pouť Džardžárským srázem. Naplaveniny, které řeka přináší, dávají bohatou úrodu pšenice." />
+    <string id="Settlements.Settlement.text.village_A8_1" text="Ezbet Nahul leží na skalnatém výběžku s výhledem na vody, které Aserové nazývají Bahr al-Ješm, Nefritové moře. Podzemní voda zachycená ve skalách se dostává do studní a používá se k zavlažování pšeničných polí ve vesnici." />
+    <string id="Settlements.Settlement.text.village_A8_2" text="Abghan leží u malé laguny na jižním břehu Bahr al-Yeshm, Nefritového moře. Vesničané zde loví tuňáky, sardinky, bonity a žraloky." />
+    <string id="Settlements.Settlement.text.village_B1_1" text="Dalmengus leží u Llyn Tywal, Temného jezera v centru masivu Uchalion. Zdejší rovinatá, dobře zavlažovaná půda je úrodná a vhodná pro pěstování pšenice a ječmene." />
+    <string id="Settlements.Settlement.text.village_B1_2" text="Ebereth leží v sedle, z jedné strany se rozkládá jezero Llyn Tywal a z druhé průsmyky Cafalcombe. Vesničané zde pěstují vinnou révu, z níž se vyrábí sladké bílé víno battanských zemí." />
+    <string id="Settlements.Settlement.text.village_B1_3" text="Beglomuar leží v zákoutí jižního srázu masivu Uchalion. Kromě rudných ložisek v kopcích a bahenního železa v horských bažinách není v těchto končinách mnoho zajímavého." />
+    <string id="Settlements.Settlement.text.village_B1_4" text="Ath Cafal leží poblíž pramene Cafalcombe, strmého údolí, které se svažuje do císařských zemí. Slušná hlína se nachází v malých potůčcích, které stékají z kopců na všech stranách." />
+    <string id="Settlements.Settlement.text.village_B2_1" text="Diantogmail leží na okraji Llyn Tywal, temného jezera. Existuje půl tuctu místních legend, které vysvětlují, jak kraj získal své jméno, což znamená Útěk tetřeva, ale žádná z nich se v ničem neshoduje. Vesničané zde pěstují hrozny na víno." />
+    <string id="Settlements.Settlement.text.village_B2_2" text="Glenlithrig, údolí kluzkého potoka, leží ve vrchovině severního Uchalionu. Zdejší vesničané jsou především lesníci, kteří dodávají dřevo do nedalekých pevnostních měst Dunglanys a Car Banseth." />
+    <string id="Settlements.Settlement.text.village_B2_3" text="Morihig leží v kotlině uprostřed masivu Uchalionu. Oblast je známá pěstováním pšenice a ječmene." />
+    <string id="Settlements.Settlement.text.village_B2_4" text="Imlagh leží na zvlněné pahorkatině uprostřed masivu Uchalion. Vesnice se specializuje na pěstování bílých hroznů pro výrobu sladkých battanských vín." />
+    <string id="Settlements.Settlement.text.village_B2_5" text="Lindorn leží na zelených kopcích severně a západně od Llyn Tywal, temného jezera. Okolní zemědělské pozemky jsou osety pšenicí a ječmenem." />
+    <string id="Settlements.Settlement.text.village_B3_1" text="Bog Beth leží v nízkém zalesněném údolí na východě masivu Uchalion. Vesničané v temných bažinatých lesích chytají bobry, lišky a další kožešinová zvířata." />
+    <string id="Settlements.Settlement.text.village_B3_2" text="Geunat Nal, vesnice, kde Nal zanechal svou hlavu, je vesnice lovců kožešinových zvířat nedaleko místa souboje známého v battanské legendě. Obyvatelé vesnice jsou známí svou zručností lesníků, kteří pomáhají nedaleké pevnosti Car Banseth na vrcholku skály střežit severní přístupy do battanského srdce před sturgiánskými a jinými nájezdníky." />
+    <string id="Settlements.Settlement.text.village_B3_3" text="Tor Leiad, kopec úplňku, leží pod zalesněným pahorkem na severu battanské země. Vesničané zde sklízejí úrodu z hustě rostoucích dubových, tisových a bukových lesů. O zdejší lesy se Battánci po staletí pečlivě starají, aby bylo vždy dost stromů k těžbě a prodeji dřeva." />
+    <string id="Settlements.Settlement.text.village_B3_4" text="Tor Melina leží v bažinaté kotlině v tmavých zalesněných kopcích severozápadního masivu Uchalion. Vesničané z vlhké půdy odebírají hlínu na prodej hrnčířům v nedalekých městech." />
+    <string id="Settlements.Settlement.text.village_B4_1" text="Bryn Glas leží na hřebeni ve východním výběžku masivu Uchalion. Vesničané těží z kopců železo, které prodávají vyhlášeným kovářům v nedalekém Seononu." />
+    <string id="Settlements.Settlement.text.village_B4_2" text="Andurn leží v rozsedlině kopců s výhledem na temné jezero Llyn Tywal. Vesničané v těchto končinách obhospodařují lesy, kde sbírají buk, dub a tis na prodej do měst." />
+    <string id="Settlements.Settlement.text.village_B4_3" text="Mag Arba leží na travnatých stráních s výhledem na Llyn Tywal, temné jezero. V bažinatých údolích mezi kopci vysadili vesničané len." />
+    <string id="Settlements.Settlement.text.village_B4_4" text="Ze Swenrynu je výhled na skalnatý katarakt, který zadržuje temné vody Llyn Tywal a vytváří jezero uprostřed Uchalionu. Nad peřejemi a vodopády se pasou koně." />
+    <string id="Settlements.Settlement.text.village_B4_5" text="Seordas leží v nížině na východním okraji battanské země, na úpatí Uchalionského srázu. Nedaleká pevnost Uthelaim chrání odkryté farmy v kraji před sturgiánskými nájezdníky přicházejícími z východu." />
+    <string id="Settlements.Settlement.text.village_B5_1" text="Durn leží těsně pod soutěskami horního toku řeky Trand. Vesničané vyškrabávají bahno z tůní a bažin podél řeky, která se vyrovnává, a vozí ho po klikatých stezkách do města Pen Cannoc, které se tyčí na útesu nad nimi." />
+    <string id="Settlements.Settlement.text.village_B5_2" text="Gainseth leží v temném zalesněném údolí pod kopci Rhennod na východním okraji masivu Uchalion. Vesničané sbírají z bažinaté půdy bahno, které prodávají hrnčířům v Pen Cannoc." />
+    <string id="Settlements.Settlement.text.village_B5_3" text="Fenon Etir leží na vyvýšenině s výhledem na pramen řeky Etir, přítoku Trandu. Vesničané zde pěstují vinnou révu a vyrábějí silné battanské víno, které je v říši i mezi Vlandiany velmi ceněné." />
+    <string id="Settlements.Settlement.text.village_B5_4" text="Inveth leží v místě, kde řeky Trand a Etir vytékají z masivu Uchalion, spojují se a vlévají se do rovin centrální Vlandie. Na okolních svazích se pěstuje pšenice." />
+    <string id="Settlements.Settlement.text.village_EN1_1" text="Marathea leží na úzkém výběžku země mezi řekou Miron a horou Aracathos, nejvyšším vrcholem Dryatického pohoří. Obyvatelé vesnice jsou zruční horníci, kteří těží železnou rudu z nedalekého útesu." />
+    <string id="Settlements.Settlement.text.village_EN1_2" text="Stathymos leží v úzkém údolí pod vysokým hřebenem Dryatických hor. Vysokohorské potoky splachují úrodnou půdu po úbočích kopců, díky čemuž je tato oblast jednou z obilnic císařského severu." />
+    <string id="Settlements.Settlement.text.village_EN1_3" text="Gymos je klidná rybářská vesnice v Diathmickém zálivu na samém západě jezera Laconis. Vesničané loví štiky v hlubokých vodách zálivu." />
+    <string id="Settlements.Settlement.text.village_EN1_4" text="Dyopalis leží v údolí v Dryatických horách. Navzdory chladným zimám je tento kraj díky úrodné půdě jednou z obilnic severní říše." />
+    <string id="Settlements.Settlement.text.village_EN2_1" text="Alosea leží nedaleko vstupu do Diathmického zálivu, na samém západním konci jezera Laconis. Lidé v tomto kraji se dobře živí štikami a jesetery z jezera." />
+    <string id="Settlements.Settlement.text.village_EN2_2" text="Jeracos leží na loukách v severním podhůří Dryatických hor. Podnebí, které je díky jezerním větrům mírné, je vhodné pro chov koní." />
+    <string id="Settlements.Settlement.text.village_EN2_3" text="Masangara leží na březích Nevysu, studené, pomalu tekoucí řeky, která se vlévá do jezera Laconis. Chová se zde dobytek v bývalých bažinatých lesích, které jsou nyní odvodněné a přeměněné na louky." />
+    <string id="Settlements.Settlement.text.village_EN3_1" text="Enoisa leží na břehu Ophthys, Oka, hlubokého jezera v pahorkatině jižně od Dryatických hor. Pěstuje se zde pšenice, kterou živí vydatné deště ze severu. Podle legendy zde kdysi stávala svatyně starověkých Pálů, kteří věřili, že jezero je branou do jiného světa." />
+    <string id="Settlements.Settlement.text.village_EN3_2" text="Aeoria leží v úrodném údolí Arisu, v srdci říše. Zdejší dialekt je protkán slovy z palaičtiny, jazyka, kterým se mluvilo v centru kontinentu před příchodem Impéria." />
+    <string id="Settlements.Settlement.text.village_EN3_3" text="Crios leží uprostřed vápencových hřebenů východních dryatických hor. Vysokohorská půda je vhodnou pastvinou pro koně." />
+    <string id="Settlements.Settlement.text.village_EN4_1" text="Potamis leží v údolí v nižších dryatických horách. Lidé v těchto končinách chovají dobytek již od předkalradských dob a jeho mléko a máslo vyhledávají obchodníci a cestovatelé projíždějící krajem." />
+    <string id="Settlements.Settlement.text.village_EN4_2" text="Alatys leží na plochém jižním konci jezera Laconis, v deltové nížině tvořené řekou Nevys. Vody jezera, které jsou zde velmi mělké a bahnité, jsou dobře zarybněny platýsy a raky, zatímco v řece Nevys proti proudu lze lovit pstruhy." />
+    <string id="Settlements.Settlement.text.village_EN4_3" text="Nortanisa je rybářská vesnice na jižním břehu jezera Laconis. Obyvatelé vesnice umísťují na mělké okraje jezera sítě a klece, v nichž loví plotice, cejny, okouny a raky." />
+    <string id="Settlements.Settlement.text.village_EN4_4" text="Hetania leží pod výběžkem na vzdáleném severovýchodním ohybu pohoří Dryatic. Stejně jako v mnoha okolních vesnicích i zde lesníci stále mluví palajskými jazyky kmenů, které zde žily před příchodem císařství." />
+    <string id="Settlements.Settlement.text.village_EN5_1" text="Vealos leží na pomalu se zvedajících východních svazích Dryatických hor ve východních končinách Říše. Ačkoli jsou horské svahy z větší části porostlé bukovými a dubovými lesy, poskytují dobrou pastvu pro koně a tradičně se zde nacházejí hřebčíny pro císařskou jízdu." />
+    <string id="Settlements.Settlement.text.village_EN5_2" text="Orthra, relativně nedávná osada, byla pojmenována císařským kapitánem podle úsvitu pro svůj pěkný výhled na východní Myzead, pahorkatinu východní části říše. Byla založena jako hřebčín pro chov císařských koní se stepními zvířaty z východu a dodnes poskytuje koně pro císařskou jízdu." />
+    <string id="Settlements.Settlement.text.village_EN5_3" text="Themys leží pod hřebenem vápencových skal v Myzeadu, pahorkatině v srdci císařství. Trávy na kopcích jsou vhodné pro chov ovcí." />
+    <string id="Settlements.Settlement.text.village_EN5_4" text="Samatha leží na svažitém hřebeni ve sluncem zalité vrchovině Myzeadu. Svahy byly terasovitě upraveny, aby zde mohly růst morušové keře. Listy se sbírají, ukládají do kádí a krmí se jimi bource morušového." />
+    <string id="Settlements.Settlement.text.village_EN6_1" text="Avasinton leží v divočejším východním cípu Myzeadu, v hornaté krajině centrální říše. Vesničané vykáceli houštiny a trnité křoviny této oblasti, včetně štiplavého pelyňku, podle kterého je vesnice pojmenována, aby zde mohly růst morušové keře, jejichž listy se sklízejí a zkrmují bource morušového." />
+    <string id="Settlements.Settlement.text.village_EN6_2" text="Boreagora leží na chladném severu říše, u sítě ledovcových jezer známých jako Iltanské přístavy. Nedaleké císařské pevnosti, čnící nad vodními cestami, střeží sturgiánské a chuzaitské nájezdníky. Zdejší nížiny jsou vhodné pro pěstování lnu." />
+    <string id="Settlements.Settlement.text.village_ES1_1" text="Caira leží uprostřed sítě řek, jezer a lagun známých jako Calsea. Dále na východ se půda stává zásaditou a neúrodnou, ale zde se v záplavových oblastech souběžných řek Calsa a Tiagys pěstuje pšenice." />
+    <string id="Settlements.Settlement.text.village_ES1_2" text="Polisia leží uprostřed sítě řek a jezer známých jako Calsea nedaleko aserských hranic. Vesničané sbírají sůl z laguny na západě, bývalého přítoku perského moře, který byl odříznut písečnou přesypkou. Těmto nížinám se mnoho ostatních obyvatel Kalradie vyhýbá, protože jim připadají husté a páchnoucí, ale obyvatelé jsou hrdí na to, že hlídají Aserai." />
+    <string id="Settlements.Settlement.text.village_ES1_3" text="Tegresos leží severně od řeky Calsa, těsně před jejím vtokem do sítě jezer, potoků a lagun, které tvoří hranici s Aserai. Obyvatelé této oblasti chovají ovce, které se živí bažinatými travinami." />
+    <string id="Settlements.Settlement.text.village_ES1_4" text="Erebulos leží u laguny, která byla dříve součástí Perského moře, uzavřeného nedávno vzniklou písečnou přesypkou. Vesničané zde nabírají hlínu ze dna potoka a prodávají ji do hrnčířských pecí v Danustice a dalších okolních městech." />
+    <string id="Settlements.Settlement.text.village_ES2_1" text="Vesnice Atphynia leží nedaleko ústí řeky Sethys, těsně předtím, než se rozdělí na tři části a vytvoří údolí známé jako Tripotamie. Obyvatelé vesnice zde založili solné pánve poblíž místa, kde se ústí řeky Sethys do Perského moře." />
+    <string id="Settlements.Settlement.text.village_ES2_2" text="Gorcorys leží na řece Gorea, nejjižnějším přítoku řeky Sethys v údolí Tripotamie. Zdejší tmavá, dobře zavlažovaná půda dělá z tohoto regionu císařskou obilnici." />
+    <string id="Settlements.Settlement.text.village_ES2_3" text="Avalyps leží u pramenů řeky Calsa v teplých pobřežních kopcích jižní části říše. tmavá, dobře zavlažovaná půda zde činí z tohoto regionu císařskou obilnici." />
+    <string id="Settlements.Settlement.text.village_ES2_4" text="Alision leží na severním pobřeží Perského moře. Ačkoli je rybolov v těchto končinách chudý, vesničané si zde vybudovali solné pánve, které trčí daleko do mělkých vod." />
+    <string id="Settlements.Settlement.text.village_ES3_1" text="Canoros leží v rovinatém jižním cípu Lykarejské nížiny. Tato země byla dobrou koňskou krajinou ještě před příchodem císařství a poskytovala oře lykareským jezdcům, kteří porazili několik kalradských armád před jejich konečnou porážkou a začleněním do císařské kavalerie." />
+    <string id="Settlements.Settlement.text.village_ES3_2" text="Tevea leží v místech, kde se Lykarejské pláně pomalu zvedají k úpatí Ornianské skály. Na svazích tohoto mohutného výběžku, pojmenovaného podle supů, kteří z jeho výšin shlížejí na mlhavé roviny pod ním, chovají ovce." />
+    <string id="Settlements.Settlement.text.village_ES3_3" text="Zestea leží na místě, kde se roviny Lycarey setkávají s pobřežními iltarskými kopci. Na nízkých svazích s výhledem na mlhavé roviny se pasou ovce." />
+    <string id="Settlements.Settlement.text.village_ES4_1" text="Sagora na nízkém hřebeni uprostřed lycarské roviny. Tento okrsek patří ke skalnatějším a méně úrodným částem roviny, ale údolní křoviny stále podporují pastvu ovcí." />
+    <string id="Settlements.Settlement.text.village_ES4_2" text="Popsia v úzkém kaňonu mezi Ornianskou skálou a údolím tůně Ophthys. V chladném stínu kopců zde rostou vysoké stromy a vesničané sklízejí borovice na prodej jako dřevo." />
+    <string id="Settlements.Settlement.text.village_ES4_3" text="Canterion leží na východě Lykareské nížiny. Pomalu se zvedající půda zde dostává více srážek než v jiných částech planiny a díky bohatým travinám je to dobrá koňská krajina už před příchodem císařství." />
+    <string id="Settlements.Settlement.text.village_ES5_1" text="Lanthas na rozlehlých pláních jižně od jezera Tanaesis. Je to dobrá země pro ovce, ale v zemi, kterou pročesávají císařští uprchlíci, divocí eleftheroiští jezdci a stepní kočovníci, se zdejší vesničané naučili svá stáda pečlivě hlídat." />
+    <string id="Settlements.Settlement.text.village_ES5_2" text="Lartusys leží poblíž jižního konce jezera Tanaesis. Vesnice leží nedaleko naleziště soli a na povrch občas vyvěrají solné prameny, které živí legendu, že zde kdysi bývala brána do strašidelného podzemního moře." />
+    <string id="Settlements.Settlement.text.village_ES5_3" text="Parasemnos leží v nízkém průsmyku, který spojuje tanaitskou rovinu s údolím řeky Calsa. Obyvatelé vesnice chovají ovce na křovinách, které byly přeměněny na pastviny." />
+    <string id="Settlements.Settlement.text.village_ES6_1" text="Saldannis leží pod sádrovcovými srázy nad řekou Sethys. Jemná půda z kopců vytváří při splachování do řeky lepkavou hlínu, která je velmi ceněna hrnčíři na císařském jihu." />
+    <string id="Settlements.Settlement.text.village_ES6_2" text="Spotia leží podél mírně tekoucí řeky Sethys. Nízké kopce této oblasti jsou jednou z obilnic říše." />
+    <string id="Settlements.Settlement.text.village_ES6_3" text="Amycon leží v řadě malých, ale ostrých hřebenů mezi Ornionskou skálou a údolím Aris. Obyvatelé tohoto kraje jsou pastevci ovcí, známí svým suchým slaným sýrem ochuceným kmínem." />
+    <string id="Settlements.Settlement.text.village_ES7_1" text="Psotai leží poblíž jižního cípu jezera Tanaesis. Nízko položená pole jsou zde jedním z hlavních center produkce obilí ve východních pohraničních oblastech." />
+    <string id="Settlements.Settlement.text.village_ES7_2" text="Vargornis je rybářská vesnice na jezeře Tanaesis. Ve vodách jezera se občas vyskytují obrovské štiky, ale i běžnější okouni a cejni." />
+    <string id="Settlements.Settlement.text.village_ES7_3" text="Eunalica leží na západním břehu jezera Tanaesis. Tato nízko položená země je vhodnou půdou pro pěstování lnu." />
+    <string id="Settlements.Settlement.text.village_EW1_1" text="Primessos leží v zalesněném horním toku údolí Gavys. V tomto podnebí se daří prasatům, která se živí žaludy jižních dubů." />
+    <string id="Settlements.Settlement.text.village_EW1_2" text="Montos leží na úpatí srázu Cursion, nedaleko battánské hranice. Zdejší lesníci bedlivě sledují své sousedy a neustále vyhlížejí nájezdníky přicházející na západ z údolí řeky Miron na východě." />
+    <string id="Settlements.Settlement.text.village_EW1_3" text="Nideon leží na nízko položeném meandru řeky Zeos, ve stínu plutonické hory Erithrys. Na polích rekultivovaných z říčních bažin roste len." />
+    <string id="Settlements.Settlement.text.village_EW2_1" text="Tarcutis leží na břehu Perského moře. Písčitá půda a ranní mlhy, odváděné pobřežními ostrovy, umožňují pěstování vinné révy s výhledem na pláže." />
+    <string id="Settlements.Settlement.text.village_EW2_2" text="Nová vesnice Neocorys leží na mírně svažité půdě v údolí Temea, které bylo teprve nedávno zbaveno lesa. Místní majitelé pozemků zde zřídili hřebčíny, které dodávají koně císařské kavalerii." />
+    <string id="Settlements.Settlement.text.village_EW2_3" text="Alsasos leží na západním konci Temey, širokého údolí severně od Perského moře. Ačkoli je zde poměrně suché podnebí, artézské studny umožňují zemědělcům pěstovat bohatou úrodu pšenice." />
+    <string id="Settlements.Settlement.text.village_EW2_4" text="Zeocorys na úpatí Ilatarských kopců, které se táhnou podél jižního pobřeží říše. Ačkoli je zde poměrně suché klima, artézské studny umožňují zemědělcům pěstovat bohatou úrodu pšenice." />
+    <string id="Settlements.Settlement.text.village_EW3_1" text="Gamardan leží v čele malého zálivu, který odbočuje z většího Charaského zálivu. Vína z této oblasti jsou neobyčejně sladká a silná a jsou ceněna v celé říši." />
+    <string id="Settlements.Settlement.text.village_EW3_2" text="Aegosca leží v čele Temea, širokého údolí v jižní Kalradii. Ačkoli je pojmenována po kozách, které se v této oblasti dříve pohybovaly, majitelé pozemků přenechali pastviny chovu mnohem výnosnějších koní." />
+    <string id="Settlements.Settlement.text.village_EW3_3" text="Dradios leží u Malého Amynisu, přítoku řeky Aminys, která se valí z výšin nad ním. Vesničané horské potoky odvádějí k zavlažování svých bohatých obilných polí." />
+    <string id="Settlements.Settlement.text.village_EW4_1" text="Arpotis leží na vysokém srázu s výhledem na soutok řek Aminys, Gavys a Zeos. Stráně kopců jsou terasovitě upraveny pro pěstování pšenice a jsou na nich umístěny cisterny, které zachycují déšť vanoucí od moře." />
+    <string id="Settlements.Settlement.text.village_EW4_2" text="Lysia nese jméno podle úzkého průlivu, kde se Perské moře spojuje se západním oceánem. Leží právě na peraské straně úžiny, poblíž širokých pláží, které umožňují pěstování soli." />
+    <string id="Settlements.Settlement.text.village_EW4_3" text="Vinela leží pod vodopády, kudy se říčka Aminys řítí dolů a vlévá se do Perského moře. Vesničané sbírají sůl z moře ve stínu pobřežních útesů." />
+    <string id="Settlements.Settlement.text.village_EW4_4" text="Garengolia leží poblíž bohaté žíly stříbra v kopcích nad řekou Gavys. Říše z těchto dolů po staletí razila své dináry." />
+    <string id="Settlements.Settlement.text.village_EW5_1" text="Elipa leží poblíž horního toku údolí řeky Aris. Tato slunná, dobře zavlažovaná vysočina je jednou z obilnic říše." />
+    <string id="Settlements.Settlement.text.village_EW5_2" text="Phasos leží uprostřed křídových kopců mezi údolími Temea a Aris. Bohaté travnaté porosty v údolí patří k nejlepším půdám pro chov koní v Říši." />
+    <string id="Settlements.Settlement.text.village_EW6_1" text="Karfenion leží v zalesněné vrchovině mezi velkou čedičovou deskou hory Erithrys a Dryatickými horami. Vesničané chovají na vysočinských pastvinách dobytek." />
+    <string id="Settlements.Settlement.text.village_EW6_2" text="Vathea leží vysoko na svazích Dryatických hor, obrácená přes údolí k velké čedičové desce hory Erithrys. Vesničané těží železo ze šachet vyhloubených hluboko ve skalách hor." />
+    <string id="Settlements.Settlement.text.village_EW6_3" text="Thersenion leží v horní části údolí Aminys, ve stínu hory Erithrys, velké čedičové desky vystupující z hlubin země. Tato oblast je jednou z obilnic říše." />
+    <string id="Settlements.Settlement.text.village_EW6_4" text="Leblenion leží podél řeky Aminys ve stínu hory Erithrys, velké čedičové desky vyvržené z hlubin země. Tato oblast je jednou z obilnic říše." />
+    <string id="Settlements.Settlement.text.village_K1_1" text="Fisnar leží podél řeky Zakhan, přítoku Karakaze. Ačkoli je toto údolí po většinu roku zaváté sněhem, jarní trávy přesto živí početná stáda ovcí, jejichž hustá vlna je chrání před ledovými větry této země." />
+    <string id="Settlements.Settlement.text.village_K1_2" text="Ulán leží v údolí řeky Karakaz. Vesničané, kočovníci, kteří byli nedávno donuceni chány usadit se, se naučili pěstovat len v této nízko položené bažinaté zemi." />
+    <string id="Settlements.Settlement.text.village_K1_3" text="Kuruluk leží podél řeky Zakhan, přítoku Karakaze. Ačkoli je toto údolí po většinu roku zaváté sněhem, stepním poníkům se zde daří na jarních travinách a v zimě se prohrabávají sněhem, aby získali potravu, a jejich hustá srst je chrání před ledovými nárazy větru." />
+    <string id="Settlements.Settlement.text.village_K1_4" text="Asalig leží na úpatí Bars Dagu, jednoho z vrcholů, které označují okraj náhorní plošiny Devseg. Vesničané na nižších svazích chovají koně a hlídají sněžné levharty, po nichž je vrchol pojmenován." />
+    <string id="Settlements.Settlement.text.village_K2_1" text="Karakalat leží v kotlině na plochém východním okraji náhorní plošiny Devseg. Donedávna toto území ovládali kočovníci a dodnes je proslulé jako chovná oblast koní." />
+    <string id="Settlements.Settlement.text.village_K2_2" text="Tismil leží na řece Ozu, která odvodňuje jižní cíp náhorní plošiny Devseg. Obyvatelé této země jsou pastevci ovcí, kterým se pod nadvládou Khuzaitů daří dobře, protože chánové drží kočovné nájezdníky na uzdě." />
+    <string id="Settlements.Settlement.text.village_K2_3" text="Gereden a jeho odlehlé vesnice na jižním konci náhorní plošiny Devseg, poblíž soutoku řek Ozu a Teyagh. Ačkoli se jedná o drsný kraj, je známý díky jemné hlíně, kterou lze sbírat v roklích." />
+    <string id="Settlements.Settlement.text.village_K2_4" text="Kiraz leží v kotlině na jižním konci náhorní plošiny Devseg. Donedávna tuto krajinu ovládali kočovníci a lidé se zde stále živí chovem ovcí." />
+    <string id="Settlements.Settlement.text.village_K3_1" text="Šapešt leží v místě, kde se vody řeky Zakhan stékají s Karkazem. Vesnice se živí těžbou nedalekých ložisek soli." />
+    <string id="Settlements.Settlement.text.village_K3_2" text="Hanekhy leží na severním výběžku Akkanských hor. Červenavé pruhy v půdě a skalách svědčí o bohatých ložiscích železa, které vesničané těží." />
+    <string id="Settlements.Settlement.text.village_K3_3" text="Rybářská vesnice Mazen leží na severním konci jezera Tanaesis, kterému Khuzaité říkají Tanazské moře. Vesničané nastražují sítě v nedaleké řece Karakaz, aby chytali různé ryby migrující do jezera a z něj." />
+    <string id="Settlements.Settlement.text.village_K4_1" text="Omrotok leží na úpatí pohoří Sulun Dag, které vyznačuje východní hranici náhorní plošiny Devseg. Vesničané chodí do nedalekých lesů těžit jeden z mála zdrojů dřeva v Devsegu." />
+    <string id="Settlements.Settlement.text.village_K4_2" text="Ransam na jihovýchodních pláních náhorní plošiny Devseg. Vesničané, kteří ještě nedávno žili kočovným způsobem života, se specializují na chov koní." />
+    <string id="Settlements.Settlement.text.village_K4_3" text="Mivanjan leží na úpatí pohoří Sulun Dag, které vyznačuje východní hranici Devsegské plošiny. Vesničané, kteří ještě nedávno žili kočovným způsobem života, chovají na úpatí hor ovce." />
+    <string id="Settlements.Settlement.text.village_K4_4" text="Urunjan při západním okraji náhorní plošiny Devseg, na úpatí pohoří Akkan. Vesničané zde chovají dobytek, který je vyšlechtěn tak, aby vydržel horká léta i mrazivé zimy." />
+    <string id="Settlements.Settlement.text.village_K5_1" text="Kamšár leží na břehu jezera Tanaesis, kterému Chuzaité říkají Tanazské moře. Rybolov je v těchto místech chudý, ale vesničané sbírají na břehu jezera hlínu, kterou prodávají hrnčířům v Chaikhandu a dalších městech." />
+    <string id="Settlements.Settlement.text.village_K5_2" text="Okhutan je vesnice uprostřed pšeničného okresu na úzkém úseku roviny mezi Akkanskými vrchy a jezerem Tanaesis, které Chuzaité nazývají Tanazské moře." />
+    <string id="Settlements.Settlement.text.village_K5_3" text="Ispantar je vesnice na skalnatém výběžku Akkanských kopců s výhledem na jezero Tanaesis, které Chuzaité nazývají Tanazské moře. Obyvatelé této vesnice mají většinu příjmů z chovu ovcí." />
+    <string id="Settlements.Settlement.text.village_K5_4" text="Pabastan leží v úzké rovině mezi Akkanskými vrchy a jezerem Tanaesis, které Khuzaité nazývají Tanazské moře. V této zemi se dobře pěstuje pšenice." />
+    <string id="Settlements.Settlement.text.village_K6_1" text="Karahan leží v podhůří Kohi Rohini, horách úsvitu. Zdejší vesničané kupují koně od potulných kmenů a některé si chovají sami, takže odtud pochází mnoho koní, na kterých jezdí chuzaitská vojska." />
+    <string id="Settlements.Settlement.text.village_K6_2" text="Nutyuk leží pod výběžkem známým pod daršijským jménem Kohi Rohini, hory úsvitu. Zdejší vesničané, většinou nedávno usedlí kočovníci, chovají ovce jako jejich předkové." />
+    <string id="Settlements.Settlement.text.village_K6_3" text="Danara leží u slaného jezera, které Khuzaité znají jako Tsanga Nor, tůň, která neuhasí žízeň. Vesničané v těchto končinách získávají z hořké vody sůl." />
+    <string id="Settlements.Settlement.text.village_K6_4" text="Kohi Ajik leží v úzkém suchém údolí na úpatí takzvané Milenecké hory, od níž je odvozeno jeho jméno. Lidé z tohoto kraje kupují koně od kočovníků na východ od nich a prodávají je chuzejské šlechtě ve městech." />
+    <string id="Settlements.Settlement.text.village_S1_1" text="Rodobas, rod Obasů, je pojmenován po dávno mrtvém sturgiánském horském náčelníkovi. Stojí vysoko na hřebeni s výhledem na divočinu Ircary a slouží jako základna pro trapery, kteří v temných lesích pod ním hledají kožešiny," />
+    <string id="Settlements.Settlement.text.village_S1_2" text="Forin leží mezi žitnými a ječnými poli u řeky Galchy na okraji irkarské divočiny. Vesnice prosperuje z obilí, které prodává lesním lovcům kožešin." />
+    <string id="Settlements.Settlement.text.village_S1_3" text="Kargrev byl kdysi Car Gryff, obléhací hrad battanského náčelníka Gryffa, ale před dvěma generacemi jej dobyli Sturgiani. Leží podél Varchegského zálivu, kde místní rybáři využívají relativně chráněných vod zálivu, kam se táhnou ryby mnoha druhů." />
+    <string id="Settlements.Settlement.text.village_S2_1" text="Safna leží na vysokém hřebeni s výhledem na peřeje, které spojují jezero Laconis s úzkým Mazoporským zálivem. Vesničané chovají dobytek na travnatých polích s výhledem na mořské útesy." />
+    <string id="Settlements.Settlement.text.village_S2_2" text="Marabrot leží na vysokém skalnatém hřebeni mezi fjordem známým jako Mazoporský záliv a Byalským mořem. Tento drsný kraj by pravděpodobně nebyl osídlen, kdyby nebylo bohatých ložisek železa v kopcích." />
+    <string id="Settlements.Settlement.text.village_S2_3" text="Dvorusta je rybářská vesnice s výhledem na peřeje spojující Varchegský záliv s jezerem Laconis. Vesničané se za úsvitu vydávají po útesech dolů, aby ulovili lososy, kteří přeskakují skály, a také sledě a tresky v moři." />
+    <string id="Settlements.Settlement.text.village_S3_1" text="Chornobas neboli Černý les leží na pozemcích vykácených z lesů s výhledem na katarakt, kterým se řeka Miron vlévá do jezera Laconis. Vesničané pěstují žito a ječmen na polích zamlžovaných sprškou z vodopádu." />
+    <string id="Settlements.Settlement.text.village_S3_2" text="Skorin leží na výběžku oddělujícím Dyatomskou zátoku od širšího jezera Laconis. Vesničané loví sladkovodní platýze z mělkých vod zálivu a větší úlovky včetně štik z hlavního jezera." />
+    <string id="Settlements.Settlement.text.village_S4_1" text="Borchovagorka leží na malé vyvýšenině na strmém severním břehu jezera Laconis. Vesnice je závislá především na rybolovu, z jezerních vod tahá okouny, cejny, lososy a příležitostně velké jesetery a štiky." />
+    <string id="Settlements.Settlement.text.village_S4_2" text="Glavstrom leží pod horou Iltan, skalnatým vrcholem ve východní Kalradii, pojmenovaným po bohu stepních národů. Tyto divoké kraje oplývají kožešinovými kunami, liškami, zajíci a dalšími zvířaty." />
+    <string id="Settlements.Settlement.text.village_S4_3" text="Omkany leží v místech, kde se pobřeží jezera Laconis zvedá k ledovému pohoří Chertyg. Vesničané v tomto kraji chovají vepře, jejich sádlo nakládají do soli a česneku a prodávají ho po celém severním kraji." />
+    <string id="Settlements.Settlement.text.village_S4_4" text="Yangutum leží v zákoutí pohoří Chertyg na severním břehu jezera Laconis. Zdejší vesničané našli ve svazích hor ložiska železné rudy." />
+    <string id="Settlements.Settlement.text.village_S5_1" text="Visibrot je vesnice s chovem ovcí na nižších svazích hory Iltan, těsně pod sítí ledovcových jezer známých jako Iltanské portály. Ačkoli je tato oblast chladná a odlehlá, díky svému významu jako obchodní křižovatka mezi jezery Laconis a Tanaesis, mezi říší a stepí, je poměrně hustě osídlená." />
+    <string id="Settlements.Settlement.text.village_S5_2" text="Bukits leží na východních svazích hory Iltan na chuzaitské hranici. Vesničané zde chovají vysokohorský dobytek, který je vyšlechtěn tak, aby odolával ledovým nárazům, jež se z hory valí." />
+    <string id="Settlements.Settlement.text.village_S5_3" text="Alov leží na okraji ledovcových jezer známých jako iltanské portály. Na vyvýšených místech nad jezery vesničané pěstují žito a ječmen a bohatá černozem jim kompenzuje dlouhé zimy a krátké vegetační období." />
+    <string id="Settlements.Settlement.text.village_S6_1" text="Vesničané z Kvol chovají na úpatí pohoří Chertyg malý, statný dobytek. Jsou mezi nimi potomci uprchlíků a nespokojenců z celé Kalradie, kteří hledají izolaci v chladných severních lesích." />
+    <string id="Settlements.Settlement.text.village_S6_2" text="Radakmed leží v kotlině uprostřed pohoří Chertyg. Vesničané zde pěstují len na bažinatém dně údolí." />
+    <string id="Settlements.Settlement.text.village_S6_3" text="Alebat leží hluboko v lesích severovýchodní Sturgie. Tento izolovaný kraj byl dlouho útočištěm těch, kteří utíkali před útlakem, dluhy nebo krevní mstou přes severní země, a zdejší dialekt je silně ovlivněn jazykem vannských lesních lidí." />
+    <string id="Settlements.Settlement.text.village_S7_1" text="Korsyas leží poblíž nejužší části Varchegského zálivu. Vesničané loví ve vodách na západě tresky, mloky a další studenovodní mořské ryby, které se do zálivu odváží." />
+    <string id="Settlements.Settlement.text.village_S7_2" text="Karbur leží na náhorní plošině na poloostrově Kachyar. Vesničané zde pěstují ječmen a obilí a jsou poněkud chráněni vysokým hřebenem na severu." />
+    <string id="Settlements.Settlement.text.village_S7_3" text="Zhemyan je rybářská vesnice na severním pobřeží poloostrova Kachyar. Vesničané zde statečně čelí bouřím, které se prohánějí Byalským mořem, aby vytáhli bohaté úlovky tresek, uhláků a někdy i malých velryb." />
+    <string id="Settlements.Settlement.text.village_V1_1" text="Kaliok na rovné planině mezi Epirickými a Biskajskými vrchy v centrální části Vlandie. Obyvatelé tohoto kraje pěstují na bažinatých pozemcích len." />
+    <string id="Settlements.Settlement.text.village_V1_2" text="Etirfurd leží nedaleko battanské hranice na nízkém ostrohu západně od místa, kde řeka Etir vytéká z pramene ve skalách masivu Uchalion. Vesničané zde pěstují pšenici, která nachází odbyt v nedalekých posádkách." />
+    <string id="Settlements.Settlement.text.village_V1_3" text="Jméno Rodetan je odvozeno od rudé, na železo bohaté půdy v této části Rhennodských vrchů. Doly v této oblasti dodávají železnou rudu do mnoha kováren Vlandianského království." />
+    <string id="Settlements.Settlement.text.village_V2_1" text="Mareiven se rozkládá na strmých zalesněných svazích Rhennodských hor s výhledem na Ocspool. Vesničané zde těží vzrostlé stromy z výšin a prodávají kmeny do měst na pobřeží." />
+    <string id="Settlements.Settlement.text.village_V2_2" text="Oritan leží na krátké řece, která vytéká z hor poloostrova Ebor a vlévá se do Ocspool. Řeka se v nedalekém ohybu zpomaluje, což umožňuje sběr hrnčířské hlíny z břehů." />
+    <string id="Settlements.Settlement.text.village_V2_3" text="Fregian leží na rovině severně od Pravendu, kde teplo vlandianského jihu začíná ustupovat severnímu chladu. Vesničané zde uprostřed bažin a pastvin pěstují len." />
+    <string id="Settlements.Settlement.text.village_V2_4" text="Marin leží na svazích západně od Ocspool. Mlhavá rána ochlazovaná mořem unášeným k jihu a teplá odpoledne činí tento kraj vhodným pro pěstování vinné révy." />
+    <string id="Settlements.Settlement.text.village_V3_1" text="Valanby se rozkládá nad ústím řeky Trand. Vesničané pěstují len na půdě rekultivované z bažin na břehu řeky." />
+    <string id="Settlements.Settlement.text.village_V3_2" text="Rulund leží v zalesněných středních údolích řeky Trand. Vesničané se specializují na chov prasat, která se živí žaludy z dubových lesů." />
+    <string id="Settlements.Settlement.text.village_V3_3" text="Larnac leží na mírných kopcích v údolí dolního Trandu. Vesničané pěstují žito, ječmen a pšenici, které prodávají hladovému městskému obyvatelstvu nedalekého Pravendu." />
+    <string id="Settlements.Settlement.text.village_V3_4" text="Palisont leží v ústí skalnaté rokle, která rozděluje travnaté údolí severně od řeky Trand. Půda je v těchto místech řídká, ale vesnici se daří chovat prasata a další hospodářská zvířata." />
+    <string id="Settlements.Settlement.text.village_V5_1" text="Furbec leží na výběžku s výhledem na skalnaté biskajské pobřeží střední Vlandie. Podnebí je zde po většinu roku teplé a na svazích biskanských kopců se dobře daří vinné révě." />
+    <string id="Settlements.Settlement.text.village_V5_2" text="Meroc je rybářská vesnice s výhledem na zátoku na biskajském pobřeží. Vesničané vyplouvají do západního oceánu a hledají parmy a okouny poblíž pobřeží a tuňáky a sardinky uprostřed ostrovů na jihu." />
+    <string id="Settlements.Settlement.text.village_V5_3" text="Nogrent leží na svahu biskanských kopců ve střední Vlandii. Vesničané zde chovají ovce na pastvinách mezi pobřežními lesy a vysokými skalisky kopců." />
+    <string id="Settlements.Settlement.text.village_V6_1" text="Arromanc leží v údolí Neurval, které se táhne mezi kopci Biscan a Epiric. Teplé kraje na jihu Vlandie jsou vhodné pro pěstování oliv." />
+    <string id="Settlements.Settlement.text.village_V6_2" text="Mot leží v údolí Neurval, které se táhne mezi kopci Biscan a Epiric. Teplé oblasti vlandianského jihu jsou vhodné pro pěstování oliv." />
+    <string id="Settlements.Settlement.text.village_V6_3" text="Alorstan leží na výběžku s výhledem na moře, na úpatí Biskajských vrchů. Teplý jih vlandianských zemí je vhodný pro pěstování oliv." />
+    <string id="Settlements.Settlement.text.village_V6_4" text="Chornad leží nad průsmykem v Biskajských horách. Vesničané v tomto kraji se stejně jako mnozí v centrálním Vlandianském království specializují na chov prasat." />
+    <string id="Settlements.Settlement.text.village_V7_1" text="Savinth leží na teplých travnatých pláních severně od Charaského zálivu. Půda je vhodnou pastvinou pro vyhlášené vlandianské koně." />
+    <string id="Settlements.Settlement.text.village_V7_2" text="Vesnice Vesin leží u potoka stékajícího z Epirických vrchů do Charaského zálivu. Tato teplá země je vhodná pro pěstování olivovníků." />
+    <string id="Settlements.Settlement.text.village_V8_1" text="Horsger je místo, kde podle legendy vystoupil na břeh válečník Horsa a zasadil své kopí do pláže. Dnes je známá pro své odvážné rybáře, kteří se vydávají daleko, aby našli břehy, ochlazované proudy ze severu, které jsou bohaté na tresky." />
+    <string id="Settlements.Settlement.text.village_V8_2" text="Cananc leží ve vlhkých zalesněných kopcích severního Rhennodu, kde v mořských mlhách rostou vysoké cedry. Vesničané loví bobra, kunu a králíka pro jejich kůže." />
+    <string id="Settlements.Settlement.text.village_V8_3" text="Remental leží v průrvě v horách poloostrova Ebor. Na svazích rostou vysoké jedle a smrky. Vesničané loví kožešinová zvířata, jako je kuna, králík a liška. Tento divoký kraj v poslední době přitahuje mnoho osadníků, které láká relativní svoboda lesů, kde je vláda vlandianských baronů mnohem mírnější než na jihu." />
+    <string id="Settlements.Settlement.text.village_V9_1" text="Alantas leží uprostřed hornatého poloostrova Ebor. Půda je zde řídká a počasí chladné, ale bohatá ložiska železa udržují místní ekonomiku." />
+    <string id="Settlements.Settlement.text.village_V9_2" text="Halisvust byl kdysi bažinatou pustinou, ale vlandiánští osadníci vysušili vody a v údolí zaseli pšenici a žito." />
+    <string id="SUnaVliN" text="Chaikand leží u rákosových bažin na okraji jezera Tanaesis. V letech, kdy byl východ císařským protektorátem, se po klidných vodách jezera plavily lodě naložené kůžemi, vlnou a solí a vracely se s císařským hedvábím a stříbrem. S příchodem Khuzaitů a následnými válkami se vodní obchod zastavil, ale Chaikand zůstává hlavním obchodním překladištěm a vojenskou základnou, lénem vládnoucího klanu Urkhunaitů. Z pavilonů svého paláce se chán může dívat na jezero a vidět mlhavé obrysy kopců, na kterých možná jednou bude pást své koně." />
+    <string id="T2E4xKVn" text="Revyl, hlavní město skalnatého poloostrova Kachyar, byl tradičním soupeřem Balgardu. Podle legendy přijala balgardská princezna Arkina, jejíhož manžela zabili Revylané, nabídku krále svého nepřítele, aby se provdala a urovnala spor. O svatební noci však zatarasila dveře do jeho síně a uvnitř upálila zaživa jeho i stovku jeho příbuzných a bojovníků. Spor byl od té doby dávno urovnán smlouvami a sňatky se šťastnějším koncem, ačkoli Revyliané stále nesou nelibě nástup balgardské dynastie Gundarovingů." />
+    <string id="TI3fS2xN" text="Každá říše má město, jehož obyvatelé jsou vysmíváni pro svou provinční nevyspělost, a pro Říši byl takovým městem Jalmarys. Bylo jednou z prvních císařských kolonií založených ve vnitrozemí Perského moře a sloužilo Říši jako základna k podmanění západních palackých kmenů. Paravenos ochotně přijímal kořist a otroky, které jim posílala jeho posádka, ale za zády se jim vysmíval. To se změnilo, když jalmarský generál Carsos provedl vojenský převrat. Když ho jeden senátor, zaražený jeho silným přízvukem, nervózně požádal, aby zopakoval dekret, odjistil meč a řekl: Rozumíš tomu? Rozumím, odpověděl." />
+    <string id="UHvEEEBb" text=" Syronea leží na východním břehu jezera Tanaesis. Toto město, kdysi klidné a bohaté, bylo kdysi synonymem přepychu a dekadence. Bylo centrem hedvábnického průmyslu říše a vstupní branou pro zboží proudící z takzvané Transtanaesie, císařských držav a protektorátů za velkým jezerem. Příchod Chuzaitů však Transtanaesii vyrval z dosahu Impéria a senátorské rody Syroneie byly nuceny znovu se naučit válečnému umění, oprášit staré pozlacené zbroje a nabrousit meče s drahokamy, aby vedly své stoupence proti Urkhunovým bojovníkům." />
+    <string id="uO4dxCl8" text="Přístav Sanala je branou, kterou proudilo obilí z dolního Damaru, aby nasytilo hladový svět. Občasné výpady Říše na jih od Perského moře obvykle směřovaly k tomu, aby se zmocnila této strategické kořisti. Přestože legie byly již dávno donuceny ustoupit, Sanala stále patří mezi nejkosmopolitnější města v Kalradii, plná obchodníků z mnoha zemí, kteří se ucházejí o nejnižší velkoobchodní ceny." />
+    <string id="WGtzBswe" text="Přírodní pevnost Lycaron leží na ostrohu vybíhajícím z velké ornianské skály. V posledních letech císařského dobývání zde kmen Palaiků vyjednal mírovou federaci s říší, jen aby se jejich domova zmocnil vůdce rebelů Gethuz. Následné obléhání bylo jen prvním z mnoha, kterými Lycaron v následujících staletích prošel, protože díky nedalekým stříbrným dolům se stal kořistí každého císařského pretendenta, který se kdy pokusil uchvátit moc v občanské válce. Říká se, že kolonie supů, kteří obývají horní část skály, si pochutnává na mase všech lidí z Kalradie." />
+    <string id="wKMo2CUP" text="Diathma, město Božího dekretu, bylo postaveno císařským generálem na troskách dryatické svatyně s výhledem na jezero Laconis. Bylo posledním útočištěm dryatiků, nejsevernějšího z palaistických národů, kteří se vzbouřili proti říši a byli přemoženi. Podle legendy byli zatlačeni zpět na mělčinu jezera a bojovali, dokud se nevyčerpali a nepohltila je krvavá voda." />
+    <string id="X3MsaG39" text="Seonon, smutný Seonon, má stejně temnou historii jako vody Llyn Tywal. Zde na vrcholu věže stála Krásná Algana a naříkala nad smrtí svého milovaného Gorawana, dokud duchové z onoho světa sami nepropadli smutku a nedovolili jeho stínu, aby na den a noc vystoupil skrze jezírko, aby ji utěšil. V posledních dnech tuto zemi často pustošili sturgianští nájezdníci a nedaleko odtud leží les, kde zmizel král Aeril a uvolnil tak cestu pro vzestup Caladogu." />
+    <string id="xkkI7ejQ" text="Hraničnímu městu Danustica dominuje síť jezer a lagun známá jako Calsea. Dlouho drželo linii proti nájezdům Aserů a různých daršských šáhů a padišáhů dále na východ. Mnoho císařských legionářů, kteří zde byli umístěni, načmáralo na zdi města graffiti, v němž proklínali parná léta, slanou vodu a komáry, kteří se z Kalsea vynořují, ale obyvatelé jsou na svou roli obránců hranic hrdí a vysmívají se vojákům, kteří kolem nich chřadnou v horku." />
+    <string id="Xom9DeXZ" text="Balgard, který leží na ledových vodách Mazoporského zálivu, založili přistěhovalci ze Severních zemí. Legenda praví, že první vlna Seveřanů arogantně požadovala tribut od nedalekých kmenů Vakkenů a Sturgianů, kteří uzavřeli spojenectví a zahnali příchozí zpět na své lodě. Vítězové se však pohádali o kořist, dokud se nevylodil mazaný Nord Gundar, který se nabídl, že jim pomůže spravedlivě rozdělit zbraně a zbroj svých mrtvých příbuzných. Obyvatelé uznali Gundarovo panství nad krajem a jeho potomci, smíšení se Sturgiany, jsou dnes velkoknížaty Sturgie." />
+    <string id="YERtiSUn" text="Dunglanys, Glanysova skála, stojí na vysoké skále s výhledem na Llyn Tywal, temnou tůň v srdci battanské země. Jméno dostala po dávné královně, která se podle legendy postupně provdala za pět battanských králů a udělila jim vládu. Je centrem rituálů, které jsou základem battanského kralování, a přestože ne každý battanský velekrál odtud vládl, všichni se ho touží držet." />
+    <string id="ygJkPxyc" text="Město Odokh leží na úpatí Kohi Rohini, hor úsvitu. Patří k nejvzdálenějším městům Devsegu a podle pověsti bylo sídlem krále Ahhaka, bájného tyrana, z jehož ramen tekli hadi. I dnes má Kohi Rohini pověst černé magie a tajemna, které pomáhá držet cizince na uzdě. Město připadlo během dobývání Khuzaitů klanu Harfitů, kteří se smísili s horskými národy a kteří ctí jejich zvyky, účastní se jejich rituálů a střeží jejich tajemství." />
+    <string id="YNm9vaHw" text="Baltakhand, Pevnost sekery, byl osídlen Iltanlary, horskými bratranci Khuzaitů. Před staletími jejich bejové sestoupili do nížin a vytvořili zde pevnost, která střeží portály Iltanaru, síť jezer a řek, jež odděluje sturgiánské země od říše Khuzaitů. Kruté zimy je chránily před dosahem Říše, ale žádný závan větru nebyl dost řezavý, aby zastavil jezdce chána Urhuna, který před 40 lety donutil toto město podřídit se chanátu." />
+    <string id="ytBRXqt8" text="Vostrum založil kalradský žoldnéř Archacos, jeden z řady zběhlých velitelů, kteří se odtrhli od říše během její expanze. Na rozdíl od některých, kteří se snažili reprodukovat republikánské dědictví říše, se rozhodl vládnout jako božský král. Jeho dynastie trvala několik generací, dokud ji císařská vojska nepřemohla a nerozbila všechny sochy se svatozáří Archakose a jeho nástupců na padrť. Ještě dnes západní a severní císařští senátoři obviňují rody z tohoto regionu, že jsou skrytými monarchisty." />
+    <string id="YYYxOiCq" text="Amprela je nejpřednějším městem na dalekém severovýchodě říše. Na jeho věžích stojí strážní a vyhlížejí majáky z pohraničních pevností na severu, východě a západě, které by mohly signalizovat blížící se nájezdníky. V kasárnách popíjejí jízdní lučištníci rekrutovaní z drsných svobodných obyvatel Eleftheroi a čekají na rozkaz vyrazit proti jezdcům ze stepi. Katafraktové procházejí jeho branami, aby soupeřili se sturgiánskými knížaty o kontrolu nad obchodem přes nedalekou síť jezer známou jako iltanské přístavy." />
+    <string id="ZAGUIKOn" text="Lageta byla nechvalně proslulá tím, že ji císařství získalo zradou. Zlotřilý císařský žoldnéř zavraždil palackého náčelníka, který ho zaměstnával, obsadil citadelu, pozval do ní císařské kolonisty a pak město odkázal císařství. Senát se od jeho činu distancoval, ale odkaz přijal. Oblast je nyní důkladně kalradikalizovaná, ale Battaniané na severu si to pamatují, a kdykoli císařský vyslanec mluví o posvátnosti smluv a paktů, jen na sebe kývnou a řeknou: Lageta." />
+  </strings>
+</base>

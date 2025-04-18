@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData id="Deutsch" name="Čeština" subtitle_extension="de" supported_iso="de,deu,ger,de-de,de-at,de-li,de-lu,de-ch" text_processor="TaleWorlds.Localization.TextProcessor.LanguageProcessors.GermanTextProcessor" under_development="false">
+  <LanguageFile xml_path="DE/de_functions.xml" />
+  <LanguageFile xml_path="DE/std_common_strings_xml-ger.xml" />
+  <LanguageFile xml_path="DE/std_crafting_pieces_xml-ger.xml" />
+  <LanguageFile xml_path="DE/std_TaleWorlds_Diamond_AccessProvider_GDK-ger.xml" />
+  <LanguageFile xml_path="DE/std_TaleWorlds_Diamond_AccessProvider_GOG-ger.xml" />
+  <LanguageFile xml_path="DE/std_TaleWorlds_Diamond_AccessProvider_PS-ger.xml" />
+  <LanguageFile xml_path="DE/std_TaleWorlds_Diamond_AccessProvider_Steam-ger.xml" />
+  <LanguageFile xml_path="DE/std_TaleWorlds_PlatformService_Epic-ger.xml" />
+  <LanguageFile xml_path="DE/std_TaleWorlds_PlatformService_GDK-ger.xml" />
+  <LanguageFile xml_path="DE/std_TaleWorlds_PlatformService_PS-ger.xml" />
+  <LanguageFile xml_path="DE/std_global_strings_xml-ger.xml" />
+  <LanguageFile xml_path="DE/std_item_modifiers_xml-ger.xml" />
+  <LanguageFile xml_path="DE/std_module_strings_xml-ger.xml" />
+  <LanguageFile xml_path="DE/std_mpbadges_xml-ger.xml" />
+  <LanguageFile xml_path="DE/std_mpcharacters_xml-ger.xml" />
+  <LanguageFile xml_path="DE/std_mpclassdivisions_xml-ger.xml" />
+  <LanguageFile xml_path="DE/std_mpitems_xml-ger.xml" />
+  <LanguageFile xml_path="DE/std_multiplayer_strings_xml-ger.xml" />
+  <LanguageFile xml_path="DE/std_native_strings_xml-ger.xml" />
+  <LanguageFile xml_path="DE/std_photo_mode_strings_xml-ger.xml" />
+  <LanguageFile xml_path="DE/std_siegeengines_xml-ger.xml" />
+  <LanguageFile xml_path="DE/std_TaleWorlds_Core-ger.xml" />
+  <LanguageFile xml_path="DE/std_TaleWorlds_MountAndBlade-ger.xml" />
+  <LanguageFile xml_path="DE/std_TaleWorlds_MountAndBlade_GauntletUI-ger.xml" />
+  <LanguageFile xml_path="DE/std_TaleWorlds_MountAndBlade_View-ger.xml" />
+  <LanguageFile xml_path="DE/std_TaleWorlds_MountAndBlade_ViewModelCollection-ger.xml" />
+</LanguageData>

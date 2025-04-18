@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="1CCSLaXG" text="čestný" />
+    <string id="2LhoHBb4" text="odměřený a vzdálený" />
+    <string id="2oLzxPGu" text="agresivní a vyžaduje mnoho od lidí" />
+    <string id="3ojhI49j" text="chladný" />
+    <string id="4Kb43rdf" text="loajální" />
+    <string id="52I465OW" text="ambiciózní a manipulativní" />
+    <string id="5L4ox55u" text="vždy první, kdo nasadí {?NOTABLE.GENDER}svůj {?}krk {\?}pro věc." />
+    <string id="5ogR7oUW" text="ušlechtilý a velkorysý" />
+    <string id="6okDQlyn" text="opatrný" />
+    <string id="6tOrCXWu" text="Hledá ty, kteří {?NOTABLE.GENDER}jí{?}mu{\?} dobře sloužili" />
+    <string id="85SsQ1xA" text="nedůvěryhodná" />
+    <string id="8aAbnMIo" text="odměřený" />
+    <string id="8D5Lx2LY" text="měkkosrdcatý" />
+    <string id="9bUlUrVI" text="divoký a krutý" />
+    <string id="A27HuUiz" text="odvážný" />
+    <string id="aDkmS7iN" text="typ, který jedná bez přemýšlení" />
+    <string id="AgE2Wffg" text="dobrý přítel, ale nebezpečný nepřítel" />
+    <string id="aLO7V5ZZ" text="{?NOTABLE.GENDER}Je{?}Je{\?} upřímný, to se nedá popřít, ale srdce má z kamene." />
+    <string id="bSQF8nac" text="ambiciózní" />
+    <string id="bYa051Bs" text="nečestný, agresivní a ctižádostivý" />
+    <string id="CaSahkj4" text="nečestná ve všech směrech" />
+    <string id="CUR5ZZtd" text="spravedlivá, ale nelítostná" />
+    <string id="Dkmja15D" text="Nedá se mu věřit." />
+    <string id="Dz3kGpkM" text="šílený, zlý a nebezpečný" />
+    <string id="dZ7OtsDv" text="opatrný, ale důvěryhodný" />
+    <string id="etdkWOLn" text="nečestný" />
+    <string id="euinlzab" text="nesmělý" />
+    <string id="fgkQSbUE" text="trochu darebák, ale se zlatým srdcem." />
+    <string id="FNzGHbvb" text="se sklonem k nebezpečným záchvatům zuřivosti" />
+    <string id="GMMg8AwD" text="nelítostný" />
+    <string id="gZMm5J4u" text="nikdy nejedná ve spěchu... Vždycky má plán" />
+    <string id="hFtm7jZT" text="důsledně konvenční" />
+    <string id="HNoD0Xcw" text="statečný, ale snadno se rozzuří a neodpouští." />
+    <string id="HTBQ3E3Q" text="velkorysý k přátelům" />
+    <string id="isnEHNXl" text="Stands up for what {?NOTABLE.GENDER}she{?}he{\?} believes in" />
+    <string id="jFLPNGdH" text="statečný a čestný" />
+    <string id="jqiKsw34" text="nečestný, ale s měkkým srdcem" />
+    <string id="JWTKNySw" text="úzkoprsý" />
+    <string id="KFvms0sR" text="člověk, který rád podstupuje vypočítavé riziko" />
+    <string id="kKFLfWbJ" text="moralistický" />
+    <string id="KxjSILpL" text="typ, který využije každou výhodu" />
+    <string id="L3b9ZsLs" text="rozhazovačný" />
+    <string id="LCs7NMyz" text="Takového člověka nenajdete, který by se hnal do nebezpečí." />
+    <string id="LfmWyPEk" text="konvenční" />
+    <string id="LtBwSe0J" text="laskavý a ohleduplný - i když někteří by mohli říci, že měkkosrdcatý." />
+    <string id="mH8FHX9r" text="opatrný, ale nebezpečný" />
+    <string id="MoQbaOOk" text="krutý a nečestný" />
+    <string id="MVnA7tkN" text="čestný, zlý a krutý, neschopný porušit přísahu ani odpustit urážku" />
+    <string id="mWkCWB6j" text="laskavý, ale opatrný" />
+    <string id="nnDG8Ryc" text="statečný, ale tvrdohlavý" />
+    <string id="NOEYSbeR" text="čestný, ale tvrdohlavý a krutý" />
+    <string id="nYHM3bmc" text="statečný, ale milosrdný" />
+    <string id="OuXZbyeS" text="pozorný, pečlivě odměňující věrné stoupence" />
+    <string id="OwOdbwc5" text="někdy spěchá bez přemýšlení" />
+    <string id="peI78GmJ" text="Nevím, co si o tom myslet..." />
+    <string id="ppTLY8tm" text="spravedlivý a čestný, ale nevděčný" />
+    <string id="PW3Ya1AQ" text="vzteklý" />
+    <string id="Q3TaYO39" text="Typ, který se ze všech sil snaží být spravedlivý a čestný" />
+    <string id="QtcN7aEk" text="odvážný a ctižádostivý" />
+    <string id="qXwYcJHa" text="slušný a laskavý" />
+    <string id="QzNHs8Ch" text="vášnivý a odvážný, i když někdy bez rozmyslu." />
+    <string id="RaecCLdK" text="odvážný a velkorysý, dobrý přítel, kterého je třeba mít" />
+    <string id="Raq3TcUa" text="ohleduplný k ostatním" />
+    <string id="raQIsPly" text="šetrný k nepřátelům, ale bezohledný k přátelům" />
+    <string id="rarG5Bqa" text="vstřícný" />
+    <string id="S6XcP7Wz" text="není lepšího přítele, není horšího nepřítele" />
+    <string id="tc1PuNa8" text="věrný přátelům, ale také krutý a manipulativní" />
+    <string id="TGQD4r5Z" text="galantní" />
+    <string id="UoYPTOPV" text="zrádný, ale alespoň ne krutý" />
+    <string id="URWSOAfG" text="sadistický" />
+    <string id="Vis2eo0Y" text="Má krutou povahu, to se nedá popřít." />
+    <string id="VnaT2Ipq" text="laskavý" />
+    <string id="VujjcI1C" text="Ten má dobré srdce, to se nedá popřít." />
+    <string id="WAzdB4DL" text="chytrý a lstivý" />
+    <string id="WbyybDP6" text="Doesnt always remember those whove done {?NOTABLE.GENDER}her{?}him{\?} a good service" />
+    <string id="wVfZh5eN" text="má prudkou a nebezpečnou povahu." />
+    <string id="XPU5mqSi" text="vychytralý" />
+    <string id="xSbcea2l" text="nespolehlivý" />
+    <string id="Y8WpovVO" text="slušný, ale opatrný" />
+    <string id="YeK2rAWJ" text="krutý" />
+    <string id="yl2q8dL8" text="bezohledný" />
+    <string id="Yyw81AGG" text="přátelský, ale manipulativní" />
+    <string id="znOeRtlb" text="intrikán" />
+  </strings>
+</base>

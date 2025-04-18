@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="3JaHZA3Y" text="Velký pytel {ITEMNAME}" />
+    <string id="5yVgXqQr" text="Opotřebovaný {ITEMNAME}" />
+    <string id="85WO1MKG" text="Dobrý {ITEMNAME}" />
+    <string id="8Pd6fLoy" text="Roztříštěný {ITEMNAME}" />
+    <string id="8Tal0XIj" text="Mistrovský {ITEMNAME}" />
+    <string id="BA9c7gPb" text="Silný {ITEMNAME}" />
+    <string id="bAdxUq7s" text="Kvalita {ITEMNAME}" />
+    <string id="br0N6SSH" text="Prasklý {ITEMNAME}" />
+    <string id="bWhJwHA1" text="Uvolněný {ITEMNAME}" />
+    <string id="eb4miTUB" text="Ohnutý {ITEMNAME}" />
+    <string id="fdgcpipH" text="Vyvážený {ITEMNAME}" />
+    <string id="geUpgQI5" text="Chromý {ITEMNAME}" />
+    <string id="l7QEpVwU" text="Rezavý {ITEMNAME}" />
+    <string id="LmzHz4CG" text="Tupý {ITEMNAME}" />
+    <string id="lRf4t9Qg" text="Legendární {ITEMNAME}" />
+    <string id="Pbb94NdW" text="Roztrhaný {ITEMNAME}" />
+    <string id="PobRGG9S" text="Promáčklý {ITEMNAME}" />
+    <string id="Q5HVyNWJ" text="Přizpůsobený {ITEMNAME}" />
+    <string id="TePk4BSJ" text="Otlučený {ITEMNAME}" />
+    <string id="VbxJPJGe" text="Nevyvážený {ITEMNAME}" />
+    <string id="w3jn7Ahz" text="šlechtický {ITEMNAME}" />
+    <string id="WbaIorOh" text="Tuned {ITEMNAME}" />
+    <string id="xeb1b5PQ" text="Jemný {ITEMNAME}" />
+    <string id="y3TvYqhG" text="Starý {ITEMNAME}" />
+    <string id="zPqPvf0o" text="Voskovaný {ITEMNAME}" />
+  </strings>
+</base>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="0DMM0agr" text="Vliv na vzdálenost" />
+    <string id="1QAEyN2V" text="Použitý cheat: {CHEAT}" />
+    <string id="1tiF5JhE" text="{TITLE} > {SUBTITLE}" />
+    <string id="5zeL8sa9" text="Získal jsi {A0} vliv." />
+    <string id="6qYaQkDD" text="{COUNT} + {PRISONER_COUNT}p" />
+    <string id="7AI8jA0b" text="Vstupní text nemůže být prázdný." />
+    <string id="7WdWK2Dt" text="Uložit hru" />
+    <string id="7yaDnyKb" text="Neexistuje žádný dodatečný vliv perku." />
+    <string id="9svpUWeo" text="Uložená verze ({SAVE_VERSION}) je vyšší než aktuální verze ({CURRENT_VERSION})." />
+    <string id="aG6XMhA1" text="Soubor uložené hry s tímto názvem již existuje." />
+    <string id="Ahy035gM" text="Náklady na sestavení" />
+    <string id="azJulvrp" text="{?IS_BETTING}Přijdete o {BET_AMOUNT}{GOLD_ICON}, pokud se vzdáte. {newline}{?}{\?}Chcete se opravdu vzdát?" />
+    <string id="B3W6fcQX" text="Vstupní text nesmí být delší než {MAX_LENGTH} znaků." />
+    <string id="CiIWjF3f" text="+{PRISONERAMOUNT}p" />
+    <string id="cp2XDjeq" text="Ukládání..." />
+    <string id="CqAhj27p" text=" {ITEM_NAME} x{ITEM_NUMBER}" />
+    <string id="deleteaction" text="Smazat" />
+    <string id="DeXfSjgY" text="Nelze vytvořit nové uložení. Byl dosažen limit pro ukládání." />
+    <string id="eiWQoW9j" text="Získal jsi  {A0} pověsti." />
+    <string id="eL8nhkhQ" text="Vytvořit nový slot pro uložení" />
+    <string id="FFiPLPbs" text="Aktualizovat uložení" />
+    <string id="Fm0rjkH7" text="Ironman" />
+    <string id="GaOE4bdd" text="Přeskočit všechna kola" />
+    <string id="gDKhs4lD" text="Na bojišti zemřel {A0}." />
+    <string id="gZIOG0wl" text="Vliv koňského lučištníka" />
+    <string id="GZWPHmAw" text="Den : {DAY}" />
+    <string id="HH2mZq8J" text="Jste si jisti, že chcete tuto uloženou hru smazat?" />
+    <string id="hiCxFj4E" text="Uložené kampaně" />
+    <string id="hUSmlhNh" text="{CURRENT_PAGE}/{TOTAL_PAGES}" />
+    <string id="hYL3CFHX" text="Chcete tuto uloženou hru přepsat?" />
+    <string id="hZrwUIaq" text="Zdraví" />
+    <string id="IwhpeT8C" text="Úroveň : {PLAYER_LEVEL}" />
+    <string id="jCdZY3i4" text="{PERK_NAME} ({SKILL_LEVEL} - {SKILL})" />
+    <string id="kXRdeawC" text="Vstupní text nesmí obsahovat speciální znaky." />
+    <string id="L9GnQvsq" text="Podíl: {BETTED_DENARS}" />
+    <string id="lPMYSSAa" text="Požadované nástroje" />
+    <string id="M1AEHJ76" text="Všimněte si, že tento save je vytvořen pro relaci, která má zapnutý režim Ironman. Pro příslušnou relaci neexistuje žádný jiný ukládací soubor. Jste si jisti, že chcete tuto uloženou hru smazat?" />
+    <string id="M4WMKyE1" text="Vstupní text obsahuje vyhrazený text." />
+    <string id="nvemmBZz" text="Získal jsi {AMOUNT}% kořisti a vězňů" />
+    <string id="nVGqjtaa" text="Kampaň {ID}" />
+    <string id="O9nwLrYp" text="+{WOUNDEDAMOUNT}w" />
+    <string id="o9PIe7am" text="Zkažený" />
+    <string id="OYtysXzk" text="Podvody" />
+    <string id="pgXuyHxH" text="Kapitánské výhody" />
+    <string id="PY00wRz4" text="Nepodařilo se odstranit soubor s uložením." />
+    <string id="Q1HIlJxe" text="Přepsat" />
+    <string id="QHV8aeEg" text="Smazat uložený soubor" />
+    <string id="qIeDZoSx" text="Zakoupeno{ITEMS}" />
+    <string id="raD9MK3O" text="Obtížnost" />
+    <string id="RoYPofhK" text="Poškozené uložení" />
+    <string id="Rtakaivj" text="Vstupní text musí obsahovat alespoň jeden znak bez mezery." />
+    <string id="SRjrhb0A" text="Vlastněný počet lén" />
+    <string id="SSLUHH6j" text="Vliv pěchoty" />
+    <string id="str_save_text_ps4" text="Uložení. Nevypínejte prosím konzoli." />
+    <string id="str_save_text_ps5" text="Uložení. Nevypínejte prosím svou konzoli." />
+    <string id="TFJTOYea" text="Vyřešen problém" />
+    <string id="uncategorized_save" text="Nezařazené" />
+    <string id="vjhkoUFS" text="Uložení. Nevypínejte prosím konzoli." />
+    <string id="WAKz9xX8" text="Získal jsi {A0} morálky." />
+    <string id="WDlVhNuq" text="Pojmenujte svůj ukládací soubor" />
+    <string id="X8i3jZn8" text="Vliv kavalerie" />
+    <string id="xlEZ02Qw" text="Vizuální zobrazení postavy je během Uložit jako na mapě kampaně vypnuto." />
+    <string id="xu5NA6AW" text="Získal jsi {A0}% kořisti." />
+    <string id="xzzSaN4b" text="Očekávané: {OVERALL_EXPECTED_DENARS}" />
+    <string id="yF5fpwNE" text="Celkem: {TOTAL}" />
+    <string id="YgyHVu8S" text="Prodáno {ITEMS}" />
+    <string id="ZDPIq4hi" text="Načtěte vybranou uloženou hru, přepište ji aktuální verzí hry a vraťte se na tuto obrazovku." />
+  </strings>
+</base>

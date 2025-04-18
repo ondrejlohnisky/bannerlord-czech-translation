@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="A1QabTDA" text="Dračí prapor" />
+    <string id="IzT8jY82" text="Dračí prapor První kus" />
+    <string id="LVXy2C8y" text="Dračí prapor Druhý kus" />
+    <string id="PRsvWzGW" text="Dračí prapor Třetí kus" />
+  </strings>
+</base>

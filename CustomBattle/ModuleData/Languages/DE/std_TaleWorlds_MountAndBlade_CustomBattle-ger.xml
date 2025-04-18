@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="0s52GQJt" text="Úroveň scény" />
+    <string id="0xC75dN6" text="Nepřátelská družina" />
+    <string id="2bHoiaoe" text="Zvýšené poškození proti jízdním oddílům" />
+    <string id="35IHscBa" text="NEPŘÍTEL" />
+    <string id="9RZLSV3E" text="{BONUS_AMOUNT}% poškození způsobené jednotkami pro boj zblízka ve vaší formaci proti jízdě." />
+    <string id="AiNXIt5N" text="Dvojité prolomení" />
+    <string id="AmfIfeIc" text="Vyberte útočící obléhací stroje" />
+    <string id="BC7n6qxk" text="HRÁČ" />
+    <string id="bKg8Mmwb" text="Typ hráče" />
+    <string id="bLXleed8" text="Postava hráče" />
+    <string id="customgamemapname" text="Mapa" />
+    <string id="customgametitle" text="Mapa" />
+    <string id="cZzfNlxd" text="Podzim" />
+    <string id="dsMeB3vi" text="Solidní" />
+    <string id="DszSWnc3" text="Denní doba" />
+    <string id="EcKMGoFv" text="Sallyout" />
+    <string id="eMbuGGus" text="Vyberte vojáky, kteří se budou spawnovat ve formaci." />
+    <string id="iSQTtNUD" text="Tato frakce nemá tento typ vojska." />
+    <string id="KASD0tnO" text="Útočník" />
+    <string id="Kvxo2jzJ" text="Jediný narušitel" />
+    <string id="m86oViPX" text="{BONUS_AMOUNT}% postih k přesnosti pro jednotky na dálku ve vaší formaci." />
+    <string id="MVOWsP48" text="Vyberte stroj pro boj zblízka" />
+    <string id="P3rMg4uZ" text="Strana hráče" />
+    <string id="QAYngoNQ" text="Nepřátelská postava" />
+    <string id="SLZzfNPr" text="Vyberte stroj pro boj na dálku" />
+    <string id="sSJSTe5p" text="Družina hráče" />
+    <string id="UoiSWe87" text="Vyberte obléhací stroje obránce" />
+    <string id="XEVFUaFj" text="Obránce" />
+    <string id="xTzDM5XE" text="Sezóna" />
+  </strings>
+</base>
