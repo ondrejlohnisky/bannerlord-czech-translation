@@ -109,7 +109,7 @@
     <string id="3wS4uOvU" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} bojují ze zálohy." />
     <string id="3xeuA9VP" text="+{TROOP_AMOUNT} Oddíl {?ISPLURAL}{?} {\?} do osady" />
     <string id="3xIv2cP9" text="Držte se na vyvýšeném místě." />
-    <string id="3XsOeE2v" text="{?PAY_OR_GET}Získáš{?}Zaplatíš{\?} {TRADE_AMOUNT}{GOLD_ICON} dinárů" />
+    <string id="3XsOeE2v" text="{?PAY_OR_GET}Získáš{?}Zaplatíš{\?} {TRADE_AMOUNT}{GOLD_ICON}" />
     <string id="3ZRTekjS" text="Rukavice" />
     <string id="4AQmS4iA" text="+{BONUS_AMOUNT} bonus ke kapacitě posádky" />
     <string id="4bq2mUf1" text="Způsobilý k vytvoření království" />

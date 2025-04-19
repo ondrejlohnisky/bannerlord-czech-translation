@@ -121,7 +121,7 @@
     <string id="iVXlb8Lv" text="Ne, ne. Pokračuj." />
     <string id="iwxJWG81" text="Takovou výhodnou nabídku si nemohu nechat ujít. Rád bych si tě najal." />
     <string id="j2auwAej" text="Inženýr musí být především opatrný. Dobrý den, pane." />
-    <string id="j4MeTe5O" text="Vím, kolik vydělává námezdní čepel, a neočekávám větší plat než kdokoli jiný ve vaší firmě. Rád bych vás však požádal o malý poplatek předem, abych se ujistil, že nemáte v úmyslu mě podvést. Řekněme {NPCPAYMENT}{GOLD_ICON} dináry?" />
+    <string id="j4MeTe5O" text="Vím, kolik vydělává námezdní čepel, a neočekávám větší plat než kdokoli jiný ve vaší firmě. Rád bych vás však požádal o malý poplatek předem, abych se ujistil, že nemáte v úmyslu mě podvést. Řekněme {NPCPAYMENT}{GOLD_ICON}?" />
     <string id="jaLG4P9R" text="Mohl bych. Co to je?" />
     <string id="jb3TXFa9" text="Smutný příběh, má drahá, ale Kalradie je jich plná. Dobrý den." />
     <string id="jEtASKar" text="Pokud poneseš mnoho zásob, mohu ti slíbit - jako může v tomto nejistém světě slíbit kdokoli cokoli - že ti svůj plat mnohonásobně vrátím." />
@@ -251,7 +251,7 @@
     <string id="yczuEk0C" text=" Bojoval, aby zabil, ale já byl rychlejší a zabil jsem ho. Necítím žádnou lítost. Každý, kdo si myslí, že může se štítonoškou zacházet jako s movitým majetkem, ať zváží svůj osud." />
     <string id="yjkGHRkA" text="Pro učence je to asi zajímavé, ale pro mě ne. Dobrý den." />
     <string id="ySwWQmYW" text="Poslední věc, kterou chci, má paní, je, aby mě někdo viděl, jak s vámi mluvím." />
-    <string id="yTnm04Hh" text="Mohu si dovolit zaplatit {NPCPAYMENT}{GOLD_ICON} dináry. Připravte se." />
+    <string id="yTnm04Hh" text="Mohu si dovolit zaplatit {NPCPAYMENT}{GOLD_ICON}. Připravte se." />
     <string id="YWQTQ5OH" text="Máš moje vlasy na hlavě. Dobrý den, pane." />
     <string id="yYHCwEeo" text="I teď mám pocit, že jsem udělal moudré rozhodnutí, když jsem koupil pepř - moudré, ale nešťastné. Takové je štěstí! Kdybych se nechopila příležitosti, ostatní obchodníci by se mi posmívali, že jsem příliš plachá žena, než abych uspěla v mužském řemesle. Teď mi nadávají, že jsem zbrklá žena, které chybí mužský úsudek." />
     <string id="Z3b8jrxn" text="Začala jsem se s nimi stýkat poté, co zmizela moje matka. Nejdřív jsme si mysleli, že ji unesli nájezdníci nebo vlci. Takový je život ve stepi, kde jsme žili. Ale duchové mi řekli, že matku nikdo neunesl, že odešla Níže, aby shromáždila duchy ostatních členů své rodiny. Musím být připraven provést obřad jejího návratu." />
