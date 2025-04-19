@@ -527,7 +527,7 @@
     <string id="6jrl3Rbb" text="{FIRSTNAME} Fishsauce" />
     <string id="6kaia5qP" text="Dej mi všechno své zboží!" />
     <string id="6KbDn1HS" text="Budu dbát tvých soudů a zaplatím ti daň, která ti náleží, aby tato země měla silného ochránce." />
-    <string id="6kJ31qut" text="Jo, no, někteří lidé tady mají v těchto dnech trochu málo peněz.[if:convo_calm_friendly][ib:normal]Dali dohromady stádo {ANIMAL_COUNT_TO_DELIVER}. {.%}{?ANIMAL_COUNT_TO_DELIVER &gt; 1}{PLURAL(HERD_TYPE_TO_DELIVER)}{?}{HERD_TYPE_TO_DELIVER}{\?}{.%} na prodej v {TARGET_SETTLEMENT}. Ale jsou to chudí lidé. Nejsou to zrovna bojovníci a nemohou si dovolit najmout stráže. Kdyby tam šli sami, byli by pro případné bandity snadnou kořistí." />
+    <string id="6kJ31qut" text="Jo, no, někteří lidé tady mají v těchto dnech trochu málo peněz.[if:convo_calm_friendly][ib:normal] Dali dohromady stádo {ANIMAL_COUNT_TO_DELIVER}. {.%}{?ANIMAL_COUNT_TO_DELIVER &gt; 1}{PLURAL(HERD_TYPE_TO_DELIVER)}{?}{HERD_TYPE_TO_DELIVER}{\?}{.%} na prodej v {TARGET_SETTLEMENT}. Ale jsou to chudí lidé. Nejsou to zrovna bojovníci a nemohou si dovolit najmout stráže. Kdyby tam šli sami, byli by pro případné bandity snadnou kořistí." />
     <string id="6kjacaiB" text="Doufám, že se mi podaří přinést do země mír a spravedlnost a zmírnit utrpení lidí." />
     <string id="6kn630ka" text="Vládnoucí klan získá 100 dinárů denně za každé město v království{newline}Věrnost osadě se sníží o 1 den." />
     <string id="6L1b1nJa" text="Mám dlouhý seznam účtů, které musím vyřídit. Tím si můžeš být jistý." />
@@ -607,7 +607,7 @@
     <string id="7gabTf4P" text="O {VALUE}% lepší nabídky pro hrdiny od zprostředkovatelů výkupného." />
     <string id="7gZo2SY4" text="Carver" />
     <string id="7h3wBoIt" text="Bloody {FIRSTNAME}" />
-    <string id="7H4HQNvF" text="Ano. Některé rodiny v této osadě potřebují získat trochu peněz.[if:convo_calm_friendly][ib:normal2]Dali dohromady stádo {ANIMAL_COUNT_TO_DELIVER}. {.%}{?ANIMAL_COUNT_TO_DELIVER &gt; 1}{PLURAL(HERD_TYPE_TO_DELIVER)}{?}{HERD_TYPE_TO_DELIVER}{\?}{.%}, aby je prodali v {TARGET_SETTLEMENT}, ale vzhledem k banditům na cestách je tam sami nedovedou. Nejsme obchodníci ani majitelé půdy. Nemůžeme si dovolit žádné ztráty." />
+    <string id="7H4HQNvF" text="Ano. Některé rodiny v této osadě potřebují získat trochu peněz.[if:convo_calm_friendly][ib:normal2] Dali dohromady stádo {ANIMAL_COUNT_TO_DELIVER}. {.%}{?ANIMAL_COUNT_TO_DELIVER &gt; 1}{PLURAL(HERD_TYPE_TO_DELIVER)}{?}{HERD_TYPE_TO_DELIVER}{\?}{.%}, aby je prodali v {TARGET_SETTLEMENT}, ale vzhledem k banditům na cestách je tam sami nedovedou. Nejsme obchodníci ani majitelé půdy. Nemůžeme si dovolit žádné ztráty." />
     <string id="7Hd5yW7B" text="{?CHILD.GENDER}Ona {?}je{\?} doma v poušti. {?CHILD.GENDER}Ona{?}On{\?} se pohybuje jako kočka a má velmi bystré uši a oči." />
     <string id="7HpfrmIU" text="Když o tom tak přemýšlím... Teď na to není ta správná chvíle." />
     <string id="7HvtT8bm" text="Kované železo{@Plural}spousta kovaného železa{\@}" />
@@ -2541,7 +2541,7 @@
     <string id="K6Lhlnbh" text="Mohu si ponechat všechny hrady, které jsem obsadil?" />
     <string id="k8U0928J" text="{VILLAGE} byl přepaden. {QUEST_GIVER.LINK} tě žádá, abys je osvobodil, ale přesto chce, abys vybral {AMOUNT}{GOLD_ICON} dináry od zbytku {?QUEST_GIVER.GENDER}jejích {?}jeho {\?}vesnic." />
     <string id="K8VhWN85" text="{VALUE}% šance na sesazení nepřátelské jízdy těžkým zásahem z kuše." />
-    <string id="k8W02aj9" text="Přidělím společníka s {NEEDED_MEN_COUNT} svými muži, aby doručil {ANIMAL_COUNT_TO_DELIVER} svých mužů. {.%}{?ANIMAL_COUNT_TO_DELIVER &gt; 1}{PLURAL(HERD_TYPE_TO_DELIVER)}{?}{HERD_TYPE_TO_DELIVER}{\?}{.%} bezpečně." />
+    <string id="k8W02aj9" text="Přidělím svého společníka s {NEEDED_MEN_COUNT} muži, aby doručil {ANIMAL_COUNT_TO_DELIVER} {.%}{?ANIMAL_COUNT_TO_DELIVER &gt; 1}{PLURAL(HERD_TYPE_TO_DELIVER)}{?}{HERD_TYPE_TO_DELIVER}{\?}{.%} bezpečně." />
     <string id="k96R57KM" text="Jsme jen neškodní obchodníci..." />
     <string id="K9fcqr0K" text="Vyberte si talent" />
     <string id="K9Nb117q" text="Jízdní zvědové" />
@@ -2909,7 +2909,7 @@
     <string id="militarybase" text="Základna" />
     <string id="miMZavW3" text="Pokřtěn krví" />
     <string id="MiVYmiBc" text="Přepadni úkryt lovců odměn a zachraň před nimi mé společníky. Vyplatí se ti to, řekněme {GOLD_AMOUNT} dináry [if:convo_mocking_revenge][ib:closed2]" />
-    <string id="MJdVfS4z" text="Neboj se. Dodám ti {ANIMAL_COUNT_TO_DELIVER}denáry. {.%}{?ANIMAL_COUNT_TO_DELIVER &gt; 1}{PLURAL(HERD_TYPE_TO_DELIVER)}{?}{HERD_TYPE_TO_DELIVER}{\?}{.%} osobně do {TARGET_HERO.LINK} v {TARGET_SETTLEMENT}." />
+    <string id="MJdVfS4z" text="Neboj se. Dodám ti {ANIMAL_COUNT_TO_DELIVER} denárů. {.%}{?ANIMAL_COUNT_TO_DELIVER &gt; 1}{PLURAL(HERD_TYPE_TO_DELIVER)}{?}{HERD_TYPE_TO_DELIVER}{\?}{.%} osobně do {TARGET_HERO.LINK} v {TARGET_SETTLEMENT}." />
     <string id="mjOcwUSA" text="Veď útok" />
     <string id="mjSauU7P" text="{VICTIM.LINK}zemřel v bitvě." />
     <string id="MjwNHtQd" text="Odmítl jsi dodat stádo, jak tě {QUEST_GIVER.LINK} požádal. Pastýři tě opustili." />
@@ -3072,7 +3072,7 @@
     <string id="nMmYZ3xi" text="{HERO.NAME} právě teď není k dispozici." />
     <string id="nMn63bV1" text="Já jsem {PLAYER.NAME}. Jediné, o co vás žádám, je, abyste si zapamatoval toto jméno a to, co jsem udělal. {newline}Řekněte mi, co uděláte teď?" />
     <string id="nmnp9S7k" text="Šlechtici mají právo jmenovat zřízence." />
-    <string id="NMnpGic4" text="{VALUE}Denár se vrátí, když je jedna z vašich karavan zničena." />
+    <string id="NMnpGic4" text="{VALUE} denárů se vrátí, když je jedna z vašich karavan zničena." />
     <string id="nmTai1Vw" text="V obléhané řízené osadě budeš mít denně {VALUE}% domobrany." />
     <string id="nmz1ky2D" text="Nepodařilo se ti doručit {REQUESTED_ITEM_AMOUNT} {?(REQUESTED_ITEM_AMOUNT &gt; 1)}{PLURAL(REQUESTED_ITEM)}{?}{REQUESTED_ITEM}{\?} do {QUEST_GIVER.LINK} včas." />
     <string id="Nn06TSq9" text="Ještě něco k tomu?" />
