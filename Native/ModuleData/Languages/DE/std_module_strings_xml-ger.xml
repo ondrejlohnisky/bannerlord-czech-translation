@@ -976,7 +976,7 @@
     <string id="LApMSsnb" text="Body soustředění" />
     <string id="laV5aNhK" text="Unikátní" />
     <string id="LAvXPBbs" text="Braňte naše obléhací stroje!" />
-    <string id="lb13ceVM" text="{?RULER.GENDER}Vysoká královna{?}Vysoký král{\?} {RULER.NAME}" />
+    <string id="lb13ceVM" text="{?RULER.GENDER}Nejvyšší královna{?}Nejvyšší král{\?} {RULER.NAME}" />
     <string id="lbdSaDpI" text="Zbývající čas" />
     <string id="LBy6YDMV" text="Přeskupení" />
     <string id="Lc1vIEnM" text="Vlci a ovce se pohybují stejným způsobem, a to posouváním podél čar na hrací desce, vždy po jednom kameni za tah." />
@@ -1032,7 +1032,7 @@
     <string id="mAxXKaXp" text="Obnovení" />
     <string id="mbS0DkUo" text="Nájezd" />
     <string id="mbT1uNPa" text="Dýka" />
-    <string id="Mc8ojOGn" text="Hearths" />
+    <string id="Mc8ojOGn" text="Domácnosti" />
     <string id="MciIqod6" text="Gaučové kopí" />
     <string id="mDbaNQay" text="Vyrazte vpřed a pokuste se zasáhnout svého protivníka!" />
     <string id="mds0myr4" text="{HERO.NAME} {?PLAYER.GENDER}ztratila{?}ztratil{\?} vlastnost {TRAIT_NAME}." />

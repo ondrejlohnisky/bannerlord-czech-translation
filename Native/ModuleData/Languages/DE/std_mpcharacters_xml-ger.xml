@@ -4,35 +4,36 @@
     <tag language="Deutsch" />
   </tags>
   <strings>
-    <string id="8qg72H8Z" text="Kmenový válečník" />
+    <string id="8qg72H8Z" text="Kmenový bojovník" />
     <string id="afhXdjBU" text="Nomád" />
-    <string id="brigandmptroop" text="Brigáda" />
+    <string id="brigandmptroop" text="Zbojník" />
     <string id="CAYZDsAj" text="Legionář" />
-    <string id="coursercavalryman" text="Courser" />
-    <string id="Dq1sCO1y" text="Arbelist" />
+    <string id="coursercavalryman" text="Jezdec na kurýrovi" />
+    <string id="Dq1sCO1y" text="Kušník" />
     <string id="eFWJjaBC" text="Postava pro více hráčů" />
-    <string id="eIk6jaOG" text="Pěchota s kopím" />
-    <string id="eM1qFKNs" text="Ostrostřelec" />
+    <string id="eIk6jaOG" text="Pěchota se kopím" />
+    <string id="eM1qFKNs" text="Přesný střelec" />
     <string id="eU0uANvZ" text="Jezdecký lučištník" />
-    <string id="fS5BIf3J" text="Přísežník" />
-    <string id="ft6QaIms" text="Katafrakt" />
+    <string id="fS5BIf3J" text="Zaslíbený" />
+    <string id="ft6QaIms" text="Kataphrakt" />
     <string id="g9VIbA9s" text="Seržant" />
-    <string id="gLlheMwd" text="Sedlák Levy" />
+    <string id="gLlheMwd" text="Vyzvednutý rolník" />
     <string id="gytrdYMU" text="Mamlúk" />
-    <string id="HCzbW0hE" text="Klanový válečník" />
+    <string id="HCzbW0hE" text="Klanový bojovník" />
     <string id="huntertroop" text="Lovec" />
     <string id="ieiqOaZp" text="Lučištník" />
     <string id="j5I7tYSd" text="Fiann" />
-    <string id="lar4lfKR" text="Chánova garda" />
-    <string id="LLKreyq7" text="Divočáci" />
+    <string id="lar4lfKR" text="Stráž Chána" />
+    <string id="LLKreyq7" text="Divoch" />
     <string id="My0a4Miq" text="Voulgier" />
-    <string id="naBbiK9v" text="Rabble" />
+    <string id="naBbiK9v" text="Povstalecký lid" />
     <string id="NJRUb0C1" text="Palatinská garda" />
     <string id="recruitTroopType" text="Rekrut" />
-    <string id="steppebowtroop" text="Stepní luk" />
-    <string id="TNQaD5p2" text="Lučištnická milice" />
+    <string id="steppebowtroop" text="Stepní lučištník" />
+    <string id="TNQaD5p2" text="Milice lučištníků" />
     <string id="veterantroop" text="Veterán" />
     <string id="XeXJAB6a" text="Menavlionská pěchota" />
-    <string id="yDiWi6SO" text="Divoch" />
+    <string id="yDiWi6SO" text="Divoký" />
   </strings>
+
 </base>

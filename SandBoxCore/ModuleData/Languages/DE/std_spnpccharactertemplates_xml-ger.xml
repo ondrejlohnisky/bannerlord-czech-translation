@@ -4,17 +4,17 @@
     <tag language="Deutsch" />
   </tags>
   <strings>
-    <string id="ansW4mx2" text="Aserai Měšťanka" />
-    <string id="aseraipeasantman" text="Aserai rolník" />
-    <string id="baAQDdE5" text="Vlandia Měšťanka" />
-    <string id="battaniapeasantman" text="Battania Rolník" />
-    <string id="empirepeasantman" text="Říšský rolník" />
+    <string id="ansW4mx2" text="Aseraiská městská žena" />
+    <string id="aseraipeasantman" text="Aseraiský rolník" />
+    <string id="baAQDdE5" text="Vlandiánská městská žena" />
+    <string id="battaniapeasantman" text="Battanian rolník" />
+    <string id="empirepeasantman" text="Císařský rolník" />
     <string id="khuzaitpeasantman" text="Khuzaitský rolník" />
-    <string id="Q7wFotYV" text="Battania Měšťanka" />
-    <string id="qMqRkvWu" text="Sturgiánská měšťanka" />
+    <string id="Q7wFotYV" text="Battanian městská žena" />
+    <string id="qMqRkvWu" text="Sturgiánská městská žena" />
     <string id="sturgiapeasantman" text="Sturgiánský rolník" />
-    <string id="V8GrFH4B" text="Khuzait Měšťanka" />
-    <string id="vlandiapeasantman" text="Vlandia rolník" />
-    <string id="WbH2HS8j" text="Císařská měšťanka" />
+    <string id="V8GrFH4B" text="Khuzaitská městská žena" />
+    <string id="vlandiapeasantman" text="Vlandiánský rolník" />
+    <string id="WbH2HS8j" text="Císařská městská žena" />
   </strings>
 </base>
