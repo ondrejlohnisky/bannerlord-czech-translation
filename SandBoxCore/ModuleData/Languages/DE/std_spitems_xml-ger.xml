@@ -86,7 +86,7 @@
     <string id="DMciP5z3" text="Tartanové dlouhé šaty" />
     <string id="DUp0MKZQ" text="Šaty do chladného počasí" />
     <string id="eHyxxxoK" text="Huscarl Hauberk" />
-    <string id="eRZK8Kbp" text="Bohaté šaty" />
+    <string id="eRZK8Kbp" text="Šlechtické šaty" />
     <string id="EvW5Xzt2" text="Jižanská vyztužená poštovní zbroj bez rukávů" />
     <string id="F9GB8lMZ" text="Roztrhané hadry" />
     <string id="FOJHPU5N" text="Poloviční zástěra" />
@@ -308,10 +308,10 @@
     <string id="quDh9Vlu" text="Pouštní kůň{@Plural}pouštní koně{\@}" />
     <string id="r8NS1wz7" text="Čistokrevný{@Plural}čistokrevní koně{\@}" />
     <string id="rmjcrnll" text="Palmatic{@Plural}Palmatici{\@}" />
-    <string id="rO0oKtAo" text="Campaign Banner Small" />
+<string id="rO0oKtAo" text="Malý banner kampaně" />
     <string id="TXpQetkh" text="Válečný velbloud{@Plural}váleční velbloudi{\@}" />
     <string id="U3SWNkFt" text="Pracovní kůň{@Plural}pracovní koně{\@}" />
-    <string id="uPrWdLxV" text="Revyl Chaser" />
+<string id="uPrWdLxV" text="Revylský pronásledovatel" />
     <string id="uRqm1nJ7" text="Lehké sedlo" />
     <string id="uTt4HX6V" text="Tyalský kůň{@Plural}Tyalští koně{\@}" />
     <string id="Vj4ZBxm5" text="Zesílené plátové opancéřování" />
@@ -461,33 +461,33 @@
     <string id="z4nryDlp" text="Nárameníky s dlouhými rukávy z bronzových šupin" />
     <string id="zf2GUNfh" text="Zdobené lamelové kožené nárameníky" />
     <string id="2Igdc86g" text="Šetrné spathy" />
-    <string id="4Ea6pr5p" text="Sparringová kuše" />
-    <string id="5dQdBOTa" text="Sparring Galloglaich Axe" />
+    <string id="4Ea6pr5p" text="Cvičná kuše" />
+<string id="5dQdBOTa" text="Cvičná Galloglaichská sekera" />
     <string id="89bCqb0Z" text="Proutěný čtvercový turnajový štít" />
-    <string id="8WlRREMh" text="Sparringová sekera s bambusovou rukojetí" />
-    <string id="APO9YcBv" text="Sparringová obouruční sekera" />
+    <string id="8WlRREMh" text="Cvičná sekera s bambusovou rukojetí" />
+    <string id="APO9YcBv" text="Cvičná obouruční sekera" />
     <string id="B0E6Zfyk" text="Oštěp pro bojové umění" />
-    <string id="BACi0kaM" text="Sparringový oštěp" />
-    <string id="cG1g4T3t" text="Sparring Flyssa" />
-    <string id="D1webCRZ" text="Sparring Šermířský meč" />
-    <string id="EbWA5mcO" text="Sparring Billhook" />
-    <string id="es77bJBa" text="Sparring Vrhací dýka" />
-    <string id="faiiCbbS" text="Sparring Kulatý štít" />
+    <string id="BACi0kaM" text="Cvičná oštěp" />
+<string id="cG1g4T3t" text="Cvičná Flyssa" />
+    <string id="D1webCRZ" text="Cvičná Šermířský meč" />
+<string id="EbWA5mcO" text="Cvičný Billhook" />
+    <string id="es77bJBa" text="Cvičná Vrhací dýka" />
+    <string id="faiiCbbS" text="Cvičná Kulatý štít" />
     <string id="feMEjAIj" text="Jezdec Sparing Štít s drakem" />
     <string id="HIjSiX4E" text="Oštěp pro oštěpaře" />
-    <string id="hyagO05b" text="Sparring Targe" />
+<string id="hyagO05b" text="Cvičná Targe" />
     <string id="Kba6rxWK" text="Sparingový scimitar" />
     <string id="lGHrlYqQ" text="Sparingový dvojbřit" />
     <string id="LLaFEt1m" text="Zbrojní meč ve střelbě" />
-    <string id="LpN4YWb2" text="Sparringová šavle" />
-    <string id="lW3smDRu" text="Sparringový štít" />
-    <string id="M75Ybg6r" text="Sparring Vrhací sekera" />
+    <string id="LpN4YWb2" text="Cvičná šavle" />
+    <string id="lW3smDRu" text="Cvičná štít" />
+    <string id="M75Ybg6r" text="Cvičná Vrhací sekera" />
     <string id="pdtQybBM" text="Pouštní kruhový štít" />
     <string id="Rwp23MLA" text="Čepel pro bojové umění" />
     <string id="tcN9Vyn7" text="Tupý oštěp" />
-    <string id="XU0b0yiW" text="Sparringové kopí" />
-    <string id="YmoddWwb" text="Sparring Seax" />
-    <string id="YQ9ybgmj" text="Sparring Glaive" />
+    <string id="XU0b0yiW" text="Cvičnáové kopí" />
+<string id="YmoddWwb" text="Cvičná Seax" />
+    <string id="YQ9ybgmj" text="Cvičná Glaive" />
     <string id="06Qoh8AO" text="Krátký válečný meč vázaný zlatem" />
     <string id="0lNp3f76" text="Rytá úhlová kaskara" />
     <string id="0NLJnGfF" text="Jednoduchý oštěp" />

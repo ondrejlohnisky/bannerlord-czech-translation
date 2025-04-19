@@ -24,7 +24,7 @@
     <string id="1uCaibsd" text="Úplný" />
     <string id="1WsmBXkN" text="Omezovač snímků" />
     <string id="22o7UHXL" text="Vyberte skupinu 1." />
-    <string id="23Tcbb4W" text="Strafe Right" />
+<string id="23Tcbb4W" text="Stranit vpravo" />
     <string id="25KihbcP" text="Nastavuje počet vln posil, které se v bojové misi objeví. Vyšší hodnota obecně znamená delší trvání mise. Při nastavení nižším než neomezené může dojít k vyřešení obléhání bez účasti všech jednotek v boji." />
     <string id="2Ao5DCb6" text="Přesun družiny dolů" />
     <string id="2AyPP3rw" text="Vysoká" />
@@ -210,7 +210,7 @@
     <string id="CNjxn3eB" text="Reproduktory" />
     <string id="Co9aqFIB" text="Přepnutí režimu sledování kamery" />
     <string id="cOgmdp9e" text="Odmítnout" />
-    <string id="combatkick" text="Kopnout / Bash" />
+<string id="combatkick" text="Kopnout / " />
     <string id="controlgamekey" text="Control" />
     <string id="cp80Mq2W" text=";" />
     <string id="Crf6Z1S5" text="Page Up" />
@@ -405,7 +405,7 @@
     <string id="KKNmozPI" text="Šipka doleva" />
     <string id="Kksv0KyL" text="Vybere skupinu 7." />
     <string id="KL8cGTao" text="Radiální" />
-    <string id="kNpWwJcc" text="High (500)" />
+    <string id="kNpWwJcc" text="Vysoká (500)" />
     <string id="KO5zuUvN" text="Akce" />
     <string id="KONClayU" text="\" />
     <string id="KShlkb9M" text="Otočení kamery mapy doleva." />

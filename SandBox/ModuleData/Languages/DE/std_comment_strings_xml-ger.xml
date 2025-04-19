@@ -219,7 +219,7 @@
     <string id="QhkM71ap" text="Je mi ctí tě poznat, dobrý pane." />
     <string id="QpBmbygb" text="Možná jsi o nás slyšel - o Eleftheroi. Naši otcové byli zloději, uprchlíci a výtržníci - to nezapřeme. Přišli jsme sem, protože nás nikde jinde nechtěli. Ale řeknu ti tohle - jestli říše přežije, bude to díky mužům, jako jsme my, kteří dělají těžkou krvavou práci tady na divokých polích, ne díky těm, kteří pohodlně spí ve svých postelích." />
     <string id="qRW6JkXM" text="Slyšel jsem, že to ty jsi přepadl mou osadu  {SETTLEMENT_NAME} a sebral úrodu a dobytek. Mám podezření, že tvoji muži museli mít hlad, ale to moji nájemníci také. Budeme bojovat o to, co zbylo?" />
-    <string id="qSF2z6Wa" text="I have not heard of you, but you have the look of a {?PLAYER.GENDER}woman{?}man{\?} who might make something of {?PLAYER.GENDER}herself{?}himself{\?}, some day." />
+    <string id="qSF2z6Wa" text="O tobě jsem dosud neslyšel, však vypadáš jako {?PLAYER.GENDER}žena{?}muž{\?}, jež by se {?PLAYER.GENDER}mohla{?}mohl{\?} jednoho dne něčím státi." />
     <string id="QuNcB0dA" text="Dobrá tedy. Přijímám." />
     <string id="qvwfev22" text="Mám vás v hrsti. Vzdej se, nebo zemři.[ib:warrior][if:convo_aggressive]" />
     <string id="R6sTYEaz" text="Z toho se nevymluvíš." />

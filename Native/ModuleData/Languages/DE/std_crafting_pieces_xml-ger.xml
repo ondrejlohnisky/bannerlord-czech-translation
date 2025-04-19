@@ -5,7 +5,7 @@
   </tags>
   <strings>
     <string id="03YrcAtx" text="Obouruční kožená rukojeť" />
-    <string id="0gteBOD7" text="Bardiche Hlava" />
+<string id="0gteBOD7" text="Hlava bardiche" />
     <string id="0kP9bf7n" text="Rukojeť srpu" />
     <string id="0LJtoZtW" text="Gravírovaná záštita s hákem pro scimitar" />
     <string id="0Y0kaTwm" text="Jednoduchá čepel Spatha" />
@@ -19,7 +19,7 @@
     <string id="1NLsucbu" text="Těžká přírubová hlava meče" />
     <string id="1NSafswc" text="Hlava sekery Gallogaich" />
     <string id="1pvLe1Mh" text="Jednoduchý starý bodec" />
-    <string id="1rGNXUaJ" text="Tenká hlavice kopí z jemné oceli" />
+    <string id="1rGNXUaJ" text="Tenká Hlava kopí z jemné oceli" />
     <string id="1T0XBYlc" text="Kalená dubová obouruční sekera s rukojetí" />
     <string id="1yEQNTG1" text="Dlouhá hlava sekery" />
     <string id="1zRo3td4" text="Obouruční rukojeť z rohoviny se šrouby" />
@@ -32,7 +32,7 @@
     <string id="2LrkLq5M" text="Severní dlouhá záštita dýky" />
     <string id="2MNfdGZQ" text="Jemná kůží potažená rukojeť vyztužená rohovinou dlouhého meče" />
     <string id="2mo4gsuh" text="Čepel válečné břitvy" />
-    <string id="2noNmMPc" text="Císařská široká bohatá záštita" />
+    <string id="2noNmMPc" text="Císařská široká vznešená záštita" />
     <string id="2OWBegq6" text="Silná záštita válečného meče s rytinami" />
     <string id="2XBuTBru" text="Dlouhá rukojeť severních přesýpacích hodin" />
     <string id="35tXR29a" text="Obyčejná východní rukojeť Obouruční" />
@@ -41,7 +41,7 @@
     <string id="3aXHbrFV" text="Dlouhá bambusová rukojeť s kovovým hrotem" />
     <string id="3cIsT4ZK" text="Záštita dýky se širokou rukojetí" />
     <string id="3ged5Ozt" text="Výjimečný východní nůž" />
-    <string id="3Q3FFqu0" text="Lehká hlavice královského meče" />
+    <string id="3Q3FFqu0" text="Lehká Hlava královského meče" />
     <string id="3tCye4Iw" text="Jednoduchý dlouhý bodec kopí" />
     <string id="3uUaFQ9Y" text="Záštita ve tvaru kladiva s rytinami" />
     <string id="3VCyUu2h" text="Tenká záštita východní dýky" />
@@ -50,7 +50,7 @@
     <string id="3wXjMEwI" text="Segmentová rukojeť meče potažená kůží" />
     <string id="3Y7plSBX" text="Čepel železného meče" />
     <string id="3ZyRhmke" text="Krátká rukojeť šavle" />
-    <string id="45k6EEUu" text="Železná hlavice" />
+    <string id="45k6EEUu" text="Železná hlava" />
     <string id="47UEgMpD" text="Dubová rukojeť se špičatým koncem" />
     <string id="4FnOKgB6" text="Císařská půlměsícová záštita dýky" />
     <string id="4Ilo91CO" text="Hlava západní bojové sekery" />
@@ -77,7 +77,7 @@
     <string id="6BMAGMRu" text="Plochá záštita" />
     <string id="6Da4uzZO" text="Gravírovaná široká rytířská záštita" />
     <string id="6HybYLtu" text="Hrubá kůže potažená severní jednoruční rukojetí" />
-    <string id="6I4lZs47" text="Hlavice kopí" />
+    <string id="6I4lZs47" text="Hlava kopí" />
     <string id="6PD2rBbf" text="Zúžená kůží potažená jednoruční rohová rukojeť" />
     <string id="6uyVChLK" text="Obdélníkový prapor" />
     <string id="6xkt7bxz" text="Těžká hlava královského meče" />
@@ -93,7 +93,7 @@
     <string id="8gW1o7iH" text="Západní laločnatý bodec" />
     <string id="8OaZSfaZ" text="Rukojeť meče z dělené hrubé kůže" />
     <string id="8olqutaL" text="Severní dělená obouruční rukojeť" />
-    <string id="8S6ZYPFD" text="Hlavice sekery z jemné oceli s kulatým ostřím" />
+    <string id="8S6ZYPFD" text="Hlava sekery z jemné oceli s kulatým ostřím" />
     <string id="8T7gNbfM" text="Vrtaná široká hlava kopí ve tvaru listu" />
     <string id="8x9klENe" text="Segmentované nýtované zesílení oštěpu" />
     <string id="8yb60cDi" text="Dlouhý mahagonový oštěp" />
@@ -151,7 +151,7 @@
     <string id="aZp1ur9Q" text="Kalichová patka" />
     <string id="b1KGhVwD" text="Konkávní severní záštita" />
     <string id="b30mn7KF" text="Čepel Khanjar" />
-    <string id="b9bboB3v" text="Hlavice palcátu jižní pěchoty" />
+    <string id="b9bboB3v" text="Hlava palcátu jižní pěchoty" />
     <string id="baQ99nza" text="Dlouhý jasanový oštěp" />
     <string id="bCCYhnbY" text="Zelená kožená rukojeť" />
     <string id="bCZ6V3uY" text="Záštita dýky s hadí hlavou" />
@@ -162,7 +162,7 @@
     <string id="bfueDx6s" text="Silně vyztužená dubová násada velké sekery" />
     <string id="bGaOu7rO" text="Východní plochá záštita dýky" />
     <string id="bGfs8gNv" text="Čepel severního zpětného meče" />
-    <string id="bjQ8J71a" text="Dlouhá hlavice cepu" />
+    <string id="bjQ8J71a" text="Dlouhá Hlava cepu" />
     <string id="BKHKQ15N" text="Turkuzová patka" />
     <string id="bki9u9FW" text="Čepel ozbrojeného meče s otiskem zlatého kruhu" />
     <string id="BL96pnde" text="Drsná kožená jednoruční rukojeť sekáčku" />
@@ -224,7 +224,7 @@
     <string id="dvm8sTr9" text="Dřevěné bodlo" />
     <string id="DXLlcbf9" text="Oštěp z jasanového dřeva" />
     <string id="dXRt8jY4" text="Hlava menavlionu" />
-    <string id="DzncFcGk" text="Kheshigs Pommel" />
+<string id="DzncFcGk" text="Kheshigův pomel" />
     <string id="e1DF7wbz" text="Kalená jasanová hůl" />
     <string id="E7cNp0rF" text="Nýtovaná patka kopí" />
     <string id="eapPaDKi" text="Silná postříbřená záštita válečného meče" />
@@ -241,19 +241,19 @@
     <string id="euI3vluL" text="Široká záštita šavle" />
     <string id="f0syWNR7" text="Čepel poniardu" />
     <string id="f3zHQAs9" text="Abnormální praporec Pennon" />
-    <string id="f4GSe3UB" text="Hlavice lopaty" />
+    <string id="f4GSe3UB" text="Hlava lopaty" />
     <string id="faZasq1G" text="Východní kroužek Pommel" />
     <string id="fd6Lnv1l" text="Zlatá záštita gladia" />
     <string id="fdR6zYiP" text="Hlava Franziska" />
     <string id="FDscHYmZ" text="Oriflamme Banner" />
     <string id="fEkKXof4" text="Přišroubované průchozí křídlo" />
     <string id="feVbf7sb" text="Krátká hřebenová čepel Kaskara" />
-    <string id="fhbGCsdC" text="Východní hlavice těžkého meče" />
+    <string id="fhbGCsdC" text="Východní Hlava těžkého meče" />
     <string id="fHKHwvsW" text="Bronzový opásaný bodec" />
     <string id="finesteelbladecraftingpiece" text="Vysočinská čepel z jemné oceli" />
     <string id="fnz6wUVy" text="Špičatá kulatá čepel kopí" />
     <string id="fo040lyg" text="Jednoduchá ovinutá rukojeť" />
-    <string id="fOrRdtNK" text="Malá ostruhová hlavice sekery" />
+    <string id="fOrRdtNK" text="Malá ostruhová Hlava sekery" />
     <string id="fRVQzcoY" text="Hrubá silná kůže omotaná jednoruční rukojetí" />
     <string id="Ft5A2Eb4" text="Východní kůží potažená zesílená obouruční rukojeť" />
     <string id="ftwNaFZh" text="Dvojitá háková křídla" />
@@ -316,7 +316,7 @@
     <string id="HysmKS5a" text="Hřebenová široká čepel dýky" />
     <string id="i7d3En7L" text="Čepel falchionu s hákem" />
     <string id="i9Ja7Uib" text="Silná záštita dýky s rytinami" />
-    <string id="I9yrLqPc" text="Východní přírubová ocelová hlavice meče" />
+    <string id="I9yrLqPc" text="Východní přírubová ocelová Hlava meče" />
     <string id="IAltuLvf" text="Zúžená severní jednoruční rukojeť" />
     <string id="Ibaju3oe" text="Bodec s orlí hlavou" />
     <string id="ibU7mZKx" text="Jasanové topůrko velké sekery" />
@@ -326,7 +326,7 @@
     <string id="iMbT3L4I" text="Čepel kosy" />
     <string id="In69b7aL" text="Polokožený potah Kovová zdobená jednoruční rukojeť" />
     <string id="indl9fEW" text="Hrubá silná kožená jednoruční rukojeť" />
-    <string id="IR8UeIRp" text="Hlavice katafraktového meče" />
+    <string id="IR8UeIRp" text="Hlava katafraktového meče" />
     <string id="ittUjlRb" text="Diamantová záštita" />
     <string id="IUlApNGp" text="Dlouhá čepel Falx" />
     <string id="iuQE1xwL" text="Úzká plná čepel Spatha" />
@@ -361,7 +361,7 @@
     <string id="k2MQ9kL0" text="Ocelová rukojeť meče" />
     <string id="k66YIIWR" text="Úzká čepel z jemné oceli Kaskara" />
     <string id="kaoSz0Cx" text="Zkosená obouruční kožená rukojeť" />
-    <string id="kbh6i0M7" text="Jemná hlavice Gladius Pommel" />
+    <string id="kbh6i0M7" text="Jemná Hlava Gladius Pommel" />
     <string id="KeTioaJE" text="Rukojeť mahagonové velké sekery ovinutá kůží" />
     <string id="KFqa2uF1" text="Široká obouruční čepel" />
     <string id="Kh7AB6a4" text="Severní jednoruční rukojeť s přesýpacími hodinami" />
@@ -428,13 +428,13 @@
     <string id="mm6b54ZD" text="Široká konkávní záštita" />
     <string id="MpVC0RXl" text="Severní trojúhelníkové kopí" />
     <string id="mQCQF6TL" text="Úzká záštita severní dýky" />
-    <string id="MQEuR8Yz" text="Dlouhá těžká hlavice kopí s hroty" />
+    <string id="MQEuR8Yz" text="Dlouhá těžká Hlava kopí s hroty" />
     <string id="MRqIJXqv" text="Záštita jižní diamantové dýky" />
     <string id="mrTkURKV" text="Vroubkovaná hlava vidlice" />
     <string id="mSNaSLiC" text="Čepel válečného meče z thamaskenské oceli" />
     <string id="mSplbvgI" text="Dvojité háky" />
     <string id="mTDuVvVN" text="Vysoká pokovená rukojeť" />
-    <string id="mU8oVsFW" text="Hlavice Morningstar" />
+    <string id="mU8oVsFW" text="Hlava Morningstar" />
     <string id="muv8N0Wo" text="Bronzová záštita dýky s rytinami" />
     <string id="mVjshtzg" text="Kuželovitý klobouk" />
     <string id="mYP1ovEy" text="Děrovaná pouštní záštita" />
@@ -455,7 +455,7 @@
     <string id="NQb8boHt" text="Tvrzená jasanová násada" />
     <string id="nr3K4od2" text="Pilumová hlava" />
     <string id="NRhAqB5a" text="Dlouhé travnaté tupé kopí" />
-    <string id="nRKOX66b" text="Zubatá hlavice z jemné oceli" />
+    <string id="nRKOX66b" text="Zubatá Hlava z jemné oceli" />
     <string id="NS83CCvb" text="Hlava sekery z obyčejného železa" />
     <string id="nsjbWcmp" text="Úzké tupé ostří z oštěpu" />
     <string id="ntIEIQ0N" text="Lehká šišatá hlava" />
@@ -534,9 +534,9 @@
     <string id="qyaS75Gr" text="Široká plná široká čepel" />
     <string id="qYxzdFAa" text="Dlouhá dubová rukojeť s koženými omotávkami" />
     <string id="qZYeu55z" text="Dlouhá železná rukojeť palcátu" />
-    <string id="r3R6RM9G" text="Krátká jednoduchá hlavice štiky" />
+    <string id="r3R6RM9G" text="Krátká jednoduchá Hlava štiky" />
     <string id="R3zJaL72" text="Malý abnormální praporec" />
-    <string id="R62maL2H" text="Hlavice na účty" />
+    <string id="R62maL2H" text="Hlava na účty" />
     <string id="R7OBSozV" text="Krátká silná stará čepel" />
     <string id="R8hEAwUZ" text="Hrubá omotaná rukojeť" />
     <string id="r8KoZCBy" text="Fasetovaná oválná záštita dýky" />
@@ -550,14 +550,14 @@
     <string id="rKnBJPfp" text="Čepel jezdeckého meče z jemné oceli" />
     <string id="rL2zMQ2l" text="Záštita se širokou rukojetí" />
     <string id="rn6tttI2" text="Jižní ozdobná patka" />
-    <string id="rSs1M2EJ" text="Spirálovitá hlavice palcátu" />
+    <string id="rSs1M2EJ" text="Spirálovitá Hlava palcátu" />
     <string id="RWljioj5" text="Železný a kůží vázaný roh Jednoruční rukojeť" />
-    <string id="RWm1h40B" text="Highland Pommel" />
+<string id="RWm1h40B" text="Vysokohorská pomel" />
     <string id="RXjhTS9s" text="Dlouhý ovinutý dubová násada" />
     <string id="S2MYKoII" text="Vysoký východní bodec" />
     <string id="s50O60ed" text="Zakřivená císařská záštita" />
     <string id="S75vUGzK" text="Jemná ocelová hlava kopí" />
-    <string id="S9zZO7qJ" text="Jemná ocelová hlavice štiky" />
+    <string id="S9zZO7qJ" text="Jemná ocelová Hlava štiky" />
     <string id="SaPaeTr4" text="Dřevěná obouruční rukojeť" />
     <string id="saYgR9C6" text="Vysoce kvalitní horalská obouruční rukojeť" />
     <string id="SEsx3kZz" text="Těžká hlava bardice" />
@@ -573,29 +573,29 @@
     <string id="SraI0yxb" text="Kalená dlouhá dubová násada" />
     <string id="sUlksgjL" text="Přibitá a omotaná ochrana kopí" />
     <string id="SVBYn9KW" text="Železná vidlice" />
-    <string id="sw5rAz73" text="Lehká hlavice jižanského meče" />
+    <string id="sw5rAz73" text="Lehká Hlava jižanského meče" />
     <string id="swb45HVS" text="Horská čepel" />
     <string id="T1aiDuOp" text="Úzká menavlonová hlava" />
     <string id="T1xFTaOf" text="Zdobená dlouhá čepel scimitaru" />
     <string id="T62Cmrrh" text="Broušená patka" />
     <string id="tgJ3dSOx" text="Dubové dlouhé kopí" />
     <string id="TKQl9boE" text="Zlatá zdobená rukojeť jemného meče" />
-    <string id="TKVxb6QD" text="Ocelová hlavice kopí ve tvaru listu z thamaskenu" />
+    <string id="TKVxb6QD" text="Ocelová Hlava kopí ve tvaru listu z thamaskenu" />
     <string id="tLa3nYAQ" text="Broušený kalichový bodec" />
     <string id="TLtaGEcB" text="Široká čepel Makhaira" />
     <string id="tnaGywrE" text="Hrubá kůže Přesýpací hodiny Obouruční rukojeť" />
-    <string id="tNtulHAv" text="Široká velká severská hlavice" />
+    <string id="tNtulHAv" text="Široká velká severská Hlava" />
     <string id="tooJPhpa" text="Tenký vlaštovčí ocas" />
     <string id="tq0eDwck" text="Záštita miskové dýky" />
     <string id="tq5XGebt" text="Bronzová rukojeť obouručního meče potažená jemnou kůží" />
     <string id="TqXFwLYL" text="Tupá hlava cepu" />
-    <string id="trGnmFsh" text="Hlavice kališnického meče" />
+    <string id="trGnmFsh" text="Hlava kališnického meče" />
     <string id="tRJC72Qh" text="Kožený křížový jednoruční meč" />
     <string id="tSaAzzYe" text="Hřebenová úzká čepel" />
     <string id="tSgZoxsu" text="Dřevěná jednoruční rukojeť vyztužená železem" />
     <string id="tSQbGb4m" text="Extra dlouhá mahagonová násada" />
     <string id="TUbTwW9U" text="Plochá hřebenová čepel Spatha" />
-    <string id="Tui9qvOZ" text="Tzikurionová hlavice" />
+    <string id="Tui9qvOZ" text="Tzikurionová Hlava" />
     <string id="U30HpvtI" text="Trojúhelníková železná hlava severního kopí" />
     <string id="u89rP5qY" text="Široce lemovaný bodec" />
     <string id="uAfTaa3p" text="Východní rukojeť z jemné kůže pro jednu ruku" />
@@ -607,11 +607,11 @@
     <string id="uIciSK8t" text="Zdobená kulatá rukojeť Southern Noble" />
     <string id="uKu7rTrW" text="Úzká jednoruční rukojeť s těsným omotáním" />
     <string id="UKWwPPkx" text="Čepel meče s otiskem zlatých okvětních lístků" />
-    <string id="ukYW8FVm" text="Cibulovitá hlavice šavle" />
+    <string id="ukYW8FVm" text="Cibulovitá Hlava šavle" />
     <string id="uLqEw8LB" text="Císařská dlouhá rukojeť s cvočky" />
     <string id="uQsJQLJH" text="Krátká rukojeť ze severské kůže" />
     <string id="usVYZYYD" text="Severní lordská patka" />
-    <string id="USWfzbuW" text="Severní široká hlavice velké sekery" />
+    <string id="USWfzbuW" text="Severní široká Hlava velké sekery" />
     <string id="uuover9F" text="Krátká čepel meče" />
     <string id="uvmvs2SP" text="Vysoká rukojeť sekáče" />
     <string id="uwG8iwBc" text="Dlouhé travní kopí" />
@@ -650,7 +650,7 @@
     <string id="WkLj6xAo" text="Trapézový bodec" />
     <string id="WkTkxQfw" text="Obdélníkové ostří" />
     <string id="Wl1m0LbL" text="Stříbrem vykládaná gravírovaná zesílená rukojeť" />
-    <string id="Wn4GjoXY" text="Čtvercová tupá hlavice obouruční sekery" />
+    <string id="Wn4GjoXY" text="Čtvercová tupá Hlava obouruční sekery" />
     <string id="WNch6azL" text="Železná čepel scimitaru" />
     <string id="wQGWxeCc" text="Silná čepel šavle" />
     <string id="WrvDoYKa" text="Těžká dlouhá přírubová hlava sekery" />
@@ -681,7 +681,7 @@
     <string id="XxhFx0yw" text="Krátká kůží omotaná rukojeť velké sekery" />
     <string id="xYgJN0Ja" text="Zdobená čepel scimitaru" />
     <string id="xZ70rbRt" text="Kulatý dřevěný bodec" />
-    <string id="Y0gbKTgZ" text="Sturgiánská hlavice vojenské vidlice" />
+    <string id="Y0gbKTgZ" text="Sturgiánská Hlava vojenské vidlice" />
     <string id="Y4tIQnS4" text="Krátká jednoduchá hlava kopí" />
     <string id="y5A3HGua" text="Jemná ocelová čepel Paramerion" />
     <string id="ybjDbw8p" text="Dlouhá dubová rukojeť palcátu" />
@@ -709,11 +709,11 @@
     <string id="yzsneaL6" text="Obroučkované kolo Pommel" />
     <string id="Z98LPAz7" text="Kůží potažená rukojeť meče Bastard s bronzovými cvočky" />
     <string id="zAdloN6Y" text="Široká hřebenová čepel krátkého meče" />
-    <string id="ZAoWK9Gt" text="Zaoblená hlavice císařského kopí" />
+    <string id="ZAoWK9Gt" text="Zaoblená Hlava císařského kopí" />
     <string id="ZbSKazZG" text="Krátká čepel Seax" />
-    <string id="Zc2Mb991" text="Hlavice shestopyoru" />
+    <string id="Zc2Mb991" text="Hlava Shestopyoru" />
     <string id="ZCJ0aNYt" text="Záštita s hadí hlavou" />
-    <string id="ZcUNAfKT" text="Extra dlouhá hlavice kopí z jemné oceli" />
+    <string id="ZcUNAfKT" text="Extra dlouhá Hlava kopí z jemné oceli" />
     <string id="zCYuj3yr" text="Čepel ozbrojeného meče s hřebenovým zakončením" />
     <string id="ZfEiEOsK" text="Záštita jižní korunované dýky" />
     <string id="ZgCUNieQ" text="Hlava vidlice" />

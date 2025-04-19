@@ -193,7 +193,7 @@
     <string id="2ATI9qVM" text="Rychlost píky: +{a0}%" />
     <string id="2aW6NC3Q" text="Probereme konečné podmínky našeho sňatku." />
     <string id="2b1xZGaQ" text="Uzavřete mír s {KINGDOM_NAME}. Naše království bude denně platit {T} tribut." />
-    <string id="2bcNCnI3" text="{QUEST_GIVER.LINK} asked you to sell {?QUEST_GIVER.GENDER}her{?}his{\?} goods for at least {UNIT_PRICE}{GOLD_ICON} per load and return to {?QUEST_GIVER.GENDER}her{?}him{\?}. {?QUEST_GIVER.GENDER}She{?}He{\?} told you that any profit would make above this price is yours to keep." />
+<string id="2bcNCnI3" text="{QUEST_GIVER.LINK} tě požádal, abys prodal {?QUEST_GIVER.GENDER}její{?}jeho{\?} zboží za cenu alespoň {UNIT_PRICE}{GOLD_ICON} za náklad a poté se k {?QUEST_GIVER.GENDER}ní{?}němu{\?} navrátil. {?QUEST_GIVER.GENDER}Pravila{?}Pravil{\?}, že veškerý zisk nad touto částkou ti náleží." />
     <string id="2brAaeFh" text="Turnaje se vám nepodařilo dokončit včas. {QUEST_GIVER.LINK}Jistě budeš zklamaný." />
     <string id="2BVDp7Tg" text="Ten {KINGDOM} přestane {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}" />
     <string id="2c7dIRla" text="{?PLAYER.GENDER}, jsi {?}známá jako odvážná válečnice{\?}znám jako odvážný válečník{PLAYER.NAME} a vynikající vůdce vojska. S potěšením přijmu tvůj meč do své služby, pokud mi složíš hold." />
@@ -207,7 +207,7 @@
     <string id="2EOvlPc2" text="Uchvácen toulavou touhou, {?PLAYER_CHILD}tvé{?}{\?} dítě vyjelo z mrazivých lesů Sturgie do planoucí Nahasy." />
     <string id="2fbLBXtT" text="Po velrybí cestě uháněla  Mrtví ji posádkou doprovázeli  A mraky ji černě pronásledovaly" />
     <string id="2g2FhKb5" text="Sbohem." />
-    <string id="2GMOnUIM" text="{QUEST_GIVER.LINK} expects your return to have {?QUEST_GIVER.GENDER}her{?}his{\?} share of the deal." />
+<string id="2GMOnUIM" text="{QUEST_GIVER.LINK} vyhlíží tvůj návrat, aby {?QUEST_GIVER.GENDER}jí{?}jemu{\?} mohl býti odevzdán {?QUEST_GIVER.GENDER}její{?}jeho{\?} náležitý podíl dle dohody." />
     <string id="2HIE7n9G" text="{ISSUE_OWNER.LINK} zajal {TARGET_HERO.LINK} {?ISSUE_OWNER.GENDER}{?}{\?}, tvá smlouva s {ISSUE_OWNER.LINK} byla zrušena." />
     <string id="2HmzaFVK" text="typ předmětu" />
     <string id="2iRg3vpP" text="Cílová družina se právě nachází v armádě." />
@@ -247,7 +247,7 @@
     <string id="2XbzsQkM" text="Hmm. Opravdu? [ib:closed][if:idle_angry]" />
     <string id="2xLwjXYm" text="Odpočívej v klidu. Vaše zajetí skončilo." />
     <string id="2xVbLS5r" text="Požádej o schůzku" />
-    <string id="2y7gahYi" text="Good Natured" />
+<string id="2y7gahYi" text="Dobrácký" />
     <string id="2y9DhzCR" text="Chystáš se ztratit karavanu z dohledu. Najdi karavanu dřív, než se ocitne v nebezpečí!" />
     <string id="2YiPE05P" text="Děkuji ti, {?PLAYER.GENDER}má paní {?}můj pane{\?}. Tvůj společník mi nepochybně velmi pomůže." />
     <string id="2YUUGQvG" text="Ženy" />
@@ -255,7 +255,7 @@
     <string id="30eSZeZd" text="Přírůstek zkušeností pro společníky ve výši {VALUE}%." />
     <string id="30hNRt3x" text="Taktika malých jednotek" />
     <string id="33mKghKQ" text="Prosím, nezabíjejte nás. Vzdáváme se.[rf:idle_angry][ib:nervous]" />
-    <string id="34MdCd6u" text="You have sold the mercenaries to another lord as you promised. {QUEST_GIVER.LINK} is grateful and sends {?QUEST_GIVER.GENDER}her{?}his{\?} regards." />
+<string id="34MdCd6u" text="Žoldnéře jsi, dle daného slova, odevzdal jinému z pánů. {QUEST_GIVER.LINK} ti za to projevuje vděčnost a posílá své pozdravy." />
     <string id="36ZmyM8V" text="{FIRSTNAME} z Harvest" />
     <string id="38dcXWzq" text="{newline} • Pozoruhodné schopnosti: {NOTABLE_POWER_LOST_AMOUNT}%" />
     <string id="38DvG2ba" text="Ano? Co je to teď?" />
@@ -345,7 +345,7 @@
     <string id="428B377z" text="{ISSUE_GIVER.LINK}, obchodník z {QUEST_GIVER_SETTLEMENT}, vám řekl, že pytláci, které {?ISSUE_GIVER.GENDER}najala{?}najal{\?}, jsou nyní mimo kontrolu. {COMPANION.LINK} vás žádá, abys vzal {NEEDED_MEN_COUNT} vašich mužů a poslal je do {QUEST_VILLAGE} zabít pytláky. Ti by se měli se připojit zpět k vaší družině za {RETURN_DAYS} dní." />
     <string id="43zzbI1J" text="Nepřátelské nájezdy" />
     <string id="444rcko0" text="Potřebujeme {GRAIN_AMOUNT} pytle obilí, abychom uspokojili své základní potřeby. A kdybyste našli {LIVESTOCK_AMOUNT} živé zásoby a {WINE_AMOUNT} sudy vína, byla by to velká laskavost. Po dobrém jídle se mužům lépe bojuje." />
-    <string id="44f1ff0q" text="All the villages of {QUEST_GIVER.LINK} has been raided and your agreement with {?QUEST_GIVER.GENDER}her{?}him{\?} has been canceled." />
+<string id="44f1ff0q" text="Všechny osady {QUEST_GIVER.LINK} byly zpustošeny a tvá dohoda s {?QUEST_GIVER.GENDER}ní{?}ním{\?} tímto pozbyla platnosti." />
     <string id="44tA6fNa" text="Pokusím se tedy získat důvěru tvé rodiny." />
     <string id="49IwOe5E" text="Jak si přeješ...[if:convo_normal]" />
     <string id="4ADQ7YZj" text="{PERSON.LINK}vyhrál turnaj v {TOWN}." />
@@ -377,7 +377,7 @@
     <string id="4MQQf3wp" text="Čekáme na tvůj příchod." />
     <string id="4n71Xoyq" text="Nepodařilo se ti včas přinést zbraně do {QUEST_GIVER.LINK}." />
     <string id="4nbnFMNZ" text="Nemohu slíbit, že vyhrajete, má paní." />
-    <string id="4nUhnWZ3" text="There was a great deal of feasting and speech-making. From what you hear, {?CHILD.GENDER}she{?}he{\?} acquitted {?CHILD.GENDER}herself{?}himself{\?} well." />
+    <string id="4nUhnWZ3" text="Bylo mnoho hodování a řečnických proslovů. Z toho, co jsi slyšel, {?CHILD.GENDER}ona{?}on{\?} se dobře osvědčila{?}osvědčil{?}." />
     <string id="4NYPsxgY" text="Musím odejít. Prozatím sbohem." />
     <string id="4Onw6Gxa" text="{VALUE}% rychlosti družiny za každý bod dovednosti nad 200 bodů průzkumné dovednosti." />
     <string id="4ORpHfu2" text="Snížení ceny o {VALUE}% při nákupu hlíny, železa, bavlny a stříbra." />
@@ -386,7 +386,7 @@
     <string id="4pmvrnmN" text="Hrad {SETTLEMENT_LINK} patří {LORD.LINK}, {FACTION_OFFICIAL} z {FACTION_TERM}. {KEEP_INFO}" />
     <string id="4pOb934Y" text="Rozumí tomu, jak se získává vítězství." />
     <string id="4rCIZ6e5" text="Na {QUEST_SETTLEMENT} byl podniknut nájezd, Vaše dohoda s {QUEST_GIVER.LINK} je zrušena." />
-    <string id="4RNREbPW" text="You managed to return all of the troops {QUEST_GIVER.LINK} gave you to train. {?QUEST_GIVER.GENDER}She{?}He{\?} sends you the following letter.{newline}“{?PLAYER.GENDER}Madam{?}Sir{\?}, Thank you for looking after my men. You honored our agreement, and you have my gratitude. Please accept this {GOLD}{GOLD_ICON}.”" />
+    <string id="4RNREbPW" text="Podařilo se ti vrátit všechny vojáky, které ti {QUEST_GIVER.LINK} {?QUEST_GIVER.GENDER}svěřila{?}svěřil{\?} k výcviku. {?QUEST_GIVER.GENDER}Ona{?}On{\?} ti posílá následující dopis.{newline}„{?PLAYER.GENDER}Paní, děkuji, že jsi se postarala{?}Pane, děkuji, že jsi se postaral{\?} o mé muže. Ctíš naši dohodu a máš moji vděčnost. Prosím, přijmi toto {GOLD}{GOLD_ICON}.”" />
     <string id="4RWpqxwE" text="{FIRSTNAME} Broker" />
     <string id="4Sb0d8FY" text="S útokem počkej do soumraku" />
     <string id="4t5zOiVF" text="{FIRSTNAME} z Pillar" />
@@ -4520,11 +4520,11 @@
     <string id="x5POJVWw" text="Přestaňte sloužit {FACTION}" />
     <string id="x6knoNnC" text=" Klany" />
     <string id="X7Fod9WN" text="Jsem vám vydán na milost a nemilost.[if:convo_beaten]" />
-    <string id="x7k87vj3" text="Co vám mohu přinést, {?PLAYER.GENDER}madam{?}sire{\?}? Chtěl bys ochutnat naši místní specialitu, {DRINK} {FOOD} !!CHYBA!!?" />
+    <string id="x7k87vj3" text="Co vám mohu přinést, {?PLAYER.GENDER}madam{?}sire{\?}? Chtěl bys ochutnat naši místní specialitu, {DRINK} a {FOOD}?" />
     <string id="Xa7PsIao" text="Omlouvám se. Bez požehnání své rodiny se nevdám." />
     <string id="XAdBVsXV" text="Členové klanu v armádě" />
     <string id="xADZi2bK" text="Půjdu a najdu své muže. Budu si pamatovat vaši pomoc..." />
-    <string id="xaNpQsjh" text="Dítě se zdá nikdy neúnavné, běhající {?CHILD.GENDER}její{?}jeho{\?} pečovatele na pokraj vyčerpání, a málokdy je náladové." />
+    <string id="xaNpQsjh" text="Dítě jako by nikdy neunavilo se, dohání {?CHILD.GENDER}její{?}jeho{\?} opatrovníky k vyčerpání, a jen zřídkakdy bývá mrzuté." />
     <string id="XaPMUJV0" text="Ať máš cokoliv, beru si to. Vzdej se, nebo zemři!" />
     <string id="XAvwP3Ce" text="Vnikni na pomoc obráncům" />
     <string id="Xaw2CoCG" text="Bonus 25 % k produkci koní, mul, krav a ovcí ve vesnicích vlastněných chuzejskými vládci." />

@@ -407,7 +407,7 @@
     <string id="BixmxJPX" text="Vaši vazalové budou mít větší tendenci podnikat útočné akce proti tomuto nepříteli, jako jsou nájezdy a obléhání." />
     <string id="bJ5SzaXp" text="Zraněno" />
     <string id="bjxBjKH2" text="má paní" />
-    <string id="BkB9aOhw" text="Okno s bannerem není právě teď přístupné!" />
+    <string id="BkB9aOhw" text="Momentálně nemáš přístup k oknu s bannerem!" />
     <string id="BKFcRo7f" text="Vnuk" />
     <string id="bkysJj7F" text="Obléhací zbraň" />
     <string id="Bl7UdJup" text="Synovec" />
@@ -694,7 +694,7 @@
     <string id="g6J4Oe6z" text="Jméno klanu musí být mezi {MIN} - {MAX} znaky." />
     <string id="g7zo28KR" text="Setkali jste se s {PARTY}. Proti tvé drtivé síle nemají šanci a vzdávají se." />
     <string id="g8nrakuu" text="Zbraně pro boj zblízka I" />
-    <string id="G95mB3b3" text="Právě teď se nemůžete dostat do okna postavy!" />
+    <string id="G95mB3b3" text="Momentálně nemáš přístup k oknu postavy!" />
     <string id="gA5fByM2" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} se snaží znovu dobýt {#IS_LEFT}{#}pravou hradbu{#}hradby na několika stranách{\#}{?IS_MIDDLE}střední hradbu{?}{\?}{?IS_RIGHT}levou hradbu{?}{\?}." />
     <string id="gamefinance" text="Finance" />
     <string id="gAX49b7b" text="Postavili jste bariéru proti soupeři, ale zbývá vám stejný počet pěšců. Partie je nerozhodná!" />
@@ -781,7 +781,7 @@
     <string id="hoebgN2u" text="Pokud budete pokračovat, vybraní členové klanu se vydají na cestu a nebudou k dispozici, dokud nedorazí k {SETTLEMENT_NAME}. Jsi si jistý?" />
     <string id="homesettlement" text="Domov" />
     <string id="hourabbr" text="h" />
-    <string id="HP9wMk1T" text="Nelze se právě teď dostat na obrazovku družiny!" />
+    <string id="HP9wMk1T" text="Momentálně nemáš přístup k obrazovce družiny!" />
     <string id="HQgSPtK6" text="Jste si jisti, že chcete ukončit hru více hráčů?" />
     <string id="hqIIEur1" text="Narazili jste na {ARMY}." />
     <string id="hroWCoqV" text="Podpora pro uzákonění" />
@@ -840,7 +840,7 @@
     <string id="IPjqLEdQ" text="Před {DAY} dny" />
     <string id="IQ4bSdf5" text="Švagrová" />
     <string id="iQao7Ct6" text="Hladovějící družiny" />
-    <string id="iRo4meJR" text="Právě teď nemám přístup k encyklopedii!" />
+    <string id="iRo4meJR" text="Momentálně nemáš přístup k encyklopedii." />
     <string id="Is3O8NXW" text=" ({NUMBER_OF_MEN}+{NUMBER_OF_WOUNDED_MEN}w)" />
     <string id="ISJ8Tt8a" text="{COUNT} {.%}{?(COUNT &gt; 1)}{PLURAL(ITEM)}{?}{ITEM}{\?}{.%}" />
     <string id="ISz5bLEO" text="dvanáctý" />
@@ -987,7 +987,7 @@
     <string id="lihYjOSc" text="ks." />
     <string id="littlebrother" text="Bratr" />
     <string id="littlesister" text="Sestra" />
-    <string id="lj8XH6O7" text="Právě teď se nemůžu dostat do okna království!" />
+    <string id="lj8XH6O7" text="Momentálně nemáš přístup k oknu království!" />
     <string id="ljcHO6PW" text="Změna bezpečnosti" />
     <string id="LjUhEJxz" text="Karavana {OWNER.NAME}" />
     <string id="LJwKdMdw" text="Počkej, až se soupeř dostane do pozice." />
@@ -1051,7 +1051,7 @@
     <string id="MLmHSSg0" text="Těžká kavalerie" />
     <string id="MmNF7sW7" text="Pohyb pěšců je možný pouze zajetím pěšců soupeře. {newline}Zjetí se provádí ortogonálním přeskočením 1 nebo více soupeřových pěšců." />
     <string id="Mms9bbhY" text="{DAY_NUM} {?DAY_NUM==1}den{?}dny{\?}pěšce." />
-    <string id="mNr84Xm1" text="Do klanového okna se právě teď nemůžu dostat!" />
+    <string id="mNr84Xm1" text="Momentálně nemáš přístup k oknu klanu!" />
     <string id="mountnoun" text="Osedlat" />
     <string id="mPaQzgS0" text="Rád tě tu vidím, {PLAYER.LINK}." />
     <string id="MpDMaBE9" text="Vzepřeš se nám, ano? Napijeme se z tvé lebky!" />
@@ -1432,7 +1432,7 @@
     <string id="ti5FwD4t" text="Neznámá družina " />
     <string id="TlP31w8l" text="Bricole" />
     <string id="TlvM7kuQ" text="Osmnáctý" />
-    <string id="tMg5AF19" text="Právě teď nemám přístup k úkolům!" />
+    <string id="tMg5AF19" text="Momentálně nemáš přístup k úkolům!" />
     <string id="TmKbTxQy" text="khatun" />
     <string id="TNLRC4Gf" text="Bojujte s jednoruční krátkou zbraní." />
     <string id="tnZ7BfO9" text="Návrh míru" />

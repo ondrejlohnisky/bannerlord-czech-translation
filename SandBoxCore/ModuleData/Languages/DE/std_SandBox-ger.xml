@@ -482,7 +482,7 @@
     <string id="IdKG3IaS" text="To rád slyším." />
     <string id="idPV1Csj" text="Ano... Proč ne? Nemám teď nic naléhavého." />
     <string id="IdvcaDMu" text="Jsem svolný k prodeji. Ale bude tě to stát {COST} {GOLD_ICON}. Jsi ochoten tuto částku zaplatit?" />
-    <string id="IeihUvCD" text="Snare The Wealthy" />
+<string id="IeihUvCD" text="Napálit Boháče" />
     <string id="IfeN8lYd" text="Jdeš s námi bojovat, co? To tě k tomu navedl {QUEST_GIVER.LINK}? [ib:aggressive2][if:convo_confused_annoyed] Podívej, není třeba krveprolití. Tohle město je dost velké pro nás všechny. Ale... pokud je krveprolití to, co chcete, rádi vám to poskytneme." />
     <string id="iHYAEEfv" text="VYBRAT DĚDICE" />
     <string id="IKeZLbIK" text="Bez urážky, kapitáne, ale jestli je to tak, měl byste víc chodit ven.[if:convo_mocking_teasing]Každopádně, můžeme se do toho pustit?" />
@@ -712,7 +712,7 @@
     <string id="otVPaR6T" text="Ve skutečnosti teď nemám volného společníka." />
     <string id="oulvvl52" text="Jsi obviněn v {SETTLEMENT} ze zločinu a {QUEST_GIVER.LINK} už ti v této věci nedůvěřuje." />
     <string id="ovFbMMTJ" text="Kdo jsi ty? Jsi jeden z lovců odměn, které {QUEST_GIVER.LINK} poslal, aby nás sledovali? Jako bychom byli zvířata nebo něco takového? Podívejte, příteli, neudělali jsme nic špatného. Jak už jsi možná pochopil, s touhle ženou se máme rádi. K ničemu jsem ji nenutil.[ib:closed][if:convo_innocent_smile]" />
-    <string id="OwnoJUkn" text="They say that {OWNER.LINK} is an honest {?OWNER.GENDER}woman{?}man{\?}. But even {?OWNER.GENDER}she{?}he{\?} cant stop all the thieving and corruption around here." />
+<string id="OwnoJUkn" text="Říkají, že {OWNER.LINK} je {?OWNER.GENDER}ctnostná žena{?}ctnostný muž{\?}. Avšak ani {?OWNER.GENDER}ona{?}on{\?} nedokáže zastavit všechny ty krádeže a zkázu, jež se zde šíří." />
     <string id="oxb2FVz5" text="Klan zničen" />
     <string id="OybG76Kf" text="Děkuji ti za záchranu, pane.[ib:normal][if:convo_astonished] Nezapomenu, co jsi tu dnes udělal." />
     <string id="p1ETQbzg" text="Jen tě kontroluju." />
@@ -818,7 +818,7 @@
     <string id="RYJdU43V" text="Málo zlata" />
     <string id="rzGqa5oD" text="Pomsta bude vykonána. Šetři si dech na boj..." />
     <string id="s0jKaYo0" text="Musíme zaútočit dřív, než se o našem plánu dozví konkurenční gang. Raději si pospěš! [if:convo_astonished]" />
-    <string id="s1GWSE9Y" text="{QUEST_GIVER.LINK} cancels your plans due to the siege of {SETTLEMENT}. {?QUEST_GIVER.GENDER}She{?}He{\?} has worse troubles than {?QUEST_GIVER.GENDER}her{?}his{\?} quarrel with the rival gang." />
+<string id="s1GWSE9Y" text="{QUEST_GIVER.LINK} zrušila tvé plány kvůli obléhání osady {SETTLEMENT}. {?QUEST_GIVER.GENDER}Ona{?}On{\?} má nyní vážnější starosti než spor s nepřátelským gangem." />
     <string id="s5fXZf2f" text="Přesvědčil jsi {CULPRIT.LINK}, aby se vydal za {TARGET_SETTLEMENT}, aby se utkal s {TARGET_NOTABLE.LINK} a pokusil se tento problém vyřešit mírovou cestou. Souhlasil pod podmínkou, že ho ochráníte před rozzlobenými příbuznými jeho oběti." />
     <string id="s5qs0bPs" text="{ISSUE_GIVER.LINK}, {?ISSUE_GIVER.GENDER}paní {?}vládkyně {\?} z {QUEST_SETTLEMENT}, ti řekla o špiónovi, který se skrývá jako účastník turnaje. Jsi požádán, abys špióna odhalil a postaral se o něj. Požádal jsi {COMPANION.LINK}, abys vzal {NEEDED_MEN_COUNT} své nejlepší muže, aby se o něj postarali. Měli by ti podat zprávu za {ALTERNATIVE_SOLUTION_DURATION} dní." />
     <string id="s8dsW6m0" text="Nová ulička" />
@@ -834,7 +834,7 @@
     <string id="SHwlcdp3" text="Ptám se vás, protože vy jste tady obchodník. Neviděl jsi jednoho z bojovníků v turnaji, jak se tu prochází a klade lidem spoustu podezřelých otázek?" />
     <string id="sIfL5Vnx" text="Nic, co by stálo za řeč, Vaše Milosti." />
     <string id="SJHtVaNa" text="Špión mezi námi" />
-    <string id="skMoB7c6" text="You have paid the debt that {PRODIGAL_SON.LINK} owes. True to {?TARGET_HERO.GENDER}her{?}his{\?} word {TARGET_HERO.LINK} releases the boy immediately. Soon after, {?QUEST_GIVER.GENDER}Lady{?}Lord{\?} {QUEST_GIVER.LINK} sends {?QUEST_GIVER.GENDER}her{?}his{\?} best regards and a sum of {REWARD}{GOLD_ICON} as a reward." />
+<string id="skMoB7c6" text="Uhradil jsi dluh, jejž {PRODIGAL_SON.LINK} dlužil. Věrna svému slovu, {?TARGET_HERO.GENDER}paní{?}pán{\?} {TARGET_HERO.LINK} chlapce ihned propouští. Krátce nato ti {?QUEST_GIVER.GENDER}paní{?}pán{\?} {QUEST_GIVER.LINK} zasílá své uctivé pozdravy a odměnu ve výši {REWARD}{GOLD_ICON}." />
     <string id="SkzM5eSv" text="{ISSUE_GIVER.LINK} dcera {?ISSUE_GIVER.GENDER} se pohřešuje. {?}nabízí{\?}nabízí!!CHYBA!! odměnu za nalezení mladé ženy a její bezpečné přivedení zpět." />
     <string id="SliFGAX4" text="{TARGET_MERCHANT.NAME} vždy hledá nové meče k ochraně[if:convo_evil_smile] {?TARGET_MERCHANT.GENDER}jejích{?}jeho{\?} karavan. Zlí jsou ti, kdo nejvíce obávají zla, jak se říká. A co kdyby ti strážní byli ve skutečnosti zloději? {TARGET_MERCHANT.NAME} by se nesvěřil jen tak někomu, ale myslím, že {?TARGET_MERCHANT.GENDER}ona{?}on{\?} by mohl najmout válečníka, jakým jsi ty. A kdyby tento válečník vedl karavanu do léčky... Ach, říkám si, že to není úplně čestné, ale o svou pověst si myslím, že se nemusíš příliš bát. {TARGET_MERCHANT.NAME} je známý tím, že podvádí {?TARGET_MERCHANT.GENDER}své{?}své{\?} partnery. Kdyby se něco stalo s některou z {?TARGET_MERCHANT.GENDER}jejích{?}jeho{\?} karavan, no, většina lidí nebude vědět, komu věřit, a stejně se o to moc starat nebude." />
     <string id="sm6ckPnp" text="Je jaro, příteli. Období větrů. Období šílenství. Tak tedy, myslím, že si dám ještě jednu skleničku." />
@@ -964,7 +964,7 @@
     <string id="wqzyHirl" text="Rozhlédněte se kolem sebe. Lidé vydělávají peníze na ruku, jsou zahaleni v hedvábí, voní vínem a parfémy. Jsou to však poctiví lidé? Myslím, že ne." />
     <string id="wrEKw6ip" text="Ptáčku kukačko, ptáčku kukačko, nelži mi. Vplížil jsem se na cizí strom.{newline}Ptáčku kukačko, ptáčku kukačko, řekni něco moudrého. V Battanii je král, který je stejný jako já." />
     <string id="WrnvRayQ" text="Ušetříme si námahu a já ti tu částku prostě zaplatím." />
-    <string id="WSJxl2Hu" text="What I want to say is...[if:convo_mocking_teasing]You dont need to be a part of this. My boss will double whatever {?QUEST_GIVER.GENDER}she{?}he{\?} is paying you if you join us." />
+<string id="WSJxl2Hu" text="Chci říct...[if:convo_mocking_teasing]Nemusíte být toho součástí. Můj šéf vám zdvojnásobí částku, kterou vám {?QUEST_GIVER.GENDER}ona{?}on{\?} platí, pokud se k nám připojíte." />
     <string id="WSrGHkal" text="Pošlu jednoho ze svých stopařů a {REQUIRED_TROOP_AMOUNT} své muže, aby našli tvou dceru." />
     <string id="wvbiyZfp" text="Co ještě chceš říct? [if:convo_confused_annoyed]" />
     <string id="WVorNMNc" text="Konkurenční gang se stěhuje na {SETTLEMENT}" />
