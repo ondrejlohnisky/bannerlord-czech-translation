@@ -1,10 +1,19 @@
+#!/usr/bin/env python3
+"""
+fix_gender_syntax.py
+
+Recursively scans all files in the given directory (and subdirectories),
+finds all occurrences of the pattern `{?anything}anything{?}anything{\?}`,
+and fixes them by adding a backslash before the last `{?}` (i.e., `{\?}`).
+"""
+
 import os
 import re
 import argparse
 
 def process_file(path, pattern):
     """
-    Reads a file, replaces the last occurrence of '{?}' with '{\\?}' on lines
+    Reads a file, replaces all occurrences of '{?}' with '{\\?}' on lines
     matching the provided pattern, and writes back if any changes were made.
     Returns True if the file was modified.
     """
@@ -18,15 +27,21 @@ def process_file(path, pattern):
 
     new_lines = []
     for line in lines:
-        if pattern.search(line):
-            # Split at last '{?}', replace it with '{\?}'
-            parts = line.rsplit('{?}', 1)
+        new_line = line
+        while True:
+            # Find the last occurrence of the pattern on the line
+            match = re.search(pattern, new_line)
+            if not match:
+                break
+            # Fix the last '{?}' in the match
+            start, end = match.span()
+            parts = new_line[start:end].rsplit('{?}', 1)  # Split on the last `{?}`
             if len(parts) == 2:
-                new_line = parts[0] + '{\\?}' + parts[1]
-                new_lines.append(new_line)
+                fixed_line = parts[0] + '{\\?}' + parts[1]
+                new_line = new_line[:start] + fixed_line + new_line[end:]
                 changed = True
-                continue
-        new_lines.append(line)
+
+        new_lines.append(new_line)
 
     if changed:
         with open(path, 'w', encoding='utf-8') as f:
@@ -37,9 +52,9 @@ def process_file(path, pattern):
 def main():
     parser = argparse.ArgumentParser(description='Fix incorrect closing gender tags in text files.')
     parser.add_argument('root', nargs='?', default='.', help='Root directory to scan (default: current)')
-    args, _ = parser.parse_known_args()
+    args = parser.parse_args()
 
-    # Pattern to find lines with two '{?}' tags where the last is incorrect
+    # Pattern to find all occurrences of the pattern with any "anything"
     pattern = re.compile(r'\{\?[^}]+\}[^{}]*\{\?\}[^{}]*\{\?\}')
 
     for dirpath, _, filenames in os.walk(args.root):
