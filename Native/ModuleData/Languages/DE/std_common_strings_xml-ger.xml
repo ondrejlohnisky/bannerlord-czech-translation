@@ -499,7 +499,7 @@
     <string id="HBaSQlSJ" text="Bronzová čepice s třásněmi a chrániči tváří" />
     <string id="HcAV8x7p" text="Člen družiny" />
     <string id="hCavIm4G" text="Zaplatíte {AMOUNT}{GOLD_ICON}." />
-    <string id="hchDYAKL" text="Kopitník" />
+    <string id="hchDYAKL" text="Kopijník" />
     <string id="HCXHcBzT" text="Mattis" />
     <string id="hE8s9bpP" text="Zakřivený kulatý štít" />
     <string id="hELN8VXv" text="Roztrhané roucho" />
@@ -553,7 +553,7 @@
     <string id="IuD9SaQM" text="Šaty z pytloviny" />
     <string id="IuWu5Bu7" text="Štědrost" />
     <string id="iVataLxL" text="Kožené pruhy přes vycpaný plášť" />
-    <string id="ivKl4mV2" text="Tvůj otec byl důvěryhodným poručíkem místního zemanského šlechtice. Jezdil s panskou jízdou a bojoval jako obrněný kopiník." />
+    <string id="ivKl4mV2" text="Tvůj otec byl důvěryhodným poručíkem místního zemanského šlechtice. Jezdil s panskou jízdou a bojoval jako obrněný kopijník." />
     <string id="iW9iKbb8" text="Nic." />
     <string id="IX3kafcb" text="Železná hrncová přilba s hrotem přes kroužkovou čapku" />
     <string id="ixqTFMVA" text="Jezdecký válečník" />
@@ -571,7 +571,7 @@
     <string id="j9Weia10" text="Snadno" />
     <string id="jaaQijQs" text="Věk" />
     <string id="jakLnIQv" text="Přilba z hrubé šupiny" />
-    <string id="jAs3kDXh" text="Tvá rodina byla důvěrným příbuzenstvem khuzaitského noyana a sdílela s ním jídlo v náčelníkově jurtě. Tvůj otec pomáhal svému náčelníkovi při řízení záležitostí klanu a bojoval v jádru obrněných kopiníků ve středu khuzaitské bojové linie." />
+    <string id="jAs3kDXh" text="Tvá rodina byla důvěrným příbuzenstvem khuzaitského noyana a sdílela s ním jídlo v náčelníkově jurtě. Tvůj otec pomáhal svému náčelníkovi při řízení záležitostí klanu a bojoval v jádru obrněných kopijníků ve středu khuzaitské bojové linie." />
     <string id="JbV0WoO7" text="Mistrovsky vyrobená pošta z jižních šupin" />
     <string id="JBVAeXx3" text="Vidle" />
     <string id="JCdVJYnQ" text="Lehká tunika" />
@@ -693,7 +693,7 @@
     <string id="mkoMUmLh" text="Vesta z pytloviny" />
     <string id="MKT5IzWm" text="Plášť s tlustými rukávy" />
     <string id="mlJKNbbn" text="Kožená čapka" />
-    <string id="MnmUBlbL" text="Targe" />
+    <string id="MnmUBlbL" text="Kulatý štít" />
     <string id="mOa9CX13" text="Horští bandité" />
     <string id="mP3uFbcq" text="vedení úspěšného honu na muže." />
     <string id="MQ8LCvCE" text="Vázaná plátěná tunika" />
@@ -706,7 +706,7 @@
     <string id="mU5CY4bz" text="Uzavřená helma Huscarl" />
     <string id="mvTueU1y" text="Plátované kožené nárameníky" />
     <string id="MxmOWsHj" text="Encyklopedie" />
-    <string id="n1A47HcZ" text="Přilba vznešeného kopiníka" />
+    <string id="n1A47HcZ" text="Přilba vznešeného kopijníka" />
     <string id="n2FdWOtE" text="Adram" />
     <string id="n3cjEB0X" text="Nářadí{@Plural}spousta nástrojů{\@}" />
     <string id="n4UUrd1p" text="Již se používá" />
@@ -894,7 +894,7 @@
     <string id="s31DnnAf" text="Poškození" />
     <string id="s8PNllPN" text="Zachránil jsi svou městskou čtvrť před požárem." />
     <string id="S9htzkbe" text="Kupecký klobouk" />
-    <string id="s9oED1IR" text="Skirmisher" />
+    <string id="s9oED1IR" text="Průzkumní bojovník" />
     <string id="sAbjtZbB" text="Lesní bandité" />
     <string id="sAml91Z3" text="Luxusní brigadýrka" />
     <string id="sb4gg8Ak" text="Svobodných majitelů" />
@@ -938,7 +938,7 @@
     <string id="TeIcf3Cd" text="Těžké lamelové brnění přes kroužkovou zbroj" />
     <string id="tEimkEsU" text="Severský krátký luk" />
     <string id="TFT2Xapz" text="Vrcholová přilba přes prošívaný čepec" />
-    <string id="tG1Q8r2u" text="Lamelová zbroj kopiníka" />
+    <string id="tG1Q8r2u" text="Lamelová zbroj kopijníka" />
     <string id="tGEStbxb" text="Lidí kmene" />
     <string id="Th8q8wC2" text="Kořist" />
     <string id="thousandabbr" text="k" />

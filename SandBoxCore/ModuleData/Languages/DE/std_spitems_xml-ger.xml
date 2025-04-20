@@ -11,7 +11,7 @@
     <string id="ulaMq9HL" text="Ploché pruhované nárameníky" />
     <string id="wLAL9NRB" text="Fianské nárameníky" />
     <string id="0heYJNpN" text="Štíty na blízko Banner" />
-    <string id="5Hn58Ra0" text="Prapor Fariského sokola" />
+    <string id="5Hn58Ra0" text="Prapor rytířkého sokola" />
     <string id="6uSQnTob" text="Ocelový prapor" />
     <string id="79QBpG6D" text="Prapor pouštních větrů" />
     <string id="7mCYbhbp" text="Železný prapor" />
@@ -199,7 +199,7 @@
     <string id="Oa4h7TVi" text="Nomádská čepice" />
     <string id="OFxwPQyA" text="Bojová koruna" />
     <string id="OLkncAaD" text="Uzavřená přilba s brýlemi" />
-    <string id="OrMbh1dn" text="Přilba těžkého kopiníka" />
+    <string id="OrMbh1dn" text="Přilba těžkého kopijníka" />
     <string id="Pqua61u8" text="Hřebenová přilba válečníka" />
     <string id="PVWsZleW" text="Přilba s otevřeným turbanem" />
     <string id="pxTmx2ka" text="Mosazná jižanská uzavřená přilba" />
@@ -208,7 +208,7 @@
     <string id="qxExIHbx" text="Kožená přilba s cvočky" />
     <string id="Qyg2bJLX" text="Venkovská pokrývka hlavy" />
     <string id="RraboU6p" text="Ovinutá přilba s kroužkovou čapku" />
-    <string id="rUMPiiox" text="Kožešinová přilba šlechtického kopiníka" />
+    <string id="rUMPiiox" text="Kožešinová přilba šlechtického kopijníka" />
     <string id="sc2x2QRe" text="Šátek na hlavu s fezem" />
     <string id="sDKfIQbO" text="Selská pokrývka hlavy" />
     <string id="sDWEWefz" text="Horalská slavnostní koruna" />
@@ -467,25 +467,25 @@
     <string id="8WlRREMh" text="Cvičná sekera s bambusovou rukojetí" />
     <string id="APO9YcBv" text="Cvičná obouruční sekera" />
     <string id="B0E6Zfyk" text="Oštěp pro bojové umění" />
-    <string id="BACi0kaM" text="Cvičná oštěp" />
+    <string id="BACi0kaM" text="Cvičný oštěp" />
 <string id="cG1g4T3t" text="Cvičná Flyssa" />
-    <string id="D1webCRZ" text="Cvičná Šermířský meč" />
+    <string id="D1webCRZ" text="Cvičný šermířský meč" />
 <string id="EbWA5mcO" text="Cvičný Billhook" />
-    <string id="es77bJBa" text="Cvičná Vrhací dýka" />
-    <string id="faiiCbbS" text="Cvičná Kulatý štít" />
-    <string id="feMEjAIj" text="Jezdec Sparing Štít s drakem" />
+    <string id="es77bJBa" text="Cvičná vrhací dýka" />
+    <string id="faiiCbbS" text="Cvičný kulatý štít" />
+    <string id="feMEjAIj" text="Jezdecký cvičný štít s drakem" />
     <string id="HIjSiX4E" text="Oštěp pro oštěpaře" />
-<string id="hyagO05b" text="Cvičná Targe" />
-    <string id="Kba6rxWK" text="Sparingový scimitar" />
-    <string id="lGHrlYqQ" text="Sparingový dvojbřit" />
+<string id="hyagO05b" text="Cvičný kulatý štít" />
+    <string id="Kba6rxWK" text="Cvičná šavle" />
+    <string id="lGHrlYqQ" text="Cvičný dvojbřit" />
     <string id="LLaFEt1m" text="Zbrojní meč ve střelbě" />
     <string id="LpN4YWb2" text="Cvičná šavle" />
-    <string id="lW3smDRu" text="Cvičná štít" />
-    <string id="M75Ybg6r" text="Cvičná Vrhací sekera" />
+    <string id="lW3smDRu" text="Cvičný štít" />
+    <string id="M75Ybg6r" text="Cvičná vrhací sekera" />
     <string id="pdtQybBM" text="Pouštní kruhový štít" />
     <string id="Rwp23MLA" text="Čepel pro bojové umění" />
     <string id="tcN9Vyn7" text="Tupý oštěp" />
-    <string id="XU0b0yiW" text="Cvičnáové kopí" />
+    <string id="XU0b0yiW" text="Cvičné kopí" />
 <string id="YmoddWwb" text="Cvičná Seax" />
     <string id="YQ9ybgmj" text="Cvičná Glaive" />
     <string id="06Qoh8AO" text="Krátký válečný meč vázaný zlatem" />
@@ -665,7 +665,7 @@
     <string id="ObGN145P" text="Lesní oštěp" />
     <string id="oFEzCTpW" text="Železné vidle" />
     <string id="OjHwbgeY" text="Silný kmenový luk" />
-    <string id="OLTUHPaD" text="Jemný ocelový parameron" />
+    <string id="OLTUHPaD" text="Jemný ocelový parameronový meč" />
     <string id="oQmUlQWp" text="Jednoduchá šavle" />
     <string id="oV5AhcDl" text="Nížinný oštěp" />
     <string id="oXrbTRJo" text="Smrtka" />

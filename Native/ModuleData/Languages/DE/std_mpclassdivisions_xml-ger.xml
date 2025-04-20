@@ -192,7 +192,7 @@
     <string id="p06HSYkq" text="Specialista" />
     <string id="P1VHoGL2" text="Kmeny" />
     <string id="p4y5G7MD" text="Díky zkušenostem strážce můžeš lépe bojovat zblízka.{newline} {newline}Dává tyčovou zbraň {newline}+5% rychlosti pohybu." />
-    <string id="p9ygw8X7" text="Díky zkušenostem kopitníka jsi účinnější v boji proti jezdectvu.{newline} {newline}Dává oštěp{newline} {newline}+75% Poškození jezdců." />
+    <string id="p9ygw8X7" text="Díky zkušenostem kopijníka jsi účinnější v boji proti jezdectvu.{newline} {newline}Dává oštěp{newline} {newline}+75% Poškození jezdců." />
     <string id="pblXb1ae" text="Udílí drtivé poškození, účinné proti obrněným protivníkům." />
     <string id="PFTzVdJg" text="Poskytuje +9 brnění." />
     <string id="Pg0oCeeA" text="Nahrazuje Tabar za Bardiche, který je pomalejší, ale způsobuje větší poškození a dokáže sesadit jezdce švihovými útoky." />
@@ -277,7 +277,7 @@
     <string id="wHWD8N3u" text="Dlouhý luk ze silného dřeva, střílí dál, pomaleji a tvrději." />
     <string id="wiBmTEGi" text="Vymění koně za odolnějšího." />
     <string id="wjQCNHTO" text="Nahradí koně obratnějším. Nahrazuje plný barding polovičním bardingem. Rychlejší a ovladatelnější.{newline} {newline}Dává poloviční barding {newline}Dává hbitého koně." />
-    <string id="WkPDOnyD" text="Díky zkušenostem kopitníka jsi účinnější v boji proti jízdě.{newline} {newline}Granty Dlouhé kopí {newline}Dlouhý oštěp {newline}+75% poškození pro jezdce." />
+    <string id="WkPDOnyD" text="Díky zkušenostem kopijníka jsi účinnější v boji proti jízdě.{newline} {newline}Granty Dlouhé kopí {newline}Dlouhý oštěp {newline}+75% poškození pro jezdce." />
     <string id="WqJdn2ET" text="Kůže berserkra" />
     <string id="wv6Jpubk" text="Přijímáš v boji roli pomocníka a za každou pomoc získáváš zlato jako odměnu.{newline} {newline}+20 zlatých za každou asistenci" />
     <string id="wv9g9Kyr" text="Rychlejší luk" />

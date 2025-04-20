@@ -154,7 +154,7 @@
     <string id="1sbbbOyr" text="Výborně... Spoléhám na tebe! Karavana brzy odjede.[if:convo_normal][ib:hip]" />
     <string id="1Tft1d4A" text="{FIRSTNAME} Boulder" />
     <string id="1tGP6vJn" text="Cílová osada je právě pod útokem." />
-    <string id="1UBNuatk" text="Faris" />
+    <string id="1UBNuatk" text="rytíř" />
     <string id="1UO0yMBr" text="Během probíhající bitvy nelze vyjednávat." />
     <string id="1V6DRayw" text="Nemáš {BRIBE_COST} dináry." />
     <string id="1V8f9vRM" text="Ke dvoru tvého království dorazil kurýr s mírovou nabídkou od {PROPOSER_HERO_FACTION} světa." />
@@ -292,7 +292,7 @@
     <string id="3JOd0l1N" text="{FIRSTNAME} Spider" />
     <string id="3KpgHPlo" text="Zákony {ISSUE_GIVER_SETTLEMENT} nařizují řemeslníkům prodávat své zboží za pevně stanovenou cenu obchodníkům ve městě. A nyní si stěžují, že cena stanovená obchodníky není spravedlivá." />
     <string id="3L8xN9uC" text="Věřím, že to není tak dávno, co jsme naposledy obchodovali." />
-    <string id="3lDTSlpU" text="I ten nejzkušenější šermíř nebo nejsilnější sekerník je pro kopiníka jako králík pro orla." />
+    <string id="3lDTSlpU" text="I ten nejzkušenější šermíř nebo nejsilnější sekerník je pro kopijníka jako králík pro orla." />
     <string id="3lfS4iCZ" text="Oddanost" />
     <string id="3lxq5fvI" text="Zaplať {AMOUNT}{GOLD_ICON} úplatek, abys mohl jít do panské síně." />
     <string id="3m2tQF9F" text="Při stavbě obléhacího stroje získáš {VALUE} zkušenost pro vojsko." />
@@ -1362,7 +1362,7 @@
     <string id="CM8Tr3lL" text="Oh my pockets been picked  And my shirts drenched with sick  And my head feels like its come a fit to bursting (Moje kapsa byla vybrána  A moje košile je promočená nemocí  A moje hlava je jako by přišla k prasknutí)." />
     <string id="Cn4lnECZ" text="My dva nemáme dobrou minulost... Nevěřím ti.[ib:closed][if:convo_grave]" />
     <string id="cnaxgN5b" text="Nepřivedl jsi vojsko včas." />
-    <string id="cnbeJh6Y" text="Po mnoha pokusech {?CHILD.GENDER}se{?}on{\?}úspěšně porazil {?CHILD.GENDER}svého{?}jeho{\?} učitele, poctivě a čestně, během sparingu." />
+    <string id="cnbeJh6Y" text="Po mnoha pokusech {?CHILD.GENDER}se{?}on{\?}úspěšně porazil {?CHILD.GENDER}svého{?}jeho{\?} učitele, poctivě a čestně, během tréninku." />
     <string id="CNbPKRXX" text="Pak se ti to vyplatí. (-{BRIBE_MONEY}{GOLD_ICON})" />
     <string id="CNYoZKyf" text="se zapletl do intrik." />
     <string id="cO61R3va" text="Nemáme s tebou žádné spory." />
@@ -2317,7 +2317,7 @@
     <string id="IqH0jFdK" text="Takže potřebuješ někoho, kdo se s těmi bastardy vypořádá?" />
     <string id="iqJQd4D8" text="{VALUE}přídavný vztah, když zvýšíš vztah s krutovládci." />
     <string id="IqRNTls2" text="{VALUE}% rychlost nájezdu." />
-    <string id="Ir7BP5bD" text="Nejlepší kováři jsou ti, kteří rozumí tomu, jak se jejich nástroje používají. Vaše dítě bude mít za úkol sparing se zbraněmi a zkoušet jejich ostří." />
+    <string id="Ir7BP5bD" text="Nejlepší kováři jsou ti, kteří rozumí tomu, jak se jejich nástroje používají. Vaše dítě bude mít za úkol trénink se zbraněmi a zkoušet jejich ostří." />
     <string id="iRarm6f7" text="Nikam se nechystáme, příteli. Dnes budeš muset o své stříbro bojovat." />
     <string id="IRLB42FY" text="Sestav Dračí prapor!" />
     <string id="IsBVxopm" text="Výborně! Mohu ti ještě s něčím pomoci?" />
@@ -2674,7 +2674,7 @@
     <string id="l0NTCps3" text="As you emerge from captivity, {COMPANION.NAME} is waiting outside and greets you. {?COMPANION.GENDER}She{?}He{\?} says {?COMPANION.GENDER}she{?}he{\?} has returned from {?COMPANION.GENDER}her{?}his{\?} mission with {NUMBER} {?(NUMBER &gt; 1)}troops{?}troop{\?} and they are all ready to rejoin your party." />
     <string id="L0Oxzkfw" text="Vyberte si dalšího vládce {KINGDOM_NAME}" />
     <string id="l0ZGaUuI" text="{VALUE}% rychlosti útoku pěchotě ve vaší formaci." />
-    <string id="l1I748Fn" text="Jezdecký skirmisher" />
+    <string id="l1I748Fn" text="Jezdecký Průzkumní bojovník" />
     <string id="L1JyetPq" text="To rád slyším [ib:closed2]" />
     <string id="L1o5mb69" text="Učí se stavět obléhací stroje." />
     <string id="l2hijFNU" text="Nikam nepůjdeš, příteli. Teď jsi můj vězeň." />
@@ -2733,7 +2733,7 @@
     <string id="ldJDR7t1" text="Naše říše by měly uzavřít mír." />
     <string id="lDJUL4lZ" text="Myslím, že možná vidíme svět trochu jinak." />
     <string id="lDMrl7sd" text="Tvoje oblast zažila víc než dost povodní a požárů a {CHILD.NAME}připojila se ke snaze zastavit zkázu a následně obnovit." />
-    <string id="LE0NCSPP" text="Každý bojovník musí znát základy. Dlouhé zbraně používají bojovníci všech tříd, od feudálních legií a městských milicí až po elitní kopiníky." />
+    <string id="LE0NCSPP" text="Každý bojovník musí znát základy. Dlouhé zbraně používají bojovníci všech tříd, od feudálních legií a městských milicí až po elitní kopijníky." />
     <string id="leaowE4D" text="Šerif" />
     <string id="lEcg67Qk" text="Nepodařilo se ti včas dobýt {TARGET_SETTLEMENT} včas. {QUEST_GIVER.LINK} je zklamán, že se ti nepodařilo včas dobýt pevnost." />
     <string id="lEi1hIIt" text="Při jízdě na koni můžeš sbírat předměty ze země." />

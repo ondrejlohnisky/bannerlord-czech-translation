@@ -15,7 +15,7 @@
     <string id="1iS91QJH" text="Battanský obouruční meč" />
     <string id="1LHNLYqc" text="Těžký scimitar" />
     <string id="1pjTjmHR" text="MP Test Píky" />
-    <string id="1tABvwsL" text="Dlouhý parameron" />
+    <string id="1tABvwsL" text="Dlouhý parameronový meč" />
     <string id="1X2X0Qe4" text="Barbarský kůň" />
     <string id="1yvsiaZ6" text="Battanský těžký palcát" />
     <string id="1yzNGUJH" text="Císařská sekera" />
@@ -105,10 +105,10 @@
     <string id="brmba4ca" text="Lehký oštěp" />
     <string id="Bruzcqbm" text="Těžký cepín" />
     <string id="btoJTO9G" text="Nájezdnická sekera" />
-    <string id="BwOZwFxm" text="Aserai Pike" />
+    <string id="BwOZwFxm" text="Aseraiské kopí" />
     <string id="bYmKOh4p" text="Zkušební kopí" />
     <string id="bYxnCJjq" text="Pěchotní plášť" />
-    <string id="bZ0aUz2b" text="Těžký palcát Aserai" />
+    <string id="bZ0aUz2b" text="Aseraiský těžký palcát" />
     <string id="bzCoIgk7" text="Vojenský účet" />
     <string id="bzr6vtXi" text="Těžký menavlion" />
     <string id="bzrVXGAl" text="Zdobená bronzová pásková helma přes koženoui čapku" />
@@ -147,7 +147,7 @@
     <string id="EPehLvzV" text="Císařský oštěp" />
     <string id="EpkGO9qE" text="Kovové vidle" />
     <string id="eQBDt5Wk" text="Pádový poník" />
-    <string id="eso5zk60" text="Přilba lorda Aserai" />
+    <string id="eso5zk60" text="Aseraiská přilba lorda" />
     <string id="eTKxlDl1" text="Boty horalského válečníka" />
     <string id="FexNLsO5" text="Císařské oštěpy" />
     <string id="FHakBPXw" text="Hauberk" />
@@ -156,7 +156,7 @@
     <string id="FyXM8Iob" text="Pouštní látkový nárameník" />
     <string id="Gbfot0SN" text="Aserský jezdecký palcát" />
     <string id="GEHTam8H" text="Battanský průzkumný štít" />
-    <string id="GFKPrrb8" text="Přilba šlechtice Aserai" />
+    <string id="GFKPrrb8" text="Aseraiská přilba šlechtice" />
     <string id="gfvG04SP" text="Pouštní kožený nárameník" />
     <string id="gKhpLiyg" text="Poštovní a plátová ochrana" />
     <string id="Goloz0Vm" text="Husnphree" />
@@ -190,7 +190,7 @@
     <string id="IKhu13vZ" text="Lehký kulatý štít" />
     <string id="ilLE877K" text="Sedlo ze stepní kožešiny" />
     <string id="iNJr5HOM" text="Šídlo Štika" />
-    <string id="inquCxkd" text="Oštěp Aserai" />
+    <string id="inquCxkd" text="Aseraiský oštěp" />
     <string id="inr9Mt1i" text="Khuzaitské kopí" />
     <string id="INWSxn7C" text="Bronzová lamelová ramena" />
     <string id="inYBaDwu" text="Zdobená železná pásková helma přes kroužkovou čapku" />
@@ -216,21 +216,21 @@
     <string id="Jt0Mcn4D" text="Divoká zbroj" />
     <string id="JW1mE68R" text="Vrstvený pouštní plášť" />
     <string id="jy1VQ7Yg" text="Khuzaitský jezdecký palcát" />
-    <string id="KD4pxN2C" text="Šlechtický meč Aserai" />
+    <string id="KD4pxN2C" text="Aseraiský šlechtický meč" />
     <string id="KIxX6dH2" text="Hrubá kožešina na řetězu" />
     <string id="kOV5t7Yx" text="Danustický kůň" />
     <string id="KpyTaAwL" text="Šlechtická přilba s horským pokovem" />
     <string id="L0aYVd65" text="Tunika prostého člověka" />
     <string id="l2j9CAQn" text="Bastardský meč" />
-    <string id="l2pEOHk6" text="Sekera Aserai" />
+    <string id="l2pEOHk6" text="Aseraiská sekera" />
     <string id="Ldqb9oAF" text="Pauldrony horalského válečníka" />
-    <string id="LI3rc6S2" text="Vrhací sekera Aserai" />
+    <string id="LI3rc6S2" text="Aseraiská vrhací sekera" />
     <string id="lPeLZge5" text="Pancéřové pytlovité kalhoty" />
     <string id="lspv3mUE" text="Stepní plášť s hřeby" />
     <string id="Lt8nT1hb" text="Lamelové nárameníky" />
     <string id="LwxELoZL" text="Koňský postroj s polovinou šupin" />
     <string id="lwxOPEPx" text="Gladius" />
-    <string id="lxDZyKbU" text="Těžké kopí Aserai" />
+    <string id="lxDZyKbU" text="Aseraiské těžké kopí" />
     <string id="LyaWykYa" text="Šlechtická přilba s chráničem krku" />
     <string id="Mbf8qAxs" text="Dlouhá obouruční sekera" />
     <string id="mbT1uNPa" text="Dýka" />
@@ -246,7 +246,7 @@
     <string id="nbjUGjaZ" text="Štít sturgiánského jezdce" />
     <string id="newiAaR9" text="Zdobená přilba s brýlemi" />
     <string id="nhoDWrVf" text="MP test 2h meč" />
-    <string id="Nk7bQUWJ" text="Obouruční meč Aserai" />
+    <string id="Nk7bQUWJ" text="Aseraiský obouruční meč" />
     <string id="NKZ0P4aU" text="Vlandiánské dlouhé kopí" />
     <string id="nmLZEjYg" text="MP Test 2h palcát" />
     <string id="Np2OoVNd" text="Sturgiánský lehký palcát" />
@@ -350,7 +350,7 @@
     <string id="WsUvpBwM" text="Rychlý krátký luk" />
     <string id="wwAFqJE3" text="Zbrojní meč" />
     <string id="WXjQNIJW" text="Pouštní přilba s volným zábalem" />
-    <string id="WyxIVvhe" text="Oválný štít Aserai" />
+    <string id="WyxIVvhe" text="Aseraiský oválný štít" />
     <string id="xb2tMFSz" text="Krátký luk" />
     <string id="XcWJyWlF" text="Vlandiánský palcát" />
     <string id="XiI81DUa" text="Kmenový dlouhý luk" />
