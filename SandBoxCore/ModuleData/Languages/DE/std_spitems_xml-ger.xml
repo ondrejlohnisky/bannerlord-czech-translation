@@ -287,10 +287,10 @@
     <string id="kKuVy1jT" text="Khamseen{@Plural}Khamseenští koně{\@}" />
     <string id="Kp9kslko" text="Darshijský kůň{@Plural}Darshijští koně{\@}" />
     <string id="LzlQUcak" text="Zesílené poštovní opasky" />
-    <string id="meARhlZC" text="Jezdec na valandském kurýrovi{@Plural}Jezdci na valandském kurýrovi{\@}" />
-    <string id="MedDPUNh" text="Destrier{@Plural}destriéři{\@}" />
+    <string id="meARhlZC" text="Valandijský rychlý válečný kůň{@Plural}Valandijští rychlí váleční koně{\@}" />
+    <string id="MedDPUNh" text="destrtér{@Plural}destriéři{\@}" />
     <string id="MI65uuKB" text="Kroužková poštovní ochrana" />
-    <string id="N5aT5hoA" text="Midlands Palfrey{@Plural}Midlands palfreys{\@}" />
+    <string id="N5aT5hoA" text="Jezdecký kůň ze Středozemí{@Plural}Jezdečtí koně ze Středozemí{\@}" />
     <string id="nhaiQ9oX" text="Stepní lovec{@Plural}Stepní lovci{\@}" />
     <string id="NNUXGwTc" text="Karahan{@Plural}Karahanští koně{\@}" />
     <string id="NRB3V6yP" text="Vyztužený poloplátový plášť" />
@@ -319,8 +319,8 @@
     <string id="vPAHwC3X" text="Ukradené zboží" />
     <string id="VqCS28U1" text="Mezek{@Plural}Mezci{\@}" />
     <string id="vRIpgxhi" text="Fortunas Choice" />
-    <string id="vXsifw1K" text="Asaligat{@Plural}Asaligatští koně{\@}" />
-    <string id="w6Oz5viK" text="Midlands Palfrey{@Plural}Midland palfreys{\@}" />
+    <string id="vXsifw1K" text="Asaligatský kůň{@Plural}Asaligatští koně{\@}" />
+    <string id="w6Oz5viK" text="Jezdecký kůň ze Středozemí{@Plural}Jezdečtí koně ze Středozemí{\@}" />
     <string id="W8r7A7qH" text="Půlšupinový plášť" />
     <string id="Wj98Otmo" text="Stepní Charger{@Plural}Stepní Chargeři{\@}" />
     <string id="XkwOTdVQ" text="Keltský mráz" />

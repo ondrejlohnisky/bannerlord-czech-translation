@@ -3087,7 +3087,7 @@
     <string id="nP7KOISK" text="Místní majitelé pozemků mají právo vybírat mýtné za obchod." />
     <string id="Np94rYMz" text="Rychlost obouručních zbraní: +{a0}%" />
     <string id="npuC7IBM" text="{FIRSTNAME} Dyer" />
-    <string id="nPyNq1MT" text="Momentálně jsem mezi zaměstnáními, takže pokud pro mě máte nějakou práci, jsem ochoten se o ní domluvit." />
+    <string id="nPyNq1MT" text="Momentálně jsem bez práce, takže pokud pro mě máš nějakou práci, rád(a) si o tom popovídám." />
     <string id="nq0qLQ1x" text="Prohrál jsi boj s lovci odměn a nepodařilo se ti zachránit {QUEST_GIVER.LINK}muže. {?QUEST_GIVER.GENDER}On{?}He{\?} ti posílá následující dopis: Oceňuji tvou snahu, ale nebylo to dost dobré..." />
     <string id="nQoAsBZY" text="Až vstoupíte do města, moji muži vám seberou zbraně. Hodně štěstí." />
     <string id="NQOQb0C9" text="A mnoho tisíc těl leží na slunci a hnijí však víš, že takové věci se musí stát, aby bylo možné získat království." />
@@ -3989,7 +3989,7 @@
     <string id="tMkMi5C7" text="Vyhrává zápasy." />
     <string id="tmqYGwMa" text="Výborně, {PLAYER.NAME}, výborně. Mám v tebe plnou důvěru.[if:idle_happy]" />
     <string id="tMUla7vz" text="{?CHILD.GENDER}Ona jest lehká, ale silná{?}On je lehký, ale silný{\?}, a dokáže předběhnouti téměř všechny {?CHILD.GENDER}její{?}jeho{\?} druhy." />
-    <string id="TmYKKarv" text="{VALUE}Dovednost obouruč pěchotním jednotkám ve tvé formaci." />
+    <string id="TmYKKarv" text="{VALUE}% ovládání obouručních zbraní pěchoty ve tvé formaci." />
     <string id="Tn9g83ry" text="Vychutnáváte si svůj nápoj, {?PLAYER.GENDER}mádam{?}sire{\?}?" />
     <string id="tNo1Dctm" text="Ano. Když mi zaplatíte {BASE_REWARD_X_2}{GOLD_ICON}, propustím vás." />
     <string id="TnW3i5ul" text="Běželi jsme zpátky. Pohrdám běháním. Raději jsem vlk, než králík." />
@@ -3998,7 +3998,7 @@
     <string id="tp3p7R8E" text="Tvar přiléhavé zbroje" />
     <string id="Tp4X51vX" text="Možná to za tebe zvládnou moji muži." />
     <string id="TpzZgFsA" text="Mladý a uctivý" />
-    <string id="Tq0E9sSW" text="Rychlost švihu pěchoty ve tvé formaci se zvýší o {VALUE}%." />
+    <string id="Tq0E9sSW" text="{VALUE}% rychlost švihu pěchoty ve tvé formaci." />
     <string id="TQKXkQAT" text="Dovolte mi prohlédnout vaše jednotky." />
     <string id="TQMGppEk" text="Poškození vrhacími zbraněmi: +{a0}%" />
     <string id="TQmPcVRZ" text="Příliš mnoho našich šlechticů je v zajetí. Měli bychom uzavřít mír a osvobodit je." />

@@ -24,7 +24,7 @@
     <string id="1uCaibsd" text="Úplný" />
     <string id="1WsmBXkN" text="Omezovač snímků" />
     <string id="22o7UHXL" text="Vyberte skupinu 1." />
-<string id="23Tcbb4W" text="Stranit vpravo" />
+    <string id="23Tcbb4W" text="Posunout se vpravo" />
     <string id="25KihbcP" text="Nastavuje počet vln posil, které se v bojové misi objeví. Vyšší hodnota obecně znamená delší trvání mise. Při nastavení nižším než neomezené může dojít k vyřešení obléhání bez účasti všech jednotek v boji." />
     <string id="2Ao5DCb6" text="Přesun družiny dolů" />
     <string id="2AyPP3rw" text="Vysoká" />
@@ -380,7 +380,7 @@
     <string id="jOGbGqOC" text="Povolit vertikální korekci míření" />
     <string id="JP1y1i0A" text="Vybavit zbraň 4" />
     <string id="Js1lhJkk" text="Jazyk" />
-    <string id="js6LONvV" text="Posunout dozadu" />
+    <string id="js6LONvV" text="Posunout se dozadu" />
     <string id="Ju6btXsv" text="Ovládání směru útoku" />
     <string id="JXdwIX8Q" text="Nastavení tloušťky stop zbraní." />
     <string id="jy9orOJz" text="Přehrát" />
@@ -552,7 +552,7 @@
     <string id="QfsXhxOI" text="Ultra (800)" />
     <string id="qggjceRq" text="Výstup zvuku" />
     <string id="QiYy3Ja4" text="Vybrat vrácení příkazu" />
-    <string id="QKy9a176" text="Strafe doleva" />
+    <string id="QKy9a176" text="Posunout se doleva" />
     <string id="qmplQd0Q" text="Tři části" />
     <string id="qNPmVDmU" text="Nastaví metodu NVIDIA DLSS, pokud je použitelná." />
     <string id="qnxJYAs7" text="Družina " />

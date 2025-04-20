@@ -21,7 +21,7 @@
     <string id="A27HuUiz" text="odvážný" />
     <string id="aDkmS7iN" text="typ, který jedná bez přemýšlení" />
     <string id="AgE2Wffg" text="dobrý přítel, ale nebezpečný nepřítel" />
-    <string id="aLO7V5ZZ" text="{?NOTABLE.GENDER}Je{?}Je{\?} upřímný, to se nedá popřít, ale srdce má z kamene." />
+    <string id="aLO7V5ZZ" text="Je {?NOTABLE.GENDER}upřímná{?}upřímný{\?}, to se nedá popřít, ale srdce má z kamene." />
     <string id="bSQF8nac" text="ambiciózní" />
     <string id="bYa051Bs" text="nečestný, agresivní a ctižádostivý" />
     <string id="CaSahkj4" text="nečestná ve všech směrech" />
@@ -38,7 +38,7 @@
     <string id="hFtm7jZT" text="důsledně konvenční" />
     <string id="HNoD0Xcw" text="statečný, ale snadno se rozzuří a neodpouští." />
     <string id="HTBQ3E3Q" text="velkorysý k přátelům" />
-    <string id="isnEHNXl" text="Stands up for what {?NOTABLE.GENDER}she{?}he{\?} believes in" />
+    <string id="isnEHNXl" text="Stojí pevně za tím, v co věří." />
     <string id="jFLPNGdH" text="statečný a čestný" />
     <string id="jqiKsw34" text="nečestný, ale s měkkým srdcem" />
     <string id="JWTKNySw" text="úzkoprsý" />

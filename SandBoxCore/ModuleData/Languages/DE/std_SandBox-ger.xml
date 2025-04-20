@@ -163,7 +163,7 @@
     <string id="94WRYoQp" text="{?QUEST_GIVER.GENDER}Lady{?}Lord{\?} {QUEST_GIVER.LINK} z {QUEST_SETTLEMENT}, ti řekla o zvěstech, že mezi účastníky turnaje se skrývá špeh. Souhlasil jsi, že se o situaci postaráš sám. {QUEST_GIVER.LINK} Domníváte se, že špión se vydává za účastníka turnaje ve městě {QUEST_SETTLEMENT}." />
     <string id="99OsuHGa" text="Najdu toho, koho hledáte." />
     <string id="9b2BETct" text="Už jsem se rozhodl. Nečekejte, že si to rozmyslím." />
-    <string id="9Box0Yj7" text="Paní {?NOTABLE.GENDER}{?}vládkyně {\?}. {NOTABLE.LINK}... Jsme požehnaní." />
+    <string id="9Box0Yj7" text="Paní {?NOTABLE.GENDER}Vládkyně{?}Vládce{\?} {NOTABLE.LINK}... Jsme požehnaní." />
     <string id="9DDWjL9Y" text="Hmm... Možná, ale nemůžu si vzpomenout kdo. Nepřišlo mi to podezřelé." />
     <string id="9eLyeU7M" text="Jistě, šéfe. Bude nás to stát {COST}{GOLD_ICON} za nové vybavení. Půjdeme do toho?" />
     <string id="9FMvBKrV" text="Dej 5 vojáků." />
@@ -314,7 +314,7 @@
     <string id="CWbAoGRu" text="Ano, je mi jedno, jak to vyřešíte.[if:convo_normal]Prostě to vyřešte, jak chcete. Počítám, že {NEEDED_MEN_COUNT} pod vedením někoho, kdo ví, jak zacházet se zločinci, by to mohl vyřešit asi za {ALTERNATIVE_SOLUTION_DURATION} dny. Poslal bych tam vlastní muže, ale mohlo by nám způsobit komplikace, kdybychom šli v klanových barvách na území jiného lorda." />
     <string id="cwqR0pp1" text="Zdravím tě, má {?PLAYER.GENDER}paní {?}lorde {\?}. Rád tě tu vidím. Jak vám mohu pomoci?" />
     <string id="CXw9a1i5" text="{QUEST_GIVER.LINK}, {?QUEST_GIVER.GENDER}paní{?}pán{\?} z rodu {QUEST_GIVER_CLAN}, tě požádal, abys vyrazil do {SETTLEMENT}, kde máš vysvobodit {?QUEST_GIVER.GENDER}jejího{?}jeho{\?} příbuzného. Mladý muž je nyní zadržen {TARGET_HERO.LINK}, vůdcem místního gangu, pro své dluhy. {QUEST_GIVER.LINK} navrhl, abys učinil příklad z gangu, aby si nikdo už nikdy nedovolil držet šlechtice. {?QUEST_GIVER.GENDER}Ona{?}On{\?} řekl, že dům, kde je mladý šlechtic vězněn, snadno nalezneš na náměstí města." />
-    <string id="cZptYTYd" text="Dobře.. V okolí města je mnoho zboží, které může přinést dobré peníze, pokud s ním budete obchodovat. Karavana, kterou jste vytvořili, to udělá za vás. K vytvoření karavany potřebuješ zaplatit alespoň {AMOUNT}{GOLD_ICON} za najmutí {NUMBER_OF_MEN} strážců karavany a potřebuješ jednoho společníka, který povede strážce karavany." />
+    <string id="cZptYTYd" text="Dobře.. V okolí města je mnoho zboží, které může přinést dobré peníze, pokud s ním budete obchodovat. Karavana, kterou jste vytvořili, to udělá za vás. K vytvoření karavany musíš zaplatit alespoň {AMOUNT}{GOLD_ICON} za najmutí {NUMBER_OF_MEN} strážců karavany a potřebuješ jednoho společníka, který povede strážce karavany." />
     <string id="D25oY3j1" text="Děkuji {?PLAYER.GENDER}paní {?}sire{\?}. Za vaši laskavost a pochopení. Nezapomeneme na to.[ib:demure][if:convo_happy]" />
     <string id="d4t6oUCn" text="Ohledně tvého postavení v klanu..." />
     <string id="d5a8xQos" text="Nepodařilo se ti porazit zločince, kteří drží v zajetí {QUEST_GIVER.LINK}příbuzného. Po tvém útoku se dozvídáš, že chlapce přemístili na bezpečnější místo. Nyní je nemožné ho najít. {QUEST_GIVER.LINK} se teď bude muset vypořádat s {TARGET_HERO.LINK} sám. {?QUEST_GIVER.GENDER}To {?}On {\?} neuslyší rád." />
