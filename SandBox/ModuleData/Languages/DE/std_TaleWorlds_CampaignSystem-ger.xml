@@ -196,11 +196,11 @@
 <string id="2bcNCnI3" text="{QUEST_GIVER.LINK} tě požádal, abys prodal {?QUEST_GIVER.GENDER}její{?}jeho{\?} zboží za cenu alespoň {UNIT_PRICE}{GOLD_ICON} za náklad a poté se k {?QUEST_GIVER.GENDER}ní{?}němu{\?} navrátil. {?QUEST_GIVER.GENDER}Pravila{?}Pravil{\?}, že veškerý zisk nad touto částkou ti náleží." />
     <string id="2brAaeFh" text="Turnaje se vám nepodařilo dokončit včas. {QUEST_GIVER.LINK}Jistě budeš zklamaný." />
     <string id="2BVDp7Tg" text="Ten {KINGDOM} přestane {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}" />
-    <string id="2c7dIRla" text="{?PLAYER.GENDER}, jsi {?}známá jako odvážná válečnice{\?}znám jako odvážný válečník{PLAYER.NAME} a vynikající vůdce vojska. S potěšením přijmu tvůj meč do své služby, pokud mi složíš hold." />
+    <string id="2c7dIRla" text="Jsi {?PLAYER.GENDER}známa jako odvážná válečnice{?}znám jako odvážný válečník{\?} {PLAYER.NAME} a vynikající {?PLAYER.GENDER}vůdkyně{?}vůdce{\?} vojska. S potěšením přijmu tvůj meč do své služby, pokud mi složíš hold." />
     <string id="2D4EdZVK" text="Dobrá, ale jestli to padne, protože ti to trvalo příliš dlouho, nebudu z toho mít radost." />
     <string id="2diuD0rT" text="Tvůj klan/frakce je nyní ve válce s frakcí {QUEST_GIVER.LINK}. Vaše dohoda s {QUEST_GIVER.LINK} byla zrušena." />
     <string id="2duoimiP" text="Chycená nemoc" />
-    <string id="2dWvwc0T" text="Ty musíš být ta milá {?PLAYER.GENDER}paní{?}vládkyně{\?}, o které nám {QUEST_GIVER.NAME} vyprávěl. Očekávali jsme tě. Zboží je poblíž. Řeknu svým přátelům, aby je přinesli, jakmile zaplatíte." />
+    <string id="2dWvwc0T" text="Ty musíš být {?PLAYER.GENDER}ten milý vládce{?}ta milá vládkyně{\?}, o které nám {QUEST_GIVER.NAME} vyprávěl. Očekávali jsme tě. Zboží je poblíž. Řeknu svým přátelům, aby je přinesli, jakmile zaplatíte." />
     <string id="2E7s4L9R" text="Potřebujete žoldáky? Mám smlouvu, kterou na vás mohu převést za {DEMAND_GOLD} dináry." />
     <string id="2EiC1YyZ" text="No, jestli se dozvědí, co chystáš, mohlo by to pro mě dopadnout velmi špatně. Tak si pospěš.[ib:nervous2][if:convo_dismayed]" />
     <string id="2ELhox6C" text="Pokud se do toho nechceš zaplést sám, nech tu na pár dní jednoho ze svých schopných společníků a {NUMBER_OF_TROOPS}mužů.[ib:closed][if:convo_grave]" />
@@ -2887,7 +2887,7 @@
     <string id="MEr2aoeC" text="{VALUE} brnění ke všem vybaveným kusům zbroje jízdních oddílů ve vaší formaci." />
     <string id="mEsaiLOR" text="Velmi dobře tedy. Kdybyste náhodou měli ještě nějaké zajatce, víte, kde mě hledat." />
     <string id="MesU0nGW" text="O {VALUE}% více kořisti, když vesničané vyhoví vašim nepřátelským akcím." />
-    <string id="meVKYu9a" text="{SALUTATION_BY_PLAYER}, I would pledge allegiance to you and be counted among your loyal followers." />
+    <string id="meVKYu9a" text="{SALUTATION_BY_PLAYER}, Slibuji ti věrnost a přeji si být počítán mezi tvé oddané služebníky." />
     <string id="MF40cm9k" text="Pozemkové dotace jsou považovány spíše za dočasné úřady než za právoplatné dědictví pánů. V praxi mají dědicové tendenci přebírat svá rodová léna, ale v rámci depotů je snazší je odstranit." />
     <string id="mfAP8Wlq" text="Opusťte osadu." />
     <string id="MFDb5duu" text="Skvělé! Mám podezření, že při své práci můžeš občas získat pár zajatců. Mohl bych se jich případně ujmout. Samozřejmě bych vám zaplatil." />
