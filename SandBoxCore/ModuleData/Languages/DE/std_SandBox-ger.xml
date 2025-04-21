@@ -441,7 +441,7 @@
     <string id="GvpvZEba" text="Dobře, dávej na sebe pozor." />
     <string id="GW8ITTMb" text="Vydrancoval jsi {PRODUCTS}." />
     <string id="GwHPEgsv" text="Nemůžeš se hýbat. Vyberte si jednoho ze soupeřových pěšců, kterého chcete odstranit, a proveďte tah." />
-    <string id="GXk6f9ah" text="Mám problém...[ib:confident][if:convo_undecided_closed]A {?TARGET_NOTABLE.GENDER}jeho{?}jeho{\?}jméno je {TARGET_NOTABLE.LINK}. {?TARGET_NOTABLE.GENDER}Její{?}jeho{\?} lidé chodí za hradby, okrádají hráče kostek a pijáky, kteří se baví pod naší ochranou. Já a moji chlapci jim chceme dát za vyučenou, ale říkám si, že nějaký ten sval navíc neuškodí." />
+    <string id="GXk6f9ah" text="Mám problém...[ib:confident][if:convo_undecided_closed]A {?TARGET_NOTABLE.GENDER}jeho{?}jeho{\?}jméno je {TARGET_NOTABLE.LINK}. {?TARGET_NOTABLE.GENDER}Její{?}jeho{\?} lidé chodí za hradby, okrádají hráče kostek a pijáky, kteří se baví pod naší ochranou. Já a moji chlapy jim chceme dát za vyučenou, ale říkám si, že nějaký ten sval navíc neuškodí." />
     <string id="gYCSwLB2" text="Eh, co tím myslíš? [ib:closed][if:convo_confused_normal]" />
     <string id="H2aaMAe5" text="Řekni mi, jak fungují tréninkové zápasy." />
     <string id="h2tMadtI" text="Tuhle historku už jsem slyšel. O co jsi přišel?" />
@@ -535,7 +535,7 @@
     <string id="k1b5crrx" text="Jsi zkušený hráč. Toho si budu všímat." />
     <string id="K1ICRis9" text="Slyšel jsem, že hledáš další meče na ochranu své karavany. Jsem tu, abych nabídl své služby." />
     <string id="k3b5KqSc" text="Tak pojď. Myslel jsem, že jsi tady šéf." />
-    <string id="K5DgDU2a" text="Jsem tu kvůli tomu chlapci. {PRODIGAL_SON.LINK}. Víte, koho mám na mysli." />
+    <string id="K5DgDU2a" text="Jsem tu kvůli tomu chlapy. {PRODIGAL_SON.LINK}. Víte, koho mám na mysli." />
     <string id="K5mG9nDv" text="S radostí." />
     <string id="k5R4qGtL" text="Cože? To mě tu jen tak [ib:nervous][if:convo_nervous2]necháš, aby mě zabili? Moji příbuzní mi to nikdy nezapomenou!" />
     <string id="K8TSoRSD" text="Zda {?QUEST_GIVER.GENDER}Lady{?}Lord{\?}. {QUEST_GIVER.LINK} vás poslala, abyste mě zachránili?" />
@@ -931,7 +931,7 @@
     <string id="VGrHWxzf" text="Bude to masakr, ne souboj, ale to mi nevadí." />
     <string id="VH27tpkT" text="Je to docela dobrá příležitost, jak si udělat jméno. Neriskuješ víc než své zuby, a copak nám jich nebesa nedala třicet, jen abychom jich měli pár v záloze pro takové velkolepé příležitosti, jako je tato?" />
     <string id="vjk2q3OT" text="{?PLAYER.GENDER}Madam{?}Sir{\?}, {TARGET_NOTABLE.LINK}synovec zavraždil jednoho z mých příbuzných, [ib:agresivní][if:convo_bared_teeth]a naším právem je pomstít se vrahovi. Zvyk nám dává právo na pomstu. Každý musí vědět, že jsme ochotni pomstít své syny, jinak si ostatní budou málo myslet o jejich zabití. Prospěje nám, že jsme klan starců a stařen, kteří se topí ve stříbře, když jsou všichni naši synové zabiti? Prosím, pane, dovolte nám pomstít se. Slibujeme, že nedopustíme, aby se z toho stala nesmyslná krevní msta." />
-    <string id="vjOkDM6C" text="Pokud bráníš vraha [ib:warrior][if:convo_furious]pak zemřeš jako vrah. Chlapci, zabijte je všechny!" />
+    <string id="vjOkDM6C" text="Pokud bráníš vraha [ib:warrior][if:convo_furious]pak zemřeš jako vrah. chlapy, zabijte je všechny!" />
     <string id="VkOtMe5a" text="Jdi do cechu" />
     <string id="vn13OyFV" text="Jedno zdravé a jedno mrtvě narozené dítě" />
     <string id="VO8qBWrv" text="Hej, šéfe, přišel jsi zkontrolovat obchod?" />

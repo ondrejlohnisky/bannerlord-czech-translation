@@ -40,7 +40,7 @@
     <string id="80C0gWJ4" text="Král Vlandianů" />
     <string id="86aQkXpV" text="Výborně - vyzkouším tvou odvahu!" />
     <string id="8eLXNZ7U" text="Je dobré vědět, s kým člověk bojuje." />
-    <string id="8GDgJCB4" text="Pokud budeš někdy hledat statné bojovníky, příteli, měl bys uvažovat o najmutí družiny kanců. K našemu praporu se hlásí ti nejodolnější chlapci ve Vlandii. Protože pokud si nenajmeš nás, může to udělat tvůj nepřítel." />
+    <string id="8GDgJCB4" text="Pokud budeš někdy hledat statné bojovníky, příteli, měl bys uvažovat o najmutí družiny kanců. K našemu praporu se hlásí ti nejodolnější chlapy ve Vlandii. Protože pokud si nenajmeš nás, může to udělat tvůj nepřítel." />
     <string id="8WLSZRZc" text="Dobrá tedy. Co navrhuješ?" />
     <string id="8x8kVUGX" text="Hájit práva chudých a pokorných, vdov a sirotků, a nebesa to vezmou na vědomí." />
     <string id="99gE1ZoY" text="Já jsem {CONVERSATION_CHARACTER.LINK}, z {FACTION}." />
@@ -84,7 +84,7 @@
     <string id="d2QGFdRJ" text="Nemáš šanci. Vzdej se, nebo tě vykuchám jako rybu.[ib:warrior][if:convo_angry]" />
     <string id="D5SIBhjl" text="Určitě si pamatuješ, jak {TOURNAMENT_WINNER} vyhrál ten turnaj tady... Nezaslouženější vítězství jsem nikdy neviděl....." />
     <string id="dC8acIya" text="Já jsem {CONVERSATION_CHARACTER.LINK} z {CLAN_NAME}." />
-    <string id="dD6hNymL" text="Moji chlapci a já... Ať už jste slyšeli cokoli, respektujeme autority. Doufáme, že můžeme být užiteční." />
+    <string id="dD6hNymL" text="Moji chlapy a já... Ať už jste slyšeli cokoli, respektujeme autority. Doufáme, že můžeme být užiteční." />
     <string id="dD93WVhO" text="Jediné, co byste o mně měli vědět, je, že jsem velmi dobrý přítel a rozhodně mě nechcete za nepřítele." />
     <string id="dhwnbgoz" text="Ne, to nefunguje." />
     <string id="DIjtFVu8" text="Tvoje poslední kapka krve? Tak to ji asi budu muset prolít já." />

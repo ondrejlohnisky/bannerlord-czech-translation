@@ -103,7 +103,7 @@
     <string id="3sWa2Hmt" text="mého syna {REFERING_HERO.LINK}." />
     <string id="3syV6ymi" text="Tupý" />
     <string id="3tJq5QyQ" text="{HEALTHY_NUM}+{WOUNDED_NUM}w" />
-    <string id="3TXGG01D" text="{?PLAYER.GENDER}Vybrala jste si dobře{?}Vybral jste si dobře{\?}. Moji chlapci umí držet slovo a zasloužit si svůj plat.[ib:convo_approving]" />
+    <string id="3TXGG01D" text="{?PLAYER.GENDER}Vybrala jste si dobře{?}Vybral jste si dobře{\?}. Moji chlapy drží slovo a zaslouží si svůj plat.[ib:convo_approving]" />
     <string id="3uR8wLko" text="Náš pane {REFERING_HERO.LINK}" />
     <string id="3vT6TQmF" text="{PLAYER.LINK}, jsi v {SIDE_STRING} {CLASS_NAME}." />
     <string id="3wS4uOvU" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} a {?}{\?}{TROOP_NAMES_END} bojují ze zálohy." />
@@ -1470,7 +1470,7 @@
     <string id="UaYsPbER" text="Nevyplacená mzda" />
     <string id="uB245vWg" text="Jídlo:" />
     <string id="uBxHeyxy" text="Statečnost:" />
-    <string id="uCikaIoq" text="Splendid. Vidíte, já a moji chlapci nejsme krutí lidé. Ale trochu chamtiví jsme, to se nedá popřít, tak buďte štědří.[ib:hip][rf:convo_bemused]" />
+    <string id="uCikaIoq" text="Splendid. Vidíte, já a moji chlapy nejsme krutí lidé. Ale trochu chamtiví jsme, to se nedá popřít, tak buďte štědří.[ib:hip][rf:convo_bemused]" />
     <string id="UckVajhO" text="Získaná pověst: + {RENOWN}" />
     <string id="UCo8oT1Q" text="Válečná strategie" />
     <string id="ucyy9Sc5" text="{LEFT} / {RIGHT}" />

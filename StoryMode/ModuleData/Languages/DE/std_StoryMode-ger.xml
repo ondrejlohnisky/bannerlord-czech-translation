@@ -68,7 +68,7 @@
     <string id="6YhGGJ7a" text="Konečně potřebuješ hlavní město pro svou říši. Může to být jakákoli osada, kterou vlastníš, pokud nemluví císařským jazykem. Nepomůžu ti vytvořit další říši." />
     <string id="77TavbOY" text="Všechny výukové programy jsi splnil. Vždy se můžeš vrátit a zlepšit si skóre." />
     <string id="7FWF01bW" text="Uprchlíci" />
-    <string id="7O8IwMgU" text="Ach, mou pomoc budeš potřebovat v pořádku, pokud je chceš dostat zpět - tedy živé. Víte, moji chlapci mají docela konkrétní instrukce, co dělat, pokud dojde k pokusu o záchranu..." />
+    <string id="7O8IwMgU" text="Ach, mou pomoc budeš potřebovat v pořádku, pokud je chceš dostat zpět - tedy živé. Víte, moji chlapy mají docela konkrétní instrukce, co dělat, pokud dojde k pokusu o záchranu..." />
     <string id="7ULaG8aT" text="Pak se můžeš vrátit, až se rozhodneš.[ib:closed][if:convo_insulted]" />
     <string id="7VFLb3Qj" text="Dorazili jste do vesnice." />
     <string id="7wmkPNbI" text="Bráníš se zprava." />
@@ -313,7 +313,7 @@
     <string id="kwW6v202" text="Přejdi na střeleckou pozici" />
     <string id="KXj8bsao" text="Takže... Pokud hodláš použít prapor k záchraně Říše, řeknu ti, co vím. Ale jestli chceš jít zpátky, ne dopředu, tak ti nepomůžu.[ib:closed][if:convo_undecided_closed]" />
     <string id="kYtRsxSL" text="Bojovali jsme s Vlandiany. Vyhráli jsme, ale byla to velká jatka. Manželův kůň byl zabit a on byl sražen, ačkoli zemřel uprostřed hromady vlandských mrtvých. Jinde na poli si císař nechal useknout hlavu Sturgiánskou sekerou, a tak nám nemohl zaplatit." />
-    <string id="KYW1UiKm" text="Khergité nikdy nepatřili k nejbohatším klanům, ale vynahradili jsme si to svou statečností. Když se rozneslo, že císař slibuje stříbro za muže, kteří po jeho boku pojedou proti Sturgiánům, Battanům a dalším, naši mladí stateční chlapci se samozřejmě chopili příležitosti. Vedl je můj manžel, nejstatečnější a nejlepší z nich." />
+    <string id="KYW1UiKm" text="Khergité nikdy nepatřili k nejbohatším klanům, ale vynahradili jsme si to svou statečností. Když se rozneslo, že císař slibuje stříbro za muže, kteří po jeho boku pojedou proti Sturgiánům, Battanům a dalším, naši mladí stateční chlapy se samozřejmě chopili příležitosti. Vedl je můj manžel, nejstatečnější a nejlepší z nich." />
     <string id="kz5PJbV1" text="Budu. Za tvé četné zločiny {RADAGOS.NAME}, tvůj život je ztracen." />
     <string id="kzgbBrYo" text="Když opouštíš úkryt, {RADAGOS.LINK}přijde k tobě a požádá tě o rozhovor." />
     <string id="L1V8L2N1" text="Ano. Císař Neretzes nabídl, že si najme naše bojovníky jako žoldáky. Neviděl jsem na tom nic špatného.[ib:confident3][if:convo_bored]" />

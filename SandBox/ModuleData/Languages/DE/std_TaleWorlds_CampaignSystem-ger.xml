@@ -348,13 +348,13 @@
 <string id="44f1ff0q" text="Všechny osady {QUEST_GIVER.LINK} byly zpustošeny a tvá dohoda s {?QUEST_GIVER.GENDER}ní{?}ním{\?} tímto pozbyla platnosti." />
     <string id="44tA6fNa" text="Pokusím se tedy získat důvěru tvé rodiny." />
     <string id="49IwOe5E" text="Jak si přeješ...[if:convo_normal]" />
-    <string id="4ADQ7YZj" text="{PERSON.LINK}vyhrál turnaj v {TOWN}." />
+    <string id="4ADQ7YZj" text="{PERSON.LINK} {?CHILD.GENDER}vyhrála{?}vyhrál{\?} turnaj v {TOWN}." />
     <string id="4ajo4jvp" text="{VALUE} náborový slot od venkovských prominentů." />
     <string id="4ATx01zS" text="{FIRSTNAME} Rock" />
     <string id="4bDHBIr1" text="You have completed your end of the bargain. {QUEST_GIVER.LINK} now considers you as a trustworthy {?PLAYER.GENDER}tradeswoman{?}tradesman{\?}." />
     <string id="4bkLDxIU" text="To, co jsme udělali tam vzadu, v té vesnici... To nedělám. Nechci se toho účastnit." />
-    <string id="4Bl1LWmZ" text="Než {CHILD.NAME}odešel, povzbuzoval jsi {?CHILD.GENDER}jeho {?}jeho {\?}, aby..." />
-    <string id="4Bub0GY6" text="Úkryt vyčistil někdo jiný. Tvá dohoda s {QUEST_GIVER.LINK}je zrušena." />
+    <string id="4Bl1LWmZ" text="Než {CHILD.NAME} {?CHILD.GENDER} odešla {?} odešel {\?}, povzbuzoval jsi {?CHILD.GENDER} jí {?} ho {\?}, aby..." />
+    <string id="4Bub0GY6" text="Úkryt vyčistil někdo jiný. Tvá dohoda s {QUEST_GIVER.LINK} je zrušena." />
     <string id="4c9ySfVj" text="Našel jsi, co jsme potřebovali, {?PLAYER.GENDER}madam{?}sire{\?}?" />
     <string id="4CSaYB8H" text="{VALUE}% bojové morálky vojákům 1. až 3. úrovně." />
     <string id="4CuMDzvd" text="Požádal jsi svého nejlepšího válečníka, aby vzal {?CHILD.GENDER}jeho{?}jeho{\?} pod svá křídla a zajistil, aby {?CHILD.GENDER}jeho{?}jeho{\?} okusil chuť boje, aniž by mu vážně ublížil." />
@@ -765,7 +765,7 @@
     <string id="9d6WxRrj" text="Chceš si zboží koupit sám? Nebo si ponechám vlastnictví a ty si ponecháš jen dodatečný zisk? Očekávám, že vydělám {TOTAL_DENARS}{GOLD_ICON} za {SELECTED_COUNT} náklad zboží. Pokud bys je chtěl koupit hned, můžeš je jednoduše prodat sám nebo s nimi udělat, co si přeješ." />
     <string id="9DaDtQbo" text="Zřekněte se {POLICY_NAME}" />
     <string id="9f16mDn0" text="Doba trvání {VALUE}% dezorganizovaného stavu, když je nájezd nebo obléhání přerušeno." />
-    <string id="9g6FB5Y7" text="Je tu několik měšťanů, kteří se o mě starali, starali se, abych měl co jíst a tak. Rád bych jim něco dal, než odejdu. Mohl bych požádat o {GOLD_AMOUNT}{GOLD_ICON} jako zálohu?" />
+    <string id="9g6FB5Y7" text="Je tu několik měšťanů, kteří se o mě starali, abych měl co jíst a tak. Rád bych jim něco koupil, než odejdu. Mohl bych požádat o {GOLD_AMOUNT}{GOLD_ICON} jako zálohu?" />
     <string id="9HJbLneH" text="Děkuji vám za pomoc, {PLAYER.NAME}. Tady je peněženka, kterou jsem vám slíbil. Sbohem.[if:convo_happy][ib:hip]" />
     <string id="9Hv0q2lg" text="{VALUE} denní zkušenost s pěšími vojáky na cestách." />
     <string id="9iLyu1kp" text="Dlouhý dosah" />
@@ -1072,7 +1072,7 @@
     <string id="b9NaTqyr" text="Extra obrana obránce" />
     <string id="b9nvCgYF" text="Lovec ví, jak připravit past a jak do ní nalákat kořist, a když se v okolí vyskytují nebezpeční predátoři, jak se vyhnout tomu, aby se stal štvancem." />
     <string id="b9ty57rJ" text="Vůdce frakce" />
-    <string id="babDRxdu" text="Snažím se pomoci několika přátelům. Chtějí kupce na nějaké zboží, které, no, řekněme, že moji přátelé možná za toto zboží nezaplatili. Tito chlapci táboří poblíž, ale raději by do města nechodili. Vidíte? [if:convo_mocking_aristokratický][ib:hip]" />
+    <string id="babDRxdu" text="Snažím se pomoci několika přátelům. Chtějí kupce na nějaké zboží, které, no, řekněme, že moji přátelé možná za toto zboží nezaplatili. Tito chlapy táboří poblíž, ale raději by do města nechodili. Vidíte? [if:convo_mocking_aristokratický][ib:hip]" />
     <string id="baeO5Zkk" text="{TITLE}... {GRIEVANCE_SHORT_DESCRIPTION}" />
     <string id="bai3aiDB" text="Jako vyslanec." />
     <string id="BaifRgT5" text="To se hodí vědět, až přijde čas jednat o výměně věn." />
@@ -1211,7 +1211,7 @@
     <string id="bPqwLopK" text="Mm. Jsi otrokář?" />
     <string id="bpXgcBCp" text="To, co jsme udělali té vesnici... To se mi nelíbí. Ti farmáři jsou hodně podobní mým lidem. Chci vědět, že už se to nebude opakovat." />
     <string id="bqEO389P" text="Toto rozhodnutí způsobilo rozkol v radě." />
-    <string id="BQjAAo9f" text="Právě teď hledám práci, jestli mi můžeš něco nabídnout." />
+    <string id="BQjAAo9f" text="Jestli mi máš co nabídnout tak právě teď hledám práci." />
     <string id="BqkD4YWr" text="Podařilo se ti sehnat pár mužů z vesnice, kteří vypadají, že by mohli být slušnými rekruty." />
     <string id="BQn8yTs5" text="Ach, ano. Obávám se, že tvou nabídkou se už nemohu zabývat, alespoň prozatím ne." />
     <string id="BQuVWKvq" text="Nemáš zač. Je něco, o čem bychom si měli promluvit?" />
@@ -1498,7 +1498,7 @@
     <string id="DEnFOGhS" text="Bojujte se mnou, pokud se odvážíte!" />
     <string id="dEXpZOlC" text="{QUEST_GIVER}{} Informátoři hlásili, že {MALE_LESSER_NOBLE_NAME} družina byla spatřena poblíž {VILLAGE}." />
     <string id="DfbYtRyj" text="Váhali jste, zda dát {?PLAYER_CHILD}svému {?}dítěti {\?} takové temperamentní zvíře, ale {?CHILD.GENDER}ona {?}se {\?}vrhla na jeho hřbet a cválala jako vítr po vašich pastvinách." />
-    <string id="dFcgXnQq" text="Vyrazte" />
+    <string id="dFcgXnQq" text="Prorazit obklíčení" />
     <string id="dfEi6GSE" text="Budeme za vás bojovat, pokud si můžete dovolit náš honorář. Podívejte se prosím na naše podmínky a zjistěte, zda jsou přijatelné." />
     <string id="DFkzQHRQ" text="Za všechno hedvábí Pádišáha  Za všechno císařovo zlato  Za všechno koření na dálném východě..." />
     <string id="Dfl5WJfN" text="Dost řečí. Teď pochodujte." />
@@ -1583,7 +1583,7 @@
     <string id="dSSphiFs" text="Nájemné meče v současné době nepotřebujeme, protože nejsme ve válce. Své štěstí byste měli hledat jinde." />
     <string id="dSy9Hawq" text="Spravedlivé rozhodnutí, má {?PLAYER.GENDER}paní {?}pane {\?}." />
     <string id="dt1xXqbD" text="{VALUE}% postih za vidění při cestování v lesích." />
-    <string id="dT3cdDSg" text="Udělala jsi moudrou věc, {PLAYER.NAME}. Slouž mi dobře a slibuji, že se vyšvihneš vysoko." />
+    <string id="dT3cdDSg" text="{?PLAYER.GENDER}Udělala{?}Udělal{\?} jsi moudrou věc, {PLAYER.NAME}. Služ mi dobře a slibuji, že se dosatneš vysoko." />
     <string id="dt6kKXSL" text="Předražené suroviny na {SETTLEMENT}." />
     <string id="dtghhz46" text="No... Máš meče. Můžeš si dělat, co chceš. Jen nečekej, že o tobě bude mít někdo v {MERCHANT_TOWN}dobré mínění. Dobrý den, {?PLAYER.GENDER}paní {?}sire {\?}." />
     <string id="dTmPV82D" text="Působí na domobranu osady." />
@@ -2364,7 +2364,7 @@
     <string id="J0Clb1RD" text="Pokud nemáš čas, pošli alespoň jednoho ze svých nejlepších společníků s {TROOP_COUNT} zkušenými muži na {RETURN_DAYS} dny [if:convo_stern][ib:closed]" />
     <string id="j0QKnNqK" text="Výcvik {YOUNG_HERO.LINK} byl úspěšně dokončen. On i jeho klan jsou ti vděční." />
     <string id="j0UDi2AN" text="Úroveň klanu by měla být alespoň {TIER}." />
-    <string id="J1aEaygO" text="Vymyslel jsi plán, jak se probojovat přes útočníky a uniknout z pevnosti. Ty a většina tvých mužů můžete přežít, ale až {POSSIBLE_CASUALTIES}. {?PLURAL}jednotek{?}jednotek{\?} může být ztraceno." />
+    <string id="J1aEaygO" text="Vymyslel jsi plán, jak se probojovat přes útočníky a uprchnout z pevnosti. Ty a většina tvých mužů máte šanci přežít, ale {POSSIBLE_CASUALTIES} jednotek může být ztraceno." />
     <string id="J1GSW0yk" text="Zvědavý kovář" />
     <string id="J2Iok9lT" text="Spojenec za tebe zaplatil výkupné." />
     <string id="j3Hcp9RQ" text="Vojákům ve tvé skupině přidá {VALUE}šroubů na jeden toulec." />
@@ -2604,7 +2604,7 @@
     <string id="kJwpbptU" text="No, snažte se mi být neustále nablízku a snažte se toho co nejvíce naučit." />
     <string id="KK3DAGej" text="{VALUE}% šance na zasažení obléhacích strojů na dálku při bombardování." />
     <string id="KKB2vNFr" text="Sally venku" />
-    <string id="KKeRi477" text="Dobře, chlapci. Pojďme zabít šéfa [if:convo_predatory][ib:aggressive]" />
+    <string id="KKeRi477" text="Dobře, chlapy. Pojďme zabít šéfa [if:convo_predatory][ib:aggressive]" />
     <string id="kknvzzcG" text="{VICTIM.LINK} zemřel v bitvě proti {FACTION_LINK}." />
     <string id="KKsCor3D" text="{VALUE}% průraznost pancíře útoky zblízka." />
     <string id="KLauwaRJ" text="Karavana byla zničena navzdory úsilí tvého společníka. Úkol se nezdařil." />
@@ -3213,7 +3213,7 @@
     <string id="oKWft2IH" text="{VALUE}% šance, že tvůj kůň po pádu v bitvě zemře nebo zchromne." />
     <string id="OLcbuZSa" text="Děkujeme. Vaší pomoci si velmi vážíme." />
     <string id="OlIWwLbP" text="Ano, jde o válku s {ENEMYFACTION_INFORMALNAME}.[ib:closed][if:convo_pondering]Potřebujeme vázat nějaké jejich síly a nejjednodušší způsob, jak toho dosáhnout, by bylo přepadnout jejich vesnice. Je to krutá záležitost a pro prostý lid to bude těžké, ale jejich páni budou muset nájezdníky pronásledovat a zabrání jim to udělat totéž nám. Pokud se toho ujmete, odměním vás, pokud uspějete." />
-    <string id="OlKbD2fa" text="Někdo jako ty se mi v mé společnosti hodí." />
+    <string id="OlKbD2fa" text="Takový člověk jako ty se mi hodí." />
     <string id="OmGHXuZB" text="Nebudeš velet obráncům." />
     <string id="oMuxr3X6" text="Jaké jsou zprávy o trzích? Nějaké dobré nabídky?" />
     <string id="on2EmlUT" text="Malá rada největších pánů království. Ta dává hlavním klanům dodatečný vliv, ale brání ostatním klanům, aby se vyšplhaly do jejich řad." />
@@ -3609,7 +3609,7 @@
     <string id="R1MaIgOb" text="Efekt domobrany" />
     <string id="R1W5Il2d" text="Se svými stížnostmi se můžeš obrátit na svého pána nebo na toho, kdo prodal půdu. Zákon říká, že kupující má práva, a ty musíš vyklidit." />
     <string id="R21SLyGK" text="Výborně. Jsi statečný a věrný bojovník. Patří ti můj dík.[ib:hip][if:convo_excited]" />
-    <string id="r2g61BjX" text="No, moji chlapci už netrpělivě čekají..." />
+    <string id="r2g61BjX" text="No, moji chlapy už netrpělivě čekají..." />
     <string id="r2y3n7dR" text="Navštívené osady" />
     <string id="R3aVlXGu" text="Prohrál jsi bitvu proti {MALE_LESSER_NOBLE_NAME} a nepomohl jsi {QUEST_GIVER.LINK}, jak jsi slíbil." />
     <string id="r3GvpY5n" text="Žoldnéři dostávají za boj vliv jako vazalové, ale na konci každého dne se vyměňuje za dináry v poměru {GOLD_AMOUNT}{GOLD_ICON} za bod vlivu." />
@@ -3807,7 +3807,7 @@
     <string id="scjHmuyF" text="Kompletní řemeslné zakázky" />
     <string id="scmTEn90" text="Můžeš jim to říct. {TARGET_SETTLEMENT} Bude naše do 60 dnů." />
     <string id="SCpINAZ1" text="Lov na bandity." />
-    <string id="sd15CQHI" text="Vymyslel jsi plán, jak odlákat pozornost obléhatelů, abys mohl vtrhnout do bran pevnosti a očekával, že tě obránci pustí dovnitř. Ty a většina tvých mužů se možná dostanete skrz, ale až {POSSIBLE_CASUALTIES} přes pevnost se dostaneš. {?PLURAL}jednotek{?}jednotek{\?} může být ztraceno." />
+    <string id="sd15CQHI" text="Vymyslel jsi plán, jak odlákat pozornost obléhatelů, abys mohl proniknout branami pevnosti, doufaje, že tě obránci vpustí dovnitř. Ty a většina tvých mužů se možná dostanete skrz, ale cesta bude nebezpečná. Můžeš přijít až o {POSSIBLE_CASUALTIES} jednotek." />
     <string id="SdK678BT" text="{FIRSTNAME} z Cavern" />
     <string id="sdQoXkKq" text="to find {?CHILD.GENDER}her{?}his{\?} own way." />
     <string id="SDzIAtiA" text="Zajatci {SETTLEMENT_NAME}" />
@@ -3917,7 +3917,7 @@
     <string id="t5Y0gTGv" text="{ARMY} byl rozpuštěn, protože vůdce nemohl dorazit na místo včas." />
     <string id="T6d7wtJX" text="Velmi dobře. Řeknu jim, aby se připojili k vaší skupině. Hodně štěstí.[if:convo_mocking_aristocratic][ib:hip]" />
     <string id="t6FNeiOC" text="{ARMY} Byla rozpuštěna, protože vůdce vojska je mrtvý." />
-    <string id="T7bMlcj3" text="Ceny v {TARGET_SETTLEMENT} jsou v těchto dnech nižší. Podnikaví chlapci jako ty si mohou vést lépe jinde." />
+    <string id="T7bMlcj3" text="Ceny v {TARGET_SETTLEMENT} jsou v těchto dnech nižší. Podnikaví chlapy jako ty si mohou vést lépe jinde." />
     <string id="t87T82jq" text="Vlastněné cechy" />
     <string id="t8TfagYL" text="Šlechtici jsou vybízeni k opevňování svých panství a mohou si za tímto účelem rekvírovat pracovní síly a materiál." />
     <string id="t968gMty" text="{FIRSTNAME} Bastard" />
@@ -5000,7 +5000,7 @@
     <string id="zw7a9eIt" text="{ISSUE_GIVER.NAME} žádá, abys {?PLAYER.GENDER}vzala{?}vzal{\?} {?ISSUE_GIVER.GENDER}její{?}jeho{\?} žoldnéře a přenesl je k jinému pánu, než aby způsobili nějaké potíže." />
     <string id="Zw95lDI3" text="Hmm... To by nemuselo vyjít." />
     <string id="zWILNszA" text="Možná máte pravdu, ale nemyslete si, že se vzdáme požadavku na svá práva. Vrátíme se domů, ale své nároky budeme prosazovat jiným způsobem." />
-    <string id="zwNjgdbi" text="Moji chlapci se připravují na bitvu. Jsem si jistý, že vaši muži zvrátí rovnováhu tohoto boje v náš prospěch. Děkuji vám." />
+    <string id="zwNjgdbi" text="Moji chlapy se připravují na bitvu. Jsem si jistý, že vaši muži zvrátí rovnováhu tohoto boje v náš prospěch. Děkuji vám." />
     <string id="ZwpWX8Zx" text="Hlasujte pro vyhoštění {CLAN_NAME} z království." />
     <string id="zWTNOfHm" text="Chci tě, a pokud chceš ty mě, mělo by to stačit!" />
     <string id="Zwy8JybD" text="Jsi v zázemí. Zdá se, že místní krčma přitahuje své obvyklé osazenstvo." />
