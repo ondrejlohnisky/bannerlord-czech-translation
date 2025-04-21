@@ -553,7 +553,7 @@
     <string id="6RckjM4S" text="Přítomnost" />
     <string id="6rEsV6SZ" text="{VALUE}% poškození při použití vrhacích zbraní jako zbraně pro boj zblízka." />
     <string id="6REUNz1g" text="Nepřátelská družina:" />
-    <string id="6rweIvZS" text="{QUEST_GIVER.LINK}, a gang leader from {SETTLEMENT} offers you to fix 5 tournaments together and share the profit.  {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to enter 5 tournaments and follow the instructions given by {?QUEST_GIVER.GENDER}her{?}his{\?} associate." />
+    <string id="6rweIvZS" text="{QUEST_GIVER.LINK}, vůdce bandy z {SETTLEMENT}, ti {?QUEST_GIVER.GENDER}nabídla{?}nabídl{\?}, abyste společně zmanipulovali pět turnajů a rozdělili si zisk. {?QUEST_GIVER.GENDER}Požádala{?}Požádal{\?} tě, abys vstoupil do pěti turnajů a řídil se pokyny, které ti předá {?QUEST_GIVER.GENDER}její{?}jeho{\?} společník." />
     <string id="6RYVOb0c" text="Manažer" />
     <string id="6tBhhNaC" text="{FIRSTNAME} Rottentooth" />
     <string id="6TYsIQav" text="Poté, co jsi pozoroval strádání vesničanů, jsi odvolal své muže, abys je více nezatěžoval." />
@@ -1047,7 +1047,7 @@
     <string id="b3GrvocA" text="Řekl jsi svým mužům, aby šli opatrně, ale přesto vybírali výnosy. Zdálo se, že vesničtí prominenti jsou tvým rozhodnutím naštvaní." />
     <string id="b3iBOVXN" text="Procházíš kolem vádí a vidíš něco, co vypadá jako zamaskovaná studna na čerpání podzemní vody, kterou po sobě zanechávají vzácné deště." />
     <string id="b3PsxeiB" text="Odhadce" />
-    <string id="B3WyJjBx" text="{QUEST_GIVER.LINK}, a gang leader from {SETTLEMENT}, asked you to buy some weapons for {?QUEST_GIVER.GENDER}her{?}his{\?} private business. {?QUEST_GIVER.GENDER}She{?}He{\?} offered you {REWARD_GOLD}{GOLD_ICON} for their delivery. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to buy {NEEDED_AMOUNT} {NEEDED_TYPE} and deliver them to {SETTLEMENT} where {QUEST_GIVER.LINK} men will be waiting for you. {?QUEST_GIVER.GENDER}She{?}He{\?} promised to give you {REWARD_GOLD}{GOLD_ICON} for your troubles." />
+    <string id="B3WyJjBx" text="{QUEST_GIVER.LINK}, vůdce gangu z {SETTLEMENT}, tě požádal, abys koupil nějaké zbraně pro {?QUEST_GIVER.GENDER}její{?}jeho{\?} soukromé podnikání. {?QUEST_GIVER.GENDER}Ona{?}On{\?} ti nabídl {REWARD_GOLD}{GOLD_ICON} za jejich dodání. {?QUEST_GIVER.GENDER}Požádal{?}Požádala{\?} tě, abys koupil {NEEDED_AMOUNT} {NEEDED_TYPE} a dopravil je do {SETTLEMENT}, kde na tebe budou čekat muži {QUEST_GIVER.LINK}. {?QUEST_GIVER.GENDER}Slíbil{?}Slíbila{\?} ti {REWARD_GOLD}{GOLD_ICON} za tvou námahu." />
     <string id="b3YNi4LG" text="Já jsem {CONVERSATION_HERO.LINK}. {FACTION_DESCRIPTION}" />
     <string id="b4TeiuoJ" text="V}době války se často uplatňovaly mimořádné daně." />
     <string id="b5InObbq" text="Přijal jsi nabídku náčelníka. Významní lidé ve vesnici a vesničané byli s tvým rozhodnutím spokojeni a dali ti {PRODUCT_COUNT}. {.%}{?(PRODUCT_COUNT &gt; 1)}{PLURAL(PRODUCT)}{?}{PRODUCT}{\?}{.%}." />
@@ -2131,7 +2131,7 @@
     <string id="HGrsb7k2" text="Doktor z křoví" />
     <string id="hHHEW1HN" text="Bitevní pole" />
     <string id="hhrRnSvr" text="Nepodařilo se ti včas doručit stádo, jak po tobě {QUEST_GIVER.LINK}chtěl. Pastýři i stádo tě opustili." />
-    <string id="HhTTzgLj" text="{ISSUE_OWNER.LINK}Vůdce gangu v {ISSUE_SETTLEMENT} místě chce, abychom přepadli úkryt nějakých lovců odměn a zachránili {?ISSUE_OWNER.GENDER}její{?}jeho{\?} společníky." />
+    <string id="HhTTzgLj" text="{ISSUE_OWNER.LINK}, {?ISSUE_OWNER.GENDER}vůdkyně{?}vůdce{\?} gangu v {ISSUE_SETTLEMENT} místě chce, abychom přepadli úkryt nějakých lovců odměn a zachránili {?ISSUE_OWNER.GENDER}její{?}jeho{\?} společníky." />
     <string id="hI7eDbXs" text="Nemůžete brát zajatce." />
     <string id="hiFadSiC" text="Za každý bod dovednosti nad 200 získáte {VALUE}% poškození lukem." />
     <string id="hIFazIcK" text="Tak ať se stane!" />
@@ -3241,7 +3241,7 @@
     <string id="oT4JNyFp" text="Pověřím jednoho ze svých společníků výcvikem tvých mužů." />
     <string id="oT8DUcHf" text="Statkář potřebuje {TARGET_SETTLEMENT} pastvinu." />
     <string id="OtdkOGur" text="Pěší flotila" />
-    <string id="otwfa0K3" text="{QUEST_GIVER.LINK}, vůdce gangu z {SETTLEMENT} chtěl, abys koupil nějaké zbraně pro {?QUEST_GIVER.GENDER}jeho {?}svůj {\?} soukromý podnik. {?QUEST_GIVER.GENDER}Ona{?}On{\?} ti nabízí {REWARD_GOLD}{GOLD_ICON} na jejich dodání. Požádal jsi {COMPANION.LINK}, abys vzal několik svých mužů a koupil {NEEDED_AMOUNT} jednotky {NEEDED_TYPE}, které dodáš {QUEST_GIVER.LINK} do {SETTLEMENT}. Měli by se připojit k vaší družině za {RETURN_DAYS} dny." />
+    <string id="otwfa0K3" text="{QUEST_GIVER.LINK}, {?QUEST_GIVER.GENDER}vůdkyně{?}vůdce{\?} gangu z {SETTLEMENT} {?QUEST_GIVER.GENDER}chěla{?}chtěl{\?}, abys koupil nějaké zbraně pro {?QUEST_GIVER.GENDER}její {?}jeho {\?} soukromý podnik. {?QUEST_GIVER.GENDER}Ona{?}On{\?} ti nabízí {REWARD_GOLD}{GOLD_ICON} za jejich dodání. Požádal jsi {COMPANION.LINK}, abys vzal několik svých mužů a koupil {NEEDED_AMOUNT} jednotek {NEEDED_TYPE}, které dodáš {QUEST_GIVER.LINK} do {SETTLEMENT}. Měli by se připojit k vaší družině za {RETURN_DAYS} dny." />
     <string id="otWlERkc" text="Pole pro vojenské cvičení, které zvyšuje denní zisk zkušeností všech posádkových jednotek." />
     <string id="OTyYJ2Bt" text="Náklady na nábor {VALUE}%." />
     <string id="oumTabhS" text="Jeden z rodiny" />
@@ -3280,7 +3280,7 @@
     <string id="p5Wo8rNb" text="Vyhrál jsi souboj." />
     <string id="p6swAFWn" text="Vaši muži začali vybírat výnosy..." />
     <string id="p78FaTqe" text="To, co jsem řekl o tom, že naše mzdy budou vypláceny včas..." />
-    <string id="P7MZ0hZb" text="{QUEST_GIVER.LINK}, a gang leader from {QUEST_SETTLEMENT}, has told you that some bounty hunters captured some of {?QUEST_GIVER.GENDER}her{?}his{\?} gang members and are holding them in their hideout. You told {?QUEST_GIVER.GENDER}her{?}him{\?} you would find them yourself." />
+    <string id="P7MZ0hZb" text="{QUEST_GIVER.LINK}, {?QUEST_GIVER.GENDER}vůdkyně{?}vůdce{\?} gangu z {QUEST_SETTLEMENT}, ti {?QUEST_GIVER.GENDER}řekla{?}řekl{\?}, že někteří lovci odměn zajali některé z {?QUEST_GIVER.GENDER}jejích{?}jeho{\?} členů a drží je ve své skrýši. {?PLAYER.GENDER}Řekla{?}Řekl{\?} jsi {?QUEST_GIVER.GENDER}jí{?}mu{\?}, že je {?PLAYER.GENDER}sama{?}sám{\?} najdeš." />
     <string id="p8Kfl5u6" text="Boj s pytláky jsi prohrál a nepomohl jsi {QUEST_GIVER.LINK}tak, jak jsi slíbil." />
     <string id="p8pviWlQ" text="Na začátku bitvy se {VALUE} bojová morálka vojákům zhoršila." />
     <string id="p8ye30mG" text="Ano, víme, kde se nachází. Je jen otázkou času je chytit." />
@@ -3423,7 +3423,7 @@
     <string id="PypPEj5Z" text="Budu tvým věrným {?PLAYER.GENDER}přívržencem {?}člověkem{\?}, dokud mi bude zbývat dech..." />
     <string id="PZb8JrMH" text="{VALUE}% denní šance na uzdravení chromého koně." />
     <string id="PZfR7hEK" text="Co chceš? Musím se připravit na turnaj." />
-    <string id="PZI9Smv3" text="{QUEST_GIVER.LINK}, a gang leader in {SETTLEMENT}, told you that {?QUEST_GIVER.GENDER}she{?}he{\?} needs recruits for {?QUEST_GIVER.GENDER}her{?}his{\?} gang. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to recruit {NEEDED_RECRUIT_AMOUNT} looters or bandits into your party, then transfer them to {?QUEST_GIVER.GENDER}her{?}him{\?}. You will be paid for the recruits depending on their experience." />
+    <string id="PZI9Smv3" text="{QUEST_GIVER.LINK}, {?QUEST_GIVER.GENDER}vůdkyně{?}vůdce{\?} gangu ve městě {SETTLEMENT}, ti {?QUEST_GIVER.GENDER}řekla{?}řekl{\?}, že potřebuje rekruty pro svůj gang. {?QUEST_GIVER.GENDER}Požádala{?}požádal{\?} tě, abys do své družiny přijal {NEEDED_RECRUIT_AMOUNT} lupičů nebo banditů a poté {?QUEST_GIVER.GENDER}mu{?}jí{\?} je předal. Za rekruty dostaneš zaplaceno podle jejich zkušeností." />
     <string id="pZm7HRDG" text="Nebojte se, nemám v úmyslu zaútočit." />
     <string id="PznnUlI3" text="Převedením zajatých banditů neztrácíte morálku." />
     <string id="PznWhAdU" text="Vlastně je to jedno." />
@@ -3672,7 +3672,7 @@
     <string id="RhJdnAQY" text="Užívej si života na vysoké noze." />
     <string id="rHtwp8ag" text="Denní šance získat +1 vztah s náhodným lordem z {VALUE}% téže armády." />
     <string id="RIiVDdi0" text="Úsilí pro lidi" />
-    <string id="riKyIyaa" text="{QUEST_GIVER.LINK}, vůdce gangu z {QUEST_GIVER_SETTLEMENT}, ti nabídl, abys prodal {STOLEN_GOODS_SIZE}. {.%}{?(STOLEN_GOODS_SIZE &gt; 1)}{PLURAL(STOLEN_GOOD)}{?}{STOLEN_GOOD}{\?}{.%} za polovinu běžné ceny, protože byly ukradeny... {?QUEST_GIVER.GENDER}On{?}On{\?} říká, že jsou ukryty na odlehlém místě. Požádal jsi svého společníka, aby šel zboží koupit." />
+    <string id="riKyIyaa" text="{QUEST_GIVER.LINK}, {?QUEST_GIVER.GENDER}vůdkyně{?}vůdce{\?} gangu z {QUEST_GIVER_SETTLEMENT}, ti {?QUEST_GIVER.GENDER}nabídla{?}nabídl{\?}, abys prodal {STOLEN_GOODS_SIZE}. {.%}{?(STOLEN_GOODS_SIZE &gt; 1)}{PLURAL(STOLEN_GOOD)}{?}{STOLEN_GOOD}{\?}{.%} za polovinu běžné ceny, protože byly ukradeny... {?QUEST_GIVER.GENDER}Ona{?}On{\?} říká, že jsou ukryty na odlehlém místě. Požádal jsi svého společníka..." />
     <string id="RIMXqF1d" text="{VALUE} bojová morálka na začátku bitvy při obraně." />
     <string id="riYecgOn" text="Slyšeli jsme zvěsti, že jste nakoupili zboží od {QUEST_GIVER.NAME}. No, naše zákony vyžadují, aby zboží přímo od řemeslníků mohli nakupovat pouze obchodníci sídlící ve městě [if:convo_annoyed][ib:hip]" />
     <string id="rJBgDaxe" text="Vaše armáda se rozpadla kvůli nedostatku soudržnosti." />
@@ -4073,7 +4073,7 @@
     <string id="u5zNNZKa" text="Účinný výrobce dřevěného uhlí" />
     <string id="u6GM5Spa" text=" Armády" />
     <string id="U7s1LycQ" text="Odkazuje na severskou praxi jmenování nezávislých starších, kteří radě připomínají zákony a precedenty z minulosti. Tím bývají zvýhodňováni ti, kdo mají vzdělání, aby mohli předkládat složité právní argumenty." />
-    <string id="U7sTASN4" text="{ISSUE_OWNER.LINK}, a gang leader from {QUEST_SETTLEMENT}, has told you that some bounty hunters captured some of {?ISSUE_OWNER.GENDER}her{?}his{\?} gang members and are holding them in their hideout. {?ISSUE_OWNER.GENDER}She{?}He{\?} wants them found and rescued. You agreed to send {TROOP_COUNT} of your men along with a {COMPANION.LINK} to find these bounty hunters and rescue {?ISSUE_OWNER.GENDER}her{?}his{\?} associates. They should be back in {RETURN_DAYS} days." />
+    <string id="U7sTASN4" text="{ISSUE_OWNER.LINK}, {?ISSUE_OWNER.GENDER}vůdkyně{?}vůdce{\?} gangu z {QUEST_SETTLEMENT}, ti {?ISSUE_OWNER.GENDER}řekla{?}řekl{\?}, že někteří lovci hlav zajali několik členů z {?ISSUE_OWNER.GENDER}jejího{?}jeho{?} gangu a drží je ve své skrýši. Chce je najít a osvobodit. Souhlasil jsi, že pošleš {TROOP_COUNT} svých mužů spolu s {COMPANION.LINK}, aby našli tyto lovce hlav a osvobodili {?ISSUE_OWNER.GENDER}její{?}jeho{?} společníky. Měli by se vrátit za {RETURN_DAYS} dní." />
     <string id="u7yLV7Vr" text="Když se snažíš vplížit dovnitř, jeden ze strážných tě pozná a spustí poplach! Další za tebou rychle zabouchne bránu a tobě nezbývá než se vzdát." />
     <string id="u8DJ8a2D" text="Dohodli jste se s náčelníkem, že porušíte dohodu s {QUEST_GIVER.LINK}. Tím jsi ochránil práci vesničanů a ti jsou ti teď vděční." />
     <string id="U8izV2lM" text="Paní {?ISSUE_GIVER.GENDER}{?}hospodyně{\?} hledá někoho, kdo by od ní vybral zpět nájemné, které {?ISSUE_GIVER.GENDER}její {?}hospodyně{\?} tvrdí, že jí {?ISSUE_GIVER.GENDER}dluží {?}hospodyně{\?}." />
@@ -4092,7 +4092,7 @@
     <string id="UaSddsa2" text="Mé rozhodnutí je konečné." />
     <string id="uauMia0D" text=" Postavy" />
     <string id="UAXaL9ro" text="Leadfoot {FIRSTNAME}" />
-    <string id="uaYGZUDs" text="{QUEST_GIVER.LINK}, vůdce gangu z {QUEST_GIVER_SETTLEMENT}, ti nabídl, abys prodal {STOLEN_GOODS_SIZE}. {.%}{?(STOLEN_GOODS_SIZE &gt; 1)}{PLURAL(STOLEN_GOOD)}{?}{STOLEN_GOOD}{\?}{.%} za polovinu běžné ceny, protože byly ukradeny a.. {?QUEST_GIVER.GENDER}On{?}On{\?} říká, že jsou ukryty na odlehlém místě. Souhlasil jsi, že zboží koupíš." />
+    <string id="uaYGZUDs" text="{QUEST_GIVER.LINK}, {?ISSUE_OWNER.GENDER}vůdkyně{?}vůdce{\?} gangu z {QUEST_GIVER_SETTLEMENT}, ti nabídl, abys prodal {STOLEN_GOODS_SIZE}. {.%}{?(STOLEN_GOODS_SIZE &gt; 1)}{PLURAL(STOLEN_GOOD)}{?}{STOLEN_GOOD}{\?}{.%} za polovinu běžné ceny, protože byly ukradeny a.. {?QUEST_GIVER.GENDER}On{?}On{\?} říká, že jsou ukryty na odlehlém místě. Souhlasil jsi, že zboží koupíš." />
     <string id="UB67Ye3r" text="Za každý bod dovednosti nad 250 bodů získáte {VALUE}% poškození dlouhou zbraní." />
     <string id="uBcBuDKV" text="Není to o nic horší, než kdybys za tento úkol vzal {QUEST_GIVER.NAME} stříbro na prvním místě. Promysli si to [if:convo_normal][ib:normal]" />
     <string id="uBcEUdxu" text="Vlastnictví léna by mělo zůstat tak, jak je." />
@@ -4264,7 +4264,7 @@
     <string id="vHKkVkAF" text="Bojoval jsi dobře. Můžeš volně odejít." />
     <string id="Vi5Ylvr1" text="{LORD.NAME} shromažďuje se vojsko poblíž {SETTLEMENT}" />
     <string id="vivNLdHp" text="Žoldácké spojení" />
-    <string id="VIztLFNQ" text="Musíš to probrat s naším vůdcem {LEADER.LINK}." />
+    <string id="VIztLFNQ" text="Musíš to probrat s naším {?LEADER.GENDER}vůdkyní{?}vůdcem{\?} {LEADER.LINK}." />
     <string id="VJbQNVDu" text="Nezasloužíš si mou minci. Tato smlouva je u konce." />
     <string id="VJEM0IcV" text="Probereme tedy podrobnosti." />
     <string id="VJoCtAvz" text="Složil jsem přísahu svému panovníkovi." />
@@ -4347,7 +4347,7 @@
     <string id="vYCY931w" text="Nějaké zprávy o mých mužích?" />
     <string id="vYj0z0zr" text="{VALUE}% cena vlivu na zahájení rozhodnutí o království." />
     <string id="VYmQmqIv" text="Zvažujeme mnoho nabídek. Určitě můžeš přidat své jméno na seznam." />
-    <string id="VYq93e36" text="Vůdce gangu potřebuje, abys nakoupil zbraně pro {?QUEST_GIVER.GENDER}její {?}jeho {\?}muže." />
+    <string id="VYq93e36" text="{?QUEST_GIVER.GENDER}Vůdkyně{?}Vůdce{\?} gangu potřebuje, abys nakoupil zbraně pro {?QUEST_GIVER.GENDER}její {?}jeho {\?} muže." />
     <string id="vYRbyXkz" text="Stráže už po tobě nepůjdou." />
     <string id="vZ01a4cG" text="{QUEST_GIVER.LINK} žádá, abys vyčistil úkryt, jenž přitahuje více banditů do {?QUEST_GIVER.GENDER}jejího{?}jeho{\?} kraje." />
     <string id="vz4M8SRn" text="Mám jeden konkrétní úkol, ale ten se pro žoldáka příliš nehodí, pokračujte prosím ve svých ostatních povinnostech." />
