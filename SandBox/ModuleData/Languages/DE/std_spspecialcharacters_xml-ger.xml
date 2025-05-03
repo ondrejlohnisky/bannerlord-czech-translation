@@ -96,6 +96,6 @@
     <string id="yr5pa0hs" text="{FIRSTNAME} Vrbová Kůra" />
     <string id="ZCc3VFat" text="{FIRSTNAME} {?FEMALE}Šedovlasá{?}Šedovlasý{\?}" />
     <string id="zoaTZMm7" text="{FIRSTNAME} {?FEMALE}Lovkyně{?}Lovec{\?}" />
-    <string id="zXjdb1zT" text="{FIRSTNAME} {?FEMALE}Ledovláska{?}Ledovous{\?}" />
+    <string id="zXjdb1zT" text="{FIRSTNAME} {?FEMALE}Ledobradá{?}Ledobradý{\?}" />
 </strings>
 </base>
