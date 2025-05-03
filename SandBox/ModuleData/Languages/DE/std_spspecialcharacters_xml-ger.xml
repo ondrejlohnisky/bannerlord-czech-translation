@@ -4,98 +4,98 @@
     <tag language="Deutsch" />
   </tags>
   <strings>
-    <string id="1OZBZZCi" text="{FIRSTNAME} Kanec" />
-    <string id="28tWEFNi" text="{FIRSTNAME} Tulák" />
-    <string id="2U2Hy2Su" text="{FIRSTNAME} Světlovlasý" />
-    <string id="3wzexaA7" text="{FIRSTNAME} Vlčice" />
-    <string id="4GIoPUen" text="{FIRSTNAME} Šermíř" />
-    <string id="6CAbkgS4" text="{FIRSTNAME} Vozka" />
-    <string id="7apnGFz7" text="{FIRSTNAME} Černý" />
-    <string id="7hrmlfxh" text="z legie" />
-    <string id="7lg12a57" text="{FIRSTNAME} Odvážný" />
+    <string id="1OZBZZCi" text="{FIRSTNAME} {?FEMALE}Bachyně{?}Kanec{\?}" />
+    <string id="28tWEFNi" text="{FIRSTNAME} {?FEMALE}Tulačka{?}Tulák{\?}" />
+    <string id="2U2Hy2Su" text="{FIRSTNAME} {?FEMALE}Světlovlasá{?}Světlovlasý{\?}" />
+    <string id="3wzexaA7" text="{FIRSTNAME} {?FEMALE}Vlčice{?}Vlk{\?}" />
+    <string id="4GIoPUen" text="{FIRSTNAME} {?FEMALE}Mečnice{?}Mečník{\?}" />
+    <string id="6CAbkgS4" text="{FIRSTNAME} {?FEMALE}Vozačka{?}Vozař{\?}" />
+    <string id="7apnGFz7" text="{FIRSTNAME} {?FEMALE}Černá{?}Černý{\?}" />
+    <string id="7hrmlfxh" text="z legionářů" />
+    <string id="7lg12a57" text="{FIRSTNAME} {?FEMALE}Statečná{?}Statečný{\?}" />
     <string id="8o5SDCCJ" text="{FIRSTNAME} Žralok" />
-    <string id="ACqta1a5" text="{FIRSTNAME} Inženýr" />
-    <string id="aE8abvsQ" text="{FIRSTNAME} Štastlivec" />
-    <string id="agS5lIg7" text="{FIRSTNAME} Bezdětný" />
+    <string id="ACqta1a5" text="{FIRSTNAME} {?FEMALE}Zručná{?}Zručný{\?}" />
+    <string id="aE8abvsQ" text="{FIRSTNAME} {?FEMALE}Šťastlivá{?}Šťastlivec{\?}" />
+    <string id="agS5lIg7" text="{FIRSTNAME} Sirotek" />
     <string id="akALDUs0" text="{FIRSTNAME} Dlouhý Nůž" />
-    <string id="azCSz9QH" text="Rukou" />
-    <string id="bPHbb7pc" text="Poustevník" />
-    <string id="bpw8fOs5" text="Karakhuzaitů" />
-    <string id="bvjFhiDr" text="{FIRSTNAME} Učenec" />
-    <string id="C8hwcOdF" text="Jezdecký plenitel" />
-    <string id="cP1o8eUs" text="z Jawwalu" />
-    <string id="CQOlMayc" text="{FIRSTNAME} Trhan" />
-    <string id="cud22JY1" text="{FIRSTNAME} Ránhojič" />
-    <string id="e84pvBYI" text="{FIRSTNAME} Vyděděnec" />
-    <string id="eobXmmLg" text="Společnosti" />
-    <string id="FceN76tW" text="Jezerních krys" />
-    <string id="femalethug" text="Hromotluk" />
-    <string id="fJmGKlaO" text="{FIRSTNAME} Koňokrad" />
-    <string id="G8mawcBV" text="{FIRSTNAME} Léčitel" />
-    <string id="gED0ZMhi" text="Ilay" />
-    <string id="H7eELtL6" text="Vypůjčený oddíl" />
-    <string id="hrMatilh" text="{FIRSTNAME} Kovář" />
-    <string id="IgOTjF4i" text="Ghilmana" />
-    <string id="IVnvHF8S" text="Eleftheroi" />
-    <string id="Ivx4uJVp" text="{FIRSTNAME} Tichý" />
-    <string id="j2nVPqIX" text="{FIRSTNAME} Jestřáb" />
-    <string id="J6Yksji5" text="Jezdec na koni" />
-    <string id="jepZ0btT" text="Sebevědomý soupeř" />
-    <string id="jG3duO7A" text="Vyvoleného" />
-    <string id="jKAhAoVb" text="Lesního lidu" />
-    <string id="JL8RBEu3" text="Beni Zilal" />
-    <string id="KkStFl12" text="Vlčích kůží" />
-    <string id="KnTl4ESh" text="{FIRSTNAME} Krávokrad" />
-    <string id="KphYbafC" text="Odvážný soupeř" />
-    <string id="KY2zbWkj" text="{FIRSTNAME} Rychlý" />
-    <string id="LmlL8fVu" text="{FIRSTNAME} Krvosek" />
-    <string id="mcbREzPt" text="Strážců" />
-    <string id="mtBA7sfk" text="Tvrdý soupeř" />
-    <string id="muC2SGlM" text="{FIRSTNAME} z Pustiny" />
-    <string id="N4taBJyx" text="{FIRSTNAME} Sledovač" />
-    <string id="nDtjEazo" text="{FIRSTNAME} Vichrovdech" />
-    <string id="nqE62lQW" text="{FIRSTNAME} Černozubý" />
-    <string id="NSaetzNJ" text="{FIRSTNAME} Uhlokous" />
-    <string id="ntkipfCV" text="{FIRSTNAME} Hlasitý" />
-    <string id="NWuGUi4p" text="{FIRSTNAME} Leopardice" />
-    <string id="OArAImbM" text="{FIRSTNAME} z Hor" />
+    <string id="azCSz9QH" text="z „Neviditelných“" />
+    <string id="bPHbb7pc" text="{?FEMALE}{.F}Poustevnice{.nn}{?}{.MP}Poustevník{.nn}{\?}" />
+    <string id="bpw8fOs5" text="z Karakuzaitů" />
+    <string id="bvjFhiDr" text="{FIRSTNAME} {?FEMALE}Učená{?}Učený{\?}" />
+    <string id="C8hwcOdF" text="{.MA}Jezdecký{.aj} {.MA}lupič{.nn}" />
+    <string id="cP1o8eUs" text="z kmene Džaval" />
+    <string id="CQOlMayc" text="{FIRSTNAME} {?FEMALE}Hadrová{?}Hadrový{\?}" />
+    <string id="cud22JY1" text="{FIRSTNAME} {?FEMALE}Léčitelka{?}Léčitel{\?}" />
+    <string id="e84pvBYI" text="{FIRSTNAME} {?FEMALE}Zubožená{?}Zubožený{\?}" />
+    <string id="eobXmmLg" text="ze „Společenství“" />
+    <string id="FceN76tW" text="z Jezevců od jezera" />
+    <string id="femalethug" text="{.MA}Zabiják" />
+    <string id="fJmGKlaO" text="{FIRSTNAME} {?FEMALE}Zlodějka koní{?}Zloděj koní{\?}" />
+    <string id="G8mawcBV" text="{FIRSTNAME} {?FEMALE}Kořenářka{?}Kořenář{\?}" />
+    <string id="gED0ZMhi" text="{.MA}Ilaj" />
+    <string id="H7eELtL6" text="Najatý válečník" />
+    <string id="hrMatilh" text="{FIRSTNAME} {?FEMALE}Kovářka{?}Kovář{\?}" />
+    <string id="IgOTjF4i" text="z ghulámů" />
+    <string id="IVnvHF8S" text="z Elefteriů" />
+    <string id="Ivx4uJVp" text="{FIRSTNAME} {?FEMALE}Mlčenlivá{?}Mlčenlivý{\?}" />
+    <string id="j2nVPqIX" text="{FIRSTNAME} {?FEMALE}Luňáková{?}Luňák{\?}" />
+    <string id="J6Yksji5" text="{.MA}Jezdecký{.aj} {.MA}zbojník{.nn}" />
+    <string id="jepZ0btT" text="Sebevědomý sok" />
+    <string id="jG3duO7A" text="z Vyvolených" />
+    <string id="jKAhAoVb" text="z Lesního lidu" />
+    <string id="JL8RBEu3" text="z Beni Ziljal" />
+    <string id="KkStFl12" text="z „Vlčích kůží“" />
+    <string id="KnTl4ESh" text="{FIRSTNAME} {?FEMALE}Zlodějka dobytka{?}Zloděj dobytka{\?}" />
+    <string id="KphYbafC" text="Opovážlivý sok" />
+    <string id="KY2zbWkj" text="{FIRSTNAME} {?FEMALE}Rychlá{?}Rychlý{\?}" />
+    <string id="LmlL8fVu" text="{FIRSTNAME} Krvavá Sekera" />
+    <string id="mcbREzPt" text="z Ochránců" />
+    <string id="mtBA7sfk" text="Zkušený sok" />
+    <string id="muC2SGlM" text="{FIRSTNAME} z Pustin" />
+    <string id="N4taBJyx" text="{FIRSTNAME} Stopař" />
+    <string id="nDtjEazo" text="{FIRSTNAME} Mocný Dech" />
+    <string id="nqE62lQW" text="{FIRSTNAME} {?FEMALE}Černozubá{?}Černozubý{\?}" />
+    <string id="NSaetzNJ" text="{FIRSTNAME} {?FEMALE}Uhelňačka{?}Uhelňák{\?}" />
+    <string id="ntkipfCV" text="{FIRSTNAME} {?FEMALE}Hlučná{?}Hlučný{\?}" />
+    <string id="NWuGUi4p" text="{FIRSTNAME} {?FEMALE}Leopardička{?}Leopard{\?}" />
+    <string id="OArAImbM" text="{FIRSTNAME} z Kopců" />
     <string id="OFWvD0xe" text="{FIRSTNAME} Hyena" />
-    <string id="OIXub6bS" text="{FIRSTNAME} Samožrout" />
-    <string id="oJJPZOKf" text="Vikrum" />
-    <string id="OzjuQYGH" text="ze Skolderbrody" />
-    <string id="PQkMcfAW" text="{FIRSTNAME} Vyhnanec" />
-    <string id="pTuZB1Hj" text="{FIRSTNAME} Železobřich" />
-    <string id="pZSAdyC0" text="{FIRSTNAME} Řezník" />
-    <string id="q5QjQyde" text="{FIRSTNAME} Šílený" />
-    <string id="QGcgQDqK" text="Bratrstva" />
-    <string id="Qm5cstq3" text="Ulyk" />
-    <string id="qslA0bVb" text="{FIRSTNAME} Červený" />
+    <string id="OIXub6bS" text="{FIRSTNAME} Samotář" />
+    <string id="oJJPZOKf" text="{.MA}Vikrum" />
+    <string id="OzjuQYGH" text="ze Skolderbrodů" />
+    <string id="PQkMcfAW" text="{FIRSTNAME} {?FEMALE}Vyhnankyně{?}Vyhnanec{\?}" />
+    <string id="pTuZB1Hj" text="{FIRSTNAME} {?FEMALE}Železnobřichá{?}Železnobřichý{\?}" />
+    <string id="pZSAdyC0" text="{FIRSTNAME} {?FEMALE}Řeznice{?}Řezník{\?}" />
+    <string id="q5QjQyde" text="{FIRSTNAME} {?FEMALE}Šílená{?}Šílený{\?}" />
+    <string id="QGcgQDqK" text="z Bratrstva" />
+    <string id="Qm5cstq3" text="{.MA}Ulyk" />
+    <string id="qslA0bVb" text="{FIRSTNAME} {?FEMALE}Rezavá{?}Rezavý{\?}" />
     <string id="QWbgE4bw" text="{FIRSTNAME} Železné Oko" />
-    <string id="QyQPJJ9B" text="{FIRSTNAME} Prokletý" />
-    <string id="R0NM6lfm" text="Raekel" />
-    <string id="rgdi5Sxa" text="{FIRSTNAME} Princ" />
-    <string id="rtsnnL2J" text="{FIRSTNAME} Štítonoška " />
-    <string id="S9skielR" text="Nervózní velitel karavany" />
-    <string id="S9z09NaN" text="Vypůjčený oddíl veteránů" />
-    <string id="sdzaip5J" text="{FIRSTNAME} Vědoucí" />
-    <string id="seS9ZZUW" text="{FIRSTNAME} Šedý Sokol" />
-    <string id="sk64gxdw" text="Důstojný soupeř" />
-    <string id="t9e34kgH" text="{FIRSTNAME} Zbojník" />
-    <string id="TyxXbqVw" text="{FIRSTNAME} Sokol" />
-    <string id="vmwCdada" text="Jihan" />
-    <string id="vtXRptVa" text="{FIRSTNAME} Zlatý" />
-    <string id="W7aa22Yl" text="{FIRSTNAME} Drtič Lebek" />
-    <string id="w9u2RUgm" text="{FIRSTNAME} Zatracený" />
-    <string id="WU5GnkvR" text="{FIRSTNAME} Rybák" />
-    <string id="WvwWX4me" text="{FIRSTNAME} Hrudosud" />
-    <string id="X2TtXlAq" text="Perikleje" />
-    <string id="XBJtv4mD" text="{FIRSTNAME} Kořenkář" />
-    <string id="xTQPfmS9" text="{FIRSTNAME} Býk" />
-    <string id="XuxARPTM" text="{FIRSTNAME} Hořkostok" />
-    <string id="ykTARD4b" text="{FIRSTNAME} Zavržený" />
-    <string id="yr5pa0hs" text="{FIRSTNAME} Kůrovrba" />
-    <string id="ZCc3VFat" text="{FIRSTNAME} Šedivý" />
-    <string id="zoaTZMm7" text="{FIRSTNAME} Lovkyně" />
-    <string id="zXjdb1zT" text="{FIRSTNAME} Ledovous" />
-  </strings>
+    <string id="QyQPJJ9B" text="{FIRSTNAME} {?FEMALE}Prokletá{?}Prokletý{\?}" />
+    <string id="R0NM6lfm" text="{.FA}Rakela" />
+    <string id="rgdi5Sxa" text="{FIRSTNAME} {?FEMALE}Princezna{?}Princ{\?}" />
+    <string id="rtsnnL2J" text="{FIRSTNAME} {?FEMALE}Štítonoška{?}Štítonoš{\?}" />
+    <string id="S9skielR" text="Nervózní karavanní pán" />
+    <string id="S9z09NaN" text="Vypůjčený válečník (vet.)" />
+    <string id="sdzaip5J" text="{FIRSTNAME} {?FEMALE}Znalá{?}Znalý{\?}" />
+    <string id="seS9ZZUW" text="{FIRSTNAME} {?FEMALE}Šedá Sokolačka{?}Šedý Sokol{\?}" />
+    <string id="sk64gxdw" text="Hrdý soupeř" />
+    <string id="t9e34kgH" text="{FIRSTNAME} {?FEMALE}Lupička{?}Lupič{\?}" />
+    <string id="TyxXbqVw" text="{FIRSTNAME} {?FEMALE}Sokolačka{?}Sokol{\?}" />
+    <string id="vmwCdada" text="{.MA}Džihan" />
+    <string id="vtXRptVa" text="{FIRSTNAME} {?FEMALE}Zlatá{?}Zlatý{\?}" />
+    <string id="W7aa22Yl" text="{FIRSTNAME} {?FEMALE}Drtička Lebek{?}Drtič Lebek{\?}" />
+    <string id="w9u2RUgm" text="{FIRSTNAME} {?FEMALE}Nešťastná{?}Nešťastný{\?}" />
+    <string id="WU5GnkvR" text="{FIRSTNAME} Ryba" />
+    <string id="WvwWX4me" text="{FIRSTNAME} {?FEMALE}Široprsná{?}Široprsý{\?}" />
+    <string id="X2TtXlAq" text="{.FA}Periklea" />
+    <string id="XBJtv4mD" text="{FIRSTNAME} {?FEMALE}Kořenářka{?}Kořenář{\?}" />
+    <string id="xTQPfmS9" text="{FIRSTNAME} {?FEMALE}Kráva{?}Býk{\?}" />
+    <string id="XuxARPTM" text="{FIRSTNAME} Hořinka" />
+    <string id="ykTARD4b" text="{FIRSTNAME} {?FEMALE}Vyhnankyně{?}Vyhnanec{\?}" />
+    <string id="yr5pa0hs" text="{FIRSTNAME} Vrbová Kůra" />
+    <string id="ZCc3VFat" text="{FIRSTNAME} {?FEMALE}Šedovlasá{?}Šedovlasý{\?}" />
+    <string id="zoaTZMm7" text="{FIRSTNAME} {?FEMALE}Lovkyně{?}Lovec{\?}" />
+    <string id="zXjdb1zT" text="{FIRSTNAME} {?FEMALE}Ledovláska{?}Ledovous{\?}" />
+</strings>
 </base>
